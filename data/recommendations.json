@@ -1,5 +1,5 @@
 {
-  "generated": "2026-11-16T14:19:30.619Z",
+  "generated": "2026-11-16T14:20:47.591Z",
   "horror": [
     {
       "tmdb_id": 756999,
@@ -183,6 +183,23 @@
   ],
   "animation": [
     {
+      "tmdb_id": 1155089,
+      "title": "Justice League: Crisis on Infinite Earths Part One",
+      "year": "2024",
+      "poster": "/mcRVsjMbhFstRK9z2oGRHiIvulr.jpg",
+      "genre_ids": [
+        16,
+        878,
+        28
+      ],
+      "vote": 7.22,
+      "score": 3.444,
+      "because": [
+        "Avengers: Doomsday",
+        "Spider-Man: Beyond the Spider-Verse"
+      ]
+    },
+    {
       "tmdb_id": 116711,
       "title": "Epic",
       "year": "2013",
@@ -234,6 +251,74 @@
       ]
     },
     {
+      "tmdb_id": 324857,
+      "title": "Spider-Man: Into the Spider-Verse",
+      "year": "2018",
+      "poster": "/iiZZdoQBEYBv6id8su7ImL0oCbD.jpg",
+      "genre_ids": [
+        16,
+        28,
+        12,
+        878
+      ],
+      "vote": 8.404,
+      "score": 1.8404,
+      "because": [
+        "Spider-Man: Beyond the Spider-Verse"
+      ]
+    },
+    {
+      "tmdb_id": 569094,
+      "title": "Spider-Man: Across the Spider-Verse",
+      "year": "2023",
+      "poster": "/8Vt6mWEReuy4Of61Lnj5Xj704m8.jpg",
+      "genre_ids": [
+        16,
+        28,
+        12,
+        878
+      ],
+      "vote": 8.344,
+      "score": 1.8344,
+      "because": [
+        "Spider-Man: Beyond the Spider-Verse"
+      ]
+    },
+    {
+      "tmdb_id": 354857,
+      "title": "Regular Show: The Movie",
+      "year": "2015",
+      "poster": "/p44RoW4naoE1nlSGOqqT0J2pc09.jpg",
+      "genre_ids": [
+        16,
+        35,
+        878,
+        12
+      ],
+      "vote": 7.933,
+      "score": 1.7933,
+      "because": [
+        "Ray Gunn"
+      ]
+    },
+    {
+      "tmdb_id": 142061,
+      "title": "Batman: The Dark Knight Returns, Part 2",
+      "year": "2013",
+      "poster": "/d1TqoVkyL4x0dlu9w3F9Ah4LjNv.jpg",
+      "genre_ids": [
+        878,
+        28,
+        16,
+        9648
+      ],
+      "vote": 7.919,
+      "score": 1.7919,
+      "because": [
+        "Ray Gunn"
+      ]
+    },
+    {
       "tmdb_id": 10315,
       "title": "Fantastic Mr. Fox",
       "year": "2009",
@@ -251,6 +336,23 @@
       ]
     },
     {
+      "tmdb_id": 123025,
+      "title": "Batman: The Dark Knight Returns, Part 1",
+      "year": "2012",
+      "poster": "/rVr2Tdp2LcL3DheXUrVN345Myhg.jpg",
+      "genre_ids": [
+        878,
+        28,
+        16,
+        9648
+      ],
+      "vote": 7.736,
+      "score": 1.7736,
+      "because": [
+        "Ray Gunn"
+      ]
+    },
+    {
       "tmdb_id": 152042,
       "title": "Puella Magi Madoka Magica the Movie Part I: Beginnings",
       "year": "2012",
@@ -264,6 +366,58 @@
       "score": 1.76,
       "because": [
         "Spirited Away"
+      ]
+    },
+    {
+      "tmdb_id": 14919,
+      "title": "Batman: Mask of the Phantasm",
+      "year": "1993",
+      "poster": "/hT4ehUteagUrhUOHAtmYiY7mp5l.jpg",
+      "genre_ids": [
+        16,
+        80,
+        9648
+      ],
+      "vote": 7.514,
+      "score": 1.7514,
+      "because": [
+        "Ray Gunn"
+      ]
+    },
+    {
+      "tmdb_id": 556901,
+      "title": "Teen Titans Go! vs. Teen Titans",
+      "year": "2019",
+      "poster": "/GWJEdzVC9aOBSOMF9NHodYxSsE.jpg",
+      "genre_ids": [
+        28,
+        16,
+        35,
+        10751,
+        14,
+        878
+      ],
+      "vote": 7.494,
+      "score": 1.7494,
+      "because": [
+        "Spider-Man: Beyond the Spider-Verse"
+      ]
+    },
+    {
+      "tmdb_id": 76589,
+      "title": "Justice League: Doom",
+      "year": "2012",
+      "poster": "/jmEAGjDAIZdQQNASygPsATBgKBC.jpg",
+      "genre_ids": [
+        28,
+        16,
+        878,
+        14
+      ],
+      "vote": 7.408,
+      "score": 1.7408000000000001,
+      "because": [
+        "Spider-Man: Beyond the Spider-Verse"
       ]
     },
     {
@@ -285,22 +439,6 @@
       ]
     },
     {
-      "tmdb_id": 1155089,
-      "title": "Justice League: Crisis on Infinite Earths Part One",
-      "year": "2024",
-      "poster": "/mcRVsjMbhFstRK9z2oGRHiIvulr.jpg",
-      "genre_ids": [
-        16,
-        878,
-        28
-      ],
-      "vote": 7.22,
-      "score": 1.722,
-      "because": [
-        "Avengers: Doomsday"
-      ]
-    },
-    {
       "tmdb_id": 430447,
       "title": "Mary and The Witch's Flower",
       "year": "2017",
@@ -315,6 +453,40 @@
       "score": 1.7167,
       "because": [
         "Spirited Away"
+      ]
+    },
+    {
+      "tmdb_id": 14613,
+      "title": "Next Avengers: Heroes of Tomorrow",
+      "year": "2008",
+      "poster": "/1y4J9HZJoTIMdt77wCq80uXaQJ.jpg",
+      "genre_ids": [
+        16,
+        10751,
+        28,
+        12,
+        878
+      ],
+      "vote": 7.059,
+      "score": 1.7059,
+      "because": [
+        "Spider-Man: Beyond the Spider-Verse"
+      ]
+    },
+    {
+      "tmdb_id": 618354,
+      "title": "Superman: Man of Tomorrow",
+      "year": "2020",
+      "poster": "/n9GtiJiBETVFayQy7YnVdF9AucU.jpg",
+      "genre_ids": [
+        16,
+        28,
+        878
+      ],
+      "vote": 7.039,
+      "score": 1.7039,
+      "because": [
+        "Ray Gunn"
       ]
     },
     {
@@ -347,175 +519,6 @@
       ],
       "vote": 6.973,
       "score": 1.6973,
-      "because": [
-        "Spirited Away"
-      ]
-    },
-    {
-      "tmdb_id": 10882,
-      "title": "Sleeping Beauty",
-      "year": "1959",
-      "poster": "/pO9YMLSmj3essVSWSGygjGxX6Kw.jpg",
-      "genre_ids": [
-        14,
-        16,
-        10749,
-        10751
-      ],
-      "vote": 6.942,
-      "score": 1.6942,
-      "because": [
-        "Spirited Away"
-      ]
-    },
-    {
-      "tmdb_id": 739547,
-      "title": "Thelma the Unicorn",
-      "year": "2024",
-      "poster": "/yutiEZ7taGDNau2jGjKIdDwQpDw.jpg",
-      "genre_ids": [
-        16,
-        14,
-        10751
-      ],
-      "vote": 6.9,
-      "score": 1.69,
-      "because": [
-        "Wildwood"
-      ]
-    },
-    {
-      "tmdb_id": 805051,
-      "title": "Welcome to Smelliville",
-      "year": "2021",
-      "poster": "/ArjU46Pq0TaPVhvjedZ0zfT82qM.jpg",
-      "genre_ids": [
-        16,
-        12,
-        10751,
-        14
-      ],
-      "vote": 6.7,
-      "score": 1.67,
-      "because": [
-        "Wildwood"
-      ]
-    },
-    {
-      "tmdb_id": 955644,
-      "title": "Mia and Me: The Hero of Centopia",
-      "year": "2022",
-      "poster": "/uHYoyAFffEKWRAH8cNaWI7xClj0.jpg",
-      "genre_ids": [
-        16,
-        14,
-        12,
-        10751
-      ],
-      "vote": 6.7,
-      "score": 1.67,
-      "because": [
-        "Wildwood"
-      ]
-    },
-    {
-      "tmdb_id": 10837,
-      "title": "DuckTales: The Movie - Treasure of the Lost Lamp",
-      "year": "1990",
-      "poster": "/tXya1Z9SC51kNOHsFxRqL1GIBua.jpg",
-      "genre_ids": [
-        12,
-        16,
-        10751,
-        35,
-        14
-      ],
-      "vote": 6.699,
-      "score": 1.6699,
-      "because": [
-        "Wildwood"
-      ]
-    },
-    {
-      "tmdb_id": 10539,
-      "title": "James and the Giant Peach",
-      "year": "1996",
-      "poster": "/vNEGobe23vW43mSPYVaVaBLP6qV.jpg",
-      "genre_ids": [
-        10751,
-        16,
-        12,
-        14
-      ],
-      "vote": 6.613,
-      "score": 1.6613,
-      "because": [
-        "Wildwood"
-      ]
-    },
-    {
-      "tmdb_id": 400157,
-      "title": "Wonder Park",
-      "year": "2019",
-      "poster": "/8KomINZhIuJeB4oB7k7tkq8tmE.jpg",
-      "genre_ids": [
-        35,
-        16,
-        12,
-        10751,
-        14
-      ],
-      "vote": 6.598,
-      "score": 1.6598,
-      "because": [
-        "Wildwood"
-      ]
-    },
-    {
-      "tmdb_id": 15485,
-      "title": "Disney Princess Enchanted Tales: Follow Your Dreams",
-      "year": "2007",
-      "poster": "/8HTCBnWvdkS5kcff61tcQtDqFUq.jpg",
-      "genre_ids": [
-        16,
-        10751,
-        14
-      ],
-      "vote": 6.436,
-      "score": 1.6436,
-      "because": [
-        "Spirited Away"
-      ]
-    },
-    {
-      "tmdb_id": 573683,
-      "title": "The Wonderland",
-      "year": "2019",
-      "poster": "/psWXyFQfIvcKYx1tzJaqVlHXXzH.jpg",
-      "genre_ids": [
-        16,
-        14,
-        10751
-      ],
-      "vote": 6.355,
-      "score": 1.6355,
-      "because": [
-        "Spirited Away"
-      ]
-    },
-    {
-      "tmdb_id": 202575,
-      "title": "The House of Magic",
-      "year": "2013",
-      "poster": "/3R13g2XgblynIrQGF8geFZJPNvR.jpg",
-      "genre_ids": [
-        10751,
-        14,
-        16,
-        12
-      ],
-      "vote": 6.288,
-      "score": 1.6288,
       "because": [
         "Spirited Away"
       ]
@@ -555,6 +558,22 @@
       "because": [
         "Spider-Man: Brand New Day",
         "Avengers: Doomsday"
+      ]
+    },
+    {
+      "tmdb_id": 438631,
+      "title": "Dune",
+      "year": "2021",
+      "poster": "/v1tRXZ4JtD2Iv6fjkPvT4GiwslV.jpg",
+      "genre_ids": [
+        878,
+        12
+      ],
+      "vote": 7.787,
+      "score": 3.5574,
+      "because": [
+        "Dune: Part Two",
+        "Dune: Part Three"
       ]
     },
     {
@@ -609,6 +628,23 @@
       ]
     },
     {
+      "tmdb_id": 188927,
+      "title": "Star Trek Beyond",
+      "year": "2016",
+      "poster": "/wI5VghYNYLktDRPUa5rrVcVA1h7.jpg",
+      "genre_ids": [
+        28,
+        12,
+        878
+      ],
+      "vote": 6.79,
+      "score": 3.358,
+      "because": [
+        "Dune: Part Two",
+        "Dune: Part Three"
+      ]
+    },
+    {
       "tmdb_id": 640146,
       "title": "Ant-Man and the Wasp: Quantumania",
       "year": "2023",
@@ -626,6 +662,23 @@
       ]
     },
     {
+      "tmdb_id": 262504,
+      "title": "Allegiant",
+      "year": "2016",
+      "poster": "/faq9JlF8znUGQ5p3En1W61Fi5p0.jpg",
+      "genre_ids": [
+        12,
+        878,
+        28
+      ],
+      "vote": 6.098,
+      "score": 3.2196,
+      "because": [
+        "Dune: Part Two",
+        "Dune: Part Three"
+      ]
+    },
+    {
       "tmdb_id": 141052,
       "title": "Justice League",
       "year": "2017",
@@ -640,6 +693,23 @@
       "because": [
         "Spider-Man: Brand New Day",
         "Avengers: Doomsday"
+      ]
+    },
+    {
+      "tmdb_id": 299687,
+      "title": "The 5th Wave",
+      "year": "2016",
+      "poster": "/4Dd79cz5qxKNoKWg1xsfrpOchEr.jpg",
+      "genre_ids": [
+        878,
+        12,
+        28
+      ],
+      "vote": 5.9,
+      "score": 3.18,
+      "because": [
+        "Dune: Part Two",
+        "Dune: Part Three"
       ]
     },
     {
@@ -705,21 +775,6 @@
       ]
     },
     {
-      "tmdb_id": 438631,
-      "title": "Dune",
-      "year": "2021",
-      "poster": "/v1tRXZ4JtD2Iv6fjkPvT4GiwslV.jpg",
-      "genre_ids": [
-        878,
-        12
-      ],
-      "vote": 7.787,
-      "score": 1.7787,
-      "because": [
-        "Dune: Part Two"
-      ]
-    },
-    {
       "tmdb_id": 293310,
       "title": "Citizenfour",
       "year": "2014",
@@ -766,6 +821,22 @@
       ]
     },
     {
+      "tmdb_id": 330459,
+      "title": "Rogue One: A Star Wars Story",
+      "year": "2016",
+      "poster": "/i0yw1mFbB7sNGHCs7EXZPzFkdA1.jpg",
+      "genre_ids": [
+        28,
+        12,
+        878
+      ],
+      "vote": 7.511,
+      "score": 1.7511,
+      "because": [
+        "Dune: Part Three"
+      ]
+    },
+    {
       "tmdb_id": 1895,
       "title": "Star Wars: Episode III - Revenge of the Sith",
       "year": "2005",
@@ -779,64 +850,6 @@
       "score": 1.7479,
       "because": [
         "Dune: Part Two"
-      ]
-    },
-    {
-      "tmdb_id": 604,
-      "title": "The Matrix Reloaded",
-      "year": "2003",
-      "poster": "/8xEVAe84zlL9rkfYT6dZXero4KK.jpg",
-      "genre_ids": [
-        28,
-        53,
-        878
-      ],
-      "vote": 7.087,
-      "score": 1.7086999999999999,
-      "because": [
-        "Dune: Part Two"
-      ]
-    },
-    {
-      "tmdb_id": 1061671,
-      "title": "Pamela, a love story",
-      "year": "2023",
-      "poster": "/zkVnRwZWbrd55P3Tx7BZZQ1gU89.jpg",
-      "genre_ids": [
-        99
-      ],
-      "vote": 6.998,
-      "score": 1.6998,
-      "because": [
-        "You Can See Everything"
-      ]
-    },
-    {
-      "tmdb_id": 1400780,
-      "title": "Come See Me in the Good Light",
-      "year": "2025",
-      "poster": "/5AFbcDGT78cLZTyHTSDBohczjuO.jpg",
-      "genre_ids": [
-        99
-      ],
-      "vote": 6.968,
-      "score": 1.6968,
-      "because": [
-        "You Can See Everything"
-      ]
-    },
-    {
-      "tmdb_id": 34015,
-      "title": "We Live in Public",
-      "year": "2009",
-      "poster": "/eGKZn41ckFwyfXeQS7mtfIG8u4G.jpg",
-      "genre_ids": [
-        99
-      ],
-      "vote": 6.8,
-      "score": 1.68,
-      "because": [
-        "You Can See Everything"
       ]
     }
   ]
