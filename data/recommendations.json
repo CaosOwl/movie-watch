@@ -1,1 +1,582 @@
-{ "generated": null, "horror": [], "animation": [], "general": [] }
+{
+  "generated": "2026-11-16T13:38:50.073Z",
+  "horror": [
+    {
+      "tmdb_id": 756999,
+      "title": "The Black Phone",
+      "year": "2022",
+      "poster": "/p9ZUzCyy9wRTDuuQexkQ78R2BgF.jpg",
+      "genre_ids": [
+        27,
+        53
+      ],
+      "vote": 7.5,
+      "score": 1.75,
+      "because": [
+        "The Conjuring"
+      ]
+    },
+    {
+      "tmdb_id": 423108,
+      "title": "The Conjuring: The Devil Made Me Do It",
+      "year": "2021",
+      "poster": "/xbSuFiJbbBWCkyCCKIMfuDCA4yV.jpg",
+      "genre_ids": [
+        27,
+        9648,
+        53
+      ],
+      "vote": 7.323,
+      "score": 1.7323,
+      "because": [
+        "The Conjuring"
+      ]
+    },
+    {
+      "tmdb_id": 49018,
+      "title": "Insidious",
+      "year": "2011",
+      "poster": "/tmlDFIUpGRKiuWm9Ixc6CYDk4y0.jpg",
+      "genre_ids": [
+        27,
+        53
+      ],
+      "vote": 6.959,
+      "score": 1.6959,
+      "because": [
+        "The Conjuring"
+      ]
+    },
+    {
+      "tmdb_id": 1038392,
+      "title": "The Conjuring: Last Rites",
+      "year": "2025",
+      "poster": "/umvkcIb0XAk486TEmx1V5aVzhbm.jpg",
+      "genre_ids": [
+        27
+      ],
+      "vote": 6.948,
+      "score": 1.6948,
+      "because": [
+        "The Conjuring"
+      ]
+    },
+    {
+      "tmdb_id": 91586,
+      "title": "Insidious: Chapter 2",
+      "year": "2013",
+      "poster": "/w5JjiB3O1CLDXbTJe1QpU5RHmlU.jpg",
+      "genre_ids": [
+        27,
+        53
+      ],
+      "vote": 6.712,
+      "score": 1.6712,
+      "because": [
+        "The Conjuring"
+      ]
+    },
+    {
+      "tmdb_id": 709631,
+      "title": "Cobweb",
+      "year": "2023",
+      "poster": "/cGXFosYUHYjjdKrOmA0bbjvzhKz.jpg",
+      "genre_ids": [
+        27
+      ],
+      "vote": 6.413,
+      "score": 1.6413,
+      "because": [
+        "The Conjuring"
+      ]
+    },
+    {
+      "tmdb_id": 345911,
+      "title": "Lights Out",
+      "year": "2016",
+      "poster": "/AjZXonSbqC3LdSr8xCUzMiQksrM.jpg",
+      "genre_ids": [
+        27,
+        9648
+      ],
+      "vote": 6.386,
+      "score": 1.6386,
+      "because": [
+        "The Conjuring"
+      ]
+    },
+    {
+      "tmdb_id": 18781,
+      "title": "The Haunting in Connecticut",
+      "year": "2009",
+      "poster": "/dTfL0YbTa7S59vZYmWbk6UofHkI.jpg",
+      "genre_ids": [
+        53,
+        27
+      ],
+      "vote": 6.167,
+      "score": 1.6167,
+      "because": [
+        "The Conjuring"
+      ]
+    },
+    {
+      "tmdb_id": 77883,
+      "title": "The Possession",
+      "year": "2012",
+      "poster": "/4VxIbGO5A9HRlkAPMi70zimosDY.jpg",
+      "genre_ids": [
+        27,
+        53
+      ],
+      "vote": 6.026,
+      "score": 1.6026,
+      "because": [
+        "The Conjuring"
+      ]
+    },
+    {
+      "tmdb_id": 72571,
+      "title": "Paranormal Activity 3",
+      "year": "2011",
+      "poster": "/9nYranPiWdNmbD5PRPPSL7VUFTS.jpg",
+      "genre_ids": [
+        27,
+        9648
+      ],
+      "vote": 5.926,
+      "score": 1.5926,
+      "because": [
+        "The Conjuring"
+      ]
+    },
+    {
+      "tmdb_id": 1282980,
+      "title": "825 Forest Road",
+      "year": "2025",
+      "poster": "/mxvRZxq6ACTeJYJZKsHQAhz76yF.jpg",
+      "genre_ids": [
+        27,
+        53
+      ],
+      "vote": 5.884,
+      "score": 1.5884,
+      "because": [
+        "The Conjuring"
+      ]
+    },
+    {
+      "tmdb_id": 44698,
+      "title": "The Evil",
+      "year": "1978",
+      "poster": "/LmdVqM8DrCZmcghCyPZDHLI1Xm.jpg",
+      "genre_ids": [
+        53,
+        27
+      ],
+      "vote": 5.81,
+      "score": 1.581,
+      "because": [
+        "The Conjuring"
+      ]
+    }
+  ],
+  "animation": [
+    {
+      "tmdb_id": 1358305,
+      "title": "A Tooth Fairy Tale",
+      "year": "2025",
+      "poster": "/wZDLyFkI9YtBg1lSL4G9RUtCYIg.jpg",
+      "genre_ids": [
+        16,
+        14,
+        10751
+      ],
+      "vote": 8.5,
+      "score": 1.85,
+      "because": [
+        "Spirited Away"
+      ]
+    },
+    {
+      "tmdb_id": 152042,
+      "title": "Puella Magi Madoka Magica the Movie Part I: Beginnings",
+      "year": "2012",
+      "poster": "/kJjtXLRR1mV7kEUuSnCKDEmN94G.jpg",
+      "genre_ids": [
+        53,
+        16,
+        14
+      ],
+      "vote": 7.6,
+      "score": 1.76,
+      "because": [
+        "Spirited Away"
+      ]
+    },
+    {
+      "tmdb_id": 100271,
+      "title": "A Letter to Momo",
+      "year": "2012",
+      "poster": "/uH4c5t3Wzzv41Wq9ws2Q47N1Dzo.jpg",
+      "genre_ids": [
+        35,
+        14,
+        16,
+        18,
+        10751
+      ],
+      "vote": 7.342,
+      "score": 1.7342,
+      "because": [
+        "Spirited Away"
+      ]
+    },
+    {
+      "tmdb_id": 430447,
+      "title": "Mary and The Witch's Flower",
+      "year": "2017",
+      "poster": "/lq3OJQiJ8hlCr23LAdHbeU3eqBF.jpg",
+      "genre_ids": [
+        16,
+        12,
+        10751,
+        14
+      ],
+      "vote": 7.167,
+      "score": 1.7167,
+      "because": [
+        "Spirited Away"
+      ]
+    },
+    {
+      "tmdb_id": 76492,
+      "title": "Hotel Transylvania",
+      "year": "2012",
+      "poster": "/eJGvzGrsfe2sqTUPv5IwLWXjVuR.jpg",
+      "genre_ids": [
+        16,
+        35,
+        10751,
+        14
+      ],
+      "vote": 6.973,
+      "score": 1.6973,
+      "because": [
+        "Spirited Away"
+      ]
+    },
+    {
+      "tmdb_id": 10882,
+      "title": "Sleeping Beauty",
+      "year": "1959",
+      "poster": "/pO9YMLSmj3essVSWSGygjGxX6Kw.jpg",
+      "genre_ids": [
+        14,
+        16,
+        10749,
+        10751
+      ],
+      "vote": 6.942,
+      "score": 1.6942,
+      "because": [
+        "Spirited Away"
+      ]
+    },
+    {
+      "tmdb_id": 116711,
+      "title": "Epic",
+      "year": "2013",
+      "poster": "/81cSsWzjTfR3cJSqnTiHwy1eyPK.jpg",
+      "genre_ids": [
+        16,
+        12,
+        10751,
+        14
+      ],
+      "vote": 6.571,
+      "score": 1.6571,
+      "because": [
+        "Spirited Away"
+      ]
+    },
+    {
+      "tmdb_id": 15485,
+      "title": "Disney Princess Enchanted Tales: Follow Your Dreams",
+      "year": "2007",
+      "poster": "/8HTCBnWvdkS5kcff61tcQtDqFUq.jpg",
+      "genre_ids": [
+        16,
+        10751,
+        14
+      ],
+      "vote": 6.436,
+      "score": 1.6436,
+      "because": [
+        "Spirited Away"
+      ]
+    },
+    {
+      "tmdb_id": 573683,
+      "title": "The Wonderland",
+      "year": "2019",
+      "poster": "/psWXyFQfIvcKYx1tzJaqVlHXXzH.jpg",
+      "genre_ids": [
+        16,
+        14,
+        10751
+      ],
+      "vote": 6.355,
+      "score": 1.6355,
+      "because": [
+        "Spirited Away"
+      ]
+    },
+    {
+      "tmdb_id": 202575,
+      "title": "The House of Magic",
+      "year": "2013",
+      "poster": "/3R13g2XgblynIrQGF8geFZJPNvR.jpg",
+      "genre_ids": [
+        10751,
+        14,
+        16,
+        12
+      ],
+      "vote": 6.288,
+      "score": 1.6288,
+      "because": [
+        "Spirited Away"
+      ]
+    },
+    {
+      "tmdb_id": 683127,
+      "title": "Earwig and the Witch",
+      "year": "2021",
+      "poster": "/9oK820JieICOcfUhI6mkpFrcA9m.jpg",
+      "genre_ids": [
+        16,
+        14,
+        10751,
+        10402,
+        35
+      ],
+      "vote": 5.935,
+      "score": 1.5935,
+      "because": [
+        "Spirited Away"
+      ]
+    }
+  ],
+  "general": [
+    {
+      "tmdb_id": 447365,
+      "title": "Guardians of the Galaxy Vol. 3",
+      "year": "2023",
+      "poster": "/r2J02Z2OpNTctfOSN1Ydgii51I3.jpg",
+      "genre_ids": [
+        878,
+        12,
+        28
+      ],
+      "vote": 7.93,
+      "score": 1.793,
+      "because": [
+        "Dune: Part Two"
+      ]
+    },
+    {
+      "tmdb_id": 438631,
+      "title": "Dune",
+      "year": "2021",
+      "poster": "/v1tRXZ4JtD2Iv6fjkPvT4GiwslV.jpg",
+      "genre_ids": [
+        878,
+        12
+      ],
+      "vote": 7.787,
+      "score": 1.7787,
+      "because": [
+        "Dune: Part Two"
+      ]
+    },
+    {
+      "tmdb_id": 127585,
+      "title": "X-Men: Days of Future Past",
+      "year": "2014",
+      "poster": "/tYfijzolzgoMOtegh1Y7j2Enorg.jpg",
+      "genre_ids": [
+        28,
+        12,
+        878
+      ],
+      "vote": 7.539,
+      "score": 1.7539,
+      "because": [
+        "Dune: Part Two"
+      ]
+    },
+    {
+      "tmdb_id": 1895,
+      "title": "Star Wars: Episode III - Revenge of the Sith",
+      "year": "2005",
+      "poster": "/xfSAoBEm9MNBjmlNcDYLvLSMlnq.jpg",
+      "genre_ids": [
+        12,
+        28,
+        878
+      ],
+      "vote": 7.479,
+      "score": 1.7479,
+      "because": [
+        "Dune: Part Two"
+      ]
+    },
+    {
+      "tmdb_id": 604,
+      "title": "The Matrix Reloaded",
+      "year": "2003",
+      "poster": "/8xEVAe84zlL9rkfYT6dZXero4KK.jpg",
+      "genre_ids": [
+        28,
+        53,
+        878
+      ],
+      "vote": 7.087,
+      "score": 1.7086999999999999,
+      "because": [
+        "Dune: Part Two"
+      ]
+    },
+    {
+      "tmdb_id": 188927,
+      "title": "Star Trek Beyond",
+      "year": "2016",
+      "poster": "/wI5VghYNYLktDRPUa5rrVcVA1h7.jpg",
+      "genre_ids": [
+        28,
+        12,
+        878
+      ],
+      "vote": 6.79,
+      "score": 1.679,
+      "because": [
+        "Dune: Part Two"
+      ]
+    },
+    {
+      "tmdb_id": 21481,
+      "title": "Twitches",
+      "year": "2005",
+      "poster": "/8ctDK5B0uR2gre2PxQSSkJZFmh.jpg",
+      "genre_ids": [
+        35,
+        18,
+        10751,
+        14,
+        10770
+      ],
+      "vote": 6.749,
+      "score": 1.6749,
+      "because": [
+        "Spirited Away"
+      ]
+    },
+    {
+      "tmdb_id": 412656,
+      "title": "Chaos Walking",
+      "year": "2021",
+      "poster": "/xAYGdGBGptNkisXRpmhZSry6SPF.jpg",
+      "genre_ids": [
+        14,
+        878,
+        12
+      ],
+      "vote": 6.539,
+      "score": 1.6539,
+      "because": [
+        "Dune: Part Two"
+      ]
+    },
+    {
+      "tmdb_id": 559,
+      "title": "Spider-Man 3",
+      "year": "2007",
+      "poster": "/qFmwhVUoUSXjkKRmca5yGDEXBIj.jpg",
+      "genre_ids": [
+        28,
+        12,
+        878
+      ],
+      "vote": 6.5,
+      "score": 1.65,
+      "because": [
+        "Dune: Part Two"
+      ]
+    },
+    {
+      "tmdb_id": 9543,
+      "title": "Prince of Persia: The Sands of Time",
+      "year": "2010",
+      "poster": "/siNGMLdOUNYLEGtlsnmQcpO2XZX.jpg",
+      "genre_ids": [
+        12,
+        14,
+        28
+      ],
+      "vote": 6.315,
+      "score": 1.6315,
+      "because": [
+        "Dune: Part Two"
+      ]
+    },
+    {
+      "tmdb_id": 262504,
+      "title": "Allegiant",
+      "year": "2016",
+      "poster": "/faq9JlF8znUGQ5p3En1W61Fi5p0.jpg",
+      "genre_ids": [
+        12,
+        878,
+        28
+      ],
+      "vote": 6.098,
+      "score": 1.6098,
+      "because": [
+        "Dune: Part Two"
+      ]
+    },
+    {
+      "tmdb_id": 81005,
+      "title": "Jack the Giant Slayer",
+      "year": "2013",
+      "poster": "/9jSI7saUX9Qz0JLh19jX2ulEwL7.jpg",
+      "genre_ids": [
+        14,
+        28,
+        12
+      ],
+      "vote": 5.921,
+      "score": 1.5921,
+      "because": [
+        "Dune: Part Two"
+      ]
+    },
+    {
+      "tmdb_id": 299687,
+      "title": "The 5th Wave",
+      "year": "2016",
+      "poster": "/4Dd79cz5qxKNoKWg1xsfrpOchEr.jpg",
+      "genre_ids": [
+        878,
+        12,
+        28
+      ],
+      "vote": 5.9,
+      "score": 1.59,
+      "because": [
+        "Dune: Part Two"
+      ]
+    }
+  ]
+}
