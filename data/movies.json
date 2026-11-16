@@ -1,6 +1,6 @@
 {
   "home_country": "CH",
-  "generated": "2026-11-16T14:07:34.579Z",
+  "generated": "2026-11-16T14:08:31.281Z",
   "movies": [
     {
       "imdb_id": "tt1457767",
@@ -3765,7 +3765,7 @@
           "vote": 6.413
         }
       ],
-      "updated": "2026-11-16T14:07:33.478Z"
+      "updated": "2026-11-16T14:08:29.361Z"
     },
     {
       "imdb_id": "tt0245429",
@@ -6750,7 +6750,7 @@
           "vote": 6.436
         }
       ],
-      "updated": "2026-11-16T14:07:33.760Z"
+      "updated": "2026-11-16T14:08:29.694Z"
     },
     {
       "imdb_id": "tt15239678",
@@ -11051,7 +11051,7 @@
           "vote": 5.921
         }
       ],
-      "updated": "2026-11-16T14:07:34.038Z"
+      "updated": "2026-11-16T14:08:30.033Z"
     },
     {
       "imdb_id": "tt2056785",
@@ -11772,7 +11772,3470 @@
           "vote": 7
         }
       ],
-      "updated": "2026-11-16T14:07:34.329Z"
+      "updated": "2026-11-16T14:08:30.361Z"
+    },
+    {
+      "imdb_id": "tt22084616",
+      "category": "general",
+      "added": "2026-11-16",
+      "watched": false,
+      "pending_title": "Spider-Man: Brand New Day",
+      "tmdb_id": 969681,
+      "title": "Spider-Man: Brand New Day",
+      "original_title": "Spider-Man: Brand New Day",
+      "year": "2026",
+      "release_date": "2026-07-29",
+      "status": "Released",
+      "runtime": 145,
+      "tagline": "A brand new day starts now.",
+      "overview": "Fighting crime full-time as Spider-Man in a world that doesn't remember him—and the pressure of seeing his old friends move on without him—sparks a change in Peter Parker he may not have the power to control. But that transformation might also be the only thing that can stop a shocking new threat to the city and those he loves - a powerful villain no one can even see.",
+      "genres": [
+        "Science Fiction",
+        "Action",
+        "Adventure"
+      ],
+      "genre_ids": [
+        878,
+        28,
+        12
+      ],
+      "keywords": [
+        "mind control",
+        "new york city",
+        "hero",
+        "mutation",
+        "secret identity",
+        "superhero",
+        "spider",
+        "villain",
+        "based on comic",
+        "sequel",
+        "transhumanism",
+        "super power",
+        "masked vigilante",
+        "spider web",
+        "aftercreditsstinger"
+      ],
+      "poster": "/bjiS5ipwxb9JFy3XRRN4OAilSeX.jpg",
+      "backdrop": "/4tjxYg2AbOzzG9G1YuiT2NzYhlH.jpg",
+      "directors": [
+        "Destin Daniel Cretton"
+      ],
+      "writers": [
+        "Stan Lee",
+        "Steve Ditko",
+        "Erik Sommers",
+        "Chris McKenna"
+      ],
+      "cast": [
+        {
+          "name": "Tom Holland",
+          "character": "Peter Parker / Spider-Man",
+          "photo": "/tH8bNDcjiS399DlcnC5oubxNh23.jpg"
+        },
+        {
+          "name": "Sadie Sink",
+          "character": "Jean Grey",
+          "photo": "/92FddzBfK50XOUbtwjqHPraoGHy.jpg"
+        },
+        {
+          "name": "Tramell Tillman",
+          "character": "William 'Bill' Metzger",
+          "photo": "/bEA15zMnkcXlRroYjKrFUWiiK7y.jpg"
+        },
+        {
+          "name": "Zendaya",
+          "character": "MJ",
+          "photo": "/1qup8tSt95HLbcy2c2xrx4iJNxv.jpg"
+        },
+        {
+          "name": "Jacob Batalon",
+          "character": "Ned Leeds",
+          "photo": "/53YhaL4xw4Sb1ssoHkeSSBaO29c.jpg"
+        },
+        {
+          "name": "Jon Bernthal",
+          "character": "Frank Castle / Punisher",
+          "photo": "/bjcglF1IpDcZNs1HwFxakGpzBo6.jpg"
+        },
+        {
+          "name": "Mark Ruffalo",
+          "character": "Bruce Banner / Hulk",
+          "photo": "/5GilHMOt5PAQh6rlUKZzGmaKEI7.jpg"
+        },
+        {
+          "name": "Florence Pugh",
+          "character": "Yelena Belova / Black Widow",
+          "photo": "/2URrZb95t3kY6pLroKny3Enmabp.jpg"
+        },
+        {
+          "name": "Liza Colón-Zayas",
+          "character": "Detective Jean DeWolff",
+          "photo": "/q2gHcef0wckji0AS8ZEO6cYx065.jpg"
+        },
+        {
+          "name": "Marisa Tomei",
+          "character": "May Parker",
+          "photo": "/5NCCKQooVCQD36R6JL3a1hOeBVn.jpg"
+        }
+      ],
+      "countries": [
+        "US"
+      ],
+      "languages": [
+        "English"
+      ],
+      "trailer": "https://www.youtube.com/watch?v=P3uI5sLosKU",
+      "ratings": {
+        "tmdb": {
+          "value": 8.464,
+          "votes": 6897
+        },
+        "imdb": null,
+        "metascore": null,
+        "others": []
+      },
+      "imdb_url": "https://www.imdb.com/title/tt22084616/",
+      "releases": {
+        "byCountry": {
+          "AE": [
+            {
+              "type": "Theatrical",
+              "typeId": 3,
+              "date": "2026-07-30"
+            }
+          ],
+          "AG": [
+            {
+              "type": "Theatrical",
+              "typeId": 3,
+              "date": "2026-07-30"
+            }
+          ],
+          "AL": [
+            {
+              "type": "Theatrical",
+              "typeId": 3,
+              "date": "2026-07-29"
+            }
+          ],
+          "AR": [
+            {
+              "type": "Theatrical",
+              "typeId": 3,
+              "date": "2026-07-29"
+            }
+          ],
+          "AT": [
+            {
+              "type": "Theatrical",
+              "typeId": 3,
+              "date": "2026-07-29"
+            }
+          ],
+          "AU": [
+            {
+              "type": "Theatrical",
+              "typeId": 3,
+              "date": "2026-07-30"
+            }
+          ],
+          "AW": [
+            {
+              "type": "Theatrical",
+              "typeId": 3,
+              "date": "2026-07-30"
+            }
+          ],
+          "AZ": [
+            {
+              "type": "Theatrical",
+              "typeId": 3,
+              "date": "2026-08-06"
+            }
+          ],
+          "BA": [
+            {
+              "type": "Theatrical",
+              "typeId": 3,
+              "date": "2026-07-30"
+            }
+          ],
+          "BD": [
+            {
+              "type": "Theatrical",
+              "typeId": 3,
+              "date": "2026-07-30"
+            }
+          ],
+          "BE": [
+            {
+              "type": "Theatrical",
+              "typeId": 3,
+              "date": "2026-07-29"
+            }
+          ],
+          "BG": [
+            {
+              "type": "Premiere",
+              "typeId": 1,
+              "date": "2026-07-28"
+            },
+            {
+              "type": "Theatrical",
+              "typeId": 3,
+              "date": "2026-07-31"
+            }
+          ],
+          "BH": [
+            {
+              "type": "Theatrical",
+              "typeId": 3,
+              "date": "2026-07-30"
+            }
+          ],
+          "BO": [
+            {
+              "type": "Theatrical",
+              "typeId": 3,
+              "date": "2026-07-29"
+            }
+          ],
+          "BR": [
+            {
+              "type": "Theatrical",
+              "typeId": 3,
+              "date": "2026-07-29"
+            }
+          ],
+          "CA": [
+            {
+              "type": "Theatrical",
+              "typeId": 3,
+              "date": "2026-07-31"
+            },
+            {
+              "type": "Digital",
+              "typeId": 4,
+              "date": "2026-10-06"
+            },
+            {
+              "type": "Physical",
+              "typeId": 5,
+              "date": "2026-12-15",
+              "note": "4K Ultra HD / Blu-ray / DVD"
+            }
+          ],
+          "CH": [
+            {
+              "type": "Theatrical",
+              "typeId": 3,
+              "date": "2026-07-29",
+              "note": "German, French and Italian"
+            }
+          ],
+          "CL": [
+            {
+              "type": "Theatrical",
+              "typeId": 3,
+              "date": "2026-07-30"
+            }
+          ],
+          "CN": [
+            {
+              "type": "Theatrical",
+              "typeId": 3,
+              "date": "2026-07-29"
+            },
+            {
+              "type": "Digital",
+              "typeId": 4,
+              "date": "2026-11-13"
+            }
+          ],
+          "CO": [
+            {
+              "type": "Theatrical",
+              "typeId": 3,
+              "date": "2026-07-30"
+            }
+          ],
+          "CR": [
+            {
+              "type": "Theatrical",
+              "typeId": 3,
+              "date": "2026-07-29"
+            }
+          ],
+          "CZ": [
+            {
+              "type": "Theatrical",
+              "typeId": 3,
+              "date": "2026-07-29"
+            }
+          ],
+          "DE": [
+            {
+              "type": "Theatrical",
+              "typeId": 3,
+              "date": "2026-07-29"
+            },
+            {
+              "type": "Digital",
+              "typeId": 4,
+              "date": "2026-10-06"
+            },
+            {
+              "type": "Physical",
+              "typeId": 5,
+              "date": "2026-12-17",
+              "note": "4K UHD Blu-ray & DVD"
+            }
+          ],
+          "DK": [
+            {
+              "type": "Theatrical",
+              "typeId": 3,
+              "date": "2026-07-30"
+            }
+          ],
+          "EC": [
+            {
+              "type": "Theatrical",
+              "typeId": 3,
+              "date": "2026-07-29"
+            }
+          ],
+          "EE": [
+            {
+              "type": "Theatrical",
+              "typeId": 3,
+              "date": "2026-07-31"
+            }
+          ],
+          "ES": [
+            {
+              "type": "Theatrical",
+              "typeId": 3,
+              "date": "2026-07-29"
+            }
+          ],
+          "FI": [
+            {
+              "type": "Theatrical",
+              "typeId": 3,
+              "date": "2026-07-29"
+            }
+          ],
+          "FO": [
+            {
+              "type": "Theatrical",
+              "typeId": 3,
+              "date": "2026-07-29"
+            }
+          ],
+          "FR": [
+            {
+              "type": "Theatrical",
+              "typeId": 3,
+              "date": "2026-07-29"
+            },
+            {
+              "type": "Digital",
+              "typeId": 4,
+              "date": "2026-11-26"
+            },
+            {
+              "type": "Physical",
+              "typeId": 5,
+              "date": "2026-12-02"
+            }
+          ],
+          "GB": [
+            {
+              "type": "Theatrical",
+              "typeId": 3,
+              "date": "2026-07-29"
+            },
+            {
+              "type": "Digital",
+              "typeId": 4,
+              "date": "2026-10-06"
+            },
+            {
+              "type": "Physical",
+              "typeId": 5,
+              "date": "2026-12-14",
+              "note": "4K Ultra HD / Blu-ray / DVD"
+            }
+          ],
+          "GE": [
+            {
+              "type": "Theatrical",
+              "typeId": 3,
+              "date": "2026-08-06"
+            }
+          ],
+          "GH": [
+            {
+              "type": "Theatrical",
+              "typeId": 3,
+              "date": "2026-07-29"
+            }
+          ],
+          "GP": [
+            {
+              "type": "Theatrical",
+              "typeId": 3,
+              "date": "2026-07-29"
+            }
+          ],
+          "GR": [
+            {
+              "type": "Theatrical",
+              "typeId": 3,
+              "date": "2026-07-29"
+            }
+          ],
+          "GT": [
+            {
+              "type": "Theatrical",
+              "typeId": 3,
+              "date": "2026-07-29"
+            },
+            {
+              "type": "Theatrical",
+              "typeId": 3,
+              "date": "2026-07-30"
+            }
+          ],
+          "GY": [
+            {
+              "type": "Theatrical",
+              "typeId": 3,
+              "date": "2026-07-30"
+            }
+          ],
+          "HK": [
+            {
+              "type": "Theatrical",
+              "typeId": 3,
+              "date": "2026-07-30"
+            }
+          ],
+          "HN": [
+            {
+              "type": "Theatrical",
+              "typeId": 3,
+              "date": "2026-07-29"
+            }
+          ],
+          "HR": [
+            {
+              "type": "Theatrical",
+              "typeId": 3,
+              "date": "2026-07-30"
+            }
+          ],
+          "HU": [
+            {
+              "type": "Theatrical",
+              "typeId": 3,
+              "date": "2026-07-29"
+            }
+          ],
+          "ID": [
+            {
+              "type": "Theatrical",
+              "typeId": 3,
+              "date": "2026-07-29"
+            }
+          ],
+          "IE": [
+            {
+              "type": "Theatrical",
+              "typeId": 3,
+              "date": "2026-07-29"
+            }
+          ],
+          "IL": [
+            {
+              "type": "Theatrical",
+              "typeId": 3,
+              "date": "2026-07-29"
+            },
+            {
+              "type": "Digital",
+              "typeId": 4,
+              "date": "2026-10-06",
+              "note": "iTunes / Apple TV"
+            }
+          ],
+          "IN": [
+            {
+              "type": "Theatrical",
+              "typeId": 3,
+              "date": "2026-07-30"
+            }
+          ],
+          "IQ": [
+            {
+              "type": "Theatrical",
+              "typeId": 3,
+              "date": "2026-07-30"
+            }
+          ],
+          "IS": [
+            {
+              "type": "Theatrical",
+              "typeId": 3,
+              "date": "2026-07-30"
+            }
+          ],
+          "IT": [
+            {
+              "type": "Theatrical",
+              "typeId": 3,
+              "date": "2026-07-29"
+            }
+          ],
+          "JP": [
+            {
+              "type": "Theatrical",
+              "typeId": 3,
+              "date": "2026-07-31"
+            }
+          ],
+          "KH": [
+            {
+              "type": "Theatrical",
+              "typeId": 3,
+              "date": "2026-07-30"
+            }
+          ],
+          "KN": [
+            {
+              "type": "Theatrical",
+              "typeId": 3,
+              "date": "2026-07-30"
+            }
+          ],
+          "KR": [
+            {
+              "type": "Theatrical",
+              "typeId": 3,
+              "date": "2026-07-29"
+            }
+          ],
+          "KW": [
+            {
+              "type": "Theatrical",
+              "typeId": 3,
+              "date": "2026-07-30"
+            }
+          ],
+          "KZ": [
+            {
+              "type": "Theatrical",
+              "typeId": 3,
+              "date": "2026-08-06"
+            }
+          ],
+          "LA": [
+            {
+              "type": "Theatrical",
+              "typeId": 3,
+              "date": "2026-07-29"
+            }
+          ],
+          "LB": [
+            {
+              "type": "Theatrical",
+              "typeId": 3,
+              "date": "2026-07-30"
+            }
+          ],
+          "LC": [
+            {
+              "type": "Theatrical",
+              "typeId": 3,
+              "date": "2026-07-30"
+            }
+          ],
+          "LK": [
+            {
+              "type": "Theatrical",
+              "typeId": 3,
+              "date": "2026-07-30"
+            }
+          ],
+          "LT": [
+            {
+              "type": "Theatrical",
+              "typeId": 3,
+              "date": "2026-07-31"
+            }
+          ],
+          "LU": [
+            {
+              "type": "Theatrical",
+              "typeId": 3,
+              "date": "2026-07-29"
+            }
+          ],
+          "LV": [
+            {
+              "type": "Premiere",
+              "typeId": 1,
+              "date": "2026-07-28"
+            },
+            {
+              "type": "Theatrical (limited)",
+              "typeId": 2,
+              "date": "2026-07-29"
+            },
+            {
+              "type": "Theatrical",
+              "typeId": 3,
+              "date": "2026-07-31"
+            }
+          ],
+          "MA": [
+            {
+              "type": "Theatrical",
+              "typeId": 3,
+              "date": "2026-07-29"
+            }
+          ],
+          "ME": [
+            {
+              "type": "Theatrical",
+              "typeId": 3,
+              "date": "2026-07-30"
+            }
+          ],
+          "MK": [
+            {
+              "type": "Theatrical",
+              "typeId": 3,
+              "date": "2026-07-29"
+            }
+          ],
+          "MM": [
+            {
+              "type": "Theatrical",
+              "typeId": 3,
+              "date": "2026-07-31"
+            }
+          ],
+          "MN": [
+            {
+              "type": "Theatrical",
+              "typeId": 3,
+              "date": "2026-07-31"
+            }
+          ],
+          "MO": [
+            {
+              "type": "Theatrical",
+              "typeId": 3,
+              "date": "2026-07-30"
+            }
+          ],
+          "MT": [
+            {
+              "type": "Theatrical",
+              "typeId": 3,
+              "date": "2026-07-29"
+            }
+          ],
+          "MX": [
+            {
+              "type": "Theatrical",
+              "typeId": 3,
+              "date": "2026-07-29"
+            }
+          ],
+          "MY": [
+            {
+              "type": "Theatrical",
+              "typeId": 3,
+              "date": "2026-07-30"
+            }
+          ],
+          "NI": [
+            {
+              "type": "Theatrical",
+              "typeId": 3,
+              "date": "2026-07-29"
+            }
+          ],
+          "NL": [
+            {
+              "type": "Theatrical",
+              "typeId": 3,
+              "date": "2026-07-30"
+            }
+          ],
+          "NO": [
+            {
+              "type": "Theatrical",
+              "typeId": 3,
+              "date": "2026-07-29"
+            }
+          ],
+          "NP": [
+            {
+              "type": "Theatrical",
+              "typeId": 3,
+              "date": "2026-07-30"
+            }
+          ],
+          "NZ": [
+            {
+              "type": "Theatrical",
+              "typeId": 3,
+              "date": "2026-07-30"
+            }
+          ],
+          "OM": [
+            {
+              "type": "Theatrical",
+              "typeId": 3,
+              "date": "2026-07-30"
+            }
+          ],
+          "PA": [
+            {
+              "type": "Premiere",
+              "typeId": 1,
+              "date": "2026-07-29"
+            },
+            {
+              "type": "Theatrical",
+              "typeId": 3,
+              "date": "2026-07-30"
+            }
+          ],
+          "PE": [
+            {
+              "type": "Theatrical",
+              "typeId": 3,
+              "date": "2026-07-29"
+            }
+          ],
+          "PH": [
+            {
+              "type": "Theatrical",
+              "typeId": 3,
+              "date": "2026-07-29"
+            }
+          ],
+          "PK": [
+            {
+              "type": "Theatrical",
+              "typeId": 3,
+              "date": "2026-07-31"
+            }
+          ],
+          "PL": [
+            {
+              "type": "Theatrical",
+              "typeId": 3,
+              "date": "2026-07-31"
+            }
+          ],
+          "PR": [
+            {
+              "type": "Theatrical",
+              "typeId": 3,
+              "date": "2026-07-30"
+            },
+            {
+              "type": "Digital",
+              "typeId": 4,
+              "date": "2026-10-06"
+            },
+            {
+              "type": "Physical",
+              "typeId": 5,
+              "date": "2026-12-15",
+              "note": "4K Ultra HD / Blu-ray / DVD"
+            }
+          ],
+          "QA": [
+            {
+              "type": "Theatrical",
+              "typeId": 3,
+              "date": "2026-07-30"
+            }
+          ],
+          "RO": [
+            {
+              "type": "Digital",
+              "typeId": 4,
+              "date": "2026-10-06",
+              "note": "TVOD"
+            }
+          ],
+          "SA": [
+            {
+              "type": "Theatrical",
+              "typeId": 3,
+              "date": "2026-07-30"
+            }
+          ],
+          "SE": [
+            {
+              "type": "Theatrical",
+              "typeId": 3,
+              "date": "2026-07-29"
+            }
+          ],
+          "SG": [
+            {
+              "type": "Theatrical",
+              "typeId": 3,
+              "date": "2026-07-30"
+            }
+          ],
+          "SI": [
+            {
+              "type": "Theatrical",
+              "typeId": 3,
+              "date": "2026-07-29"
+            }
+          ],
+          "SK": [
+            {
+              "type": "Theatrical",
+              "typeId": 3,
+              "date": "2026-07-30"
+            }
+          ],
+          "SN": [
+            {
+              "type": "Theatrical",
+              "typeId": 3,
+              "date": "2026-07-31"
+            }
+          ],
+          "TH": [
+            {
+              "type": "Theatrical",
+              "typeId": 3,
+              "date": "2026-07-30"
+            },
+            {
+              "type": "Digital",
+              "typeId": 4,
+              "date": "2026-11-26",
+              "note": "Netflix"
+            }
+          ],
+          "TJ": [
+            {
+              "type": "Theatrical",
+              "typeId": 3,
+              "date": "2026-08-06"
+            }
+          ],
+          "TN": [
+            {
+              "type": "Theatrical",
+              "typeId": 3,
+              "date": "2026-07-31"
+            }
+          ],
+          "TR": [
+            {
+              "type": "Theatrical",
+              "typeId": 3,
+              "date": "2026-07-31"
+            }
+          ],
+          "TT": [
+            {
+              "type": "Theatrical",
+              "typeId": 3,
+              "date": "2026-07-30"
+            }
+          ],
+          "TW": [
+            {
+              "type": "Theatrical",
+              "typeId": 3,
+              "date": "2026-07-29"
+            }
+          ],
+          "UA": [
+            {
+              "type": "Theatrical",
+              "typeId": 3,
+              "date": "2026-07-29"
+            }
+          ],
+          "US": [
+            {
+              "type": "Premiere",
+              "typeId": 1,
+              "date": "2026-07-27",
+              "note": "Los Angeles, California"
+            },
+            {
+              "type": "Theatrical",
+              "typeId": 3,
+              "date": "2026-07-31"
+            },
+            {
+              "type": "Theatrical (limited)",
+              "typeId": 2,
+              "date": "2026-08-06",
+              "note": "IMAX"
+            },
+            {
+              "type": "Digital",
+              "typeId": 4,
+              "date": "2026-10-06"
+            },
+            {
+              "type": "Theatrical (limited)",
+              "typeId": 2,
+              "date": "2026-12-04",
+              "note": "Spider-Man: (Brand New) Brand New Day"
+            },
+            {
+              "type": "Physical",
+              "typeId": 5,
+              "date": "2026-12-15",
+              "note": "4K Ultra HD / Blu-ray / DVD"
+            }
+          ],
+          "UY": [
+            {
+              "type": "Theatrical",
+              "typeId": 3,
+              "date": "2026-07-29"
+            }
+          ],
+          "UZ": [
+            {
+              "type": "Theatrical",
+              "typeId": 3,
+              "date": "2026-08-06"
+            }
+          ],
+          "VE": [
+            {
+              "type": "Theatrical",
+              "typeId": 3,
+              "date": "2026-07-29"
+            }
+          ],
+          "VI": [
+            {
+              "type": "Digital",
+              "typeId": 4,
+              "date": "2026-10-06"
+            },
+            {
+              "type": "Physical",
+              "typeId": 5,
+              "date": "2026-12-15",
+              "note": "4K Ultra HD / Blu-ray / DVD"
+            }
+          ],
+          "VN": [
+            {
+              "type": "Theatrical",
+              "typeId": 3,
+              "date": "2026-07-31"
+            }
+          ],
+          "XK": [
+            {
+              "type": "Theatrical",
+              "typeId": 3,
+              "date": "2026-07-29"
+            }
+          ],
+          "ZA": [
+            {
+              "type": "Theatrical",
+              "typeId": 3,
+              "date": "2026-07-31"
+            }
+          ]
+        },
+        "earliestDigital": {
+          "country": "CA",
+          "type": "Digital",
+          "typeId": 4,
+          "date": "2026-10-06"
+        }
+      },
+      "availability": {
+        "AR": {
+          "link": "https://www.themoviedb.org/movie/969681-spider-man-brand-new-day/watch?locale=AR",
+          "rent": [
+            {
+              "name": "Apple TV Store",
+              "logo": "/qdEGArH3lKfFnAtYXMkSYk5wxuG.png"
+            },
+            {
+              "name": "Amazon Video",
+              "logo": "/jn6TLbtaTZntTRX9UYucHJvpQx1.png"
+            }
+          ],
+          "buy": [
+            {
+              "name": "Apple TV Store",
+              "logo": "/qdEGArH3lKfFnAtYXMkSYk5wxuG.png"
+            },
+            {
+              "name": "Amazon Video",
+              "logo": "/jn6TLbtaTZntTRX9UYucHJvpQx1.png"
+            }
+          ]
+        },
+        "AT": {
+          "link": "https://www.themoviedb.org/movie/969681-spider-man-brand-new-day/watch?locale=AT",
+          "rent": [
+            {
+              "name": "Amazon Video",
+              "logo": "/jn6TLbtaTZntTRX9UYucHJvpQx1.png"
+            },
+            {
+              "name": "Apple TV Store",
+              "logo": "/qdEGArH3lKfFnAtYXMkSYk5wxuG.png"
+            },
+            {
+              "name": "Magenta TV",
+              "logo": "/dSa84VG4VTMh2drouWvgucRsLYV.png"
+            },
+            {
+              "name": "Rakuten TV",
+              "logo": "/872dfVu1biZISJ8rO143CZZutPR.png"
+            },
+            {
+              "name": "maxdome Store",
+              "logo": "/mjB4eyswPoC0XeJPUd1W1oitOlh.png"
+            },
+            {
+              "name": "Sky Store",
+              "logo": "/nNkZ1JKe6vNhzti14KiKEUWHE6H.png"
+            }
+          ],
+          "buy": [
+            {
+              "name": "Amazon Video",
+              "logo": "/jn6TLbtaTZntTRX9UYucHJvpQx1.png"
+            },
+            {
+              "name": "Apple TV Store",
+              "logo": "/qdEGArH3lKfFnAtYXMkSYk5wxuG.png"
+            },
+            {
+              "name": "Rakuten TV",
+              "logo": "/872dfVu1biZISJ8rO143CZZutPR.png"
+            },
+            {
+              "name": "maxdome Store",
+              "logo": "/mjB4eyswPoC0XeJPUd1W1oitOlh.png"
+            },
+            {
+              "name": "Sky Store",
+              "logo": "/nNkZ1JKe6vNhzti14KiKEUWHE6H.png"
+            }
+          ]
+        },
+        "AU": {
+          "link": "https://www.themoviedb.org/movie/969681-spider-man-brand-new-day/watch?locale=AU",
+          "rent": [
+            {
+              "name": "JustWatch TV Store",
+              "logo": "/aaFIYn2NGPCo0rpLiWokbvNqNJd.png"
+            },
+            {
+              "name": "Apple TV Store",
+              "logo": "/qdEGArH3lKfFnAtYXMkSYk5wxuG.png"
+            },
+            {
+              "name": "Amazon Video",
+              "logo": "/jn6TLbtaTZntTRX9UYucHJvpQx1.png"
+            }
+          ],
+          "buy": [
+            {
+              "name": "Apple TV Store",
+              "logo": "/qdEGArH3lKfFnAtYXMkSYk5wxuG.png"
+            },
+            {
+              "name": "Amazon Video",
+              "logo": "/jn6TLbtaTZntTRX9UYucHJvpQx1.png"
+            }
+          ]
+        },
+        "BE": {
+          "link": "https://www.themoviedb.org/movie/969681-spider-man-brand-new-day/watch?locale=BE",
+          "rent": [
+            {
+              "name": "Apple TV Store",
+              "logo": "/qdEGArH3lKfFnAtYXMkSYk5wxuG.png"
+            },
+            {
+              "name": "Rakuten TV",
+              "logo": "/872dfVu1biZISJ8rO143CZZutPR.png"
+            },
+            {
+              "name": "Amazon Video",
+              "logo": "/jn6TLbtaTZntTRX9UYucHJvpQx1.png"
+            }
+          ],
+          "buy": [
+            {
+              "name": "Apple TV Store",
+              "logo": "/qdEGArH3lKfFnAtYXMkSYk5wxuG.png"
+            },
+            {
+              "name": "Rakuten TV",
+              "logo": "/872dfVu1biZISJ8rO143CZZutPR.png"
+            },
+            {
+              "name": "Amazon Video",
+              "logo": "/jn6TLbtaTZntTRX9UYucHJvpQx1.png"
+            }
+          ]
+        },
+        "BG": {
+          "link": "https://www.themoviedb.org/movie/969681-spider-man-brand-new-day/watch?locale=BG",
+          "rent": [
+            {
+              "name": "Amazon Video",
+              "logo": "/jn6TLbtaTZntTRX9UYucHJvpQx1.png"
+            }
+          ],
+          "buy": [
+            {
+              "name": "Amazon Video",
+              "logo": "/jn6TLbtaTZntTRX9UYucHJvpQx1.png"
+            }
+          ]
+        },
+        "BO": {
+          "link": "https://www.themoviedb.org/movie/969681-spider-man-brand-new-day/watch?locale=BO",
+          "rent": [
+            {
+              "name": "Apple TV Store",
+              "logo": "/qdEGArH3lKfFnAtYXMkSYk5wxuG.png"
+            }
+          ],
+          "buy": [
+            {
+              "name": "Apple TV Store",
+              "logo": "/qdEGArH3lKfFnAtYXMkSYk5wxuG.png"
+            }
+          ]
+        },
+        "BR": {
+          "link": "https://www.themoviedb.org/movie/969681-spider-man-brand-new-day/watch?locale=BR",
+          "flatrate": [
+            {
+              "name": "Claro tv+",
+              "logo": "/olzQMHt2SX7iNy8WDMR299hVFcL.png"
+            }
+          ],
+          "rent": [
+            {
+              "name": "Apple TV Store",
+              "logo": "/qdEGArH3lKfFnAtYXMkSYk5wxuG.png"
+            },
+            {
+              "name": "Amazon Video",
+              "logo": "/jn6TLbtaTZntTRX9UYucHJvpQx1.png"
+            }
+          ],
+          "buy": [
+            {
+              "name": "Apple TV Store",
+              "logo": "/qdEGArH3lKfFnAtYXMkSYk5wxuG.png"
+            },
+            {
+              "name": "Amazon Video",
+              "logo": "/jn6TLbtaTZntTRX9UYucHJvpQx1.png"
+            }
+          ]
+        },
+        "CA": {
+          "link": "https://www.themoviedb.org/movie/969681-spider-man-brand-new-day/watch?locale=CA",
+          "rent": [
+            {
+              "name": "CosmoGo",
+              "logo": "/fyUUKmDdzpJjSwsXPN4Rpi7jTu5.png"
+            }
+          ],
+          "buy": [
+            {
+              "name": "Apple TV Store",
+              "logo": "/qdEGArH3lKfFnAtYXMkSYk5wxuG.png"
+            },
+            {
+              "name": "CosmoGo",
+              "logo": "/fyUUKmDdzpJjSwsXPN4Rpi7jTu5.png"
+            },
+            {
+              "name": "Amazon Video",
+              "logo": "/jn6TLbtaTZntTRX9UYucHJvpQx1.png"
+            }
+          ]
+        },
+        "CH": {
+          "link": "https://www.themoviedb.org/movie/969681-spider-man-brand-new-day/watch?locale=CH",
+          "rent": [
+            {
+              "name": "blue TV",
+              "logo": "/omviag2i66PzB1VqDc48pbwTC8Z.png"
+            },
+            {
+              "name": "Apple TV Store",
+              "logo": "/qdEGArH3lKfFnAtYXMkSYk5wxuG.png"
+            },
+            {
+              "name": "Rakuten TV",
+              "logo": "/872dfVu1biZISJ8rO143CZZutPR.png"
+            },
+            {
+              "name": "Sky Store",
+              "logo": "/nNkZ1JKe6vNhzti14KiKEUWHE6H.png"
+            },
+            {
+              "name": "Sunrise TV",
+              "logo": "/6HNkQXm3969mV7RG1GrQb7ZMtSx.png"
+            },
+            {
+              "name": "Amazon Video",
+              "logo": "/jn6TLbtaTZntTRX9UYucHJvpQx1.png"
+            }
+          ],
+          "buy": [
+            {
+              "name": "blue TV",
+              "logo": "/omviag2i66PzB1VqDc48pbwTC8Z.png"
+            },
+            {
+              "name": "Apple TV Store",
+              "logo": "/qdEGArH3lKfFnAtYXMkSYk5wxuG.png"
+            },
+            {
+              "name": "Rakuten TV",
+              "logo": "/872dfVu1biZISJ8rO143CZZutPR.png"
+            },
+            {
+              "name": "Sky Store",
+              "logo": "/nNkZ1JKe6vNhzti14KiKEUWHE6H.png"
+            },
+            {
+              "name": "Amazon Video",
+              "logo": "/jn6TLbtaTZntTRX9UYucHJvpQx1.png"
+            }
+          ]
+        },
+        "CL": {
+          "link": "https://www.themoviedb.org/movie/969681-spider-man-brand-new-day/watch?locale=CL",
+          "rent": [
+            {
+              "name": "Apple TV Store",
+              "logo": "/qdEGArH3lKfFnAtYXMkSYk5wxuG.png"
+            },
+            {
+              "name": "Amazon Video",
+              "logo": "/jn6TLbtaTZntTRX9UYucHJvpQx1.png"
+            }
+          ],
+          "buy": [
+            {
+              "name": "Apple TV Store",
+              "logo": "/qdEGArH3lKfFnAtYXMkSYk5wxuG.png"
+            },
+            {
+              "name": "Amazon Video",
+              "logo": "/jn6TLbtaTZntTRX9UYucHJvpQx1.png"
+            }
+          ]
+        },
+        "CO": {
+          "link": "https://www.themoviedb.org/movie/969681-spider-man-brand-new-day/watch?locale=CO",
+          "rent": [
+            {
+              "name": "Apple TV Store",
+              "logo": "/qdEGArH3lKfFnAtYXMkSYk5wxuG.png"
+            },
+            {
+              "name": "Amazon Video",
+              "logo": "/jn6TLbtaTZntTRX9UYucHJvpQx1.png"
+            }
+          ],
+          "buy": [
+            {
+              "name": "Apple TV Store",
+              "logo": "/qdEGArH3lKfFnAtYXMkSYk5wxuG.png"
+            },
+            {
+              "name": "Amazon Video",
+              "logo": "/jn6TLbtaTZntTRX9UYucHJvpQx1.png"
+            }
+          ]
+        },
+        "CR": {
+          "link": "https://www.themoviedb.org/movie/969681-spider-man-brand-new-day/watch?locale=CR",
+          "rent": [
+            {
+              "name": "Apple TV Store",
+              "logo": "/qdEGArH3lKfFnAtYXMkSYk5wxuG.png"
+            }
+          ],
+          "buy": [
+            {
+              "name": "Apple TV Store",
+              "logo": "/qdEGArH3lKfFnAtYXMkSYk5wxuG.png"
+            }
+          ]
+        },
+        "CV": {
+          "link": "https://www.themoviedb.org/movie/969681-spider-man-brand-new-day/watch?locale=CV",
+          "rent": [
+            {
+              "name": "Apple TV Store",
+              "logo": "/qdEGArH3lKfFnAtYXMkSYk5wxuG.png"
+            }
+          ],
+          "buy": [
+            {
+              "name": "Apple TV Store",
+              "logo": "/qdEGArH3lKfFnAtYXMkSYk5wxuG.png"
+            }
+          ]
+        },
+        "CZ": {
+          "link": "https://www.themoviedb.org/movie/969681-spider-man-brand-new-day/watch?locale=CZ",
+          "rent": [
+            {
+              "name": "Apple TV Store",
+              "logo": "/qdEGArH3lKfFnAtYXMkSYk5wxuG.png"
+            },
+            {
+              "name": "Rakuten TV",
+              "logo": "/872dfVu1biZISJ8rO143CZZutPR.png"
+            },
+            {
+              "name": "Amazon Video",
+              "logo": "/jn6TLbtaTZntTRX9UYucHJvpQx1.png"
+            }
+          ],
+          "buy": [
+            {
+              "name": "Apple TV Store",
+              "logo": "/qdEGArH3lKfFnAtYXMkSYk5wxuG.png"
+            },
+            {
+              "name": "Rakuten TV",
+              "logo": "/872dfVu1biZISJ8rO143CZZutPR.png"
+            },
+            {
+              "name": "Amazon Video",
+              "logo": "/jn6TLbtaTZntTRX9UYucHJvpQx1.png"
+            }
+          ]
+        },
+        "DE": {
+          "link": "https://www.themoviedb.org/movie/969681-spider-man-brand-new-day/watch?locale=DE",
+          "rent": [
+            {
+              "name": "Apple TV Store",
+              "logo": "/qdEGArH3lKfFnAtYXMkSYk5wxuG.png"
+            },
+            {
+              "name": "Amazon Video",
+              "logo": "/jn6TLbtaTZntTRX9UYucHJvpQx1.png"
+            },
+            {
+              "name": "MagentaTV",
+              "logo": "/f1uWfExJA6DSAvuTL0YJ9Kyftfg.png"
+            },
+            {
+              "name": "maxdome Store",
+              "logo": "/mjB4eyswPoC0XeJPUd1W1oitOlh.png"
+            },
+            {
+              "name": "Sky Store",
+              "logo": "/nNkZ1JKe6vNhzti14KiKEUWHE6H.png"
+            },
+            {
+              "name": "Rakuten TV",
+              "logo": "/872dfVu1biZISJ8rO143CZZutPR.png"
+            },
+            {
+              "name": "Videoload",
+              "logo": "/kWgg0b4wHDr4pwSyOXVK8nAsNKB.png"
+            }
+          ],
+          "buy": [
+            {
+              "name": "Apple TV Store",
+              "logo": "/qdEGArH3lKfFnAtYXMkSYk5wxuG.png"
+            },
+            {
+              "name": "Amazon Video",
+              "logo": "/jn6TLbtaTZntTRX9UYucHJvpQx1.png"
+            },
+            {
+              "name": "MagentaTV",
+              "logo": "/f1uWfExJA6DSAvuTL0YJ9Kyftfg.png"
+            },
+            {
+              "name": "maxdome Store",
+              "logo": "/mjB4eyswPoC0XeJPUd1W1oitOlh.png"
+            },
+            {
+              "name": "Sky Store",
+              "logo": "/nNkZ1JKe6vNhzti14KiKEUWHE6H.png"
+            },
+            {
+              "name": "Rakuten TV",
+              "logo": "/872dfVu1biZISJ8rO143CZZutPR.png"
+            },
+            {
+              "name": "Videoload",
+              "logo": "/kWgg0b4wHDr4pwSyOXVK8nAsNKB.png"
+            }
+          ]
+        },
+        "DK": {
+          "link": "https://www.themoviedb.org/movie/969681-spider-man-brand-new-day/watch?locale=DK",
+          "rent": [
+            {
+              "name": "Amazon Video",
+              "logo": "/jn6TLbtaTZntTRX9UYucHJvpQx1.png"
+            }
+          ],
+          "buy": [
+            {
+              "name": "Viaplay",
+              "logo": "/c1J9PGGowXwW5AxAaZaGipeFu7U.png"
+            },
+            {
+              "name": "Apple TV Store",
+              "logo": "/qdEGArH3lKfFnAtYXMkSYk5wxuG.png"
+            },
+            {
+              "name": "Rakuten TV",
+              "logo": "/872dfVu1biZISJ8rO143CZZutPR.png"
+            },
+            {
+              "name": "SF Anytime",
+              "logo": "/fVuqy8kmzsULoJjc3ROOcurRH7S.png"
+            }
+          ]
+        },
+        "EC": {
+          "link": "https://www.themoviedb.org/movie/969681-spider-man-brand-new-day/watch?locale=EC",
+          "rent": [
+            {
+              "name": "Apple TV Store",
+              "logo": "/qdEGArH3lKfFnAtYXMkSYk5wxuG.png"
+            }
+          ],
+          "buy": [
+            {
+              "name": "Apple TV Store",
+              "logo": "/qdEGArH3lKfFnAtYXMkSYk5wxuG.png"
+            }
+          ]
+        },
+        "EE": {
+          "link": "https://www.themoviedb.org/movie/969681-spider-man-brand-new-day/watch?locale=EE",
+          "rent": [
+            {
+              "name": "Apple TV Store",
+              "logo": "/qdEGArH3lKfFnAtYXMkSYk5wxuG.png"
+            },
+            {
+              "name": "Go3",
+              "logo": "/bWrdc66M5z0FJgznkdRdPueU2S.png"
+            },
+            {
+              "name": "Amazon Video",
+              "logo": "/jn6TLbtaTZntTRX9UYucHJvpQx1.png"
+            }
+          ],
+          "buy": [
+            {
+              "name": "Apple TV Store",
+              "logo": "/qdEGArH3lKfFnAtYXMkSYk5wxuG.png"
+            },
+            {
+              "name": "Amazon Video",
+              "logo": "/jn6TLbtaTZntTRX9UYucHJvpQx1.png"
+            }
+          ]
+        },
+        "EG": {
+          "link": "https://www.themoviedb.org/movie/969681-spider-man-brand-new-day/watch?locale=EG",
+          "rent": [
+            {
+              "name": "Apple TV Store",
+              "logo": "/qdEGArH3lKfFnAtYXMkSYk5wxuG.png"
+            }
+          ],
+          "buy": [
+            {
+              "name": "Apple TV Store",
+              "logo": "/qdEGArH3lKfFnAtYXMkSYk5wxuG.png"
+            }
+          ]
+        },
+        "ES": {
+          "link": "https://www.themoviedb.org/movie/969681-spider-man-brand-new-day/watch?locale=ES",
+          "rent": [
+            {
+              "name": "Apple TV Store",
+              "logo": "/qdEGArH3lKfFnAtYXMkSYk5wxuG.png"
+            },
+            {
+              "name": "Movistar Plus+ Ficción Total ",
+              "logo": "/7OEtlOKTmjTXh40eHUES11Oc1i7.png"
+            },
+            {
+              "name": "Rakuten TV",
+              "logo": "/872dfVu1biZISJ8rO143CZZutPR.png"
+            },
+            {
+              "name": "Amazon Video",
+              "logo": "/jn6TLbtaTZntTRX9UYucHJvpQx1.png"
+            }
+          ],
+          "buy": [
+            {
+              "name": "Apple TV Store",
+              "logo": "/qdEGArH3lKfFnAtYXMkSYk5wxuG.png"
+            },
+            {
+              "name": "Rakuten TV",
+              "logo": "/872dfVu1biZISJ8rO143CZZutPR.png"
+            }
+          ]
+        },
+        "FI": {
+          "link": "https://www.themoviedb.org/movie/969681-spider-man-brand-new-day/watch?locale=FI",
+          "rent": [
+            {
+              "name": "Amazon Video",
+              "logo": "/jn6TLbtaTZntTRX9UYucHJvpQx1.png"
+            }
+          ],
+          "buy": [
+            {
+              "name": "Apple TV Store",
+              "logo": "/qdEGArH3lKfFnAtYXMkSYk5wxuG.png"
+            },
+            {
+              "name": "Rakuten TV",
+              "logo": "/872dfVu1biZISJ8rO143CZZutPR.png"
+            },
+            {
+              "name": "SF Anytime",
+              "logo": "/fVuqy8kmzsULoJjc3ROOcurRH7S.png"
+            },
+            {
+              "name": "Viaplay",
+              "logo": "/c1J9PGGowXwW5AxAaZaGipeFu7U.png"
+            }
+          ]
+        },
+        "GB": {
+          "link": "https://www.themoviedb.org/movie/969681-spider-man-brand-new-day/watch?locale=GB",
+          "rent": [
+            {
+              "name": "Apple TV Store",
+              "logo": "/qdEGArH3lKfFnAtYXMkSYk5wxuG.png"
+            },
+            {
+              "name": "Rakuten TV",
+              "logo": "/872dfVu1biZISJ8rO143CZZutPR.png"
+            },
+            {
+              "name": "Amazon Video",
+              "logo": "/jn6TLbtaTZntTRX9UYucHJvpQx1.png"
+            },
+            {
+              "name": "Sky Store",
+              "logo": "/nNkZ1JKe6vNhzti14KiKEUWHE6H.png"
+            }
+          ],
+          "buy": [
+            {
+              "name": "Apple TV Store",
+              "logo": "/qdEGArH3lKfFnAtYXMkSYk5wxuG.png"
+            },
+            {
+              "name": "Rakuten TV",
+              "logo": "/872dfVu1biZISJ8rO143CZZutPR.png"
+            },
+            {
+              "name": "Sky Store",
+              "logo": "/nNkZ1JKe6vNhzti14KiKEUWHE6H.png"
+            }
+          ]
+        },
+        "GG": {
+          "link": "https://www.themoviedb.org/movie/969681-spider-man-brand-new-day/watch?locale=GG",
+          "rent": [
+            {
+              "name": "Amazon Video",
+              "logo": "/jn6TLbtaTZntTRX9UYucHJvpQx1.png"
+            }
+          ],
+          "buy": [
+            {
+              "name": "Amazon Video",
+              "logo": "/jn6TLbtaTZntTRX9UYucHJvpQx1.png"
+            }
+          ]
+        },
+        "GH": {
+          "link": "https://www.themoviedb.org/movie/969681-spider-man-brand-new-day/watch?locale=GH",
+          "rent": [
+            {
+              "name": "Apple TV Store",
+              "logo": "/qdEGArH3lKfFnAtYXMkSYk5wxuG.png"
+            }
+          ],
+          "buy": [
+            {
+              "name": "Apple TV Store",
+              "logo": "/qdEGArH3lKfFnAtYXMkSYk5wxuG.png"
+            }
+          ]
+        },
+        "GR": {
+          "link": "https://www.themoviedb.org/movie/969681-spider-man-brand-new-day/watch?locale=GR",
+          "rent": [
+            {
+              "name": "Apple TV Store",
+              "logo": "/qdEGArH3lKfFnAtYXMkSYk5wxuG.png"
+            },
+            {
+              "name": "Amazon Video",
+              "logo": "/jn6TLbtaTZntTRX9UYucHJvpQx1.png"
+            }
+          ],
+          "buy": [
+            {
+              "name": "Apple TV Store",
+              "logo": "/qdEGArH3lKfFnAtYXMkSYk5wxuG.png"
+            },
+            {
+              "name": "Amazon Video",
+              "logo": "/jn6TLbtaTZntTRX9UYucHJvpQx1.png"
+            }
+          ]
+        },
+        "GT": {
+          "link": "https://www.themoviedb.org/movie/969681-spider-man-brand-new-day/watch?locale=GT",
+          "rent": [
+            {
+              "name": "Apple TV Store",
+              "logo": "/qdEGArH3lKfFnAtYXMkSYk5wxuG.png"
+            }
+          ],
+          "buy": [
+            {
+              "name": "Apple TV Store",
+              "logo": "/qdEGArH3lKfFnAtYXMkSYk5wxuG.png"
+            }
+          ]
+        },
+        "HK": {
+          "link": "https://www.themoviedb.org/movie/969681-spider-man-brand-new-day/watch?locale=HK",
+          "rent": [
+            {
+              "name": "Apple TV Store",
+              "logo": "/qdEGArH3lKfFnAtYXMkSYk5wxuG.png"
+            }
+          ],
+          "buy": [
+            {
+              "name": "Apple TV Store",
+              "logo": "/qdEGArH3lKfFnAtYXMkSYk5wxuG.png"
+            }
+          ]
+        },
+        "HN": {
+          "link": "https://www.themoviedb.org/movie/969681-spider-man-brand-new-day/watch?locale=HN",
+          "rent": [
+            {
+              "name": "Apple TV Store",
+              "logo": "/qdEGArH3lKfFnAtYXMkSYk5wxuG.png"
+            }
+          ],
+          "buy": [
+            {
+              "name": "Apple TV Store",
+              "logo": "/qdEGArH3lKfFnAtYXMkSYk5wxuG.png"
+            }
+          ]
+        },
+        "HR": {
+          "link": "https://www.themoviedb.org/movie/969681-spider-man-brand-new-day/watch?locale=HR",
+          "buy": [
+            {
+              "name": "Amazon Video",
+              "logo": "/jn6TLbtaTZntTRX9UYucHJvpQx1.png"
+            }
+          ]
+        },
+        "HU": {
+          "link": "https://www.themoviedb.org/movie/969681-spider-man-brand-new-day/watch?locale=HU",
+          "rent": [
+            {
+              "name": "Apple TV Store",
+              "logo": "/qdEGArH3lKfFnAtYXMkSYk5wxuG.png"
+            },
+            {
+              "name": "Rakuten TV",
+              "logo": "/872dfVu1biZISJ8rO143CZZutPR.png"
+            },
+            {
+              "name": "Amazon Video",
+              "logo": "/jn6TLbtaTZntTRX9UYucHJvpQx1.png"
+            }
+          ],
+          "buy": [
+            {
+              "name": "Apple TV Store",
+              "logo": "/qdEGArH3lKfFnAtYXMkSYk5wxuG.png"
+            },
+            {
+              "name": "Rakuten TV",
+              "logo": "/872dfVu1biZISJ8rO143CZZutPR.png"
+            },
+            {
+              "name": "Amazon Video",
+              "logo": "/jn6TLbtaTZntTRX9UYucHJvpQx1.png"
+            }
+          ]
+        },
+        "ID": {
+          "link": "https://www.themoviedb.org/movie/969681-spider-man-brand-new-day/watch?locale=ID",
+          "flatrate": [
+            {
+              "name": "Catchplay",
+              "logo": "/bonc3GQiIbZVG9WyNYEYAI9mqFy.png"
+            }
+          ],
+          "rent": [
+            {
+              "name": "Apple TV Store",
+              "logo": "/qdEGArH3lKfFnAtYXMkSYk5wxuG.png"
+            },
+            {
+              "name": "Catchplay",
+              "logo": "/bonc3GQiIbZVG9WyNYEYAI9mqFy.png"
+            },
+            {
+              "name": "Amazon Video",
+              "logo": "/jn6TLbtaTZntTRX9UYucHJvpQx1.png"
+            }
+          ],
+          "buy": [
+            {
+              "name": "Apple TV Store",
+              "logo": "/qdEGArH3lKfFnAtYXMkSYk5wxuG.png"
+            },
+            {
+              "name": "Amazon Video",
+              "logo": "/jn6TLbtaTZntTRX9UYucHJvpQx1.png"
+            }
+          ]
+        },
+        "IE": {
+          "link": "https://www.themoviedb.org/movie/969681-spider-man-brand-new-day/watch?locale=IE",
+          "rent": [
+            {
+              "name": "Apple TV Store",
+              "logo": "/qdEGArH3lKfFnAtYXMkSYk5wxuG.png"
+            },
+            {
+              "name": "Sky Store",
+              "logo": "/nNkZ1JKe6vNhzti14KiKEUWHE6H.png"
+            },
+            {
+              "name": "Rakuten TV",
+              "logo": "/872dfVu1biZISJ8rO143CZZutPR.png"
+            },
+            {
+              "name": "Amazon Video",
+              "logo": "/jn6TLbtaTZntTRX9UYucHJvpQx1.png"
+            }
+          ],
+          "buy": [
+            {
+              "name": "Apple TV Store",
+              "logo": "/qdEGArH3lKfFnAtYXMkSYk5wxuG.png"
+            },
+            {
+              "name": "Sky Store",
+              "logo": "/nNkZ1JKe6vNhzti14KiKEUWHE6H.png"
+            },
+            {
+              "name": "Rakuten TV",
+              "logo": "/872dfVu1biZISJ8rO143CZZutPR.png"
+            }
+          ]
+        },
+        "IL": {
+          "link": "https://www.themoviedb.org/movie/969681-spider-man-brand-new-day/watch?locale=IL",
+          "rent": [
+            {
+              "name": "Apple TV Store",
+              "logo": "/qdEGArH3lKfFnAtYXMkSYk5wxuG.png"
+            }
+          ],
+          "buy": [
+            {
+              "name": "Apple TV Store",
+              "logo": "/qdEGArH3lKfFnAtYXMkSYk5wxuG.png"
+            }
+          ]
+        },
+        "IN": {
+          "link": "https://www.themoviedb.org/movie/969681-spider-man-brand-new-day/watch?locale=IN",
+          "rent": [
+            {
+              "name": "Apple TV Store",
+              "logo": "/qdEGArH3lKfFnAtYXMkSYk5wxuG.png"
+            },
+            {
+              "name": "Zee5",
+              "logo": "/uQvhdtB8skccsGHmvKi3y5bqBsX.png"
+            },
+            {
+              "name": "Amazon Video",
+              "logo": "/jn6TLbtaTZntTRX9UYucHJvpQx1.png"
+            }
+          ],
+          "buy": [
+            {
+              "name": "Apple TV Store",
+              "logo": "/qdEGArH3lKfFnAtYXMkSYk5wxuG.png"
+            }
+          ]
+        },
+        "IS": {
+          "link": "https://www.themoviedb.org/movie/969681-spider-man-brand-new-day/watch?locale=IS",
+          "rent": [
+            {
+              "name": "Amazon Video",
+              "logo": "/jn6TLbtaTZntTRX9UYucHJvpQx1.png"
+            }
+          ],
+          "buy": [
+            {
+              "name": "Viaplay",
+              "logo": "/c1J9PGGowXwW5AxAaZaGipeFu7U.png"
+            }
+          ]
+        },
+        "IT": {
+          "link": "https://www.themoviedb.org/movie/969681-spider-man-brand-new-day/watch?locale=IT",
+          "rent": [
+            {
+              "name": "Apple TV Store",
+              "logo": "/qdEGArH3lKfFnAtYXMkSYk5wxuG.png"
+            },
+            {
+              "name": "Rakuten TV",
+              "logo": "/872dfVu1biZISJ8rO143CZZutPR.png"
+            },
+            {
+              "name": "Amazon Video",
+              "logo": "/jn6TLbtaTZntTRX9UYucHJvpQx1.png"
+            }
+          ],
+          "buy": [
+            {
+              "name": "Apple TV Store",
+              "logo": "/qdEGArH3lKfFnAtYXMkSYk5wxuG.png"
+            },
+            {
+              "name": "Rakuten TV",
+              "logo": "/872dfVu1biZISJ8rO143CZZutPR.png"
+            },
+            {
+              "name": "Amazon Video",
+              "logo": "/jn6TLbtaTZntTRX9UYucHJvpQx1.png"
+            }
+          ]
+        },
+        "JP": {
+          "link": "https://www.themoviedb.org/movie/969681-spider-man-brand-new-day/watch?locale=JP",
+          "rent": [
+            {
+              "name": "U-NEXT",
+              "logo": "/3DGpCh83CR9lDzyKbNWlmUBexBF.png"
+            },
+            {
+              "name": "Amazon Video",
+              "logo": "/jn6TLbtaTZntTRX9UYucHJvpQx1.png"
+            },
+            {
+              "name": "Apple TV Store",
+              "logo": "/qdEGArH3lKfFnAtYXMkSYk5wxuG.png"
+            },
+            {
+              "name": "FOD",
+              "logo": "/m0tkTiV5TN7NWfazDEYc8NoVXSd.png"
+            }
+          ],
+          "buy": [
+            {
+              "name": "Amazon Video",
+              "logo": "/jn6TLbtaTZntTRX9UYucHJvpQx1.png"
+            },
+            {
+              "name": "Apple TV Store",
+              "logo": "/qdEGArH3lKfFnAtYXMkSYk5wxuG.png"
+            }
+          ]
+        },
+        "LT": {
+          "link": "https://www.themoviedb.org/movie/969681-spider-man-brand-new-day/watch?locale=LT",
+          "rent": [
+            {
+              "name": "Apple TV Store",
+              "logo": "/qdEGArH3lKfFnAtYXMkSYk5wxuG.png"
+            },
+            {
+              "name": "Amazon Video",
+              "logo": "/jn6TLbtaTZntTRX9UYucHJvpQx1.png"
+            }
+          ],
+          "buy": [
+            {
+              "name": "Apple TV Store",
+              "logo": "/qdEGArH3lKfFnAtYXMkSYk5wxuG.png"
+            },
+            {
+              "name": "Amazon Video",
+              "logo": "/jn6TLbtaTZntTRX9UYucHJvpQx1.png"
+            }
+          ]
+        },
+        "LU": {
+          "link": "https://www.themoviedb.org/movie/969681-spider-man-brand-new-day/watch?locale=LU",
+          "rent": [
+            {
+              "name": "Rakuten TV",
+              "logo": "/872dfVu1biZISJ8rO143CZZutPR.png"
+            }
+          ],
+          "buy": [
+            {
+              "name": "Rakuten TV",
+              "logo": "/872dfVu1biZISJ8rO143CZZutPR.png"
+            }
+          ]
+        },
+        "LV": {
+          "link": "https://www.themoviedb.org/movie/969681-spider-man-brand-new-day/watch?locale=LV",
+          "rent": [
+            {
+              "name": "Apple TV Store",
+              "logo": "/qdEGArH3lKfFnAtYXMkSYk5wxuG.png"
+            },
+            {
+              "name": "Amazon Video",
+              "logo": "/jn6TLbtaTZntTRX9UYucHJvpQx1.png"
+            }
+          ],
+          "buy": [
+            {
+              "name": "Apple TV Store",
+              "logo": "/qdEGArH3lKfFnAtYXMkSYk5wxuG.png"
+            },
+            {
+              "name": "Amazon Video",
+              "logo": "/jn6TLbtaTZntTRX9UYucHJvpQx1.png"
+            }
+          ]
+        },
+        "MU": {
+          "link": "https://www.themoviedb.org/movie/969681-spider-man-brand-new-day/watch?locale=MU",
+          "rent": [
+            {
+              "name": "Apple TV Store",
+              "logo": "/qdEGArH3lKfFnAtYXMkSYk5wxuG.png"
+            }
+          ],
+          "buy": [
+            {
+              "name": "Apple TV Store",
+              "logo": "/qdEGArH3lKfFnAtYXMkSYk5wxuG.png"
+            }
+          ]
+        },
+        "MX": {
+          "link": "https://www.themoviedb.org/movie/969681-spider-man-brand-new-day/watch?locale=MX",
+          "rent": [
+            {
+              "name": "Apple TV Store",
+              "logo": "/qdEGArH3lKfFnAtYXMkSYk5wxuG.png"
+            },
+            {
+              "name": "Amazon Video",
+              "logo": "/jn6TLbtaTZntTRX9UYucHJvpQx1.png"
+            }
+          ],
+          "buy": [
+            {
+              "name": "Apple TV Store",
+              "logo": "/qdEGArH3lKfFnAtYXMkSYk5wxuG.png"
+            },
+            {
+              "name": "Amazon Video",
+              "logo": "/jn6TLbtaTZntTRX9UYucHJvpQx1.png"
+            }
+          ]
+        },
+        "MY": {
+          "link": "https://www.themoviedb.org/movie/969681-spider-man-brand-new-day/watch?locale=MY",
+          "rent": [
+            {
+              "name": "Apple TV Store",
+              "logo": "/qdEGArH3lKfFnAtYXMkSYk5wxuG.png"
+            },
+            {
+              "name": "Amazon Video",
+              "logo": "/jn6TLbtaTZntTRX9UYucHJvpQx1.png"
+            }
+          ],
+          "buy": [
+            {
+              "name": "Apple TV Store",
+              "logo": "/qdEGArH3lKfFnAtYXMkSYk5wxuG.png"
+            },
+            {
+              "name": "Amazon Video",
+              "logo": "/jn6TLbtaTZntTRX9UYucHJvpQx1.png"
+            }
+          ]
+        },
+        "MZ": {
+          "link": "https://www.themoviedb.org/movie/969681-spider-man-brand-new-day/watch?locale=MZ",
+          "rent": [
+            {
+              "name": "Apple TV Store",
+              "logo": "/qdEGArH3lKfFnAtYXMkSYk5wxuG.png"
+            }
+          ],
+          "buy": [
+            {
+              "name": "Apple TV Store",
+              "logo": "/qdEGArH3lKfFnAtYXMkSYk5wxuG.png"
+            }
+          ]
+        },
+        "NL": {
+          "link": "https://www.themoviedb.org/movie/969681-spider-man-brand-new-day/watch?locale=NL",
+          "rent": [
+            {
+              "name": "Pathé Thuis",
+              "logo": "/oB7QrPnusUtIpKr8k0YQ12INLeP.png"
+            },
+            {
+              "name": "Apple TV Store",
+              "logo": "/qdEGArH3lKfFnAtYXMkSYk5wxuG.png"
+            },
+            {
+              "name": "Rakuten TV",
+              "logo": "/872dfVu1biZISJ8rO143CZZutPR.png"
+            },
+            {
+              "name": "Amazon Video",
+              "logo": "/jn6TLbtaTZntTRX9UYucHJvpQx1.png"
+            },
+            {
+              "name": "meJane",
+              "logo": "/sLa7ctMpAoKdxIS72mHl7xuhONL.png"
+            }
+          ],
+          "buy": [
+            {
+              "name": "Pathé Thuis",
+              "logo": "/oB7QrPnusUtIpKr8k0YQ12INLeP.png"
+            },
+            {
+              "name": "Apple TV Store",
+              "logo": "/qdEGArH3lKfFnAtYXMkSYk5wxuG.png"
+            },
+            {
+              "name": "Rakuten TV",
+              "logo": "/872dfVu1biZISJ8rO143CZZutPR.png"
+            },
+            {
+              "name": "Amazon Video",
+              "logo": "/jn6TLbtaTZntTRX9UYucHJvpQx1.png"
+            },
+            {
+              "name": "meJane",
+              "logo": "/sLa7ctMpAoKdxIS72mHl7xuhONL.png"
+            }
+          ]
+        },
+        "NO": {
+          "link": "https://www.themoviedb.org/movie/969681-spider-man-brand-new-day/watch?locale=NO",
+          "rent": [
+            {
+              "name": "Amazon Video",
+              "logo": "/jn6TLbtaTZntTRX9UYucHJvpQx1.png"
+            }
+          ],
+          "buy": [
+            {
+              "name": "Viaplay",
+              "logo": "/c1J9PGGowXwW5AxAaZaGipeFu7U.png"
+            },
+            {
+              "name": "Apple TV Store",
+              "logo": "/qdEGArH3lKfFnAtYXMkSYk5wxuG.png"
+            },
+            {
+              "name": "Rakuten TV",
+              "logo": "/872dfVu1biZISJ8rO143CZZutPR.png"
+            },
+            {
+              "name": "SF Anytime",
+              "logo": "/fVuqy8kmzsULoJjc3ROOcurRH7S.png"
+            },
+            {
+              "name": "TV 2 Play",
+              "logo": "/m502wSLGwHL9WUK38NeAbwrBk6P.png"
+            }
+          ]
+        },
+        "NZ": {
+          "link": "https://www.themoviedb.org/movie/969681-spider-man-brand-new-day/watch?locale=NZ",
+          "rent": [
+            {
+              "name": "Neon TV",
+              "logo": "/68KYULhVkHI6TVrmPSE0LlPXB1U.png"
+            },
+            {
+              "name": "Apple TV Store",
+              "logo": "/qdEGArH3lKfFnAtYXMkSYk5wxuG.png"
+            },
+            {
+              "name": "JustWatch TV Store",
+              "logo": "/aaFIYn2NGPCo0rpLiWokbvNqNJd.png"
+            },
+            {
+              "name": "Amazon Video",
+              "logo": "/jn6TLbtaTZntTRX9UYucHJvpQx1.png"
+            }
+          ],
+          "buy": [
+            {
+              "name": "Apple TV Store",
+              "logo": "/qdEGArH3lKfFnAtYXMkSYk5wxuG.png"
+            },
+            {
+              "name": "Amazon Video",
+              "logo": "/jn6TLbtaTZntTRX9UYucHJvpQx1.png"
+            }
+          ]
+        },
+        "PE": {
+          "link": "https://www.themoviedb.org/movie/969681-spider-man-brand-new-day/watch?locale=PE",
+          "rent": [
+            {
+              "name": "Apple TV Store",
+              "logo": "/qdEGArH3lKfFnAtYXMkSYk5wxuG.png"
+            },
+            {
+              "name": "Amazon Video",
+              "logo": "/jn6TLbtaTZntTRX9UYucHJvpQx1.png"
+            }
+          ],
+          "buy": [
+            {
+              "name": "Apple TV Store",
+              "logo": "/qdEGArH3lKfFnAtYXMkSYk5wxuG.png"
+            },
+            {
+              "name": "Amazon Video",
+              "logo": "/jn6TLbtaTZntTRX9UYucHJvpQx1.png"
+            }
+          ]
+        },
+        "PH": {
+          "link": "https://www.themoviedb.org/movie/969681-spider-man-brand-new-day/watch?locale=PH",
+          "rent": [
+            {
+              "name": "Apple TV Store",
+              "logo": "/qdEGArH3lKfFnAtYXMkSYk5wxuG.png"
+            },
+            {
+              "name": "Amazon Video",
+              "logo": "/jn6TLbtaTZntTRX9UYucHJvpQx1.png"
+            }
+          ],
+          "buy": [
+            {
+              "name": "Apple TV Store",
+              "logo": "/qdEGArH3lKfFnAtYXMkSYk5wxuG.png"
+            },
+            {
+              "name": "Amazon Video",
+              "logo": "/jn6TLbtaTZntTRX9UYucHJvpQx1.png"
+            }
+          ]
+        },
+        "PL": {
+          "link": "https://www.themoviedb.org/movie/969681-spider-man-brand-new-day/watch?locale=PL",
+          "flatrate": [
+            {
+              "name": "Polsat Box Go",
+              "logo": "/en9BC8BR1Sm0lNdKhHkw5hWqvSH.png"
+            }
+          ],
+          "rent": [
+            {
+              "name": "Apple TV Store",
+              "logo": "/qdEGArH3lKfFnAtYXMkSYk5wxuG.png"
+            },
+            {
+              "name": "Player",
+              "logo": "/8mtdz2Y3NW5NfiSZiBFhngFSy3S.png"
+            },
+            {
+              "name": "Amazon Video",
+              "logo": "/jn6TLbtaTZntTRX9UYucHJvpQx1.png"
+            },
+            {
+              "name": "Premiery Canal+",
+              "logo": "/kxOtmlmiegOd6Mp766dYdp2Ois3.png"
+            },
+            {
+              "name": "Rakuten TV",
+              "logo": "/872dfVu1biZISJ8rO143CZZutPR.png"
+            },
+            {
+              "name": "Pilot WP",
+              "logo": "/1VxmGpd4KF1m74zYo4CXQEqk3Q2.png"
+            }
+          ],
+          "buy": [
+            {
+              "name": "Apple TV Store",
+              "logo": "/qdEGArH3lKfFnAtYXMkSYk5wxuG.png"
+            },
+            {
+              "name": "Amazon Video",
+              "logo": "/jn6TLbtaTZntTRX9UYucHJvpQx1.png"
+            },
+            {
+              "name": "Rakuten TV",
+              "logo": "/872dfVu1biZISJ8rO143CZZutPR.png"
+            },
+            {
+              "name": "Pilot WP",
+              "logo": "/1VxmGpd4KF1m74zYo4CXQEqk3Q2.png"
+            }
+          ]
+        },
+        "PT": {
+          "link": "https://www.themoviedb.org/movie/969681-spider-man-brand-new-day/watch?locale=PT",
+          "rent": [
+            {
+              "name": "Apple TV Store",
+              "logo": "/qdEGArH3lKfFnAtYXMkSYk5wxuG.png"
+            },
+            {
+              "name": "Rakuten TV",
+              "logo": "/872dfVu1biZISJ8rO143CZZutPR.png"
+            },
+            {
+              "name": "Amazon Video",
+              "logo": "/jn6TLbtaTZntTRX9UYucHJvpQx1.png"
+            }
+          ],
+          "buy": [
+            {
+              "name": "Apple TV Store",
+              "logo": "/qdEGArH3lKfFnAtYXMkSYk5wxuG.png"
+            },
+            {
+              "name": "Rakuten TV",
+              "logo": "/872dfVu1biZISJ8rO143CZZutPR.png"
+            },
+            {
+              "name": "Amazon Video",
+              "logo": "/jn6TLbtaTZntTRX9UYucHJvpQx1.png"
+            }
+          ]
+        },
+        "PY": {
+          "link": "https://www.themoviedb.org/movie/969681-spider-man-brand-new-day/watch?locale=PY",
+          "rent": [
+            {
+              "name": "Apple TV Store",
+              "logo": "/qdEGArH3lKfFnAtYXMkSYk5wxuG.png"
+            }
+          ],
+          "buy": [
+            {
+              "name": "Apple TV Store",
+              "logo": "/qdEGArH3lKfFnAtYXMkSYk5wxuG.png"
+            }
+          ]
+        },
+        "RO": {
+          "link": "https://www.themoviedb.org/movie/969681-spider-man-brand-new-day/watch?locale=RO",
+          "rent": [
+            {
+              "name": "Rakuten TV",
+              "logo": "/872dfVu1biZISJ8rO143CZZutPR.png"
+            },
+            {
+              "name": "Amazon Video",
+              "logo": "/jn6TLbtaTZntTRX9UYucHJvpQx1.png"
+            }
+          ],
+          "buy": [
+            {
+              "name": "Rakuten TV",
+              "logo": "/872dfVu1biZISJ8rO143CZZutPR.png"
+            },
+            {
+              "name": "Amazon Video",
+              "logo": "/jn6TLbtaTZntTRX9UYucHJvpQx1.png"
+            }
+          ]
+        },
+        "SE": {
+          "link": "https://www.themoviedb.org/movie/969681-spider-man-brand-new-day/watch?locale=SE",
+          "rent": [
+            {
+              "name": "Amazon Video",
+              "logo": "/jn6TLbtaTZntTRX9UYucHJvpQx1.png"
+            }
+          ],
+          "buy": [
+            {
+              "name": "Apple TV Store",
+              "logo": "/qdEGArH3lKfFnAtYXMkSYk5wxuG.png"
+            },
+            {
+              "name": "Viaplay",
+              "logo": "/c1J9PGGowXwW5AxAaZaGipeFu7U.png"
+            },
+            {
+              "name": "Rakuten TV",
+              "logo": "/872dfVu1biZISJ8rO143CZZutPR.png"
+            },
+            {
+              "name": "SF Anytime",
+              "logo": "/fVuqy8kmzsULoJjc3ROOcurRH7S.png"
+            }
+          ]
+        },
+        "SG": {
+          "link": "https://www.themoviedb.org/movie/969681-spider-man-brand-new-day/watch?locale=SG",
+          "rent": [
+            {
+              "name": "Apple TV Store",
+              "logo": "/qdEGArH3lKfFnAtYXMkSYk5wxuG.png"
+            }
+          ],
+          "buy": [
+            {
+              "name": "Apple TV Store",
+              "logo": "/qdEGArH3lKfFnAtYXMkSYk5wxuG.png"
+            }
+          ]
+        },
+        "SI": {
+          "link": "https://www.themoviedb.org/movie/969681-spider-man-brand-new-day/watch?locale=SI",
+          "buy": [
+            {
+              "name": "Apple TV Store",
+              "logo": "/qdEGArH3lKfFnAtYXMkSYk5wxuG.png"
+            }
+          ]
+        },
+        "SK": {
+          "link": "https://www.themoviedb.org/movie/969681-spider-man-brand-new-day/watch?locale=SK",
+          "buy": [
+            {
+              "name": "Apple TV Store",
+              "logo": "/qdEGArH3lKfFnAtYXMkSYk5wxuG.png"
+            },
+            {
+              "name": "Amazon Video",
+              "logo": "/jn6TLbtaTZntTRX9UYucHJvpQx1.png"
+            }
+          ]
+        },
+        "TH": {
+          "link": "https://www.themoviedb.org/movie/969681-spider-man-brand-new-day/watch?locale=TH",
+          "rent": [
+            {
+              "name": "Apple TV Store",
+              "logo": "/qdEGArH3lKfFnAtYXMkSYk5wxuG.png"
+            },
+            {
+              "name": "Amazon Video",
+              "logo": "/jn6TLbtaTZntTRX9UYucHJvpQx1.png"
+            }
+          ],
+          "buy": [
+            {
+              "name": "Apple TV Store",
+              "logo": "/qdEGArH3lKfFnAtYXMkSYk5wxuG.png"
+            },
+            {
+              "name": "Amazon Video",
+              "logo": "/jn6TLbtaTZntTRX9UYucHJvpQx1.png"
+            }
+          ]
+        },
+        "TW": {
+          "link": "https://www.themoviedb.org/movie/969681-spider-man-brand-new-day/watch?locale=TW",
+          "flatrate": [
+            {
+              "name": "Catchplay",
+              "logo": "/bonc3GQiIbZVG9WyNYEYAI9mqFy.png"
+            }
+          ],
+          "rent": [
+            {
+              "name": "Apple TV Store",
+              "logo": "/qdEGArH3lKfFnAtYXMkSYk5wxuG.png"
+            },
+            {
+              "name": "Catchplay",
+              "logo": "/bonc3GQiIbZVG9WyNYEYAI9mqFy.png"
+            }
+          ],
+          "buy": [
+            {
+              "name": "Apple TV Store",
+              "logo": "/qdEGArH3lKfFnAtYXMkSYk5wxuG.png"
+            }
+          ]
+        },
+        "UA": {
+          "link": "https://www.themoviedb.org/movie/969681-spider-man-brand-new-day/watch?locale=UA",
+          "rent": [
+            {
+              "name": "Rakuten TV",
+              "logo": "/872dfVu1biZISJ8rO143CZZutPR.png"
+            }
+          ],
+          "buy": [
+            {
+              "name": "Rakuten TV",
+              "logo": "/872dfVu1biZISJ8rO143CZZutPR.png"
+            }
+          ]
+        },
+        "UG": {
+          "link": "https://www.themoviedb.org/movie/969681-spider-man-brand-new-day/watch?locale=UG",
+          "rent": [
+            {
+              "name": "Apple TV Store",
+              "logo": "/qdEGArH3lKfFnAtYXMkSYk5wxuG.png"
+            }
+          ],
+          "buy": [
+            {
+              "name": "Apple TV Store",
+              "logo": "/qdEGArH3lKfFnAtYXMkSYk5wxuG.png"
+            }
+          ]
+        },
+        "US": {
+          "link": "https://www.themoviedb.org/movie/969681-spider-man-brand-new-day/watch?locale=US",
+          "rent": [
+            {
+              "name": "Google Play Movies",
+              "logo": "/aZRENwYILujqs0RVOZutTh0BVGV.png"
+            },
+            {
+              "name": "YouTube",
+              "logo": "/5Maob4o5w8oZnNeYpCDyVFD3M7X.png"
+            }
+          ],
+          "buy": [
+            {
+              "name": "Amazon Video",
+              "logo": "/jn6TLbtaTZntTRX9UYucHJvpQx1.png"
+            },
+            {
+              "name": "Apple TV Store",
+              "logo": "/qdEGArH3lKfFnAtYXMkSYk5wxuG.png"
+            },
+            {
+              "name": "Google Play Movies",
+              "logo": "/aZRENwYILujqs0RVOZutTh0BVGV.png"
+            },
+            {
+              "name": "YouTube",
+              "logo": "/5Maob4o5w8oZnNeYpCDyVFD3M7X.png"
+            },
+            {
+              "name": "Fandango At Home",
+              "logo": "/wpOt6x0dRxTrIzuBosto4LGd7E9.png"
+            }
+          ]
+        },
+        "VE": {
+          "link": "https://www.themoviedb.org/movie/969681-spider-man-brand-new-day/watch?locale=VE",
+          "rent": [
+            {
+              "name": "Apple TV Store",
+              "logo": "/qdEGArH3lKfFnAtYXMkSYk5wxuG.png"
+            }
+          ],
+          "buy": [
+            {
+              "name": "Apple TV Store",
+              "logo": "/qdEGArH3lKfFnAtYXMkSYk5wxuG.png"
+            }
+          ]
+        },
+        "ZA": {
+          "link": "https://www.themoviedb.org/movie/969681-spider-man-brand-new-day/watch?locale=ZA",
+          "rent": [
+            {
+              "name": "Apple TV Store",
+              "logo": "/qdEGArH3lKfFnAtYXMkSYk5wxuG.png"
+            }
+          ],
+          "buy": [
+            {
+              "name": "Apple TV Store",
+              "logo": "/qdEGArH3lKfFnAtYXMkSYk5wxuG.png"
+            }
+          ]
+        }
+      },
+      "recommendations": [
+        {
+          "tmdb_id": 634649,
+          "title": "Spider-Man: No Way Home",
+          "year": "2021",
+          "poster": "/1g0dhYtq4irTY1GPXvft6k4YLjm.jpg",
+          "genre_ids": [
+            28,
+            12,
+            878
+          ],
+          "vote": 7.945
+        },
+        {
+          "tmdb_id": 102382,
+          "title": "The Amazing Spider-Man 2",
+          "year": "2014",
+          "poster": "/bU7nTmvmy0h3VUP01v1T2imgH6N.jpg",
+          "genre_ids": [
+            28,
+            12,
+            878
+          ],
+          "vote": 6.6
+        },
+        {
+          "tmdb_id": 640146,
+          "title": "Ant-Man and the Wasp: Quantumania",
+          "year": "2023",
+          "poster": "/qnqGbB22YJ7dSs4o6M7exTpNxPz.jpg",
+          "genre_ids": [
+            28,
+            12,
+            878
+          ],
+          "vote": 6.194
+        },
+        {
+          "tmdb_id": 271110,
+          "title": "Captain America: Civil War",
+          "year": "2016",
+          "poster": "/rAGiXaUfPzY7CDEyNKUofk3Kw2e.jpg",
+          "genre_ids": [
+            12,
+            28,
+            878
+          ],
+          "vote": 7.455
+        },
+        {
+          "tmdb_id": 298618,
+          "title": "The Flash",
+          "year": "2023",
+          "poster": "/rktDFPbfHfUbArZ6OOOKsXcv0Bm.jpg",
+          "genre_ids": [
+            28,
+            878,
+            12
+          ],
+          "vote": 6.589
+        },
+        {
+          "tmdb_id": 447365,
+          "title": "Guardians of the Galaxy Vol. 3",
+          "year": "2023",
+          "poster": "/r2J02Z2OpNTctfOSN1Ydgii51I3.jpg",
+          "genre_ids": [
+            878,
+            12,
+            28
+          ],
+          "vote": 7.93
+        },
+        {
+          "tmdb_id": 100402,
+          "title": "Captain America: The Winter Soldier",
+          "year": "2014",
+          "poster": "/tVFRpFw3xTedgPGqxW0AOI8Qhh0.jpg",
+          "genre_ids": [
+            28,
+            12,
+            878
+          ],
+          "vote": 7.652
+        },
+        {
+          "tmdb_id": 283995,
+          "title": "Guardians of the Galaxy Vol. 2",
+          "year": "2017",
+          "poster": "/y4MBh0EjBlMuOzv9axM4qJlmhzz.jpg",
+          "genre_ids": [
+            878,
+            12,
+            28
+          ],
+          "vote": 7.607
+        },
+        {
+          "tmdb_id": 141052,
+          "title": "Justice League",
+          "year": "2017",
+          "poster": "/eifGNCSDuxJeS1loAXil5bIGgvC.jpg",
+          "genre_ids": [
+            28,
+            12,
+            878
+          ],
+          "vote": 6.062
+        },
+        {
+          "tmdb_id": 10138,
+          "title": "Iron Man 2",
+          "year": "2010",
+          "poster": "/6WBeq4fCfn7AN0o21W9qNcRF2l9.jpg",
+          "genre_ids": [
+            12,
+            28,
+            878
+          ],
+          "vote": 6.856
+        },
+        {
+          "tmdb_id": 24428,
+          "title": "The Avengers",
+          "year": "2012",
+          "poster": "/RYMX2wcKCBAr24UyPD7xwmjaTn.jpg",
+          "genre_ids": [
+            878,
+            28,
+            12
+          ],
+          "vote": 8.085
+        },
+        {
+          "tmdb_id": 246655,
+          "title": "X-Men: Apocalypse",
+          "year": "2016",
+          "poster": "/ikA8UhYdTGpqbatFa93nIf6noSr.jpg",
+          "genre_ids": [
+            878,
+            14,
+            28
+          ],
+          "vote": 6.529
+        }
+      ],
+      "updated": "2026-11-16T14:08:30.695Z"
+    },
+    {
+      "imdb_id": "tt45368240",
+      "category": "general",
+      "added": "2026-11-16",
+      "watched": false,
+      "pending_title": "You Can See Everything",
+      "tmdb_id": 1765072,
+      "title": "You Can See Everything",
+      "original_title": "You Can See Everything",
+      "year": "2026",
+      "release_date": "2026-10-16",
+      "status": "Released",
+      "runtime": 175,
+      "tagline": "See it to believe it.",
+      "overview": "Thirty-four days before she's sent to prison, notorious Silicon Valley founder Elizabeth Holmes invites a skeptical film crew to document her every move. What begins as an intimate portrait of an enigmatic felon becomes a mind-bending three-year journey into the abyss.",
+      "genres": [
+        "Documentary"
+      ],
+      "genre_ids": [
+        99
+      ],
+      "keywords": [
+        "new york city",
+        "husband wife relationship",
+        "texas",
+        "san diego, california",
+        "silicon valley",
+        "business woman",
+        "biography",
+        "los angeles, california",
+        "reenactment",
+        "voyeurism",
+        "nervous",
+        "disgraced",
+        "meta",
+        "independent film",
+        "crime documentary"
+      ],
+      "poster": "/Ap8QwmKfSjYbWC4XIP8w9pdn72O.jpg",
+      "backdrop": "/nhIL3O4W9h5V5JbNQm7yjoDk3So.jpg",
+      "directors": [
+        "Nathan Fielder",
+        "Lance Oppenheim"
+      ],
+      "writers": [],
+      "cast": [
+        {
+          "name": "Elizabeth Holmes",
+          "character": "Self",
+          "photo": "/s7ej8dZ7zncd4nPBrkBUbArnTJl.jpg"
+        },
+        {
+          "name": "Nathan Fielder",
+          "character": "Self",
+          "photo": "/x0UOcjml8WnBfnb89QOh0iXM0w0.jpg"
+        },
+        {
+          "name": "Billy Evans",
+          "character": "Self",
+          "photo": "/tLOCcMkylvIES7ZKFv6Dks6XmD.jpg"
+        },
+        {
+          "name": "Amanda Seyfried",
+          "character": "Self / Elizabeth Holmes",
+          "photo": "/gtBUIpZ3dvLpOMIVORxE6sHSyZj.jpg"
+        },
+        {
+          "name": "Christopher Abbott",
+          "character": "Billy Evans",
+          "photo": "/bE7zzh60RXydH3p632ZZSmsTlcn.jpg"
+        },
+        {
+          "name": "Lance Oppenheim",
+          "character": "Self",
+          "photo": "/h12zgCaZ24imkZlw0nry9T9mjGD.jpg"
+        },
+        {
+          "name": "Christian Rasmus Holmes IV",
+          "character": "Self",
+          "photo": "/8uN7aAfhGkZ25A6HroG73IUMP0r.jpg"
+        },
+        {
+          "name": "Noel Anne Holmes",
+          "character": "Self",
+          "photo": "/wVQJFsBamiNh569RXirYMnDScAa.jpg"
+        },
+        {
+          "name": "Gary Wilmes",
+          "character": "A24 Executive",
+          "photo": "/vQ6ZhHSJX7XRWFHCFCqnwxSiL0a.jpg"
+        },
+        {
+          "name": "Phillip Andre Botello",
+          "character": "A24 Executive",
+          "photo": "/wzLtwcPc8VGYwBqeHl9d7gMVixL.jpg"
+        }
+      ],
+      "countries": [
+        "US"
+      ],
+      "languages": [
+        "English"
+      ],
+      "trailer": "https://www.youtube.com/watch?v=IEx8D1Wb__U",
+      "ratings": {
+        "tmdb": {
+          "value": 8.9,
+          "votes": 121
+        },
+        "imdb": null,
+        "metascore": null,
+        "others": []
+      },
+      "imdb_url": "https://www.imdb.com/title/tt45368240/",
+      "releases": {
+        "byCountry": {
+          "AE": [
+            {
+              "type": "Theatrical",
+              "typeId": 3,
+              "date": "2026-11-19"
+            }
+          ],
+          "AR": [
+            {
+              "type": "Theatrical",
+              "typeId": 3,
+              "date": "2026-11-26"
+            }
+          ],
+          "AT": [
+            {
+              "type": "Theatrical",
+              "typeId": 3,
+              "date": "2026-12-03"
+            }
+          ],
+          "AU": [
+            {
+              "type": "Theatrical",
+              "typeId": 3,
+              "date": "2026-11-12"
+            }
+          ],
+          "BE": [
+            {
+              "type": "Theatrical (limited)",
+              "typeId": 2,
+              "date": "2026-11-15"
+            },
+            {
+              "type": "Theatrical",
+              "typeId": 3,
+              "date": "2026-12-30"
+            }
+          ],
+          "BG": [
+            {
+              "type": "Premiere",
+              "typeId": 1,
+              "date": "2026-11-28",
+              "note": "Kinomania Film Festival"
+            }
+          ],
+          "BH": [
+            {
+              "type": "Theatrical",
+              "typeId": 3,
+              "date": "2026-11-19"
+            }
+          ],
+          "BR": [
+            {
+              "type": "Premiere",
+              "typeId": 1,
+              "date": "2026-10-29",
+              "note": "São Paulo International Film Festival"
+            },
+            {
+              "type": "Premiere",
+              "typeId": 1,
+              "date": "2026-10-31",
+              "note": "Recife International Film Festival"
+            },
+            {
+              "type": "Theatrical",
+              "typeId": 3,
+              "date": "2026-11-26"
+            }
+          ],
+          "CA": [
+            {
+              "type": "Theatrical",
+              "typeId": 3,
+              "date": "2026-10-16"
+            }
+          ],
+          "CH": [
+            {
+              "type": "Premiere",
+              "typeId": 1,
+              "date": "2026-11-06",
+              "note": "GIFF - Geneva International Film Festival"
+            },
+            {
+              "type": "Theatrical",
+              "typeId": 3,
+              "date": "2026-12-03"
+            }
+          ],
+          "CL": [
+            {
+              "type": "Theatrical",
+              "typeId": 3,
+              "date": "2026-12-03"
+            }
+          ],
+          "CZ": [
+            {
+              "type": "Theatrical",
+              "typeId": 3,
+              "date": "2026-11-05"
+            }
+          ],
+          "DE": [
+            {
+              "type": "Theatrical (limited)",
+              "typeId": 2,
+              "date": "2026-11-19",
+              "note": "UCI"
+            },
+            {
+              "type": "Theatrical",
+              "typeId": 3,
+              "date": "2026-12-03"
+            }
+          ],
+          "DK": [
+            {
+              "type": "Theatrical",
+              "typeId": 3,
+              "date": "2026-11-19"
+            }
+          ],
+          "EE": [
+            {
+              "type": "Theatrical",
+              "typeId": 3,
+              "date": "2026-11-13"
+            }
+          ],
+          "EG": [
+            {
+              "type": "Theatrical",
+              "typeId": 3,
+              "date": "2026-11-26"
+            }
+          ],
+          "ES": [
+            {
+              "type": "Theatrical",
+              "typeId": 3,
+              "date": "2026-12-25"
+            }
+          ],
+          "FI": [
+            {
+              "type": "Theatrical",
+              "typeId": 3,
+              "date": "2026-11-20"
+            }
+          ],
+          "FR": [
+            {
+              "type": "Theatrical (limited)",
+              "typeId": 2,
+              "date": "2026-12-01"
+            },
+            {
+              "type": "Theatrical",
+              "typeId": 3,
+              "date": "2026-12-30"
+            }
+          ],
+          "GB": [
+            {
+              "type": "Theatrical",
+              "typeId": 3,
+              "date": "2026-11-20"
+            }
+          ],
+          "GE": [
+            {
+              "type": "Theatrical",
+              "typeId": 3,
+              "date": "2026-11-19"
+            }
+          ],
+          "GR": [
+            {
+              "type": "Theatrical",
+              "typeId": 3,
+              "date": "2026-11-19"
+            }
+          ],
+          "HK": [
+            {
+              "type": "Theatrical",
+              "typeId": 3,
+              "date": "2026-12-03"
+            }
+          ],
+          "HU": [
+            {
+              "type": "Premiere",
+              "typeId": 1,
+              "date": "2026-11-01",
+              "note": "Budapest International Film Festival"
+            }
+          ],
+          "IL": [
+            {
+              "type": "Theatrical",
+              "typeId": 3,
+              "date": "2026-11-26"
+            }
+          ],
+          "IQ": [
+            {
+              "type": "Theatrical",
+              "typeId": 3,
+              "date": "2026-11-19"
+            }
+          ],
+          "IS": [
+            {
+              "type": "Theatrical",
+              "typeId": 3,
+              "date": "2026-11-19"
+            }
+          ],
+          "IT": [
+            {
+              "type": "Premiere",
+              "typeId": 1,
+              "date": "2026-11-26",
+              "note": "Torino Film Festival"
+            }
+          ],
+          "KR": [
+            {
+              "type": "Theatrical",
+              "typeId": 3,
+              "date": "2026-12-09"
+            }
+          ],
+          "KW": [
+            {
+              "type": "Theatrical",
+              "typeId": 3,
+              "date": "2026-11-19"
+            }
+          ],
+          "KZ": [
+            {
+              "type": "Theatrical",
+              "typeId": 3,
+              "date": "2026-11-19"
+            }
+          ],
+          "LT": [
+            {
+              "type": "Theatrical",
+              "typeId": 3,
+              "date": "2026-11-13"
+            }
+          ],
+          "LV": [
+            {
+              "type": "Theatrical",
+              "typeId": 3,
+              "date": "2026-11-13"
+            }
+          ],
+          "ME": [
+            {
+              "type": "Theatrical",
+              "typeId": 3,
+              "date": "2026-11-12"
+            }
+          ],
+          "MX": [
+            {
+              "type": "Theatrical",
+              "typeId": 3,
+              "date": "2026-11-26"
+            }
+          ],
+          "MY": [
+            {
+              "type": "Theatrical",
+              "typeId": 3,
+              "date": "2026-12-03"
+            }
+          ],
+          "NL": [
+            {
+              "type": "Premiere",
+              "typeId": 1,
+              "date": "2026-11-13",
+              "note": "International Documentary Film Festival Amsterdam"
+            },
+            {
+              "type": "Theatrical",
+              "typeId": 3,
+              "date": "2027-01-07"
+            }
+          ],
+          "NO": [
+            {
+              "type": "Theatrical",
+              "typeId": 3,
+              "date": "2026-11-20"
+            }
+          ],
+          "NZ": [
+            {
+              "type": "Theatrical",
+              "typeId": 3,
+              "date": "2026-11-12"
+            }
+          ],
+          "OM": [
+            {
+              "type": "Theatrical",
+              "typeId": 3,
+              "date": "2026-11-19"
+            }
+          ],
+          "PE": [
+            {
+              "type": "Theatrical",
+              "typeId": 3,
+              "date": "2026-12-03"
+            }
+          ],
+          "PH": [
+            {
+              "type": "Premiere",
+              "typeId": 1,
+              "date": "2026-11-17",
+              "note": "QCinema International Film Festival"
+            },
+            {
+              "type": "Theatrical",
+              "typeId": 3,
+              "date": "2026-11-18"
+            }
+          ],
+          "PL": [
+            {
+              "type": "Theatrical (limited)",
+              "typeId": 2,
+              "date": "2026-10-23"
+            },
+            {
+              "type": "Theatrical",
+              "typeId": 3,
+              "date": "2026-11-06"
+            },
+            {
+              "type": "Premiere",
+              "typeId": 1,
+              "date": "2026-11-13",
+              "note": "ToruńCAMERIMAGE"
+            },
+            {
+              "type": "Premiere",
+              "typeId": 1,
+              "date": "2026-11-18",
+              "note": "TAURON American Film Festival"
+            }
+          ],
+          "PT": [
+            {
+              "type": "Premiere",
+              "typeId": 1,
+              "date": "2026-11-07",
+              "note": "LEFFEST – Lisboa Film Festival"
+            },
+            {
+              "type": "Theatrical",
+              "typeId": 3,
+              "date": "2026-11-12"
+            }
+          ],
+          "QA": [
+            {
+              "type": "Theatrical",
+              "typeId": 3,
+              "date": "2026-11-19"
+            }
+          ],
+          "RO": [
+            {
+              "type": "Theatrical (limited)",
+              "typeId": 2,
+              "date": "2026-11-24"
+            },
+            {
+              "type": "Theatrical",
+              "typeId": 3,
+              "date": "2026-11-27"
+            }
+          ],
+          "RS": [
+            {
+              "type": "Theatrical",
+              "typeId": 3,
+              "date": "2026-11-12"
+            }
+          ],
+          "RU": [
+            {
+              "type": "Theatrical",
+              "typeId": 3,
+              "date": "2026-11-19"
+            }
+          ],
+          "SA": [
+            {
+              "type": "Theatrical",
+              "typeId": 3,
+              "date": "2026-11-19"
+            }
+          ],
+          "SE": [
+            {
+              "type": "Premiere",
+              "typeId": 1,
+              "date": "2026-11-21",
+              "note": "Stockholm International Film Festival"
+            },
+            {
+              "type": "Theatrical",
+              "typeId": 3,
+              "date": "2026-11-21"
+            }
+          ],
+          "SG": [
+            {
+              "type": "Theatrical",
+              "typeId": 3,
+              "date": "2026-11-26"
+            }
+          ],
+          "TH": [
+            {
+              "type": "Theatrical",
+              "typeId": 3,
+              "date": "2026-12-03"
+            }
+          ],
+          "TR": [
+            {
+              "type": "Theatrical",
+              "typeId": 3,
+              "date": "2026-10-30"
+            }
+          ],
+          "TW": [
+            {
+              "type": "Premiere",
+              "typeId": 1,
+              "date": "2026-11-22",
+              "note": "Taipei Golden Horse Film Festival"
+            },
+            {
+              "type": "Theatrical (limited)",
+              "typeId": 2,
+              "date": "2026-11-27",
+              "note": "限量口碑場"
+            },
+            {
+              "type": "Theatrical",
+              "typeId": 3,
+              "date": "2026-12-04"
+            }
+          ],
+          "US": [
+            {
+              "type": "Premiere",
+              "typeId": 1,
+              "date": "2026-09-06",
+              "note": "Telluride Film Festival"
+            },
+            {
+              "type": "Premiere",
+              "typeId": 1,
+              "date": "2026-09-30",
+              "note": "New York Film Festival"
+            },
+            {
+              "type": "Theatrical",
+              "typeId": 3,
+              "date": "2026-10-16"
+            },
+            {
+              "type": "Premiere",
+              "typeId": 1,
+              "date": "2026-10-27",
+              "note": "SCAD Savannah Film Festival"
+            },
+            {
+              "type": "Digital",
+              "typeId": 4,
+              "date": "2026-11-24"
+            }
+          ],
+          "VN": [
+            {
+              "type": "Theatrical",
+              "typeId": 3,
+              "date": "2026-11-27"
+            }
+          ]
+        },
+        "earliestDigital": {
+          "country": "US",
+          "type": "Digital",
+          "typeId": 4,
+          "date": "2026-11-24"
+        }
+      },
+      "availability": {},
+      "recommendations": [
+        {
+          "tmdb_id": 1591516,
+          "title": "Evil Influencer: The Jodi Hildebrandt Story",
+          "year": "2025",
+          "poster": "/xCawp08whOaJS434IDlBytX7sSm.jpg",
+          "genre_ids": [
+            99
+          ],
+          "vote": 6.188
+        },
+        {
+          "tmdb_id": 1061671,
+          "title": "Pamela, a love story",
+          "year": "2023",
+          "poster": "/zkVnRwZWbrd55P3Tx7BZZQ1gU89.jpg",
+          "genre_ids": [
+            99
+          ],
+          "vote": 6.998
+        },
+        {
+          "tmdb_id": 34015,
+          "title": "We Live in Public",
+          "year": "2009",
+          "poster": "/eGKZn41ckFwyfXeQS7mtfIG8u4G.jpg",
+          "genre_ids": [
+            99
+          ],
+          "vote": 6.8
+        },
+        {
+          "tmdb_id": 42296,
+          "title": "Catfish",
+          "year": "2010",
+          "poster": "/mXNxee2ix6Ke0bSIqFST0UhbVLR.jpg",
+          "genre_ids": [
+            99
+          ],
+          "vote": 6.8
+        },
+        {
+          "tmdb_id": 1723460,
+          "title": "A Toxic Love Story",
+          "year": "2026",
+          "poster": "/9CmyFXKqQRVbGGxyJE6kp7fhrHa.jpg",
+          "genre_ids": [
+            99
+          ],
+          "vote": 6.5
+        },
+        {
+          "tmdb_id": 1400780,
+          "title": "Come See Me in the Good Light",
+          "year": "2025",
+          "poster": "/5AFbcDGT78cLZTyHTSDBohczjuO.jpg",
+          "genre_ids": [
+            99
+          ],
+          "vote": 6.968
+        },
+        {
+          "tmdb_id": 1114590,
+          "title": "Anna Nicole Smith: You Don't Know Me",
+          "year": "2023",
+          "poster": "/mybL2Hd3PvsY7Qyjf7W6BKsoECu.jpg",
+          "genre_ids": [
+            99
+          ],
+          "vote": 6.1
+        },
+        {
+          "tmdb_id": 430830,
+          "title": "Nobody Speak: Trials of the Free Press",
+          "year": "2017",
+          "poster": "/beWrI8ykYq95C0VSWrBoz4dec23.jpg",
+          "genre_ids": [
+            99
+          ],
+          "vote": 6
+        },
+        {
+          "tmdb_id": 293310,
+          "title": "Citizenfour",
+          "year": "2014",
+          "poster": "/nOVhX69EAxtSKEEnr5UcSd5UVci.jpg",
+          "genre_ids": [
+            99
+          ],
+          "vote": 7.741
+        },
+        {
+          "tmdb_id": 653729,
+          "title": "Time",
+          "year": "2020",
+          "poster": "/2yLZmlf6vdpkhTaD0oUmIFu8SsM.jpg",
+          "genre_ids": [
+            99
+          ],
+          "vote": 6.7
+        },
+        {
+          "tmdb_id": 778870,
+          "title": "Strip Down, Rise Up",
+          "year": "2021",
+          "poster": "/CXQ5zOrhHGcw1imsRMwa7W8izS.jpg",
+          "genre_ids": [
+            99
+          ],
+          "vote": 6.38
+        },
+        {
+          "tmdb_id": 1461714,
+          "title": "My Mom Jayne",
+          "year": "2025",
+          "poster": "/6KpfMouMavYr1UwTz6612YhYjbs.jpg",
+          "genre_ids": [
+            99
+          ],
+          "vote": 8.025
+        }
+      ],
+      "updated": "2026-11-16T14:08:31.030Z"
     }
   ]
 }

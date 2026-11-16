@@ -1,5 +1,5 @@
 {
-  "generated": "2026-11-16T14:07:34.582Z",
+  "generated": "2026-11-16T14:08:31.284Z",
   "horror": [
     {
       "tmdb_id": 756999,
@@ -533,9 +533,56 @@
         28
       ],
       "vote": 7.93,
-      "score": 1.793,
+      "score": 3.586,
       "because": [
-        "Dune: Part Two"
+        "Dune: Part Two",
+        "Spider-Man: Brand New Day"
+      ]
+    },
+    {
+      "tmdb_id": 24428,
+      "title": "The Avengers",
+      "year": "2012",
+      "poster": "/RYMX2wcKCBAr24UyPD7xwmjaTn.jpg",
+      "genre_ids": [
+        878,
+        28,
+        12
+      ],
+      "vote": 8.085,
+      "score": 1.8085,
+      "because": [
+        "Spider-Man: Brand New Day"
+      ]
+    },
+    {
+      "tmdb_id": 1461714,
+      "title": "My Mom Jayne",
+      "year": "2025",
+      "poster": "/6KpfMouMavYr1UwTz6612YhYjbs.jpg",
+      "genre_ids": [
+        99
+      ],
+      "vote": 8.025,
+      "score": 1.8025,
+      "because": [
+        "You Can See Everything"
+      ]
+    },
+    {
+      "tmdb_id": 634649,
+      "title": "Spider-Man: No Way Home",
+      "year": "2021",
+      "poster": "/1g0dhYtq4irTY1GPXvft6k4YLjm.jpg",
+      "genre_ids": [
+        28,
+        12,
+        878
+      ],
+      "vote": 7.945,
+      "score": 1.7945,
+      "because": [
+        "Spider-Man: Brand New Day"
       ]
     },
     {
@@ -551,6 +598,52 @@
       "score": 1.7787,
       "because": [
         "Dune: Part Two"
+      ]
+    },
+    {
+      "tmdb_id": 293310,
+      "title": "Citizenfour",
+      "year": "2014",
+      "poster": "/nOVhX69EAxtSKEEnr5UcSd5UVci.jpg",
+      "genre_ids": [
+        99
+      ],
+      "vote": 7.741,
+      "score": 1.7741,
+      "because": [
+        "You Can See Everything"
+      ]
+    },
+    {
+      "tmdb_id": 100402,
+      "title": "Captain America: The Winter Soldier",
+      "year": "2014",
+      "poster": "/tVFRpFw3xTedgPGqxW0AOI8Qhh0.jpg",
+      "genre_ids": [
+        28,
+        12,
+        878
+      ],
+      "vote": 7.652,
+      "score": 1.7652,
+      "because": [
+        "Spider-Man: Brand New Day"
+      ]
+    },
+    {
+      "tmdb_id": 283995,
+      "title": "Guardians of the Galaxy Vol. 2",
+      "year": "2017",
+      "poster": "/y4MBh0EjBlMuOzv9axM4qJlmhzz.jpg",
+      "genre_ids": [
+        878,
+        12,
+        28
+      ],
+      "vote": 7.607,
+      "score": 1.7607,
+      "because": [
+        "Spider-Man: Brand New Day"
       ]
     },
     {
@@ -586,6 +679,22 @@
       ]
     },
     {
+      "tmdb_id": 271110,
+      "title": "Captain America: Civil War",
+      "year": "2016",
+      "poster": "/rAGiXaUfPzY7CDEyNKUofk3Kw2e.jpg",
+      "genre_ids": [
+        12,
+        28,
+        878
+      ],
+      "vote": 7.455,
+      "score": 1.7455,
+      "because": [
+        "Spider-Man: Brand New Day"
+      ]
+    },
+    {
       "tmdb_id": 604,
       "title": "The Matrix Reloaded",
       "year": "2003",
@@ -599,6 +708,78 @@
       "score": 1.7086999999999999,
       "because": [
         "Dune: Part Two"
+      ]
+    },
+    {
+      "tmdb_id": 1061671,
+      "title": "Pamela, a love story",
+      "year": "2023",
+      "poster": "/zkVnRwZWbrd55P3Tx7BZZQ1gU89.jpg",
+      "genre_ids": [
+        99
+      ],
+      "vote": 6.998,
+      "score": 1.6998,
+      "because": [
+        "You Can See Everything"
+      ]
+    },
+    {
+      "tmdb_id": 1400780,
+      "title": "Come See Me in the Good Light",
+      "year": "2025",
+      "poster": "/5AFbcDGT78cLZTyHTSDBohczjuO.jpg",
+      "genre_ids": [
+        99
+      ],
+      "vote": 6.968,
+      "score": 1.6968,
+      "because": [
+        "You Can See Everything"
+      ]
+    },
+    {
+      "tmdb_id": 10138,
+      "title": "Iron Man 2",
+      "year": "2010",
+      "poster": "/6WBeq4fCfn7AN0o21W9qNcRF2l9.jpg",
+      "genre_ids": [
+        12,
+        28,
+        878
+      ],
+      "vote": 6.856,
+      "score": 1.6856,
+      "because": [
+        "Spider-Man: Brand New Day"
+      ]
+    },
+    {
+      "tmdb_id": 34015,
+      "title": "We Live in Public",
+      "year": "2009",
+      "poster": "/eGKZn41ckFwyfXeQS7mtfIG8u4G.jpg",
+      "genre_ids": [
+        99
+      ],
+      "vote": 6.8,
+      "score": 1.68,
+      "because": [
+        "You Can See Everything"
+      ]
+    },
+    {
+      "tmdb_id": 42296,
+      "title": "Catfish",
+      "year": "2010",
+      "poster": "/mXNxee2ix6Ke0bSIqFST0UhbVLR.jpg",
+      "genre_ids": [
+        99
+      ],
+      "vote": 6.8,
+      "score": 1.68,
+      "because": [
+        "You Can See Everything"
       ]
     },
     {
@@ -636,114 +817,17 @@
       ]
     },
     {
-      "tmdb_id": 412656,
-      "title": "Chaos Walking",
-      "year": "2021",
-      "poster": "/xAYGdGBGptNkisXRpmhZSry6SPF.jpg",
-      "genre_ids": [
-        14,
-        878,
-        12
-      ],
-      "vote": 6.539,
-      "score": 1.6539,
-      "because": [
-        "Dune: Part Two"
-      ]
-    },
-    {
-      "tmdb_id": 559,
-      "title": "Spider-Man 3",
-      "year": "2007",
-      "poster": "/qFmwhVUoUSXjkKRmca5yGDEXBIj.jpg",
-      "genre_ids": [
-        28,
-        12,
-        878
-      ],
-      "vote": 6.5,
-      "score": 1.65,
-      "because": [
-        "Dune: Part Two"
-      ]
-    },
-    {
-      "tmdb_id": 9543,
-      "title": "Prince of Persia: The Sands of Time",
-      "year": "2010",
-      "poster": "/siNGMLdOUNYLEGtlsnmQcpO2XZX.jpg",
-      "genre_ids": [
-        12,
-        14,
-        28
-      ],
-      "vote": 6.315,
-      "score": 1.6315,
-      "because": [
-        "Dune: Part Two"
-      ]
-    },
-    {
-      "tmdb_id": 262504,
-      "title": "Allegiant",
-      "year": "2016",
-      "poster": "/faq9JlF8znUGQ5p3En1W61Fi5p0.jpg",
-      "genre_ids": [
-        12,
-        878,
-        28
-      ],
-      "vote": 6.098,
-      "score": 1.6098,
-      "because": [
-        "Dune: Part Two"
-      ]
-    },
-    {
-      "tmdb_id": 346687,
-      "title": "The Water Man",
+      "tmdb_id": 653729,
+      "title": "Time",
       "year": "2020",
-      "poster": "/krupbFlSTnnKIjpRryrg2CTdeIL.jpg",
+      "poster": "/2yLZmlf6vdpkhTaD0oUmIFu8SsM.jpg",
       "genre_ids": [
-        12,
-        14
+        99
       ],
-      "vote": 6.066,
-      "score": 1.6066,
+      "vote": 6.7,
+      "score": 1.67,
       "because": [
-        "Wildwood"
-      ]
-    },
-    {
-      "tmdb_id": 81005,
-      "title": "Jack the Giant Slayer",
-      "year": "2013",
-      "poster": "/9jSI7saUX9Qz0JLh19jX2ulEwL7.jpg",
-      "genre_ids": [
-        14,
-        28,
-        12
-      ],
-      "vote": 5.921,
-      "score": 1.5921,
-      "because": [
-        "Dune: Part Two"
-      ]
-    },
-    {
-      "tmdb_id": 299687,
-      "title": "The 5th Wave",
-      "year": "2016",
-      "poster": "/4Dd79cz5qxKNoKWg1xsfrpOchEr.jpg",
-      "genre_ids": [
-        878,
-        12,
-        28
-      ],
-      "vote": 5.9,
-      "score": 1.59,
-      "because": [
-        "Dune: Part Two"
+        "You Can See Everything"
       ]
     }
   ]
