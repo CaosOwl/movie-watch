@@ -64,3 +64,12 @@ table.rel { border-collapse: collapse; font-size: 13px; width: 100%; }
 table.rel td { padding: 3px 6px; border-bottom: 1px solid var(--line); }
 details summary { cursor: pointer; color: var(--muted); font-size: 14px; }
 .alert { background: var(--panel); border: 1px solid var(--line); border-radius: 12px; padding: 10px 12px; }
+
+/* Coming soon */
+.badge.match { background: #2b1f3d; border-color: #9b7bd6; font-weight: 600; }
+.badge.date { background: #1a2a3a; border-color: var(--toon); }
+.reasons { font-size: 12px; color: var(--gold); margin-top: 4px; }
+.chips { display: flex; gap: 6px; flex-wrap: wrap; }
+.chips button { border-radius: 999px; font-size: 13px; padding: 4px 10px; }
+.chips button.active { background: var(--text); color: var(--bg); }
+.card .synopsis { font-size: 13px; margin-top: 6px; display: -webkit-box; -webkit-line-clamp: 3; -webkit-box-orient: vertical; overflow: hidden; }

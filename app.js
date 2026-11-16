@@ -14,7 +14,7 @@ if (!cfg.repo && location.hostname.endsWith('.github.io')) {
 const regionName = (cc) => { try { return new Intl.DisplayNames(['en'], { type: 'region' }).of(cc); } catch { return cc; } };
 const OFFER_LABEL = { flatrate: 'Stream', free: 'Free', ads: 'Free (ads)', rent: 'Rent', buy: 'Buy' };
 
-const state = { tab: 'horror', watchlist: { movies: [] }, watchlistSha: null, movies: [], recs: {}, alerts: [] };
+const state = { tab: 'horror', watchlist: { movies: [] }, watchlistSha: null, movies: [], recs: {}, alerts: [], upcoming: [], soonCat: 'all' };
 
 // ---------- data loading ----------
 async function getJson(path) {
@@ -56,10 +56,11 @@ async function saveWatchlist(message) {
 
 async function loadAll() {
   setStatus('Loading…');
-  const [movies, recs, alerts] = await Promise.all([getJson('data/movies.json'), getJson('data/recommendations.json'), getJson('data/alerts.json'), loadWatchlist()]);
+  const [movies, recs, alerts, upcoming] = await Promise.all([getJson('data/movies.json'), getJson('data/recommendations.json'), getJson('data/alerts.json'), getJson('data/upcoming.json'), loadWatchlist()]);
   state.movies = movies?.movies || [];
   state.recs = recs || {};
   state.alerts = alerts?.alerts || [];
+  state.upcoming = upcoming?.movies || [];
   setStatus(movies?.generated ? `Data updated ${new Date(movies.generated).toLocaleString()}` : 'No data yet — run the GitHub Action once.');
   render();
 }
@@ -114,13 +115,36 @@ function card(m) {
 
 function render() {
   document.querySelectorAll('#tabs button').forEach((b) => b.classList.toggle('active', b.dataset.tab === state.tab));
-  $('#filters').style.display = ['recs', 'alerts'].includes(state.tab) ? 'none' : 'flex';
+  $('#filters').style.display = ['recs', 'alerts', 'soon'].includes(state.tab) ? 'none' : 'flex';
   const list = $('#list');
 
   if (state.tab === 'alerts') {
     list.innerHTML = state.alerts.length
       ? state.alerts.map((a) => `<div class="alert"><div>${esc(a.text)}</div><div class="meta">${new Date(a.date).toLocaleDateString()} ${a.link ? `· <a href="${esc(a.link)}" target="_blank" rel="noopener">Where to watch</a>` : ''}</div></div>`).join('')
       : `<p class="muted">No alerts yet. You'll get one here (and on your phone via ntfy, if set up) when a movie on your list first becomes legally available anywhere, or gets a new option in ${cfg.home}.</p>`;
+    return;
+  }
+
+  if (state.tab === 'soon') {
+    const onList = new Set(state.watchlist.movies.map((m) => m.imdb_id));
+    const cats = ['all', 'horror', 'animation', 'general'];
+    const chips = `<div class="chips">${cats.map((c) => `<button data-soonc="${c}" class="${state.soonCat === c ? 'active' : ''}">${c === 'all' ? 'All' : c[0].toUpperCase() + c.slice(1)}</button>`).join('')}</div>`;
+    const items = state.upcoming.filter((m) => state.soonCat === 'all' || m.category === state.soonCat);
+    list.innerHTML = chips + (items.length ? items.map((m) => `
+      <article class="card cat-${m.category}" data-soon="${m.tmdb_id}">
+        ${m.poster ? `<img loading="lazy" src="${IMG}w185${m.poster}" alt="">` : '<div class="poster-ph"></div>'}
+        <div>
+          <h3>${esc(m.title)}</h3>
+          <div class="meta">${[m.genres.slice(0, 3).join(', '), m.directors.length && `Dir. ${m.directors.join(', ')}`].filter(Boolean).map(esc).join(' · ')}</div>
+          <div class="badges">
+            <span class="badge match">${m.match}% match</span>
+            <span class="badge date">${esc(fmtDate(m.release.date))} · ${esc(m.release.type)}${m.release.where === cfg.home ? ` in ${esc(cfg.home)}` : ''}</span>
+            ${onList.has(m.imdb_id) ? '<span class="badge stream">On your list</span>' : ''}
+          </div>
+          ${m.reasons?.length ? `<div class="reasons">${esc(m.reasons.slice(0, 2).join(' · '))}</div>` : ''}
+          <div class="synopsis muted">${esc(m.overview || '')}</div>
+        </div>
+      </article>`).join('') : '<p class="muted">Upcoming movies appear after the next data update (Actions → Run workflow).</p>');
     return;
   }
 
@@ -208,6 +232,45 @@ function openDetail(id) {
   $('#detail').showModal();
 }
 
+
+const fmtDate = (iso) => { try { return new Date(iso + 'T00:00:00').toLocaleDateString('en-GB', { day: 'numeric', month: 'short', year: 'numeric' }); } catch { return iso; } };
+
+function openSoon(tmdbId) {
+  const m = state.upcoming.find((x) => String(x.tmdb_id) === String(tmdbId));
+  if (!m) return;
+  const onList = state.watchlist.movies.some((w) => w.imdb_id === m.imdb_id);
+  $('#detail-body').innerHTML = `
+    <div class="hero" style="background-image:url('${m.backdrop ? IMG + 'w780' + m.backdrop : ''}')">
+      <button class="close" data-close>✕</button>
+    </div>
+    <div class="detail-inner">
+      <h2>${esc(m.title)}</h2>
+      ${m.tagline ? `<div class="muted"><i>${esc(m.tagline)}</i></div>` : ''}
+      <div class="meta">${[m.runtime && `${m.runtime} min`, m.genres.join(', '), m.countries.join(', ')].filter(Boolean).map(esc).join(' · ')}</div>
+      <div class="badges"><span class="badge match">${m.match}% match</span>
+        <span class="badge date">${esc(fmtDate(m.release.date))} · ${esc(m.release.type)} ${m.release.where === cfg.home ? `in ${esc(regionName(cfg.home))}` : '(worldwide)'}</span></div>
+      ${m.reasons?.length ? `<div class="reasons">Why: ${esc(m.reasons.join(' · '))}</div>` : ''}
+      <div class="section"><h4>Synopsis</h4><p>${esc(m.overview || 'No synopsis yet.')}</p></div>
+      <div class="meta">${m.directors.length ? `Director: ${esc(m.directors.join(', '))}` : ''}${m.writers.length ? ` · Writers: ${esc(m.writers.join(', '))}` : ''}</div>
+      ${m.cast?.length ? `<div class="section"><h4>Cast</h4><div class="row-scroll">${m.cast.map((c) => `<div class="mini">${c.photo ? `<img loading="lazy" src="${IMG}w185${c.photo}" alt="">` : '<div class="poster-ph" style="width:92px;height:138px"></div>'}<div>${esc(c.name)}</div><div class="muted">${esc(c.character)}</div></div>`).join('')}</div></div>` : ''}
+      <div class="actions">
+        ${onList ? '<button disabled>✓ On your list</button>' : `<button class="primary" data-addsoon="${m.tmdb_id}">＋ Add to ${esc(m.category)}</button>`}
+        ${m.trailer ? `<a href="${esc(m.trailer)}" target="_blank" rel="noopener"><button>▶ Trailer</button></a>` : ''}
+        ${m.imdb_id ? `<a href="https://www.imdb.com/title/${esc(m.imdb_id)}/" target="_blank" rel="noopener"><button>IMDb</button></a>` : ''}
+      </div>
+      <p class="meta">Once added, you'll get an alert when it becomes legally watchable in ${esc(regionName(cfg.home))}.</p>
+    </div>`;
+  $('#detail').dataset.id = '';
+  $('#detail').showModal();
+}
+
+async function addSoon(tmdbId) {
+  const m = state.upcoming.find((x) => String(x.tmdb_id) === String(tmdbId));
+  if (!m) return;
+  if (m.imdb_id) await addMovie({ imdb_id: m.imdb_id, category: m.category, title: m.title });
+  else await addByTmdbId(m.tmdb_id, m.category, m.title);
+}
+
 // ---------- adding movies ----------
 function guessCategory(genreIds = []) {
   if (genreIds.includes(16)) return 'animation';
@@ -265,6 +328,10 @@ $('#tabs').addEventListener('click', (e) => { const t = e.target.closest('button
 $('#f-ch').addEventListener('change', render);
 $('#f-watched').addEventListener('change', render);
 $('#list').addEventListener('click', (e) => {
+  const chip = e.target.closest('[data-soonc]');
+  if (chip) { state.soonCat = chip.dataset.soonc; render(); return; }
+  const soon = e.target.closest('[data-soon]');
+  if (soon) { openSoon(soon.dataset.soon); return; }
   const add = e.target.closest('[data-addtmdb]');
   if (add) { e.stopPropagation(); addByTmdbId(add.dataset.addtmdb, add.dataset.cat, add.dataset.title).catch((x) => alert(x.message)); return; }
   const c = e.target.closest('.card'); if (c) openDetail(c.dataset.id);
@@ -288,6 +355,8 @@ $('#results').addEventListener('click', async (e) => {
 $('#detail').addEventListener('click', async (e) => {
   const dlg = $('#detail');
   if (e.target === dlg || e.target.closest('[data-close]')) { dlg.close(); return; }
+  const addS = e.target.closest('[data-addsoon]');
+  if (addS) { addS.disabled = true; addSoon(addS.dataset.addsoon).then(() => { addS.textContent = '✓ Added'; render(); }).catch((x) => { addS.disabled = false; alert(x.message); }); return; }
   const add = e.target.closest('[data-addtmdb]');
   if (add) { addByTmdbId(add.dataset.addtmdb, null, add.dataset.title).then(() => { add.textContent = '✓'; }).catch((x) => alert(x.message)); return; }
   const act = e.target.closest('[data-act]')?.dataset.act; if (!act) return;

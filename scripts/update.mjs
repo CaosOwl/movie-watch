@@ -176,6 +176,120 @@ async function notify(alert) {
   } catch (e) { console.warn('ntfy failed', e.message); }
 }
 
+
+// ---------- Coming soon: upcoming releases ranked by your taste ----------
+function tasteProfile(movies) {
+  const p = { genres: new Map(), keywords: new Map(), people: new Map(), total: 0 };
+  const inc = (map, key, w, title) => {
+    const cur = map.get(key) || { w: 0, titles: new Set() };
+    cur.w += w; if (title) cur.titles.add(title); map.set(key, cur);
+  };
+  for (const m of movies) {
+    if (!m.tmdb_id) continue;
+    p.total++;
+    for (const g of m.genre_ids || []) inc(p.genres, g, 1);
+    for (const k of m.keywords || []) inc(p.keywords, k, 1, m.title);
+    for (const d of m.directors || []) inc(p.people, d, 2, m.title);
+    for (const c of (m.cast || []).slice(0, 6)) inc(p.people, c.name, 1, m.title);
+  }
+  return p;
+}
+
+const GENRE_NAMES = { 28: 'Action', 12: 'Adventure', 16: 'Animation', 35: 'Comedy', 80: 'Crime', 99: 'Documentary', 18: 'Drama', 10751: 'Family', 14: 'Fantasy', 36: 'History', 27: 'Horror', 10402: 'Music', 9648: 'Mystery', 10749: 'Romance', 878: 'Science Fiction', 10770: 'TV Movie', 53: 'Thriller', 10752: 'War', 37: 'Western' };
+
+function genreScore(profile, genreIds = []) {
+  if (!profile.total || !genreIds.length) return 0;
+  const shares = genreIds.map((g) => (profile.genres.get(g)?.w || 0) / profile.total);
+  return Math.min(1, shares.reduce((a, b) => a + b, 0) / Math.sqrt(genreIds.length));
+}
+
+function scoreUpcoming(profile, d) {
+  const genreIds = d.genres?.map((g) => g.id) || d.genre_ids || [];
+  const g = genreScore(profile, genreIds);
+  const reasons = [];
+  const topGenres = genreIds.filter((id) => profile.genres.has(id))
+    .sort((a, b) => profile.genres.get(b).w - profile.genres.get(a).w).slice(0, 2).map((id) => GENRE_NAMES[id]).filter(Boolean);
+  if (topGenres.length) reasons.push(`You like ${topGenres.join(' & ')}`);
+
+  let people = 0;
+  const directors = d.credits?.crew?.filter((c) => c.job === 'Director').map((c) => c.name) || [];
+  const cast = d.credits?.cast?.slice(0, 10).map((c) => c.name) || [];
+  for (const name of [...directors, ...cast]) {
+    const hit = profile.people.get(name);
+    if (!hit) continue;
+    people += hit.w;
+    if (reasons.length < 4) reasons.push(`${directors.includes(name) ? 'Directed by' : 'Starring'} ${name} (${[...hit.titles][0]})`);
+  }
+  const kws = (d.keywords?.keywords || []).map((k) => k.name).filter((k) => profile.keywords.has(k));
+  if (kws.length) reasons.push(`Themes: ${kws.slice(0, 3).join(', ')}`);
+
+  const pop = Math.min(1, Math.log10((d.popularity || 0) + 1) / 3);
+  const score = profile.total
+    ? 0.5 * g + 0.2 * Math.min(1, people / 2) + 0.15 * Math.min(1, kws.length / 3) + 0.15 * pop
+    : pop;
+  return { score, reasons };
+}
+
+function nextRelease(d, today) {
+  const label = { 1: 'Premiere', 2: 'Cinema (limited)', 3: 'Cinema', 4: 'Digital', 5: 'Physical', 6: 'TV' };
+  const home = (d.release_dates?.results || []).find((r) => r.iso_3166_1 === HOME)?.release_dates || [];
+  const homeNext = home.map((r) => ({ date: r.release_date.slice(0, 10), type: label[r.type] || 'Release' }))
+    .filter((r) => r.date >= today).sort((a, b) => a.date.localeCompare(b.date))[0];
+  if (homeNext) return { ...homeNext, where: HOME };
+  if (d.release_date && d.release_date >= today) return { date: d.release_date, type: 'Release', where: 'World' };
+  return null;
+}
+
+async function buildUpcoming(movies) {
+  const profile = tasteProfile(movies);
+  const owned = new Set(movies.map((m) => m.tmdb_id));
+  const today = new Date().toISOString().slice(0, 10);
+  const until = new Date(Date.now() + 270 * 864e5).toISOString().slice(0, 10);
+  const pool = new Map();
+  for (let page = 1; page <= 4; page++) {
+    const queries = [
+      { region: HOME, with_release_type: '2|3', 'release_date.gte': today, 'release_date.lte': until },
+      { 'primary_release_date.gte': today, 'primary_release_date.lte': until },
+    ];
+    for (const q of queries) {
+      const r = await tmdb('/discover/movie', { ...q, sort_by: 'popularity.desc', include_adult: 'false', page });
+      for (const m of r.results || []) if (!owned.has(m.id) && !pool.has(m.id)) pool.set(m.id, m);
+    }
+  }
+  // Cheap pre-ranking on genres + popularity, then fetch full details for the best candidates.
+  const shortlist = [...pool.values()]
+    .map((m) => ({ m, pre: 0.7 * genreScore(profile, m.genre_ids) + 0.3 * Math.min(1, Math.log10((m.popularity || 0) + 1) / 3) }))
+    .sort((a, b) => b.pre - a.pre).slice(0, 60);
+
+  const out = [];
+  for (const { m } of shortlist) {
+    try {
+      const d = await tmdb(`/movie/${m.id}`, { append_to_response: 'credits,keywords,release_dates,videos,external_ids' });
+      const release = nextRelease(d, today);
+      if (!release) continue;
+      const { score, reasons } = scoreUpcoming(profile, d);
+      const trailer = (d.videos?.results || []).find((v) => v.site === 'YouTube' && v.type === 'Trailer');
+      const genreIds = d.genres?.map((g) => g.id) || [];
+      out.push({
+        tmdb_id: d.id, imdb_id: d.imdb_id || d.external_ids?.imdb_id || null,
+        title: d.title, original_title: d.original_title, tagline: d.tagline, overview: d.overview,
+        poster: d.poster_path, backdrop: d.backdrop_path, runtime: d.runtime || null,
+        genres: d.genres?.map((g) => g.name) || [],
+        category: genreIds.includes(16) ? 'animation' : genreIds.includes(27) ? 'horror' : 'general',
+        directors: d.credits?.crew?.filter((c) => c.job === 'Director').map((c) => c.name) || [],
+        writers: [...new Set(d.credits?.crew?.filter((c) => c.department === 'Writing').map((c) => c.name) || [])].slice(0, 3),
+        cast: d.credits?.cast?.slice(0, 8).map((c) => ({ name: c.name, character: c.character, photo: c.profile_path })) || [],
+        countries: d.production_countries?.map((c) => c.iso_3166_1) || [],
+        release, trailer: trailer ? `https://www.youtube.com/watch?v=${trailer.key}` : null,
+        match: Math.round(score * 100), reasons,
+      });
+    } catch (e) { console.warn(`upcoming ${m.id}: ${e.message}`); }
+    await sleep(150);
+  }
+  out.sort((a, b) => b.match - a.match);
+  return out.slice(0, 40);
+}
+
 const watchlist = await readJson('data/watchlist.json', { movies: [] });
 const prevMovies = await readJson('data/movies.json', { movies: [] });
 const prevById = new Map(prevMovies.movies.map((m) => [m.imdb_id, m]));
@@ -199,6 +313,12 @@ for (const item of watchlist.movies) {
 
 await writeJson('data/movies.json', { home_country: HOME, generated: new Date().toISOString(), movies });
 await writeJson('data/recommendations.json', { generated: new Date().toISOString(), ...buildRecommendations(movies) });
+try {
+  const upcoming = await buildUpcoming(movies);
+  await writeJson('data/upcoming.json', { home_country: HOME, generated: new Date().toISOString(), movies: upcoming });
+  console.log(`Coming soon: ${upcoming.length} movies`);
+} catch (e) { console.warn('Coming soon failed:', e.message); }
+
 if (newAlerts.length) {
   alertsFile.alerts = [...newAlerts, ...alertsFile.alerts].slice(0, 200);
   await writeJson('data/alerts.json', alertsFile);
