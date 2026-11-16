@@ -62,7 +62,7 @@
       <label>GitHub token (fine-grained, Contents: read &amp; write, this repo only)<input name="ghToken" type="password"></label>
       <label>TMDB read access token (for search in the app)<input name="tmdbToken" type="password"></label>
       <label>Home country<input name="home" value="CH" maxlength="2"></label>
-      <menu><button value="cancel">Cancel</button><button value="save" class="primary">Save</button></menu>
+      <menu><button type="button" onclick="this.closest('dialog').close()">Cancel</button><button value="save" class="primary">Save</button></menu>
     </form>
   </dialog>
 
