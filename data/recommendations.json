@@ -1,5 +1,5 @@
 {
-  "generated": "2026-11-16T14:04:59.181Z",
+  "generated": "2026-11-16T14:07:34.582Z",
   "horror": [
     {
       "tmdb_id": 756999,
@@ -183,6 +183,41 @@
   ],
   "animation": [
     {
+      "tmdb_id": 116711,
+      "title": "Epic",
+      "year": "2013",
+      "poster": "/81cSsWzjTfR3cJSqnTiHwy1eyPK.jpg",
+      "genre_ids": [
+        16,
+        12,
+        10751,
+        14
+      ],
+      "vote": 6.571,
+      "score": 3.3142,
+      "because": [
+        "Spirited Away",
+        "Wildwood"
+      ]
+    },
+    {
+      "tmdb_id": 1007757,
+      "title": "Swapped",
+      "year": "2026",
+      "poster": "/tHhxWxge06goXU6ZQH1hj7vK8Hd.jpg",
+      "genre_ids": [
+        12,
+        16,
+        10751,
+        14
+      ],
+      "vote": 8.831,
+      "score": 1.8831,
+      "because": [
+        "Wildwood"
+      ]
+    },
+    {
       "tmdb_id": 1358305,
       "title": "A Tooth Fairy Tale",
       "year": "2025",
@@ -196,6 +231,23 @@
       "score": 1.85,
       "because": [
         "Spirited Away"
+      ]
+    },
+    {
+      "tmdb_id": 10315,
+      "title": "Fantastic Mr. Fox",
+      "year": "2009",
+      "poster": "/bOVr292mwn3jxr1e0NmUPM1rcjo.jpg",
+      "genre_ids": [
+        12,
+        16,
+        35,
+        10751
+      ],
+      "vote": 7.829,
+      "score": 1.7829,
+      "because": [
+        "Wildwood"
       ]
     },
     {
@@ -250,6 +302,23 @@
       ]
     },
     {
+      "tmdb_id": 588921,
+      "title": "Ainbo: Spirit of the Amazon",
+      "year": "2021",
+      "poster": "/l8HyObVj8fPrzacAPtGWWLDhcfh.jpg",
+      "genre_ids": [
+        12,
+        16,
+        10751,
+        14
+      ],
+      "vote": 7,
+      "score": 1.7,
+      "because": [
+        "Wildwood"
+      ]
+    },
+    {
       "tmdb_id": 76492,
       "title": "Hotel Transylvania",
       "year": "2012",
@@ -284,20 +353,106 @@
       ]
     },
     {
-      "tmdb_id": 116711,
-      "title": "Epic",
-      "year": "2013",
-      "poster": "/81cSsWzjTfR3cJSqnTiHwy1eyPK.jpg",
+      "tmdb_id": 739547,
+      "title": "Thelma the Unicorn",
+      "year": "2024",
+      "poster": "/yutiEZ7taGDNau2jGjKIdDwQpDw.jpg",
+      "genre_ids": [
+        16,
+        14,
+        10751
+      ],
+      "vote": 6.9,
+      "score": 1.69,
+      "because": [
+        "Wildwood"
+      ]
+    },
+    {
+      "tmdb_id": 805051,
+      "title": "Welcome to Smelliville",
+      "year": "2021",
+      "poster": "/ArjU46Pq0TaPVhvjedZ0zfT82qM.jpg",
       "genre_ids": [
         16,
         12,
         10751,
         14
       ],
-      "vote": 6.571,
-      "score": 1.6571,
+      "vote": 6.7,
+      "score": 1.67,
       "because": [
-        "Spirited Away"
+        "Wildwood"
+      ]
+    },
+    {
+      "tmdb_id": 955644,
+      "title": "Mia and Me: The Hero of Centopia",
+      "year": "2022",
+      "poster": "/uHYoyAFffEKWRAH8cNaWI7xClj0.jpg",
+      "genre_ids": [
+        16,
+        14,
+        12,
+        10751
+      ],
+      "vote": 6.7,
+      "score": 1.67,
+      "because": [
+        "Wildwood"
+      ]
+    },
+    {
+      "tmdb_id": 10837,
+      "title": "DuckTales: The Movie - Treasure of the Lost Lamp",
+      "year": "1990",
+      "poster": "/tXya1Z9SC51kNOHsFxRqL1GIBua.jpg",
+      "genre_ids": [
+        12,
+        16,
+        10751,
+        35,
+        14
+      ],
+      "vote": 6.699,
+      "score": 1.6699,
+      "because": [
+        "Wildwood"
+      ]
+    },
+    {
+      "tmdb_id": 10539,
+      "title": "James and the Giant Peach",
+      "year": "1996",
+      "poster": "/vNEGobe23vW43mSPYVaVaBLP6qV.jpg",
+      "genre_ids": [
+        10751,
+        16,
+        12,
+        14
+      ],
+      "vote": 6.613,
+      "score": 1.6613,
+      "because": [
+        "Wildwood"
+      ]
+    },
+    {
+      "tmdb_id": 400157,
+      "title": "Wonder Park",
+      "year": "2019",
+      "poster": "/8KomINZhIuJeB4oB7k7tkq8tmE.jpg",
+      "genre_ids": [
+        35,
+        16,
+        12,
+        10751,
+        14
+      ],
+      "vote": 6.598,
+      "score": 1.6598,
+      "because": [
+        "Wildwood"
       ]
     },
     {
@@ -350,21 +505,19 @@
       ]
     },
     {
-      "tmdb_id": 683127,
-      "title": "Earwig and the Witch",
-      "year": "2021",
-      "poster": "/9oK820JieICOcfUhI6mkpFrcA9m.jpg",
+      "tmdb_id": 59981,
+      "title": "Legends of Oz: Dorothy's Return",
+      "year": "2014",
+      "poster": "/5XiNCjFudNX0Wj5LanPuIb8E9pU.jpg",
       "genre_ids": [
         16,
-        14,
         10751,
-        10402,
-        35
+        14
       ],
-      "vote": 5.935,
-      "score": 1.5935,
+      "vote": 6.245,
+      "score": 1.6245,
       "because": [
-        "Spirited Away"
+        "Wildwood"
       ]
     }
   ],
@@ -544,6 +697,21 @@
       "score": 1.6098,
       "because": [
         "Dune: Part Two"
+      ]
+    },
+    {
+      "tmdb_id": 346687,
+      "title": "The Water Man",
+      "year": "2020",
+      "poster": "/krupbFlSTnnKIjpRryrg2CTdeIL.jpg",
+      "genre_ids": [
+        12,
+        14
+      ],
+      "vote": 6.066,
+      "score": 1.6066,
+      "because": [
+        "Wildwood"
       ]
     },
     {

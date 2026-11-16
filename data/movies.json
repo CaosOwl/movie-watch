@@ -1,6 +1,6 @@
 {
   "home_country": "CH",
-  "generated": "2026-11-16T14:04:59.178Z",
+  "generated": "2026-11-16T14:07:34.579Z",
   "movies": [
     {
       "imdb_id": "tt1457767",
@@ -3765,7 +3765,7 @@
           "vote": 6.413
         }
       ],
-      "updated": "2026-11-16T14:04:58.352Z"
+      "updated": "2026-11-16T14:07:33.478Z"
     },
     {
       "imdb_id": "tt0245429",
@@ -6750,7 +6750,7 @@
           "vote": 6.436
         }
       ],
-      "updated": "2026-11-16T14:04:58.639Z"
+      "updated": "2026-11-16T14:07:33.760Z"
     },
     {
       "imdb_id": "tt15239678",
@@ -11051,7 +11051,728 @@
           "vote": 5.921
         }
       ],
-      "updated": "2026-11-16T14:04:58.928Z"
+      "updated": "2026-11-16T14:07:34.038Z"
+    },
+    {
+      "imdb_id": "tt2056785",
+      "category": "animation",
+      "added": "2026-11-16",
+      "watched": false,
+      "pending_title": "Wildwood",
+      "tmdb_id": 791523,
+      "title": "Wildwood",
+      "original_title": "Wildwood",
+      "year": "2026",
+      "release_date": "2026-10-19",
+      "status": "Released",
+      "runtime": 132,
+      "tagline": "How far would you go for those you love?",
+      "overview": "Prue and her classmate Curtis are drawn into a magical forest filled with enchanted creatures, loyal allies, and formidable adversaries as they embark on a desperate quest to rescue Prue's abducted baby brother from a murder of crows led by a mysterious woman named Alexandra.",
+      "genres": [
+        "Animation",
+        "Fantasy",
+        "Adventure"
+      ],
+      "genre_ids": [
+        16,
+        14,
+        12
+      ],
+      "keywords": [
+        "based on novel or book",
+        "portland, oregon",
+        "horse",
+        "rescue mission",
+        "forest",
+        "oregon, usa",
+        "stop motion",
+        "coyote",
+        "owl",
+        "3d animation",
+        "inspirational",
+        "enchanted forest",
+        "incredulous",
+        "intense",
+        "admiring"
+      ],
+      "poster": "/snFM00mpNAfUzUtkdEW0uDEvXA0.jpg",
+      "backdrop": "/sl5NJ1vtyhP9Vr88bB4blULsJYp.jpg",
+      "directors": [
+        "Travis Knight"
+      ],
+      "writers": [
+        "Chris Butler",
+        "Colin Meloy",
+        "Emanuela Cozzi",
+        "Carson Ellis"
+      ],
+      "cast": [
+        {
+          "name": "Peyton Elizabeth Lee",
+          "character": "Prue McKeel (voice)",
+          "photo": "/hnEl4HxqGNGHCJ7Y8l3dJ21WHeG.jpg"
+        },
+        {
+          "name": "Jacob Tremblay",
+          "character": "Curtis Mehlberg (voice)",
+          "photo": "/h8CXDp86Y36CUENF4SXJq5ZRTsf.jpg"
+        },
+        {
+          "name": "Carey Mulligan",
+          "character": "Alexandra (voice)",
+          "photo": "/iwVHhqoz5b62FR0SDpZ7wfsuTBI.jpg"
+        },
+        {
+          "name": "Mahershala Ali",
+          "character": "Brenden (voice)",
+          "photo": "/9ZmSejm5lnUVY5IJ1iNx2QEjnHb.jpg"
+        },
+        {
+          "name": "Richard E. Grant",
+          "character": "Owl Rex (voice)",
+          "photo": "/92oaBntIXhndCxUXaGywUyILIIE.jpg"
+        },
+        {
+          "name": "Angela Bassett",
+          "character": "The General (voice)",
+          "photo": "/tKnuviliyeKNGlo26IU5gIrJAtd.jpg"
+        },
+        {
+          "name": "Awkwafina",
+          "character": "Septima (voice)",
+          "photo": "/l5AKkg3H1QhMuXmTTmq1EyjyiRb.jpg"
+        },
+        {
+          "name": "Amandla Stenberg",
+          "character": "Niamh (voice)",
+          "photo": "/r6aPdJnGV2ZZkg6G55WOCicR39f.jpg"
+        },
+        {
+          "name": "Tom Waits",
+          "character": "Maxim (voice)",
+          "photo": "/kmPOnRmxUgL0rjIUF98uToQrQKB.jpg"
+        },
+        {
+          "name": "Charlie Day",
+          "character": "Dmitri (voice)",
+          "photo": "/c0HNhjChGybnHa4eoLyqO4dDu1j.jpg"
+        }
+      ],
+      "countries": [
+        "US"
+      ],
+      "languages": [
+        "English"
+      ],
+      "trailer": "https://www.youtube.com/watch?v=bJQGtSeLPII",
+      "ratings": {
+        "tmdb": {
+          "value": 8.5,
+          "votes": 284
+        },
+        "imdb": null,
+        "metascore": null,
+        "others": []
+      },
+      "imdb_url": "https://www.imdb.com/title/tt2056785/",
+      "releases": {
+        "byCountry": {
+          "AE": [
+            {
+              "type": "Theatrical",
+              "typeId": 3,
+              "date": "2026-10-29"
+            }
+          ],
+          "AR": [
+            {
+              "type": "Premiere",
+              "typeId": 1,
+              "date": "2026-10-27"
+            },
+            {
+              "type": "Theatrical",
+              "typeId": 3,
+              "date": "2026-10-29"
+            }
+          ],
+          "AU": [
+            {
+              "type": "Theatrical",
+              "typeId": 3,
+              "date": "2026-10-22"
+            }
+          ],
+          "BE": [
+            {
+              "type": "Premiere",
+              "typeId": 1,
+              "date": "2026-10-16",
+              "note": "Film Fest Gent"
+            },
+            {
+              "type": "Theatrical",
+              "typeId": 3,
+              "date": "2026-12-09"
+            }
+          ],
+          "BG": [
+            {
+              "type": "Theatrical",
+              "typeId": 3,
+              "date": "2027-01-01"
+            }
+          ],
+          "BH": [
+            {
+              "type": "Theatrical",
+              "typeId": 3,
+              "date": "2026-10-29"
+            }
+          ],
+          "BR": [
+            {
+              "type": "Theatrical",
+              "typeId": 3,
+              "date": "2026-10-29"
+            }
+          ],
+          "CA": [
+            {
+              "type": "Theatrical (limited)",
+              "typeId": 2,
+              "date": "2026-10-19",
+              "note": "Early access"
+            },
+            {
+              "type": "Theatrical",
+              "typeId": 3,
+              "date": "2026-10-22"
+            }
+          ],
+          "CL": [
+            {
+              "type": "Theatrical",
+              "typeId": 3,
+              "date": "2026-10-29"
+            }
+          ],
+          "CO": [
+            {
+              "type": "Theatrical",
+              "typeId": 3,
+              "date": "2026-10-29"
+            }
+          ],
+          "CZ": [
+            {
+              "type": "Theatrical",
+              "typeId": 3,
+              "date": "2026-10-29"
+            }
+          ],
+          "DE": [
+            {
+              "type": "Premiere",
+              "typeId": 1,
+              "date": "2026-10-31",
+              "note": "SHIVERS Film Festival"
+            },
+            {
+              "type": "Theatrical",
+              "typeId": 3,
+              "date": "2026-11-05"
+            }
+          ],
+          "EC": [
+            {
+              "type": "Theatrical",
+              "typeId": 3,
+              "date": "2026-10-29",
+              "note": "TP"
+            }
+          ],
+          "EE": [
+            {
+              "type": "Theatrical",
+              "typeId": 3,
+              "date": "2027-01-08"
+            }
+          ],
+          "ES": [
+            {
+              "type": "Premiere",
+              "typeId": 1,
+              "date": "2026-10-15",
+              "note": "Sitges International Fantastic Film Festival of Catalonia"
+            },
+            {
+              "type": "Theatrical",
+              "typeId": 3,
+              "date": "2026-10-23"
+            }
+          ],
+          "FR": [
+            {
+              "type": "Premiere",
+              "typeId": 1,
+              "date": "2026-10-15",
+              "note": "Festival Lumière"
+            },
+            {
+              "type": "Theatrical",
+              "typeId": 3,
+              "date": "2026-12-09"
+            }
+          ],
+          "GB": [
+            {
+              "type": "Premiere",
+              "typeId": 1,
+              "date": "2026-10-11",
+              "note": "BFI London Film Festival"
+            },
+            {
+              "type": "Theatrical",
+              "typeId": 3,
+              "date": "2026-10-23"
+            }
+          ],
+          "GT": [
+            {
+              "type": "Theatrical",
+              "typeId": 3,
+              "date": "2026-10-29",
+              "note": "A"
+            }
+          ],
+          "HR": [
+            {
+              "type": "Theatrical",
+              "typeId": 3,
+              "date": "2026-10-22"
+            }
+          ],
+          "IE": [
+            {
+              "type": "Theatrical",
+              "typeId": 3,
+              "date": "2026-10-23"
+            }
+          ],
+          "IL": [
+            {
+              "type": "Premiere",
+              "typeId": 1,
+              "date": "2026-10-22"
+            },
+            {
+              "type": "Premiere",
+              "typeId": 1,
+              "date": "2026-11-08",
+              "note": "Lev TLV"
+            },
+            {
+              "type": "Theatrical",
+              "typeId": 3,
+              "date": "2026-11-12"
+            }
+          ],
+          "IN": [
+            {
+              "type": "Theatrical",
+              "typeId": 3,
+              "date": "2026-11-13"
+            }
+          ],
+          "IQ": [
+            {
+              "type": "Theatrical",
+              "typeId": 3,
+              "date": "2026-10-29"
+            }
+          ],
+          "IT": [
+            {
+              "type": "Premiere",
+              "typeId": 1,
+              "date": "2026-10-14",
+              "note": "Alice nella città"
+            },
+            {
+              "type": "Theatrical",
+              "typeId": 3,
+              "date": "2026-10-22"
+            }
+          ],
+          "JP": [
+            {
+              "type": "Premiere",
+              "typeId": 1,
+              "date": "2026-10-28",
+              "note": "Tokyo International Film Festival"
+            }
+          ],
+          "KW": [
+            {
+              "type": "Theatrical",
+              "typeId": 3,
+              "date": "2026-10-29"
+            }
+          ],
+          "LV": [
+            {
+              "type": "Theatrical",
+              "typeId": 3,
+              "date": "2027-01-15"
+            }
+          ],
+          "MX": [
+            {
+              "type": "Premiere",
+              "typeId": 1,
+              "date": "2026-10-23",
+              "note": "Morelia International Film Festival "
+            },
+            {
+              "type": "Theatrical",
+              "typeId": 3,
+              "date": "2026-10-29"
+            }
+          ],
+          "NL": [
+            {
+              "type": "Theatrical",
+              "typeId": 3,
+              "date": "2026-10-22"
+            }
+          ],
+          "NO": [
+            {
+              "type": "Theatrical",
+              "typeId": 3,
+              "date": "2026-10-30"
+            }
+          ],
+          "NZ": [
+            {
+              "type": "Theatrical",
+              "typeId": 3,
+              "date": "2026-10-22"
+            }
+          ],
+          "OM": [
+            {
+              "type": "Theatrical",
+              "typeId": 3,
+              "date": "2026-10-29"
+            }
+          ],
+          "PE": [
+            {
+              "type": "Theatrical",
+              "typeId": 3,
+              "date": "2026-10-29",
+              "note": "M14"
+            }
+          ],
+          "PH": [
+            {
+              "type": "Theatrical",
+              "typeId": 3,
+              "date": "2026-11-11"
+            }
+          ],
+          "PL": [
+            {
+              "type": "Premiere",
+              "typeId": 1,
+              "date": "2026-10-16",
+              "note": "Warsaw International Film Festival"
+            },
+            {
+              "type": "Theatrical",
+              "typeId": 3,
+              "date": "2027-01-01"
+            }
+          ],
+          "PR": [
+            {
+              "type": "Theatrical",
+              "typeId": 3,
+              "date": "2026-10-29"
+            }
+          ],
+          "PT": [
+            {
+              "type": "Theatrical",
+              "typeId": 3,
+              "date": "2026-10-29"
+            }
+          ],
+          "PY": [
+            {
+              "type": "Theatrical",
+              "typeId": 3,
+              "date": "2026-10-29",
+              "note": "ATP"
+            }
+          ],
+          "QA": [
+            {
+              "type": "Theatrical",
+              "typeId": 3,
+              "date": "2026-10-29",
+              "note": "PG15"
+            }
+          ],
+          "RO": [
+            {
+              "type": "Theatrical",
+              "typeId": 3,
+              "date": "2026-10-30"
+            }
+          ],
+          "RU": [
+            {
+              "type": "Premiere",
+              "typeId": 1,
+              "date": "2026-10-18",
+              "note": "Karo/Art Film Festival"
+            },
+            {
+              "type": "Theatrical",
+              "typeId": 3,
+              "date": "2026-12-03"
+            }
+          ],
+          "SA": [
+            {
+              "type": "Theatrical",
+              "typeId": 3,
+              "date": "2026-10-29"
+            }
+          ],
+          "SE": [
+            {
+              "type": "Theatrical",
+              "typeId": 3,
+              "date": "2026-10-28"
+            }
+          ],
+          "SG": [
+            {
+              "type": "Theatrical",
+              "typeId": 3,
+              "date": "2026-10-22"
+            }
+          ],
+          "TR": [
+            {
+              "type": "Theatrical",
+              "typeId": 3,
+              "date": "2027-01-22"
+            }
+          ],
+          "UA": [
+            {
+              "type": "Theatrical",
+              "typeId": 3,
+              "date": "2027-01-07"
+            }
+          ],
+          "US": [
+            {
+              "type": "Theatrical",
+              "typeId": 3,
+              "date": "2026-10-23"
+            },
+            {
+              "type": "Digital",
+              "typeId": 4,
+              "date": "2026-12-08"
+            }
+          ],
+          "UY": [
+            {
+              "type": "Theatrical",
+              "typeId": 3,
+              "date": "2026-10-29"
+            }
+          ],
+          "ZA": [
+            {
+              "type": "Theatrical",
+              "typeId": 3,
+              "date": "2026-10-23"
+            }
+          ]
+        },
+        "earliestDigital": {
+          "country": "US",
+          "type": "Digital",
+          "typeId": 4,
+          "date": "2026-12-08"
+        }
+      },
+      "availability": {},
+      "recommendations": [
+        {
+          "tmdb_id": 1007757,
+          "title": "Swapped",
+          "year": "2026",
+          "poster": "/tHhxWxge06goXU6ZQH1hj7vK8Hd.jpg",
+          "genre_ids": [
+            12,
+            16,
+            10751,
+            14
+          ],
+          "vote": 8.831
+        },
+        {
+          "tmdb_id": 59981,
+          "title": "Legends of Oz: Dorothy's Return",
+          "year": "2014",
+          "poster": "/5XiNCjFudNX0Wj5LanPuIb8E9pU.jpg",
+          "genre_ids": [
+            16,
+            10751,
+            14
+          ],
+          "vote": 6.245
+        },
+        {
+          "tmdb_id": 10539,
+          "title": "James and the Giant Peach",
+          "year": "1996",
+          "poster": "/vNEGobe23vW43mSPYVaVaBLP6qV.jpg",
+          "genre_ids": [
+            10751,
+            16,
+            12,
+            14
+          ],
+          "vote": 6.613
+        },
+        {
+          "tmdb_id": 116711,
+          "title": "Epic",
+          "year": "2013",
+          "poster": "/81cSsWzjTfR3cJSqnTiHwy1eyPK.jpg",
+          "genre_ids": [
+            16,
+            12,
+            10751,
+            14
+          ],
+          "vote": 6.571
+        },
+        {
+          "tmdb_id": 10315,
+          "title": "Fantastic Mr. Fox",
+          "year": "2009",
+          "poster": "/bOVr292mwn3jxr1e0NmUPM1rcjo.jpg",
+          "genre_ids": [
+            12,
+            16,
+            35,
+            10751
+          ],
+          "vote": 7.829
+        },
+        {
+          "tmdb_id": 739547,
+          "title": "Thelma the Unicorn",
+          "year": "2024",
+          "poster": "/yutiEZ7taGDNau2jGjKIdDwQpDw.jpg",
+          "genre_ids": [
+            16,
+            14,
+            10751
+          ],
+          "vote": 6.9
+        },
+        {
+          "tmdb_id": 346687,
+          "title": "The Water Man",
+          "year": "2020",
+          "poster": "/krupbFlSTnnKIjpRryrg2CTdeIL.jpg",
+          "genre_ids": [
+            12,
+            14
+          ],
+          "vote": 6.066
+        },
+        {
+          "tmdb_id": 805051,
+          "title": "Welcome to Smelliville",
+          "year": "2021",
+          "poster": "/ArjU46Pq0TaPVhvjedZ0zfT82qM.jpg",
+          "genre_ids": [
+            16,
+            12,
+            10751,
+            14
+          ],
+          "vote": 6.7
+        },
+        {
+          "tmdb_id": 400157,
+          "title": "Wonder Park",
+          "year": "2019",
+          "poster": "/8KomINZhIuJeB4oB7k7tkq8tmE.jpg",
+          "genre_ids": [
+            35,
+            16,
+            12,
+            10751,
+            14
+          ],
+          "vote": 6.598
+        },
+        {
+          "tmdb_id": 10837,
+          "title": "DuckTales: The Movie - Treasure of the Lost Lamp",
+          "year": "1990",
+          "poster": "/tXya1Z9SC51kNOHsFxRqL1GIBua.jpg",
+          "genre_ids": [
+            12,
+            16,
+            10751,
+            35,
+            14
+          ],
+          "vote": 6.699
+        },
+        {
+          "tmdb_id": 955644,
+          "title": "Mia and Me: The Hero of Centopia",
+          "year": "2022",
+          "poster": "/uHYoyAFffEKWRAH8cNaWI7xClj0.jpg",
+          "genre_ids": [
+            16,
+            14,
+            12,
+            10751
+          ],
+          "vote": 6.7
+        },
+        {
+          "tmdb_id": 588921,
+          "title": "Ainbo: Spirit of the Amazon",
+          "year": "2021",
+          "poster": "/l8HyObVj8fPrzacAPtGWWLDhcfh.jpg",
+          "genre_ids": [
+            12,
+            16,
+            10751,
+            14
+          ],
+          "vote": 7
+        }
+      ],
+      "updated": "2026-11-16T14:07:34.329Z"
     }
   ]
 }
