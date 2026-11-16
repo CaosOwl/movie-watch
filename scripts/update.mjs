@@ -141,7 +141,8 @@ function diffAvailability(prev, next) {
   const added = [...after].filter((k) => !before.has(k));
   if (prev && added.length) {
     const nice = added.map((k) => { const [t, n] = k.split(':'); return `${n} (${t === 'flatrate' ? 'stream' : t})`; });
-    alerts.push({ kind: 'home', text: `🇨🇭 "${next.title}" new in ${HOME}: ${nice.join(', ')}`, link: next.availability[HOME]?.link });
+    const netflix = added.some((k) => /^(flatrate|free|ads):.*netflix/i.test(k));
+    alerts.push({ kind: netflix ? 'netflix' : 'home', text: `${netflix ? '🔴 On Netflix! ' : '🇨🇭 '}"${next.title}" new in ${HOME}: ${nice.join(', ')}`, link: next.availability[HOME]?.link });
   }
   return alerts.map((a) => ({ ...a, imdb_id: next.imdb_id, date: new Date().toISOString() }));
 }

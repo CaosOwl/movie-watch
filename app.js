@@ -78,11 +78,18 @@ function homeOffers(m) {
   return Object.keys(OFFER_LABEL).filter((t) => e[t]).map((t) => ({ type: t, providers: e[t] }));
 }
 
+const NETFLIX_TYPES = ['flatrate', 'free', 'ads'];
+function onNetflix(m) {
+  const e = m.availability?.[cfg.home];
+  return !!e && NETFLIX_TYPES.some((t) => (e[t] || []).some((p) => /netflix/i.test(p.name)));
+}
+const NETFLIX_BADGE = '<span class="badge netflix">N&nbsp;Netflix</span>';
+
 function availabilityBadges(m) {
   if (m.pending) return `<span class="badge pending">${esc(m.pending_title ? 'Fetching details…' : 'Fetching…')}</span>`;
   const offers = homeOffers(m);
   if (offers.length) {
-    return offers.map((o) => `<span class="badge ${o.type === 'flatrate' || o.type === 'free' || o.type === 'ads' ? 'stream' : o.type}">${OFFER_LABEL[o.type]}: ${esc(o.providers.slice(0, 3).map((p) => p.name).join(', '))}</span>`).join('');
+    return (onNetflix(m) ? NETFLIX_BADGE : '') + offers.map((o) => `<span class="badge ${o.type === 'flatrate' || o.type === 'free' || o.type === 'ads' ? 'stream' : o.type}">${OFFER_LABEL[o.type]}: ${esc(o.providers.slice(0, 3).map((p) => p.name).join(', '))}</span>`).join('');
   }
   const n = Object.keys(m.availability || {}).length;
   if (n) return `<span class="badge world">Not in ${cfg.home} yet · legal in ${n} countr${n === 1 ? 'y' : 'ies'}</span>`;
@@ -164,12 +171,13 @@ function render() {
     return;
   }
 
-  const onlyCH = $('#f-ch').checked, showWatched = $('#f-watched').checked;
+  const onlyCH = $('#f-ch').checked, showWatched = $('#f-watched').checked, onlyNetflix = $('#f-netflix').checked;
   const items = mergedList()
     .filter((m) => m.category === state.tab)
     .filter((m) => showWatched || !m.watched)
     .filter((m) => !onlyCH || homeOffers(m).length)
-    .sort((a, b) => (homeOffers(b).length > 0) - (homeOffers(a).length > 0) || (b.added || '').localeCompare(a.added || ''));
+    .filter((m) => !onlyNetflix || onNetflix(m))
+    .sort((a, b) => onNetflix(b) - onNetflix(a) || (homeOffers(b).length > 0) - (homeOffers(a).length > 0) || (b.added || '').localeCompare(a.added || ''));
   list.innerHTML = items.length ? items.map(card).join('') : '<p class="muted">Nothing here yet — tap ＋ Add.</p>';
 }
 
@@ -204,6 +212,7 @@ function openDetail(id) {
       ${ratings ? `<div>${ratings}</div>` : ''}
       ${m.awards ? `<div class="meta">🏆 ${esc(m.awards)}</div>` : ''}
 
+      ${onNetflix(m) ? `<div class="badges">${NETFLIX_BADGE}<span class="meta">Included in your Netflix subscription</span></div>` : ''}
       <div class="section"><h4>Watch legally in ${esc(regionName(cfg.home))}</h4>
         ${home ? providerList(home) + `<p><a href="${esc(home.link)}" target="_blank" rel="noopener">Open offers (JustWatch/TMDB) →</a></p>`
                : `<p class="muted">Not available in ${esc(cfg.home)} yet.${upcomingLegal(m) ? ` Expected: ${esc(upcomingLegal(m))}.` : ''} You'll get an alert when it appears.</p>`}
@@ -327,6 +336,7 @@ async function search(q) {
 $('#tabs').addEventListener('click', (e) => { const t = e.target.closest('button')?.dataset.tab; if (t) { state.tab = t; render(); } });
 $('#f-ch').addEventListener('change', render);
 $('#f-watched').addEventListener('change', render);
+$('#f-netflix').addEventListener('change', render);
 $('#list').addEventListener('click', (e) => {
   const chip = e.target.closest('[data-soonc]');
   if (chip) { state.soonCat = chip.dataset.soonc; render(); return; }

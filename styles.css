@@ -73,3 +73,5 @@ details summary { cursor: pointer; color: var(--muted); font-size: 14px; }
 .chips button { border-radius: 999px; font-size: 13px; padding: 4px 10px; }
 .chips button.active { background: var(--text); color: var(--bg); }
 .card .synopsis { font-size: 13px; margin-top: 6px; display: -webkit-box; -webkit-line-clamp: 3; -webkit-box-orient: vertical; overflow: hidden; }
+.badge.netflix { background: #e50914; border-color: #e50914; color: #fff; font-weight: 700; }
+#filters { flex-wrap: wrap; }
