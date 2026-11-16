@@ -1,7 +1,32 @@
 {
   "movies": [
-    { "imdb_id": "tt1457767", "category": "horror", "added": "2026-11-15", "watched": false, "note": "Example: The Conjuring" },
-    { "imdb_id": "tt0245429", "category": "animation", "added": "2026-11-15", "watched": false, "note": "Example: Spirited Away" },
-    { "imdb_id": "tt15239678", "category": "general", "added": "2026-11-15", "watched": false, "note": "Example: Dune: Part Two" }
+    {
+      "imdb_id": "tt1457767",
+      "category": "horror",
+      "added": "2026-11-15",
+      "watched": false,
+      "note": "Example: The Conjuring"
+    },
+    {
+      "imdb_id": "tt0245429",
+      "category": "animation",
+      "added": "2026-11-15",
+      "watched": false,
+      "note": "Example: Spirited Away"
+    },
+    {
+      "imdb_id": "tt15239678",
+      "category": "general",
+      "added": "2026-11-15",
+      "watched": false,
+      "note": "Example: Dune: Part Two"
+    },
+    {
+      "imdb_id": "tt2056785",
+      "category": "animation",
+      "added": "2026-11-16",
+      "watched": false,
+      "pending_title": "Wildwood"
+    }
   ]
 }
