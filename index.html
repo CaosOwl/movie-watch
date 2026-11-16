@@ -1,0 +1,77 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1, viewport-fit=cover">
+  <meta name="theme-color" content="#14101c">
+  <title>Cinema Watchlist</title>
+  <link rel="manifest" href="manifest.webmanifest">
+  <link rel="icon" href="icons/icon.svg">
+  <link rel="stylesheet" href="styles.css">
+</head>
+<body>
+  <header>
+    <h1>Cinema</h1>
+    <div class="head-actions">
+      <button id="btn-add" class="primary" aria-label="Add movie">＋ Add</button>
+      <button id="btn-settings" aria-label="Settings">⚙︎</button>
+    </div>
+  </header>
+
+  <nav id="tabs">
+    <button data-tab="horror" class="active">Horror</button>
+    <button data-tab="animation">Animation</button>
+    <button data-tab="general">General</button>
+    <button data-tab="recs">For you</button>
+    <button data-tab="alerts">Alerts</button>
+  </nav>
+
+  <div id="filters">
+    <label><input type="checkbox" id="f-ch"> Watchable in Switzerland</label>
+    <label><input type="checkbox" id="f-watched"> Show watched</label>
+  </div>
+
+  <main id="list"></main>
+  <p id="status" class="muted"></p>
+
+  <!-- Movie detail -->
+  <dialog id="detail"><div id="detail-body"></div></dialog>
+
+  <!-- Add movie -->
+  <dialog id="add">
+    <form method="dialog" class="sheet" id="add-form">
+      <h2>Add a movie</h2>
+      <input id="q" placeholder="Search a title, or paste an IMDb link / tt-ID" autocomplete="off">
+      <div class="cat-pick">
+        <label><input type="radio" name="cat" value="auto" checked> Auto</label>
+        <label><input type="radio" name="cat" value="horror"> Horror</label>
+        <label><input type="radio" name="cat" value="animation"> Animation</label>
+        <label><input type="radio" name="cat" value="general"> General</label>
+      </div>
+      <div id="results"></div>
+      <menu><button value="cancel">Close</button></menu>
+    </form>
+  </dialog>
+
+  <!-- Settings -->
+  <dialog id="settings">
+    <form method="dialog" class="sheet" id="settings-form">
+      <h2>Settings</h2>
+      <p class="muted">Stored only on this device.</p>
+      <label>GitHub repository (owner/name)<input name="repo" placeholder="CaosOwl/movie-watch"></label>
+      <label>GitHub token (fine-grained, Contents: read &amp; write, this repo only)<input name="ghToken" type="password"></label>
+      <label>TMDB read access token (for search in the app)<input name="tmdbToken" type="password"></label>
+      <label>Home country<input name="home" value="CH" maxlength="2"></label>
+      <menu><button value="cancel">Cancel</button><button value="save" class="primary">Save</button></menu>
+    </form>
+  </dialog>
+
+  <footer class="muted">
+    Data: <a href="https://www.themoviedb.org/" target="_blank" rel="noopener">TMDB</a> ·
+    availability by <a href="https://www.justwatch.com/" target="_blank" rel="noopener">JustWatch</a> ·
+    IMDb data via <a href="https://www.omdbapi.com/" target="_blank" rel="noopener">OMDb</a>.
+    This product uses the TMDB API but is not endorsed or certified by TMDB.
+  </footer>
+  <script src="app.js" type="module"></script>
+</body>
+</html>
