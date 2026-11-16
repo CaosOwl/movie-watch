@@ -1,6 +1,6 @@
 {
   "home_country": "CH",
-  "generated": "2026-11-16T14:14:56.574Z",
+  "generated": "2026-11-16T14:19:30.615Z",
   "movies": [
     {
       "imdb_id": "tt1457767",
@@ -3765,7 +3765,7 @@
           "vote": 6.413
         }
       ],
-      "updated": "2026-11-16T14:14:54.959Z"
+      "updated": "2026-11-16T14:19:28.360Z"
     },
     {
       "imdb_id": "tt0245429",
@@ -6750,7 +6750,7 @@
           "vote": 6.436
         }
       ],
-      "updated": "2026-11-16T14:14:55.226Z"
+      "updated": "2026-11-16T14:19:28.684Z"
     },
     {
       "imdb_id": "tt15239678",
@@ -11051,7 +11051,7 @@
           "vote": 5.921
         }
       ],
-      "updated": "2026-11-16T14:14:55.499Z"
+      "updated": "2026-11-16T14:19:29.038Z"
     },
     {
       "imdb_id": "tt2056785",
@@ -11772,7 +11772,7 @@
           "vote": 7
         }
       ],
-      "updated": "2026-11-16T14:14:55.765Z"
+      "updated": "2026-11-16T14:19:29.360Z"
     },
     {
       "imdb_id": "tt22084616",
@@ -14476,7 +14476,7 @@
           "vote": 6.529
         }
       ],
-      "updated": "2026-11-16T14:14:56.051Z"
+      "updated": "2026-11-16T14:19:29.713Z"
     },
     {
       "imdb_id": "tt45368240",
@@ -15235,7 +15235,653 @@
           "vote": 8.025
         }
       ],
-      "updated": "2026-11-16T14:14:56.325Z"
+      "updated": "2026-11-16T14:19:30.034Z"
+    },
+    {
+      "imdb_id": "tt21357150",
+      "category": "general",
+      "added": "2026-11-16",
+      "watched": false,
+      "pending_title": "Avengers: Doomsday",
+      "tmdb_id": 1003596,
+      "title": "Avengers: Doomsday",
+      "original_title": "Avengers: Doomsday",
+      "year": "2026",
+      "release_date": "2026-12-16",
+      "status": "Post Production",
+      "runtime": 165,
+      "tagline": "Meet your doom.",
+      "overview": "Beloved heroes from three distinct universes are set on a deadly collision course and face an existential threat unlike anything they've ever encountered.",
+      "genres": [
+        "Science Fiction",
+        "Action",
+        "Adventure"
+      ],
+      "genre_ids": [
+        878,
+        28,
+        12
+      ],
+      "keywords": [
+        "superhero",
+        "based on comic",
+        "sequel",
+        "superhero team",
+        "marvel cinematic universe (mcu)",
+        "team up",
+        "multiverse"
+      ],
+      "poster": "/1zqWkLwC1zLBBBtIWzmkmWeMWnT.jpg",
+      "backdrop": "/rObL4of4eFA8yWaN9pRFo9aOVNi.jpg",
+      "directors": [
+        "Joe Russo",
+        "Anthony Russo"
+      ],
+      "writers": [
+        "Stephen McFeely",
+        "Jack Kirby",
+        "Stan Lee",
+        "Michael Waldron"
+      ],
+      "cast": [
+        {
+          "name": "Robert Downey Jr.",
+          "character": "Victor von Doom  / Doctor Doom",
+          "photo": "/5qHNjhtjMD4YWH3UP0rm4tKwxCL.jpg"
+        },
+        {
+          "name": "Chris Evans",
+          "character": "Steve Rogers",
+          "photo": "/3bOGNsHlrswhyW79uvIHH1V43JI.jpg"
+        },
+        {
+          "name": "Chris Hemsworth",
+          "character": "Thor",
+          "photo": "/piQGdoIQOF3C1EI5cbYZLAW1gfj.jpg"
+        },
+        {
+          "name": "Pedro Pascal",
+          "character": "Reed Richards / Mister Fantastic",
+          "photo": "/cuhkTL3MezjArl80MnYl6QJQ4PQ.jpg"
+        },
+        {
+          "name": "Paul Rudd",
+          "character": "Scott Lang / Ant-Man",
+          "photo": "/6jtwNOLKy0LdsRAKwZqgYMAfd5n.jpg"
+        },
+        {
+          "name": "Anthony Mackie",
+          "character": "Sam Wilson / Captain America",
+          "photo": "/vecvTm7SimizluJkyIwBxeLbvRm.jpg"
+        },
+        {
+          "name": "Florence Pugh",
+          "character": "Yelena Belova",
+          "photo": "/2URrZb95t3kY6pLroKny3Enmabp.jpg"
+        },
+        {
+          "name": "Vanessa Kirby",
+          "character": "Sue Storm / Invisible Woman",
+          "photo": "/a8a9U00KL2JJkkekzhNnueIGKKF.jpg"
+        },
+        {
+          "name": "Ebon Moss-Bachrach",
+          "character": "Ben Grimm / The Thing",
+          "photo": "/xD8GVNayMpiTZxLfahy2DseYcQq.jpg"
+        },
+        {
+          "name": "Wyatt Russell",
+          "character": "John Walker",
+          "photo": "/zIldBzXdBWskPZB7x35G2hYEVDo.jpg"
+        }
+      ],
+      "countries": [
+        "US"
+      ],
+      "languages": [
+        "English"
+      ],
+      "trailer": "https://www.youtube.com/watch?v=X1aFkAkFASk",
+      "ratings": {
+        "tmdb": null,
+        "imdb": null,
+        "metascore": null,
+        "others": []
+      },
+      "imdb_url": "https://www.imdb.com/title/tt21357150/",
+      "releases": {
+        "byCountry": {
+          "AM": [
+            {
+              "type": "Theatrical",
+              "typeId": 3,
+              "date": "2027-01-07"
+            }
+          ],
+          "AR": [
+            {
+              "type": "Theatrical",
+              "typeId": 3,
+              "date": "2026-12-16"
+            }
+          ],
+          "AT": [
+            {
+              "type": "Theatrical",
+              "typeId": 3,
+              "date": "2026-12-16"
+            }
+          ],
+          "AU": [
+            {
+              "type": "Theatrical",
+              "typeId": 3,
+              "date": "2026-12-16"
+            }
+          ],
+          "BE": [
+            {
+              "type": "Theatrical",
+              "typeId": 3,
+              "date": "2026-12-16"
+            }
+          ],
+          "BG": [
+            {
+              "type": "Theatrical",
+              "typeId": 3,
+              "date": "2026-12-18"
+            }
+          ],
+          "BH": [
+            {
+              "type": "Theatrical",
+              "typeId": 3,
+              "date": "2026-12-16"
+            }
+          ],
+          "BR": [
+            {
+              "type": "Theatrical",
+              "typeId": 3,
+              "date": "2026-12-17"
+            }
+          ],
+          "CA": [
+            {
+              "type": "Theatrical",
+              "typeId": 3,
+              "date": "2026-12-18"
+            }
+          ],
+          "CL": [
+            {
+              "type": "Theatrical",
+              "typeId": 3,
+              "date": "2026-12-16"
+            }
+          ],
+          "CN": [
+            {
+              "type": "Theatrical",
+              "typeId": 3,
+              "date": "2026-12-16"
+            }
+          ],
+          "CZ": [
+            {
+              "type": "Theatrical",
+              "typeId": 3,
+              "date": "2026-12-17"
+            }
+          ],
+          "DE": [
+            {
+              "type": "Theatrical",
+              "typeId": 3,
+              "date": "2026-12-16"
+            }
+          ],
+          "EC": [
+            {
+              "type": "Theatrical",
+              "typeId": 3,
+              "date": "2026-12-16",
+              "note": "+12"
+            }
+          ],
+          "EE": [
+            {
+              "type": "Theatrical",
+              "typeId": 3,
+              "date": "2026-12-18"
+            }
+          ],
+          "ES": [
+            {
+              "type": "Theatrical",
+              "typeId": 3,
+              "date": "2026-12-18"
+            }
+          ],
+          "FI": [
+            {
+              "type": "Theatrical",
+              "typeId": 3,
+              "date": "2026-12-16"
+            }
+          ],
+          "FR": [
+            {
+              "type": "Theatrical",
+              "typeId": 3,
+              "date": "2026-12-16"
+            }
+          ],
+          "GB": [
+            {
+              "type": "Theatrical",
+              "typeId": 3,
+              "date": "2026-12-16"
+            }
+          ],
+          "HK": [
+            {
+              "type": "Theatrical",
+              "typeId": 3,
+              "date": "2026-12-16"
+            }
+          ],
+          "HR": [
+            {
+              "type": "Theatrical",
+              "typeId": 3,
+              "date": "2026-12-17"
+            }
+          ],
+          "HU": [
+            {
+              "type": "Theatrical",
+              "typeId": 3,
+              "date": "2026-12-17"
+            }
+          ],
+          "ID": [
+            {
+              "type": "Theatrical",
+              "typeId": 3,
+              "date": "2026-12-18"
+            }
+          ],
+          "IL": [
+            {
+              "type": "Theatrical",
+              "typeId": 3,
+              "date": "2026-12-17"
+            }
+          ],
+          "IN": [
+            {
+              "type": "Theatrical",
+              "typeId": 3,
+              "date": "2026-12-17"
+            }
+          ],
+          "IQ": [
+            {
+              "type": "Theatrical",
+              "typeId": 3,
+              "date": "2026-12-17"
+            }
+          ],
+          "IT": [
+            {
+              "type": "Theatrical",
+              "typeId": 3,
+              "date": "2026-12-16"
+            }
+          ],
+          "JO": [
+            {
+              "type": "Theatrical",
+              "typeId": 3,
+              "date": "2026-12-17"
+            }
+          ],
+          "JP": [
+            {
+              "type": "Theatrical",
+              "typeId": 3,
+              "date": "2026-12-18"
+            }
+          ],
+          "KR": [
+            {
+              "type": "Theatrical",
+              "typeId": 3,
+              "date": "2026-12-16"
+            }
+          ],
+          "KW": [
+            {
+              "type": "Theatrical",
+              "typeId": 3,
+              "date": "2026-12-17"
+            }
+          ],
+          "KZ": [
+            {
+              "type": "Theatrical",
+              "typeId": 3,
+              "date": "2027-01-07"
+            }
+          ],
+          "LV": [
+            {
+              "type": "Theatrical",
+              "typeId": 3,
+              "date": "2026-12-18"
+            }
+          ],
+          "MX": [
+            {
+              "type": "Theatrical",
+              "typeId": 3,
+              "date": "2026-12-16"
+            }
+          ],
+          "NP": [
+            {
+              "type": "Theatrical",
+              "typeId": 3,
+              "date": "2026-12-18"
+            }
+          ],
+          "NZ": [
+            {
+              "type": "Theatrical",
+              "typeId": 3,
+              "date": "2026-12-17"
+            }
+          ],
+          "PE": [
+            {
+              "type": "Theatrical",
+              "typeId": 3,
+              "date": "2026-12-16",
+              "note": "APT"
+            }
+          ],
+          "PH": [
+            {
+              "type": "Theatrical",
+              "typeId": 3,
+              "date": "2026-12-16"
+            }
+          ],
+          "PL": [
+            {
+              "type": "Theatrical",
+              "typeId": 3,
+              "date": "2026-12-16"
+            }
+          ],
+          "PY": [
+            {
+              "type": "Theatrical",
+              "typeId": 3,
+              "date": "2026-12-16",
+              "note": "S13"
+            }
+          ],
+          "SA": [
+            {
+              "type": "Theatrical",
+              "typeId": 3,
+              "date": "2026-12-16"
+            }
+          ],
+          "SE": [
+            {
+              "type": "Theatrical",
+              "typeId": 3,
+              "date": "2026-12-16"
+            }
+          ],
+          "SG": [
+            {
+              "type": "Theatrical",
+              "typeId": 3,
+              "date": "2026-12-17"
+            }
+          ],
+          "TH": [
+            {
+              "type": "Theatrical",
+              "typeId": 3,
+              "date": "2026-12-17"
+            }
+          ],
+          "TR": [
+            {
+              "type": "Theatrical",
+              "typeId": 3,
+              "date": "2026-12-18"
+            }
+          ],
+          "TW": [
+            {
+              "type": "Theatrical",
+              "typeId": 3,
+              "date": "2026-12-16"
+            }
+          ],
+          "UA": [
+            {
+              "type": "Theatrical",
+              "typeId": 3,
+              "date": "2026-12-17"
+            }
+          ],
+          "US": [
+            {
+              "type": "Premiere",
+              "typeId": 1,
+              "date": "2026-12-14",
+              "note": "Los Angeles, California"
+            },
+            {
+              "type": "Theatrical",
+              "typeId": 3,
+              "date": "2026-12-18"
+            }
+          ],
+          "UY": [
+            {
+              "type": "Theatrical",
+              "typeId": 3,
+              "date": "2026-12-16"
+            }
+          ],
+          "UZ": [
+            {
+              "type": "Theatrical",
+              "typeId": 3,
+              "date": "2027-01-07"
+            }
+          ],
+          "VE": [
+            {
+              "type": "Theatrical",
+              "typeId": 3,
+              "date": "2026-12-17"
+            }
+          ],
+          "VN": [
+            {
+              "type": "Theatrical",
+              "typeId": 3,
+              "date": "2026-12-18"
+            }
+          ],
+          "ZA": [
+            {
+              "type": "Theatrical",
+              "typeId": 3,
+              "date": "2026-12-16"
+            }
+          ]
+        },
+        "earliestDigital": null
+      },
+      "availability": {},
+      "recommendations": [
+        {
+          "tmdb_id": 271110,
+          "title": "Captain America: Civil War",
+          "year": "2016",
+          "poster": "/rAGiXaUfPzY7CDEyNKUofk3Kw2e.jpg",
+          "genre_ids": [
+            12,
+            28,
+            878
+          ],
+          "vote": 7.455
+        },
+        {
+          "tmdb_id": 141052,
+          "title": "Justice League",
+          "year": "2017",
+          "poster": "/eifGNCSDuxJeS1loAXil5bIGgvC.jpg",
+          "genre_ids": [
+            28,
+            12,
+            878
+          ],
+          "vote": 6.062
+        },
+        {
+          "tmdb_id": 299536,
+          "title": "Avengers: Infinity War",
+          "year": "2018",
+          "poster": "/7WsyChQLEftFiDOVTGkv3hFpyyt.jpg",
+          "genre_ids": [
+            12,
+            28,
+            878
+          ],
+          "vote": 8.247
+        },
+        {
+          "tmdb_id": 299534,
+          "title": "Avengers: Endgame",
+          "year": "2019",
+          "poster": "/jtDv3lCnST0fZRvdYFwR5CVwK2x.jpg",
+          "genre_ids": [
+            12,
+            878,
+            28
+          ],
+          "vote": 8.247
+        },
+        {
+          "tmdb_id": 447365,
+          "title": "Guardians of the Galaxy Vol. 3",
+          "year": "2023",
+          "poster": "/r2J02Z2OpNTctfOSN1Ydgii51I3.jpg",
+          "genre_ids": [
+            878,
+            12,
+            28
+          ],
+          "vote": 7.93
+        },
+        {
+          "tmdb_id": 320288,
+          "title": "Dark Phoenix",
+          "year": "2019",
+          "poster": "/cCTJPelKGLhALq3r51A9uMonxKj.jpg",
+          "genre_ids": [
+            878,
+            28,
+            12
+          ],
+          "vote": 5.957
+        },
+        {
+          "tmdb_id": 283995,
+          "title": "Guardians of the Galaxy Vol. 2",
+          "year": "2017",
+          "poster": "/y4MBh0EjBlMuOzv9axM4qJlmhzz.jpg",
+          "genre_ids": [
+            878,
+            12,
+            28
+          ],
+          "vote": 7.607
+        },
+        {
+          "tmdb_id": 10138,
+          "title": "Iron Man 2",
+          "year": "2010",
+          "poster": "/6WBeq4fCfn7AN0o21W9qNcRF2l9.jpg",
+          "genre_ids": [
+            12,
+            28,
+            878
+          ],
+          "vote": 6.856
+        },
+        {
+          "tmdb_id": 1452,
+          "title": "Superman Returns",
+          "year": "2006",
+          "poster": "/385XwTQZDpRX2d3kxtnpiLrjBXw.jpg",
+          "genre_ids": [
+            878,
+            28,
+            12
+          ],
+          "vote": 5.832
+        },
+        {
+          "tmdb_id": 640146,
+          "title": "Ant-Man and the Wasp: Quantumania",
+          "year": "2023",
+          "poster": "/qnqGbB22YJ7dSs4o6M7exTpNxPz.jpg",
+          "genre_ids": [
+            28,
+            12,
+            878
+          ],
+          "vote": 6.194
+        },
+        {
+          "tmdb_id": 1155089,
+          "title": "Justice League: Crisis on Infinite Earths Part One",
+          "year": "2024",
+          "poster": "/mcRVsjMbhFstRK9z2oGRHiIvulr.jpg",
+          "genre_ids": [
+            16,
+            878,
+            28
+          ],
+          "vote": 7.22
+        },
+        {
+          "tmdb_id": 24428,
+          "title": "The Avengers",
+          "year": "2012",
+          "poster": "/RYMX2wcKCBAr24UyPD7xwmjaTn.jpg",
+          "genre_ids": [
+            878,
+            28,
+            12
+          ],
+          "vote": 8.085
+        }
+      ],
+      "updated": "2026-11-16T14:19:30.365Z"
     }
   ]
 }
