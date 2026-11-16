@@ -6,6 +6,11 @@ const $ = (s, el = document) => el.querySelector(s);
 const esc = (s) => String(s ?? '').replace(/[&<>"']/g, (c) => ({ '&': '&amp;', '<': '&lt;', '>': '&gt;', '"': '&quot;', "'": '&#39;' }[c]));
 const cfg = JSON.parse(localStorage.getItem('cinema-cfg') || '{}');
 cfg.home = (cfg.home || 'CH').toUpperCase();
+// On GitHub Pages (<owner>.github.io/<repo>/) the repository can be derived from the URL.
+if (!cfg.repo && location.hostname.endsWith('.github.io')) {
+  const repoName = location.pathname.split('/').filter(Boolean)[0];
+  if (repoName) cfg.repo = `${location.hostname.split('.')[0]}/${repoName}`;
+}
 const regionName = (cc) => { try { return new Intl.DisplayNames(['en'], { type: 'region' }).of(cc); } catch { return cc; } };
 const OFFER_LABEL = { flatrate: 'Stream', free: 'Free', ads: 'Free (ads)', rent: 'Rent', buy: 'Buy' };
 
@@ -42,7 +47,7 @@ async function loadWatchlist() {
 }
 
 async function saveWatchlist(message) {
-  if (!cfg.repo || !cfg.ghToken) { alert('Add your GitHub repo and token in Settings first.'); throw new Error('no token'); }
+  if (!cfg.repo || !cfg.ghToken) { alert(`Missing in Settings (⚙︎): ${[!cfg.repo && 'GitHub repository', !cfg.ghToken && 'GitHub token'].filter(Boolean).join(' and ')}. Fill it in and tap Save.`); throw new Error('no token'); }
   const body = { message, content: b64encode(JSON.stringify(state.watchlist, null, 2) + '\n'), sha: state.watchlistSha, branch: 'main' };
   const res = await gh('/contents/data/watchlist.json', { method: 'PUT', body: JSON.stringify(body) });
   state.watchlistSha = res.content.sha;
