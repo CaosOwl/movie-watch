@@ -1,6 +1,6 @@
 {
   "home_country": "CH",
-  "generated": "2026-11-17T12:15:37.928Z",
+  "generated": "2026-11-17T12:17:20.076Z",
   "movies": [
     {
       "imdb_id": "tt1457767",
@@ -3757,7 +3757,7 @@
           "vote": 6.413
         }
       ],
-      "updated": "2026-11-17T12:15:34.005Z"
+      "updated": "2026-11-17T12:17:14.641Z"
     },
     {
       "imdb_id": "tt0245429",
@@ -6754,7 +6754,7 @@
           "vote": 6.436
         }
       ],
-      "updated": "2026-11-17T12:15:34.343Z"
+      "updated": "2026-11-17T12:17:15.079Z"
     },
     {
       "imdb_id": "tt15239678",
@@ -11057,7 +11057,7 @@
           "vote": 7.9
         }
       ],
-      "updated": "2026-11-17T12:15:34.678Z"
+      "updated": "2026-11-17T12:17:15.499Z"
     },
     {
       "imdb_id": "tt2056785",
@@ -11773,7 +11773,7 @@
           "vote": 6.818
         }
       ],
-      "updated": "2026-11-17T12:15:35.004Z"
+      "updated": "2026-11-17T12:17:15.930Z"
     },
     {
       "imdb_id": "tt22084616",
@@ -14483,7 +14483,7 @@
           "vote": 6.53
         }
       ],
-      "updated": "2026-11-17T12:15:35.355Z"
+      "updated": "2026-11-17T12:17:16.400Z"
     },
     {
       "imdb_id": "tt45368240",
@@ -15238,7 +15238,7 @@
           "vote": 6.8
         }
       ],
-      "updated": "2026-11-17T12:15:35.687Z"
+      "updated": "2026-11-17T12:17:16.819Z"
     },
     {
       "imdb_id": "tt21357150",
@@ -15895,7 +15895,7 @@
           "vote": 8.085
         }
       ],
-      "updated": "2026-11-17T12:15:36.009Z"
+      "updated": "2026-11-17T12:17:17.244Z"
     },
     {
       "imdb_id": "tt31378509",
@@ -16720,7 +16720,7 @@
           "vote": 7.321
         }
       ],
-      "updated": "2026-11-17T12:15:36.351Z"
+      "updated": "2026-11-17T12:17:17.676Z"
     },
     {
       "imdb_id": "tt16360004",
@@ -17093,7 +17093,7 @@
           "vote": 7.059
         }
       ],
-      "updated": "2026-11-17T12:15:36.677Z"
+      "updated": "2026-11-17T12:17:18.109Z"
     },
     {
       "imdb_id": "tt18270542",
@@ -18015,7 +18015,7 @@
           "vote": 6.2
         }
       ],
-      "updated": "2026-11-17T12:15:37.003Z"
+      "updated": "2026-11-17T12:17:18.535Z"
     },
     {
       "imdb_id": "tt16744566",
@@ -18381,7 +18381,7 @@
           "vote": 7.216
         }
       ],
-      "updated": "2026-11-17T12:15:37.340Z"
+      "updated": "2026-11-17T12:17:18.967Z"
     },
     {
       "imdb_id": "tt31450459",
@@ -19365,7 +19365,3416 @@
           "vote": 6
         }
       ],
-      "updated": "2026-11-17T12:15:37.678Z"
+      "updated": "2026-11-17T12:17:19.389Z"
+    },
+    {
+      "imdb_id": "tt32820897",
+      "category": "animation",
+      "added": "2026-11-17",
+      "watched": false,
+      "pending_title": "Demon Slayer: Kimetsu no Yaiba Infinity Castle",
+      "tmdb_id": 1311031,
+      "title": "Demon Slayer: Kimetsu no Yaiba Infinity Castle",
+      "original_title": "劇場版「鬼滅の刃」無限城編 第一章 猗窩座再来",
+      "year": "2025",
+      "release_date": "2025-07-18",
+      "status": "Released",
+      "runtime": 156,
+      "tagline": "It's time to have some fun.",
+      "overview": "The Demon Slayer Corps are drawn into the Infinity Castle, where Tanjiro, Nezuko, and the Hashira face terrifying Upper Rank demons in a desperate fight as the final battle against Muzan Kibutsuji begins.",
+      "genres": [
+        "Animation",
+        "Action",
+        "Fantasy"
+      ],
+      "genre_ids": [
+        16,
+        28,
+        14
+      ],
+      "keywords": [
+        "friendship",
+        "supernatural",
+        "sequel",
+        "based on manga",
+        "battle",
+        "demon",
+        "shounen",
+        "anime",
+        "brother sister relationship",
+        "taisho period",
+        "trilogy"
+      ],
+      "poster": "/fWVSwgjpT2D78VUh6X8UBd2rorW.jpg",
+      "backdrop": "/1RgPyOhN4DRs225BGTlHJqCudII.jpg",
+      "directors": [
+        "Haruo Sotozaki"
+      ],
+      "writers": [
+        "Koyoharu Gotouge",
+        "Hikaru Kondou"
+      ],
+      "cast": [
+        {
+          "name": "Natsuki Hanae",
+          "character": "Tanjiro Kamado (voice)",
+          "photo": "/alTb0DlcPIbcwM08WSmxFai58sd.jpg"
+        },
+        {
+          "name": "Takahiro Sakurai",
+          "character": "Giyu Tomioka (voice)",
+          "photo": "/8s8owcKmpRAuhzEGjSdRpztthUg.jpg"
+        },
+        {
+          "name": "Akira Ishida",
+          "character": "Akaza (voice)",
+          "photo": "/jnW2Gn2NlR2uwOCeyOuzypnTmkH.jpg"
+        },
+        {
+          "name": "Hiro Shimono",
+          "character": "Zenitsu Agatsuma (voice)",
+          "photo": "/yrSDcgFefHtWkFmLnTrcw2t0MV.jpg"
+        },
+        {
+          "name": "Yoshimasa Hosoya",
+          "character": "Kaigaku (voice)",
+          "photo": "/lUR5oN1LrqGgp25IOcI1qOH1Ud5.jpg"
+        },
+        {
+          "name": "Saori Hayami",
+          "character": "Shinobu Kocho (voice)",
+          "photo": "/gLv9lO7dlUbIsmyJUvgegqAAXki.jpg"
+        },
+        {
+          "name": "Mamoru Miyano",
+          "character": "Doma (voice)",
+          "photo": "/nuok8ueG7k9hPZ09Tpr8e7Qn0ah.jpg"
+        },
+        {
+          "name": "Reina Ueda",
+          "character": "Kanao Tsuyuri (voice)",
+          "photo": "/2WV61uVU7y6XGYqNHLMpP0sApdu.jpg"
+        },
+        {
+          "name": "Yuichi Nakamura",
+          "character": "Keizo (voice)",
+          "photo": "/wb8behVKjBHX9XXrEydvNINCYwH.jpg"
+        },
+        {
+          "name": "Lynn",
+          "character": "Koyuki (voice)",
+          "photo": "/eJ2NqgzpnzNbT6Nt9EpDfzqNeZM.jpg"
+        }
+      ],
+      "countries": [
+        "JP"
+      ],
+      "languages": [
+        "Japanese"
+      ],
+      "trailer": "https://www.youtube.com/watch?v=EpAlHmuA2YM",
+      "ratings": {
+        "tmdb": {
+          "value": 8.799,
+          "votes": 2399
+        },
+        "imdb": null,
+        "metascore": null,
+        "others": []
+      },
+      "imdb_url": "https://www.imdb.com/title/tt32820897/",
+      "releases": {
+        "byCountry": {
+          "AE": [
+            {
+              "type": "Theatrical",
+              "typeId": 3,
+              "date": "2025-09-11"
+            }
+          ],
+          "AM": [
+            {
+              "type": "Theatrical",
+              "typeId": 3,
+              "date": "2025-09-11"
+            }
+          ],
+          "AR": [
+            {
+              "type": "Theatrical",
+              "typeId": 3,
+              "date": "2025-09-11"
+            }
+          ],
+          "AT": [
+            {
+              "type": "Theatrical",
+              "typeId": 3,
+              "date": "2025-09-18"
+            }
+          ],
+          "AU": [
+            {
+              "type": "Theatrical",
+              "typeId": 3,
+              "date": "2025-09-11"
+            }
+          ],
+          "AW": [
+            {
+              "type": "Theatrical",
+              "typeId": 3,
+              "date": "2025-09-11"
+            }
+          ],
+          "AZ": [
+            {
+              "type": "Theatrical",
+              "typeId": 3,
+              "date": "2025-09-11"
+            }
+          ],
+          "BE": [
+            {
+              "type": "Theatrical",
+              "typeId": 3,
+              "date": "2025-09-17"
+            }
+          ],
+          "BG": [
+            {
+              "type": "Theatrical",
+              "typeId": 3,
+              "date": "2025-09-12"
+            }
+          ],
+          "BH": [
+            {
+              "type": "Theatrical",
+              "typeId": 3,
+              "date": "2025-09-11"
+            }
+          ],
+          "BO": [
+            {
+              "type": "Theatrical",
+              "typeId": 3,
+              "date": "2025-09-11"
+            }
+          ],
+          "BR": [
+            {
+              "type": "Theatrical",
+              "typeId": 3,
+              "date": "2025-09-11"
+            },
+            {
+              "type": "Digital",
+              "typeId": 4,
+              "date": "2026-07-28",
+              "note": "Crunchyroll"
+            }
+          ],
+          "CA": [
+            {
+              "type": "Theatrical",
+              "typeId": 3,
+              "date": "2025-09-12"
+            }
+          ],
+          "CH": [
+            {
+              "type": "Theatrical",
+              "typeId": 3,
+              "date": "2025-09-18"
+            }
+          ],
+          "CL": [
+            {
+              "type": "Theatrical",
+              "typeId": 3,
+              "date": "2025-09-11"
+            }
+          ],
+          "CN": [
+            {
+              "type": "Premiere",
+              "typeId": 1,
+              "date": "2025-11-10",
+              "note": "Shanghai"
+            },
+            {
+              "type": "Theatrical",
+              "typeId": 3,
+              "date": "2025-11-14"
+            }
+          ],
+          "CO": [
+            {
+              "type": "Theatrical",
+              "typeId": 3,
+              "date": "2025-09-11"
+            }
+          ],
+          "CZ": [
+            {
+              "type": "Theatrical",
+              "typeId": 3,
+              "date": "2025-09-11"
+            }
+          ],
+          "DE": [
+            {
+              "type": "Theatrical",
+              "typeId": 3,
+              "date": "2025-09-18"
+            }
+          ],
+          "DK": [
+            {
+              "type": "Theatrical",
+              "typeId": 3,
+              "date": "2025-09-11"
+            }
+          ],
+          "DO": [
+            {
+              "type": "Theatrical",
+              "typeId": 3,
+              "date": "2025-09-11"
+            }
+          ],
+          "EC": [
+            {
+              "type": "Theatrical",
+              "typeId": 3,
+              "date": "2025-09-11"
+            }
+          ],
+          "EE": [
+            {
+              "type": "Theatrical",
+              "typeId": 3,
+              "date": "2025-09-12"
+            }
+          ],
+          "EG": [
+            {
+              "type": "Theatrical",
+              "typeId": 3,
+              "date": "2025-09-11"
+            }
+          ],
+          "ES": [
+            {
+              "type": "Theatrical",
+              "typeId": 3,
+              "date": "2025-09-12"
+            }
+          ],
+          "ET": [
+            {
+              "type": "Theatrical",
+              "typeId": 3,
+              "date": "2025-09-11"
+            }
+          ],
+          "FI": [
+            {
+              "type": "Theatrical",
+              "typeId": 3,
+              "date": "2025-09-12"
+            }
+          ],
+          "FR": [
+            {
+              "type": "Theatrical",
+              "typeId": 3,
+              "date": "2025-09-17"
+            },
+            {
+              "type": "Digital",
+              "typeId": 4,
+              "date": "2027-02-17",
+              "note": "Crunchyroll"
+            }
+          ],
+          "GB": [
+            {
+              "type": "Theatrical",
+              "typeId": 3,
+              "date": "2025-09-12"
+            },
+            {
+              "type": "Digital",
+              "typeId": 4,
+              "date": "2026-07-28",
+              "note": "Crunchyroll"
+            }
+          ],
+          "GE": [
+            {
+              "type": "Theatrical",
+              "typeId": 3,
+              "date": "2025-09-11"
+            }
+          ],
+          "GR": [
+            {
+              "type": "Theatrical",
+              "typeId": 3,
+              "date": "2025-09-11"
+            }
+          ],
+          "GT": [
+            {
+              "type": "Theatrical",
+              "typeId": 3,
+              "date": "2025-09-11"
+            }
+          ],
+          "HK": [
+            {
+              "type": "Theatrical",
+              "typeId": 3,
+              "date": "2025-08-14"
+            },
+            {
+              "type": "Digital",
+              "typeId": 4,
+              "date": "2026-07-28",
+              "note": "Netflix"
+            }
+          ],
+          "HR": [
+            {
+              "type": "Theatrical",
+              "typeId": 3,
+              "date": "2025-09-11"
+            }
+          ],
+          "HU": [
+            {
+              "type": "Theatrical",
+              "typeId": 3,
+              "date": "2025-09-11"
+            }
+          ],
+          "ID": [
+            {
+              "type": "Theatrical",
+              "typeId": 3,
+              "date": "2025-08-15"
+            }
+          ],
+          "IL": [
+            {
+              "type": "Theatrical",
+              "typeId": 3,
+              "date": "2025-09-11"
+            }
+          ],
+          "IN": [
+            {
+              "type": "Theatrical",
+              "typeId": 3,
+              "date": "2025-09-12"
+            }
+          ],
+          "IQ": [
+            {
+              "type": "Theatrical",
+              "typeId": 3,
+              "date": "2025-09-11"
+            }
+          ],
+          "IS": [
+            {
+              "type": "Theatrical",
+              "typeId": 3,
+              "date": "2025-09-11"
+            }
+          ],
+          "IT": [
+            {
+              "type": "Theatrical",
+              "typeId": 3,
+              "date": "2025-09-11"
+            }
+          ],
+          "JM": [
+            {
+              "type": "Theatrical",
+              "typeId": 3,
+              "date": "2025-09-11"
+            }
+          ],
+          "JP": [
+            {
+              "type": "Theatrical",
+              "typeId": 3,
+              "date": "2025-07-18"
+            },
+            {
+              "type": "Theatrical (limited)",
+              "typeId": 2,
+              "date": "2026-02-06",
+              "note": "IMAX"
+            },
+            {
+              "type": "Theatrical",
+              "typeId": 3,
+              "date": "2026-06-12",
+              "note": "Re-Release"
+            },
+            {
+              "type": "Physical",
+              "typeId": 5,
+              "date": "2026-07-29"
+            }
+          ],
+          "KE": [
+            {
+              "type": "Theatrical",
+              "typeId": 3,
+              "date": "2025-09-12"
+            }
+          ],
+          "KH": [
+            {
+              "type": "Theatrical",
+              "typeId": 3,
+              "date": "2025-08-15"
+            }
+          ],
+          "KR": [
+            {
+              "type": "Theatrical",
+              "typeId": 3,
+              "date": "2025-08-22"
+            },
+            {
+              "type": "Theatrical",
+              "typeId": 3,
+              "date": "2025-09-25"
+            },
+            {
+              "type": "Theatrical",
+              "typeId": 3,
+              "date": "2026-03-25",
+              "note": "ScreenX"
+            },
+            {
+              "type": "Theatrical",
+              "typeId": 3,
+              "date": "2026-04-01",
+              "note": "IMAX / 4DX"
+            },
+            {
+              "type": "Digital",
+              "typeId": 4,
+              "date": "2026-07-29"
+            }
+          ],
+          "KW": [
+            {
+              "type": "Theatrical",
+              "typeId": 3,
+              "date": "2025-09-11"
+            }
+          ],
+          "KZ": [
+            {
+              "type": "Theatrical",
+              "typeId": 3,
+              "date": "2025-09-11"
+            }
+          ],
+          "LB": [
+            {
+              "type": "Theatrical",
+              "typeId": 3,
+              "date": "2025-09-11"
+            }
+          ],
+          "LT": [
+            {
+              "type": "Theatrical",
+              "typeId": 3,
+              "date": "2025-09-11"
+            }
+          ],
+          "LU": [
+            {
+              "type": "Theatrical",
+              "typeId": 3,
+              "date": "2025-09-17"
+            }
+          ],
+          "LV": [
+            {
+              "type": "Theatrical",
+              "typeId": 3,
+              "date": "2025-09-12"
+            }
+          ],
+          "MD": [
+            {
+              "type": "Theatrical",
+              "typeId": 3,
+              "date": "2025-09-18"
+            }
+          ],
+          "MK": [
+            {
+              "type": "Theatrical",
+              "typeId": 3,
+              "date": "2025-09-11"
+            }
+          ],
+          "MM": [
+            {
+              "type": "Theatrical",
+              "typeId": 3,
+              "date": "2025-08-29"
+            }
+          ],
+          "MN": [
+            {
+              "type": "Theatrical",
+              "typeId": 3,
+              "date": "2025-09-12"
+            }
+          ],
+          "MX": [
+            {
+              "type": "Theatrical",
+              "typeId": 3,
+              "date": "2025-09-11"
+            }
+          ],
+          "MY": [
+            {
+              "type": "Theatrical",
+              "typeId": 3,
+              "date": "2025-08-14"
+            }
+          ],
+          "NG": [
+            {
+              "type": "Theatrical",
+              "typeId": 3,
+              "date": "2025-09-12"
+            }
+          ],
+          "NL": [
+            {
+              "type": "Theatrical",
+              "typeId": 3,
+              "date": "2025-09-11"
+            }
+          ],
+          "NO": [
+            {
+              "type": "Theatrical",
+              "typeId": 3,
+              "date": "2025-09-12"
+            }
+          ],
+          "NP": [
+            {
+              "type": "Theatrical",
+              "typeId": 3,
+              "date": "2025-09-17"
+            }
+          ],
+          "NZ": [
+            {
+              "type": "Theatrical",
+              "typeId": 3,
+              "date": "2025-09-11"
+            }
+          ],
+          "OM": [
+            {
+              "type": "Theatrical",
+              "typeId": 3,
+              "date": "2025-09-11"
+            }
+          ],
+          "PE": [
+            {
+              "type": "Theatrical",
+              "typeId": 3,
+              "date": "2025-09-11"
+            }
+          ],
+          "PH": [
+            {
+              "type": "Theatrical",
+              "typeId": 3,
+              "date": "2025-08-20"
+            },
+            {
+              "type": "Digital",
+              "typeId": 4,
+              "date": "2026-07-28",
+              "note": "Netflix"
+            }
+          ],
+          "PK": [
+            {
+              "type": "Theatrical",
+              "typeId": 3,
+              "date": "2025-08-14"
+            }
+          ],
+          "PL": [
+            {
+              "type": "Theatrical",
+              "typeId": 3,
+              "date": "2025-09-12"
+            },
+            {
+              "type": "Digital",
+              "typeId": 4,
+              "date": "2026-07-28",
+              "note": "Crunchyroll"
+            },
+            {
+              "type": "Digital",
+              "typeId": 4,
+              "date": "2026-09-28",
+              "note": "Netflix"
+            },
+            {
+              "type": "Digital",
+              "typeId": 4,
+              "date": "2026-09-29",
+              "note": "Prime Video"
+            }
+          ],
+          "PR": [
+            {
+              "type": "Theatrical",
+              "typeId": 3,
+              "date": "2025-09-11"
+            }
+          ],
+          "PT": [
+            {
+              "type": "Theatrical",
+              "typeId": 3,
+              "date": "2025-09-11"
+            }
+          ],
+          "PY": [
+            {
+              "type": "Theatrical",
+              "typeId": 3,
+              "date": "2025-09-11"
+            }
+          ],
+          "QA": [
+            {
+              "type": "Theatrical",
+              "typeId": 3,
+              "date": "2025-09-11"
+            }
+          ],
+          "RO": [
+            {
+              "type": "Theatrical",
+              "typeId": 3,
+              "date": "2025-09-12"
+            }
+          ],
+          "RS": [
+            {
+              "type": "Theatrical",
+              "typeId": 3,
+              "date": "2025-09-11"
+            },
+            {
+              "type": "Premiere",
+              "typeId": 1,
+              "date": "2026-06-14",
+              "note": "Urusai Con"
+            }
+          ],
+          "SA": [
+            {
+              "type": "Theatrical",
+              "typeId": 3,
+              "date": "2025-09-11"
+            }
+          ],
+          "SE": [
+            {
+              "type": "Theatrical",
+              "typeId": 3,
+              "date": "2025-09-12"
+            }
+          ],
+          "SG": [
+            {
+              "type": "Theatrical",
+              "typeId": 3,
+              "date": "2025-08-14"
+            }
+          ],
+          "SI": [
+            {
+              "type": "Theatrical",
+              "typeId": 3,
+              "date": "2025-09-11"
+            }
+          ],
+          "SK": [
+            {
+              "type": "Theatrical",
+              "typeId": 3,
+              "date": "2025-09-11"
+            }
+          ],
+          "SR": [
+            {
+              "type": "Theatrical",
+              "typeId": 3,
+              "date": "2025-09-11"
+            }
+          ],
+          "SY": [
+            {
+              "type": "Theatrical",
+              "typeId": 3,
+              "date": "2025-09-11"
+            }
+          ],
+          "TH": [
+            {
+              "type": "Theatrical",
+              "typeId": 3,
+              "date": "2025-08-12"
+            }
+          ],
+          "TR": [
+            {
+              "type": "Theatrical",
+              "typeId": 3,
+              "date": "2025-09-12"
+            }
+          ],
+          "TT": [
+            {
+              "type": "Theatrical",
+              "typeId": 3,
+              "date": "2025-09-11"
+            }
+          ],
+          "TW": [
+            {
+              "type": "Theatrical",
+              "typeId": 3,
+              "date": "2025-08-08"
+            }
+          ],
+          "UA": [
+            {
+              "type": "Theatrical",
+              "typeId": 3,
+              "date": "2025-09-11"
+            }
+          ],
+          "US": [
+            {
+              "type": "Premiere",
+              "typeId": 1,
+              "date": "2025-09-09",
+              "note": "Los Angeles, California"
+            },
+            {
+              "type": "Theatrical",
+              "typeId": 3,
+              "date": "2025-09-12"
+            },
+            {
+              "type": "Theatrical (limited)",
+              "typeId": 2,
+              "date": "2026-03-06",
+              "note": "Re-Release"
+            },
+            {
+              "type": "Digital",
+              "typeId": 4,
+              "date": "2026-07-28",
+              "note": "Crunchyroll "
+            },
+            {
+              "type": "Digital",
+              "typeId": 4,
+              "date": "2026-09-28",
+              "note": "Hulu / Netflix / Prime Video"
+            }
+          ],
+          "UY": [
+            {
+              "type": "Theatrical",
+              "typeId": 3,
+              "date": "2025-09-11"
+            }
+          ],
+          "VE": [
+            {
+              "type": "Theatrical",
+              "typeId": 3,
+              "date": "2025-09-11"
+            }
+          ],
+          "VN": [
+            {
+              "type": "Theatrical",
+              "typeId": 3,
+              "date": "2025-08-15"
+            }
+          ],
+          "ZA": [
+            {
+              "type": "Theatrical",
+              "typeId": 3,
+              "date": "2025-09-12"
+            }
+          ]
+        },
+        "earliestDigital": {
+          "country": "BR",
+          "type": "Digital",
+          "typeId": 4,
+          "date": "2026-07-28",
+          "note": "Crunchyroll"
+        }
+      },
+      "availability": {
+        "AD": {
+          "link": "https://www.themoviedb.org/movie/1311031-ju-chang-ban-gui-mie-no-ren-wu-xian-cheng-bian-di-yi-zhang-yi-wo-zuo-zai-lai/watch?locale=AD",
+          "flatrate": [
+            {
+              "name": "Netflix",
+              "logo": "/rK1KljqmbvO9HQa1PBFLILWah72.png"
+            },
+            {
+              "name": "Amazon Prime Video",
+              "logo": "/gMZdpavHmxFNnLpMHwVxfqeux2g.png"
+            }
+          ]
+        },
+        "AE": {
+          "link": "https://www.themoviedb.org/movie/1311031-ju-chang-ban-gui-mie-no-ren-wu-xian-cheng-bian-di-yi-zhang-yi-wo-zuo-zai-lai/watch?locale=AE",
+          "flatrate": [
+            {
+              "name": "Netflix",
+              "logo": "/rK1KljqmbvO9HQa1PBFLILWah72.png"
+            },
+            {
+              "name": "Amazon Prime Video",
+              "logo": "/gMZdpavHmxFNnLpMHwVxfqeux2g.png"
+            },
+            {
+              "name": "Crunchyroll",
+              "logo": "/uFL3c4Cq8M6WoLymlC5Y8bmGytV.png"
+            }
+          ]
+        },
+        "AG": {
+          "link": "https://www.themoviedb.org/movie/1311031-ju-chang-ban-gui-mie-no-ren-wu-xian-cheng-bian-di-yi-zhang-yi-wo-zuo-zai-lai/watch?locale=AG",
+          "flatrate": [
+            {
+              "name": "Netflix",
+              "logo": "/rK1KljqmbvO9HQa1PBFLILWah72.png"
+            },
+            {
+              "name": "Amazon Prime Video",
+              "logo": "/gMZdpavHmxFNnLpMHwVxfqeux2g.png"
+            },
+            {
+              "name": "HBO Max",
+              "logo": "/skypuy7SXuugIQeYg0IglmzoKaS.png"
+            }
+          ]
+        },
+        "AL": {
+          "link": "https://www.themoviedb.org/movie/1311031-ju-chang-ban-gui-mie-no-ren-wu-xian-cheng-bian-di-yi-zhang-yi-wo-zuo-zai-lai/watch?locale=AL",
+          "flatrate": [
+            {
+              "name": "Netflix",
+              "logo": "/rK1KljqmbvO9HQa1PBFLILWah72.png"
+            },
+            {
+              "name": "Amazon Prime Video",
+              "logo": "/gMZdpavHmxFNnLpMHwVxfqeux2g.png"
+            }
+          ]
+        },
+        "AO": {
+          "link": "https://www.themoviedb.org/movie/1311031-ju-chang-ban-gui-mie-no-ren-wu-xian-cheng-bian-di-yi-zhang-yi-wo-zuo-zai-lai/watch?locale=AO",
+          "flatrate": [
+            {
+              "name": "Netflix",
+              "logo": "/rK1KljqmbvO9HQa1PBFLILWah72.png"
+            }
+          ]
+        },
+        "AR": {
+          "link": "https://www.themoviedb.org/movie/1311031-ju-chang-ban-gui-mie-no-ren-wu-xian-cheng-bian-di-yi-zhang-yi-wo-zuo-zai-lai/watch?locale=AR",
+          "flatrate": [
+            {
+              "name": "Netflix",
+              "logo": "/rK1KljqmbvO9HQa1PBFLILWah72.png"
+            },
+            {
+              "name": "Amazon Prime Video",
+              "logo": "/gMZdpavHmxFNnLpMHwVxfqeux2g.png"
+            },
+            {
+              "name": "Disney Plus",
+              "logo": "/5eZ872CghnHFLB1j8grszbrx0dx.png"
+            },
+            {
+              "name": "Crunchyroll",
+              "logo": "/uFL3c4Cq8M6WoLymlC5Y8bmGytV.png"
+            },
+            {
+              "name": "HBO Max",
+              "logo": "/skypuy7SXuugIQeYg0IglmzoKaS.png"
+            },
+            {
+              "name": "Crunchyroll Amazon Channel",
+              "logo": "/qHLLmKo7udRgiSnIASVTwP2IxfJ.png"
+            }
+          ]
+        },
+        "AT": {
+          "link": "https://www.themoviedb.org/movie/1311031-ju-chang-ban-gui-mie-no-ren-wu-xian-cheng-bian-di-yi-zhang-yi-wo-zuo-zai-lai/watch?locale=AT",
+          "flatrate": [
+            {
+              "name": "Netflix",
+              "logo": "/rK1KljqmbvO9HQa1PBFLILWah72.png"
+            },
+            {
+              "name": "Amazon Prime Video",
+              "logo": "/gMZdpavHmxFNnLpMHwVxfqeux2g.png"
+            },
+            {
+              "name": "Crunchyroll",
+              "logo": "/uFL3c4Cq8M6WoLymlC5Y8bmGytV.png"
+            },
+            {
+              "name": "Amazon Prime Video with Ads",
+              "logo": "/tpwTT1FpWqLLhxUfAuDavIXDDfI.png"
+            },
+            {
+              "name": "Crunchyroll Amazon Channel",
+              "logo": "/qHLLmKo7udRgiSnIASVTwP2IxfJ.png"
+            }
+          ]
+        },
+        "AU": {
+          "link": "https://www.themoviedb.org/movie/1311031-ju-chang-ban-gui-mie-no-ren-wu-xian-cheng-bian-di-yi-zhang-yi-wo-zuo-zai-lai/watch?locale=AU",
+          "flatrate": [
+            {
+              "name": "Amazon Prime Video",
+              "logo": "/gMZdpavHmxFNnLpMHwVxfqeux2g.png"
+            },
+            {
+              "name": "Crunchyroll",
+              "logo": "/uFL3c4Cq8M6WoLymlC5Y8bmGytV.png"
+            },
+            {
+              "name": "Crunchyroll Amazon Channel",
+              "logo": "/qHLLmKo7udRgiSnIASVTwP2IxfJ.png"
+            },
+            {
+              "name": "Amazon Prime Video with Ads",
+              "logo": "/tpwTT1FpWqLLhxUfAuDavIXDDfI.png"
+            }
+          ],
+          "rent": [
+            {
+              "name": "Amazon Video",
+              "logo": "/jn6TLbtaTZntTRX9UYucHJvpQx1.png"
+            }
+          ],
+          "buy": [
+            {
+              "name": "Apple TV Store",
+              "logo": "/qdEGArH3lKfFnAtYXMkSYk5wxuG.png"
+            },
+            {
+              "name": "Amazon Video",
+              "logo": "/jn6TLbtaTZntTRX9UYucHJvpQx1.png"
+            }
+          ]
+        },
+        "AZ": {
+          "link": "https://www.themoviedb.org/movie/1311031-ju-chang-ban-gui-mie-no-ren-wu-xian-cheng-bian-di-yi-zhang-yi-wo-zuo-zai-lai/watch?locale=AZ",
+          "flatrate": [
+            {
+              "name": "Netflix",
+              "logo": "/rK1KljqmbvO9HQa1PBFLILWah72.png"
+            }
+          ]
+        },
+        "BA": {
+          "link": "https://www.themoviedb.org/movie/1311031-ju-chang-ban-gui-mie-no-ren-wu-xian-cheng-bian-di-yi-zhang-yi-wo-zuo-zai-lai/watch?locale=BA",
+          "flatrate": [
+            {
+              "name": "Netflix",
+              "logo": "/rK1KljqmbvO9HQa1PBFLILWah72.png"
+            },
+            {
+              "name": "Amazon Prime Video",
+              "logo": "/gMZdpavHmxFNnLpMHwVxfqeux2g.png"
+            }
+          ]
+        },
+        "BB": {
+          "link": "https://www.themoviedb.org/movie/1311031-ju-chang-ban-gui-mie-no-ren-wu-xian-cheng-bian-di-yi-zhang-yi-wo-zuo-zai-lai/watch?locale=BB",
+          "flatrate": [
+            {
+              "name": "Netflix",
+              "logo": "/rK1KljqmbvO9HQa1PBFLILWah72.png"
+            },
+            {
+              "name": "Amazon Prime Video",
+              "logo": "/gMZdpavHmxFNnLpMHwVxfqeux2g.png"
+            },
+            {
+              "name": "HBO Max",
+              "logo": "/skypuy7SXuugIQeYg0IglmzoKaS.png"
+            }
+          ]
+        },
+        "BE": {
+          "link": "https://www.themoviedb.org/movie/1311031-ju-chang-ban-gui-mie-no-ren-wu-xian-cheng-bian-di-yi-zhang-yi-wo-zuo-zai-lai/watch?locale=BE",
+          "flatrate": [
+            {
+              "name": "Netflix",
+              "logo": "/rK1KljqmbvO9HQa1PBFLILWah72.png"
+            },
+            {
+              "name": "Amazon Prime Video",
+              "logo": "/gMZdpavHmxFNnLpMHwVxfqeux2g.png"
+            },
+            {
+              "name": "Crunchyroll",
+              "logo": "/uFL3c4Cq8M6WoLymlC5Y8bmGytV.png"
+            },
+            {
+              "name": "Crunchyroll Amazon Channel",
+              "logo": "/qHLLmKo7udRgiSnIASVTwP2IxfJ.png"
+            }
+          ]
+        },
+        "BF": {
+          "link": "https://www.themoviedb.org/movie/1311031-ju-chang-ban-gui-mie-no-ren-wu-xian-cheng-bian-di-yi-zhang-yi-wo-zuo-zai-lai/watch?locale=BF",
+          "flatrate": [
+            {
+              "name": "Amazon Prime Video",
+              "logo": "/gMZdpavHmxFNnLpMHwVxfqeux2g.png"
+            }
+          ]
+        },
+        "BG": {
+          "link": "https://www.themoviedb.org/movie/1311031-ju-chang-ban-gui-mie-no-ren-wu-xian-cheng-bian-di-yi-zhang-yi-wo-zuo-zai-lai/watch?locale=BG",
+          "flatrate": [
+            {
+              "name": "Netflix",
+              "logo": "/rK1KljqmbvO9HQa1PBFLILWah72.png"
+            },
+            {
+              "name": "Amazon Prime Video",
+              "logo": "/gMZdpavHmxFNnLpMHwVxfqeux2g.png"
+            }
+          ]
+        },
+        "BH": {
+          "link": "https://www.themoviedb.org/movie/1311031-ju-chang-ban-gui-mie-no-ren-wu-xian-cheng-bian-di-yi-zhang-yi-wo-zuo-zai-lai/watch?locale=BH",
+          "flatrate": [
+            {
+              "name": "Netflix",
+              "logo": "/rK1KljqmbvO9HQa1PBFLILWah72.png"
+            },
+            {
+              "name": "Amazon Prime Video",
+              "logo": "/gMZdpavHmxFNnLpMHwVxfqeux2g.png"
+            }
+          ]
+        },
+        "BM": {
+          "link": "https://www.themoviedb.org/movie/1311031-ju-chang-ban-gui-mie-no-ren-wu-xian-cheng-bian-di-yi-zhang-yi-wo-zuo-zai-lai/watch?locale=BM",
+          "flatrate": [
+            {
+              "name": "Netflix",
+              "logo": "/rK1KljqmbvO9HQa1PBFLILWah72.png"
+            },
+            {
+              "name": "Amazon Prime Video",
+              "logo": "/gMZdpavHmxFNnLpMHwVxfqeux2g.png"
+            }
+          ]
+        },
+        "BO": {
+          "link": "https://www.themoviedb.org/movie/1311031-ju-chang-ban-gui-mie-no-ren-wu-xian-cheng-bian-di-yi-zhang-yi-wo-zuo-zai-lai/watch?locale=BO",
+          "flatrate": [
+            {
+              "name": "Netflix",
+              "logo": "/rK1KljqmbvO9HQa1PBFLILWah72.png"
+            },
+            {
+              "name": "Amazon Prime Video",
+              "logo": "/gMZdpavHmxFNnLpMHwVxfqeux2g.png"
+            },
+            {
+              "name": "Disney Plus",
+              "logo": "/5eZ872CghnHFLB1j8grszbrx0dx.png"
+            },
+            {
+              "name": "HBO Max",
+              "logo": "/skypuy7SXuugIQeYg0IglmzoKaS.png"
+            }
+          ]
+        },
+        "BR": {
+          "link": "https://www.themoviedb.org/movie/1311031-ju-chang-ban-gui-mie-no-ren-wu-xian-cheng-bian-di-yi-zhang-yi-wo-zuo-zai-lai/watch?locale=BR",
+          "flatrate": [
+            {
+              "name": "Netflix",
+              "logo": "/rK1KljqmbvO9HQa1PBFLILWah72.png"
+            },
+            {
+              "name": "Amazon Prime Video",
+              "logo": "/gMZdpavHmxFNnLpMHwVxfqeux2g.png"
+            },
+            {
+              "name": "Disney Plus",
+              "logo": "/5eZ872CghnHFLB1j8grszbrx0dx.png"
+            },
+            {
+              "name": "HBO Max",
+              "logo": "/skypuy7SXuugIQeYg0IglmzoKaS.png"
+            },
+            {
+              "name": "Crunchyroll",
+              "logo": "/uFL3c4Cq8M6WoLymlC5Y8bmGytV.png"
+            },
+            {
+              "name": "Netflix Standard with Ads",
+              "logo": "/eGUwOOIxcazwEBxqJpSN5sWEu6V.png"
+            },
+            {
+              "name": "HBO Max Amazon Channel",
+              "logo": "/64fLWeSyZ1KQZhIdvTdy4QHeWty.png"
+            },
+            {
+              "name": "Crunchyroll Amazon Channel",
+              "logo": "/qHLLmKo7udRgiSnIASVTwP2IxfJ.png"
+            },
+            {
+              "name": "Amazon Prime Video with Ads",
+              "logo": "/tpwTT1FpWqLLhxUfAuDavIXDDfI.png"
+            }
+          ]
+        },
+        "BS": {
+          "link": "https://www.themoviedb.org/movie/1311031-ju-chang-ban-gui-mie-no-ren-wu-xian-cheng-bian-di-yi-zhang-yi-wo-zuo-zai-lai/watch?locale=BS",
+          "flatrate": [
+            {
+              "name": "Netflix",
+              "logo": "/rK1KljqmbvO9HQa1PBFLILWah72.png"
+            },
+            {
+              "name": "Amazon Prime Video",
+              "logo": "/gMZdpavHmxFNnLpMHwVxfqeux2g.png"
+            },
+            {
+              "name": "HBO Max",
+              "logo": "/skypuy7SXuugIQeYg0IglmzoKaS.png"
+            }
+          ]
+        },
+        "BY": {
+          "link": "https://www.themoviedb.org/movie/1311031-ju-chang-ban-gui-mie-no-ren-wu-xian-cheng-bian-di-yi-zhang-yi-wo-zuo-zai-lai/watch?locale=BY",
+          "flatrate": [
+            {
+              "name": "Netflix",
+              "logo": "/rK1KljqmbvO9HQa1PBFLILWah72.png"
+            }
+          ]
+        },
+        "BZ": {
+          "link": "https://www.themoviedb.org/movie/1311031-ju-chang-ban-gui-mie-no-ren-wu-xian-cheng-bian-di-yi-zhang-yi-wo-zuo-zai-lai/watch?locale=BZ",
+          "flatrate": [
+            {
+              "name": "Netflix",
+              "logo": "/rK1KljqmbvO9HQa1PBFLILWah72.png"
+            },
+            {
+              "name": "Amazon Prime Video",
+              "logo": "/gMZdpavHmxFNnLpMHwVxfqeux2g.png"
+            },
+            {
+              "name": "Disney Plus",
+              "logo": "/5eZ872CghnHFLB1j8grszbrx0dx.png"
+            },
+            {
+              "name": "HBO Max",
+              "logo": "/skypuy7SXuugIQeYg0IglmzoKaS.png"
+            }
+          ]
+        },
+        "CA": {
+          "link": "https://www.themoviedb.org/movie/1311031-ju-chang-ban-gui-mie-no-ren-wu-xian-cheng-bian-di-yi-zhang-yi-wo-zuo-zai-lai/watch?locale=CA",
+          "flatrate": [
+            {
+              "name": "Amazon Prime Video",
+              "logo": "/gMZdpavHmxFNnLpMHwVxfqeux2g.png"
+            },
+            {
+              "name": "Disney Plus",
+              "logo": "/5eZ872CghnHFLB1j8grszbrx0dx.png"
+            },
+            {
+              "name": "Netflix",
+              "logo": "/rK1KljqmbvO9HQa1PBFLILWah72.png"
+            },
+            {
+              "name": "Crunchyroll Amazon Channel",
+              "logo": "/qHLLmKo7udRgiSnIASVTwP2IxfJ.png"
+            },
+            {
+              "name": "Crunchyroll",
+              "logo": "/uFL3c4Cq8M6WoLymlC5Y8bmGytV.png"
+            },
+            {
+              "name": "Netflix Standard with Ads",
+              "logo": "/eGUwOOIxcazwEBxqJpSN5sWEu6V.png"
+            },
+            {
+              "name": "Amazon Prime Video with Ads",
+              "logo": "/tpwTT1FpWqLLhxUfAuDavIXDDfI.png"
+            }
+          ],
+          "buy": [
+            {
+              "name": "Apple TV Store",
+              "logo": "/qdEGArH3lKfFnAtYXMkSYk5wxuG.png"
+            }
+          ]
+        },
+        "CD": {
+          "link": "https://www.themoviedb.org/movie/1311031-ju-chang-ban-gui-mie-no-ren-wu-xian-cheng-bian-di-yi-zhang-yi-wo-zuo-zai-lai/watch?locale=CD",
+          "flatrate": [
+            {
+              "name": "Amazon Prime Video",
+              "logo": "/gMZdpavHmxFNnLpMHwVxfqeux2g.png"
+            }
+          ]
+        },
+        "CH": {
+          "link": "https://www.themoviedb.org/movie/1311031-ju-chang-ban-gui-mie-no-ren-wu-xian-cheng-bian-di-yi-zhang-yi-wo-zuo-zai-lai/watch?locale=CH",
+          "flatrate": [
+            {
+              "name": "Netflix",
+              "logo": "/rK1KljqmbvO9HQa1PBFLILWah72.png"
+            },
+            {
+              "name": "Amazon Prime Video",
+              "logo": "/gMZdpavHmxFNnLpMHwVxfqeux2g.png"
+            },
+            {
+              "name": "Crunchyroll Amazon Channel",
+              "logo": "/qHLLmKo7udRgiSnIASVTwP2IxfJ.png"
+            }
+          ]
+        },
+        "CI": {
+          "link": "https://www.themoviedb.org/movie/1311031-ju-chang-ban-gui-mie-no-ren-wu-xian-cheng-bian-di-yi-zhang-yi-wo-zuo-zai-lai/watch?locale=CI",
+          "flatrate": [
+            {
+              "name": "Netflix",
+              "logo": "/rK1KljqmbvO9HQa1PBFLILWah72.png"
+            },
+            {
+              "name": "Amazon Prime Video",
+              "logo": "/gMZdpavHmxFNnLpMHwVxfqeux2g.png"
+            }
+          ]
+        },
+        "CL": {
+          "link": "https://www.themoviedb.org/movie/1311031-ju-chang-ban-gui-mie-no-ren-wu-xian-cheng-bian-di-yi-zhang-yi-wo-zuo-zai-lai/watch?locale=CL",
+          "flatrate": [
+            {
+              "name": "Netflix",
+              "logo": "/rK1KljqmbvO9HQa1PBFLILWah72.png"
+            },
+            {
+              "name": "Amazon Prime Video",
+              "logo": "/gMZdpavHmxFNnLpMHwVxfqeux2g.png"
+            },
+            {
+              "name": "Disney Plus",
+              "logo": "/5eZ872CghnHFLB1j8grszbrx0dx.png"
+            },
+            {
+              "name": "HBO Max",
+              "logo": "/skypuy7SXuugIQeYg0IglmzoKaS.png"
+            },
+            {
+              "name": "Crunchyroll",
+              "logo": "/uFL3c4Cq8M6WoLymlC5Y8bmGytV.png"
+            },
+            {
+              "name": "Crunchyroll Amazon Channel",
+              "logo": "/qHLLmKo7udRgiSnIASVTwP2IxfJ.png"
+            }
+          ]
+        },
+        "CM": {
+          "link": "https://www.themoviedb.org/movie/1311031-ju-chang-ban-gui-mie-no-ren-wu-xian-cheng-bian-di-yi-zhang-yi-wo-zuo-zai-lai/watch?locale=CM",
+          "flatrate": [
+            {
+              "name": "Netflix",
+              "logo": "/rK1KljqmbvO9HQa1PBFLILWah72.png"
+            },
+            {
+              "name": "Amazon Prime Video",
+              "logo": "/gMZdpavHmxFNnLpMHwVxfqeux2g.png"
+            }
+          ]
+        },
+        "CO": {
+          "link": "https://www.themoviedb.org/movie/1311031-ju-chang-ban-gui-mie-no-ren-wu-xian-cheng-bian-di-yi-zhang-yi-wo-zuo-zai-lai/watch?locale=CO",
+          "flatrate": [
+            {
+              "name": "Netflix",
+              "logo": "/rK1KljqmbvO9HQa1PBFLILWah72.png"
+            },
+            {
+              "name": "Amazon Prime Video",
+              "logo": "/gMZdpavHmxFNnLpMHwVxfqeux2g.png"
+            },
+            {
+              "name": "Disney Plus",
+              "logo": "/5eZ872CghnHFLB1j8grszbrx0dx.png"
+            },
+            {
+              "name": "HBO Max",
+              "logo": "/skypuy7SXuugIQeYg0IglmzoKaS.png"
+            },
+            {
+              "name": "Crunchyroll",
+              "logo": "/uFL3c4Cq8M6WoLymlC5Y8bmGytV.png"
+            },
+            {
+              "name": "Crunchyroll Amazon Channel",
+              "logo": "/qHLLmKo7udRgiSnIASVTwP2IxfJ.png"
+            },
+            {
+              "name": "HBO Max Amazon Channel",
+              "logo": "/64fLWeSyZ1KQZhIdvTdy4QHeWty.png"
+            }
+          ]
+        },
+        "CR": {
+          "link": "https://www.themoviedb.org/movie/1311031-ju-chang-ban-gui-mie-no-ren-wu-xian-cheng-bian-di-yi-zhang-yi-wo-zuo-zai-lai/watch?locale=CR",
+          "flatrate": [
+            {
+              "name": "Netflix",
+              "logo": "/rK1KljqmbvO9HQa1PBFLILWah72.png"
+            },
+            {
+              "name": "Amazon Prime Video",
+              "logo": "/gMZdpavHmxFNnLpMHwVxfqeux2g.png"
+            },
+            {
+              "name": "Disney Plus",
+              "logo": "/5eZ872CghnHFLB1j8grszbrx0dx.png"
+            },
+            {
+              "name": "HBO Max",
+              "logo": "/skypuy7SXuugIQeYg0IglmzoKaS.png"
+            }
+          ]
+        },
+        "CU": {
+          "link": "https://www.themoviedb.org/movie/1311031-ju-chang-ban-gui-mie-no-ren-wu-xian-cheng-bian-di-yi-zhang-yi-wo-zuo-zai-lai/watch?locale=CU",
+          "flatrate": [
+            {
+              "name": "Netflix",
+              "logo": "/rK1KljqmbvO9HQa1PBFLILWah72.png"
+            }
+          ]
+        },
+        "CV": {
+          "link": "https://www.themoviedb.org/movie/1311031-ju-chang-ban-gui-mie-no-ren-wu-xian-cheng-bian-di-yi-zhang-yi-wo-zuo-zai-lai/watch?locale=CV",
+          "flatrate": [
+            {
+              "name": "Netflix",
+              "logo": "/rK1KljqmbvO9HQa1PBFLILWah72.png"
+            },
+            {
+              "name": "Amazon Prime Video",
+              "logo": "/gMZdpavHmxFNnLpMHwVxfqeux2g.png"
+            }
+          ]
+        },
+        "CY": {
+          "link": "https://www.themoviedb.org/movie/1311031-ju-chang-ban-gui-mie-no-ren-wu-xian-cheng-bian-di-yi-zhang-yi-wo-zuo-zai-lai/watch?locale=CY",
+          "flatrate": [
+            {
+              "name": "Netflix",
+              "logo": "/rK1KljqmbvO9HQa1PBFLILWah72.png"
+            },
+            {
+              "name": "Amazon Prime Video",
+              "logo": "/gMZdpavHmxFNnLpMHwVxfqeux2g.png"
+            }
+          ]
+        },
+        "CZ": {
+          "link": "https://www.themoviedb.org/movie/1311031-ju-chang-ban-gui-mie-no-ren-wu-xian-cheng-bian-di-yi-zhang-yi-wo-zuo-zai-lai/watch?locale=CZ",
+          "flatrate": [
+            {
+              "name": "Netflix",
+              "logo": "/rK1KljqmbvO9HQa1PBFLILWah72.png"
+            },
+            {
+              "name": "Crunchyroll Amazon Channel",
+              "logo": "/qHLLmKo7udRgiSnIASVTwP2IxfJ.png"
+            }
+          ]
+        },
+        "DE": {
+          "link": "https://www.themoviedb.org/movie/1311031-ju-chang-ban-gui-mie-no-ren-wu-xian-cheng-bian-di-yi-zhang-yi-wo-zuo-zai-lai/watch?locale=DE",
+          "flatrate": [
+            {
+              "name": "Netflix",
+              "logo": "/rK1KljqmbvO9HQa1PBFLILWah72.png"
+            },
+            {
+              "name": "Amazon Prime Video",
+              "logo": "/gMZdpavHmxFNnLpMHwVxfqeux2g.png"
+            },
+            {
+              "name": "Disney Plus",
+              "logo": "/5eZ872CghnHFLB1j8grszbrx0dx.png"
+            },
+            {
+              "name": "Crunchyroll",
+              "logo": "/uFL3c4Cq8M6WoLymlC5Y8bmGytV.png"
+            },
+            {
+              "name": "Amazon Prime Video with Ads",
+              "logo": "/tpwTT1FpWqLLhxUfAuDavIXDDfI.png"
+            },
+            {
+              "name": "Netflix Standard with Ads",
+              "logo": "/eGUwOOIxcazwEBxqJpSN5sWEu6V.png"
+            },
+            {
+              "name": "Crunchyroll Amazon Channel",
+              "logo": "/qHLLmKo7udRgiSnIASVTwP2IxfJ.png"
+            }
+          ]
+        },
+        "DK": {
+          "link": "https://www.themoviedb.org/movie/1311031-ju-chang-ban-gui-mie-no-ren-wu-xian-cheng-bian-di-yi-zhang-yi-wo-zuo-zai-lai/watch?locale=DK",
+          "flatrate": [
+            {
+              "name": "Netflix",
+              "logo": "/rK1KljqmbvO9HQa1PBFLILWah72.png"
+            },
+            {
+              "name": "Amazon Prime Video",
+              "logo": "/gMZdpavHmxFNnLpMHwVxfqeux2g.png"
+            },
+            {
+              "name": "Crunchyroll Amazon Channel",
+              "logo": "/qHLLmKo7udRgiSnIASVTwP2IxfJ.png"
+            }
+          ]
+        },
+        "DO": {
+          "link": "https://www.themoviedb.org/movie/1311031-ju-chang-ban-gui-mie-no-ren-wu-xian-cheng-bian-di-yi-zhang-yi-wo-zuo-zai-lai/watch?locale=DO",
+          "flatrate": [
+            {
+              "name": "Netflix",
+              "logo": "/rK1KljqmbvO9HQa1PBFLILWah72.png"
+            },
+            {
+              "name": "Amazon Prime Video",
+              "logo": "/gMZdpavHmxFNnLpMHwVxfqeux2g.png"
+            },
+            {
+              "name": "Disney Plus",
+              "logo": "/5eZ872CghnHFLB1j8grszbrx0dx.png"
+            },
+            {
+              "name": "HBO Max",
+              "logo": "/skypuy7SXuugIQeYg0IglmzoKaS.png"
+            }
+          ]
+        },
+        "DZ": {
+          "link": "https://www.themoviedb.org/movie/1311031-ju-chang-ban-gui-mie-no-ren-wu-xian-cheng-bian-di-yi-zhang-yi-wo-zuo-zai-lai/watch?locale=DZ",
+          "flatrate": [
+            {
+              "name": "Netflix",
+              "logo": "/rK1KljqmbvO9HQa1PBFLILWah72.png"
+            },
+            {
+              "name": "Amazon Prime Video",
+              "logo": "/gMZdpavHmxFNnLpMHwVxfqeux2g.png"
+            }
+          ]
+        },
+        "EC": {
+          "link": "https://www.themoviedb.org/movie/1311031-ju-chang-ban-gui-mie-no-ren-wu-xian-cheng-bian-di-yi-zhang-yi-wo-zuo-zai-lai/watch?locale=EC",
+          "flatrate": [
+            {
+              "name": "Netflix",
+              "logo": "/rK1KljqmbvO9HQa1PBFLILWah72.png"
+            },
+            {
+              "name": "Amazon Prime Video",
+              "logo": "/gMZdpavHmxFNnLpMHwVxfqeux2g.png"
+            },
+            {
+              "name": "Disney Plus",
+              "logo": "/5eZ872CghnHFLB1j8grszbrx0dx.png"
+            },
+            {
+              "name": "HBO Max",
+              "logo": "/skypuy7SXuugIQeYg0IglmzoKaS.png"
+            }
+          ]
+        },
+        "EE": {
+          "link": "https://www.themoviedb.org/movie/1311031-ju-chang-ban-gui-mie-no-ren-wu-xian-cheng-bian-di-yi-zhang-yi-wo-zuo-zai-lai/watch?locale=EE",
+          "flatrate": [
+            {
+              "name": "Netflix",
+              "logo": "/rK1KljqmbvO9HQa1PBFLILWah72.png"
+            },
+            {
+              "name": "Amazon Prime Video",
+              "logo": "/gMZdpavHmxFNnLpMHwVxfqeux2g.png"
+            }
+          ]
+        },
+        "EG": {
+          "link": "https://www.themoviedb.org/movie/1311031-ju-chang-ban-gui-mie-no-ren-wu-xian-cheng-bian-di-yi-zhang-yi-wo-zuo-zai-lai/watch?locale=EG",
+          "flatrate": [
+            {
+              "name": "Netflix",
+              "logo": "/rK1KljqmbvO9HQa1PBFLILWah72.png"
+            },
+            {
+              "name": "Amazon Prime Video",
+              "logo": "/gMZdpavHmxFNnLpMHwVxfqeux2g.png"
+            }
+          ]
+        },
+        "ES": {
+          "link": "https://www.themoviedb.org/movie/1311031-ju-chang-ban-gui-mie-no-ren-wu-xian-cheng-bian-di-yi-zhang-yi-wo-zuo-zai-lai/watch?locale=ES",
+          "flatrate": [
+            {
+              "name": "Netflix",
+              "logo": "/rK1KljqmbvO9HQa1PBFLILWah72.png"
+            },
+            {
+              "name": "Amazon Prime Video",
+              "logo": "/gMZdpavHmxFNnLpMHwVxfqeux2g.png"
+            },
+            {
+              "name": "Disney Plus",
+              "logo": "/5eZ872CghnHFLB1j8grszbrx0dx.png"
+            },
+            {
+              "name": "Netflix Standard with Ads",
+              "logo": "/eGUwOOIxcazwEBxqJpSN5sWEu6V.png"
+            },
+            {
+              "name": "Crunchyroll",
+              "logo": "/uFL3c4Cq8M6WoLymlC5Y8bmGytV.png"
+            },
+            {
+              "name": "Crunchyroll Amazon Channel",
+              "logo": "/qHLLmKo7udRgiSnIASVTwP2IxfJ.png"
+            },
+            {
+              "name": "Amazon Prime Video with Ads",
+              "logo": "/tpwTT1FpWqLLhxUfAuDavIXDDfI.png"
+            }
+          ]
+        },
+        "FI": {
+          "link": "https://www.themoviedb.org/movie/1311031-ju-chang-ban-gui-mie-no-ren-wu-xian-cheng-bian-di-yi-zhang-yi-wo-zuo-zai-lai/watch?locale=FI",
+          "flatrate": [
+            {
+              "name": "Netflix",
+              "logo": "/rK1KljqmbvO9HQa1PBFLILWah72.png"
+            },
+            {
+              "name": "Amazon Prime Video",
+              "logo": "/gMZdpavHmxFNnLpMHwVxfqeux2g.png"
+            },
+            {
+              "name": "Crunchyroll Amazon Channel",
+              "logo": "/qHLLmKo7udRgiSnIASVTwP2IxfJ.png"
+            }
+          ]
+        },
+        "FJ": {
+          "link": "https://www.themoviedb.org/movie/1311031-ju-chang-ban-gui-mie-no-ren-wu-xian-cheng-bian-di-yi-zhang-yi-wo-zuo-zai-lai/watch?locale=FJ",
+          "flatrate": [
+            {
+              "name": "Netflix",
+              "logo": "/rK1KljqmbvO9HQa1PBFLILWah72.png"
+            }
+          ]
+        },
+        "GB": {
+          "link": "https://www.themoviedb.org/movie/1311031-ju-chang-ban-gui-mie-no-ren-wu-xian-cheng-bian-di-yi-zhang-yi-wo-zuo-zai-lai/watch?locale=GB",
+          "flatrate": [
+            {
+              "name": "Netflix",
+              "logo": "/rK1KljqmbvO9HQa1PBFLILWah72.png"
+            },
+            {
+              "name": "Amazon Prime Video",
+              "logo": "/gMZdpavHmxFNnLpMHwVxfqeux2g.png"
+            },
+            {
+              "name": "Disney Plus",
+              "logo": "/5eZ872CghnHFLB1j8grszbrx0dx.png"
+            },
+            {
+              "name": "Crunchyroll",
+              "logo": "/uFL3c4Cq8M6WoLymlC5Y8bmGytV.png"
+            },
+            {
+              "name": "Crunchyroll Amazon Channel",
+              "logo": "/qHLLmKo7udRgiSnIASVTwP2IxfJ.png"
+            },
+            {
+              "name": "Netflix Standard with Ads",
+              "logo": "/eGUwOOIxcazwEBxqJpSN5sWEu6V.png"
+            },
+            {
+              "name": "Amazon Prime Video with Ads",
+              "logo": "/tpwTT1FpWqLLhxUfAuDavIXDDfI.png"
+            }
+          ],
+          "rent": [
+            {
+              "name": "Amazon Video",
+              "logo": "/jn6TLbtaTZntTRX9UYucHJvpQx1.png"
+            }
+          ],
+          "buy": [
+            {
+              "name": "Apple TV Store",
+              "logo": "/qdEGArH3lKfFnAtYXMkSYk5wxuG.png"
+            },
+            {
+              "name": "Amazon Video",
+              "logo": "/jn6TLbtaTZntTRX9UYucHJvpQx1.png"
+            }
+          ]
+        },
+        "GF": {
+          "link": "https://www.themoviedb.org/movie/1311031-ju-chang-ban-gui-mie-no-ren-wu-xian-cheng-bian-di-yi-zhang-yi-wo-zuo-zai-lai/watch?locale=GF",
+          "flatrate": [
+            {
+              "name": "Netflix",
+              "logo": "/rK1KljqmbvO9HQa1PBFLILWah72.png"
+            },
+            {
+              "name": "Amazon Prime Video",
+              "logo": "/gMZdpavHmxFNnLpMHwVxfqeux2g.png"
+            }
+          ]
+        },
+        "GG": {
+          "link": "https://www.themoviedb.org/movie/1311031-ju-chang-ban-gui-mie-no-ren-wu-xian-cheng-bian-di-yi-zhang-yi-wo-zuo-zai-lai/watch?locale=GG",
+          "flatrate": [
+            {
+              "name": "Netflix",
+              "logo": "/rK1KljqmbvO9HQa1PBFLILWah72.png"
+            },
+            {
+              "name": "Amazon Prime Video",
+              "logo": "/gMZdpavHmxFNnLpMHwVxfqeux2g.png"
+            }
+          ],
+          "rent": [
+            {
+              "name": "Amazon Video",
+              "logo": "/jn6TLbtaTZntTRX9UYucHJvpQx1.png"
+            }
+          ],
+          "buy": [
+            {
+              "name": "Amazon Video",
+              "logo": "/jn6TLbtaTZntTRX9UYucHJvpQx1.png"
+            }
+          ]
+        },
+        "GH": {
+          "link": "https://www.themoviedb.org/movie/1311031-ju-chang-ban-gui-mie-no-ren-wu-xian-cheng-bian-di-yi-zhang-yi-wo-zuo-zai-lai/watch?locale=GH",
+          "flatrate": [
+            {
+              "name": "Netflix",
+              "logo": "/rK1KljqmbvO9HQa1PBFLILWah72.png"
+            },
+            {
+              "name": "Amazon Prime Video",
+              "logo": "/gMZdpavHmxFNnLpMHwVxfqeux2g.png"
+            }
+          ]
+        },
+        "GI": {
+          "link": "https://www.themoviedb.org/movie/1311031-ju-chang-ban-gui-mie-no-ren-wu-xian-cheng-bian-di-yi-zhang-yi-wo-zuo-zai-lai/watch?locale=GI",
+          "flatrate": [
+            {
+              "name": "Netflix",
+              "logo": "/rK1KljqmbvO9HQa1PBFLILWah72.png"
+            },
+            {
+              "name": "Amazon Prime Video",
+              "logo": "/gMZdpavHmxFNnLpMHwVxfqeux2g.png"
+            }
+          ]
+        },
+        "GQ": {
+          "link": "https://www.themoviedb.org/movie/1311031-ju-chang-ban-gui-mie-no-ren-wu-xian-cheng-bian-di-yi-zhang-yi-wo-zuo-zai-lai/watch?locale=GQ",
+          "flatrate": [
+            {
+              "name": "Netflix",
+              "logo": "/rK1KljqmbvO9HQa1PBFLILWah72.png"
+            },
+            {
+              "name": "Amazon Prime Video",
+              "logo": "/gMZdpavHmxFNnLpMHwVxfqeux2g.png"
+            }
+          ]
+        },
+        "GR": {
+          "link": "https://www.themoviedb.org/movie/1311031-ju-chang-ban-gui-mie-no-ren-wu-xian-cheng-bian-di-yi-zhang-yi-wo-zuo-zai-lai/watch?locale=GR",
+          "flatrate": [
+            {
+              "name": "Netflix",
+              "logo": "/rK1KljqmbvO9HQa1PBFLILWah72.png"
+            },
+            {
+              "name": "Crunchyroll Amazon Channel",
+              "logo": "/qHLLmKo7udRgiSnIASVTwP2IxfJ.png"
+            }
+          ]
+        },
+        "GT": {
+          "link": "https://www.themoviedb.org/movie/1311031-ju-chang-ban-gui-mie-no-ren-wu-xian-cheng-bian-di-yi-zhang-yi-wo-zuo-zai-lai/watch?locale=GT",
+          "flatrate": [
+            {
+              "name": "Netflix",
+              "logo": "/rK1KljqmbvO9HQa1PBFLILWah72.png"
+            },
+            {
+              "name": "Amazon Prime Video",
+              "logo": "/gMZdpavHmxFNnLpMHwVxfqeux2g.png"
+            },
+            {
+              "name": "Disney Plus",
+              "logo": "/5eZ872CghnHFLB1j8grszbrx0dx.png"
+            },
+            {
+              "name": "HBO Max",
+              "logo": "/skypuy7SXuugIQeYg0IglmzoKaS.png"
+            }
+          ]
+        },
+        "GY": {
+          "link": "https://www.themoviedb.org/movie/1311031-ju-chang-ban-gui-mie-no-ren-wu-xian-cheng-bian-di-yi-zhang-yi-wo-zuo-zai-lai/watch?locale=GY",
+          "flatrate": [
+            {
+              "name": "Amazon Prime Video",
+              "logo": "/gMZdpavHmxFNnLpMHwVxfqeux2g.png"
+            },
+            {
+              "name": "HBO Max",
+              "logo": "/skypuy7SXuugIQeYg0IglmzoKaS.png"
+            }
+          ]
+        },
+        "HK": {
+          "link": "https://www.themoviedb.org/movie/1311031-ju-chang-ban-gui-mie-no-ren-wu-xian-cheng-bian-di-yi-zhang-yi-wo-zuo-zai-lai/watch?locale=HK",
+          "flatrate": [
+            {
+              "name": "Netflix",
+              "logo": "/rK1KljqmbvO9HQa1PBFLILWah72.png"
+            },
+            {
+              "name": "Disney Plus",
+              "logo": "/5eZ872CghnHFLB1j8grszbrx0dx.png"
+            }
+          ],
+          "rent": [
+            {
+              "name": "Apple TV Store",
+              "logo": "/qdEGArH3lKfFnAtYXMkSYk5wxuG.png"
+            }
+          ],
+          "buy": [
+            {
+              "name": "Apple TV Store",
+              "logo": "/qdEGArH3lKfFnAtYXMkSYk5wxuG.png"
+            }
+          ]
+        },
+        "HN": {
+          "link": "https://www.themoviedb.org/movie/1311031-ju-chang-ban-gui-mie-no-ren-wu-xian-cheng-bian-di-yi-zhang-yi-wo-zuo-zai-lai/watch?locale=HN",
+          "flatrate": [
+            {
+              "name": "Netflix",
+              "logo": "/rK1KljqmbvO9HQa1PBFLILWah72.png"
+            },
+            {
+              "name": "Amazon Prime Video",
+              "logo": "/gMZdpavHmxFNnLpMHwVxfqeux2g.png"
+            },
+            {
+              "name": "Disney Plus",
+              "logo": "/5eZ872CghnHFLB1j8grszbrx0dx.png"
+            },
+            {
+              "name": "HBO Max",
+              "logo": "/skypuy7SXuugIQeYg0IglmzoKaS.png"
+            }
+          ]
+        },
+        "HR": {
+          "link": "https://www.themoviedb.org/movie/1311031-ju-chang-ban-gui-mie-no-ren-wu-xian-cheng-bian-di-yi-zhang-yi-wo-zuo-zai-lai/watch?locale=HR",
+          "flatrate": [
+            {
+              "name": "Netflix",
+              "logo": "/rK1KljqmbvO9HQa1PBFLILWah72.png"
+            },
+            {
+              "name": "Amazon Prime Video",
+              "logo": "/gMZdpavHmxFNnLpMHwVxfqeux2g.png"
+            },
+            {
+              "name": "Crunchyroll Amazon Channel",
+              "logo": "/qHLLmKo7udRgiSnIASVTwP2IxfJ.png"
+            }
+          ]
+        },
+        "HU": {
+          "link": "https://www.themoviedb.org/movie/1311031-ju-chang-ban-gui-mie-no-ren-wu-xian-cheng-bian-di-yi-zhang-yi-wo-zuo-zai-lai/watch?locale=HU",
+          "flatrate": [
+            {
+              "name": "Netflix",
+              "logo": "/rK1KljqmbvO9HQa1PBFLILWah72.png"
+            },
+            {
+              "name": "Crunchyroll Amazon Channel",
+              "logo": "/qHLLmKo7udRgiSnIASVTwP2IxfJ.png"
+            }
+          ]
+        },
+        "ID": {
+          "link": "https://www.themoviedb.org/movie/1311031-ju-chang-ban-gui-mie-no-ren-wu-xian-cheng-bian-di-yi-zhang-yi-wo-zuo-zai-lai/watch?locale=ID",
+          "flatrate": [
+            {
+              "name": "Netflix",
+              "logo": "/rK1KljqmbvO9HQa1PBFLILWah72.png"
+            },
+            {
+              "name": "Catchplay",
+              "logo": "/bonc3GQiIbZVG9WyNYEYAI9mqFy.png"
+            }
+          ],
+          "rent": [
+            {
+              "name": "Apple TV Store",
+              "logo": "/qdEGArH3lKfFnAtYXMkSYk5wxuG.png"
+            },
+            {
+              "name": "Catchplay",
+              "logo": "/bonc3GQiIbZVG9WyNYEYAI9mqFy.png"
+            }
+          ],
+          "buy": [
+            {
+              "name": "Apple TV Store",
+              "logo": "/qdEGArH3lKfFnAtYXMkSYk5wxuG.png"
+            }
+          ]
+        },
+        "IE": {
+          "link": "https://www.themoviedb.org/movie/1311031-ju-chang-ban-gui-mie-no-ren-wu-xian-cheng-bian-di-yi-zhang-yi-wo-zuo-zai-lai/watch?locale=IE",
+          "flatrate": [
+            {
+              "name": "Netflix",
+              "logo": "/rK1KljqmbvO9HQa1PBFLILWah72.png"
+            },
+            {
+              "name": "Amazon Prime Video",
+              "logo": "/gMZdpavHmxFNnLpMHwVxfqeux2g.png"
+            },
+            {
+              "name": "Disney Plus",
+              "logo": "/5eZ872CghnHFLB1j8grszbrx0dx.png"
+            },
+            {
+              "name": "Crunchyroll",
+              "logo": "/uFL3c4Cq8M6WoLymlC5Y8bmGytV.png"
+            },
+            {
+              "name": "Crunchyroll Amazon Channel",
+              "logo": "/qHLLmKo7udRgiSnIASVTwP2IxfJ.png"
+            }
+          ]
+        },
+        "IL": {
+          "link": "https://www.themoviedb.org/movie/1311031-ju-chang-ban-gui-mie-no-ren-wu-xian-cheng-bian-di-yi-zhang-yi-wo-zuo-zai-lai/watch?locale=IL",
+          "flatrate": [
+            {
+              "name": "Netflix",
+              "logo": "/rK1KljqmbvO9HQa1PBFLILWah72.png"
+            }
+          ]
+        },
+        "IN": {
+          "link": "https://www.themoviedb.org/movie/1311031-ju-chang-ban-gui-mie-no-ren-wu-xian-cheng-bian-di-yi-zhang-yi-wo-zuo-zai-lai/watch?locale=IN",
+          "flatrate": [
+            {
+              "name": "Netflix",
+              "logo": "/rK1KljqmbvO9HQa1PBFLILWah72.png"
+            },
+            {
+              "name": "Amazon Prime Video",
+              "logo": "/gMZdpavHmxFNnLpMHwVxfqeux2g.png"
+            },
+            {
+              "name": "Crunchyroll",
+              "logo": "/uFL3c4Cq8M6WoLymlC5Y8bmGytV.png"
+            },
+            {
+              "name": "Sony Liv",
+              "logo": "/coM4QWbmIOa0xJ5cGR9BRmoV25B.png"
+            },
+            {
+              "name": "Crunchyroll Amazon Channel",
+              "logo": "/qHLLmKo7udRgiSnIASVTwP2IxfJ.png"
+            },
+            {
+              "name": "Amazon Prime Video with Ads",
+              "logo": "/tpwTT1FpWqLLhxUfAuDavIXDDfI.png"
+            }
+          ]
+        },
+        "IQ": {
+          "link": "https://www.themoviedb.org/movie/1311031-ju-chang-ban-gui-mie-no-ren-wu-xian-cheng-bian-di-yi-zhang-yi-wo-zuo-zai-lai/watch?locale=IQ",
+          "flatrate": [
+            {
+              "name": "Netflix",
+              "logo": "/rK1KljqmbvO9HQa1PBFLILWah72.png"
+            },
+            {
+              "name": "Amazon Prime Video",
+              "logo": "/gMZdpavHmxFNnLpMHwVxfqeux2g.png"
+            }
+          ]
+        },
+        "IS": {
+          "link": "https://www.themoviedb.org/movie/1311031-ju-chang-ban-gui-mie-no-ren-wu-xian-cheng-bian-di-yi-zhang-yi-wo-zuo-zai-lai/watch?locale=IS",
+          "flatrate": [
+            {
+              "name": "Netflix",
+              "logo": "/rK1KljqmbvO9HQa1PBFLILWah72.png"
+            }
+          ]
+        },
+        "IT": {
+          "link": "https://www.themoviedb.org/movie/1311031-ju-chang-ban-gui-mie-no-ren-wu-xian-cheng-bian-di-yi-zhang-yi-wo-zuo-zai-lai/watch?locale=IT",
+          "flatrate": [
+            {
+              "name": "Netflix",
+              "logo": "/rK1KljqmbvO9HQa1PBFLILWah72.png"
+            },
+            {
+              "name": "Amazon Prime Video",
+              "logo": "/gMZdpavHmxFNnLpMHwVxfqeux2g.png"
+            },
+            {
+              "name": "Disney Plus",
+              "logo": "/5eZ872CghnHFLB1j8grszbrx0dx.png"
+            },
+            {
+              "name": "Crunchyroll",
+              "logo": "/uFL3c4Cq8M6WoLymlC5Y8bmGytV.png"
+            },
+            {
+              "name": "Crunchyroll Amazon Channel",
+              "logo": "/qHLLmKo7udRgiSnIASVTwP2IxfJ.png"
+            },
+            {
+              "name": "Amazon Prime Video with Ads",
+              "logo": "/tpwTT1FpWqLLhxUfAuDavIXDDfI.png"
+            }
+          ]
+        },
+        "JM": {
+          "link": "https://www.themoviedb.org/movie/1311031-ju-chang-ban-gui-mie-no-ren-wu-xian-cheng-bian-di-yi-zhang-yi-wo-zuo-zai-lai/watch?locale=JM",
+          "flatrate": [
+            {
+              "name": "Netflix",
+              "logo": "/rK1KljqmbvO9HQa1PBFLILWah72.png"
+            },
+            {
+              "name": "Amazon Prime Video",
+              "logo": "/gMZdpavHmxFNnLpMHwVxfqeux2g.png"
+            },
+            {
+              "name": "Disney Plus",
+              "logo": "/5eZ872CghnHFLB1j8grszbrx0dx.png"
+            },
+            {
+              "name": "HBO Max",
+              "logo": "/skypuy7SXuugIQeYg0IglmzoKaS.png"
+            }
+          ]
+        },
+        "JO": {
+          "link": "https://www.themoviedb.org/movie/1311031-ju-chang-ban-gui-mie-no-ren-wu-xian-cheng-bian-di-yi-zhang-yi-wo-zuo-zai-lai/watch?locale=JO",
+          "flatrate": [
+            {
+              "name": "Netflix",
+              "logo": "/rK1KljqmbvO9HQa1PBFLILWah72.png"
+            },
+            {
+              "name": "Amazon Prime Video",
+              "logo": "/gMZdpavHmxFNnLpMHwVxfqeux2g.png"
+            }
+          ]
+        },
+        "KE": {
+          "link": "https://www.themoviedb.org/movie/1311031-ju-chang-ban-gui-mie-no-ren-wu-xian-cheng-bian-di-yi-zhang-yi-wo-zuo-zai-lai/watch?locale=KE",
+          "flatrate": [
+            {
+              "name": "Netflix",
+              "logo": "/rK1KljqmbvO9HQa1PBFLILWah72.png"
+            },
+            {
+              "name": "Amazon Prime Video",
+              "logo": "/gMZdpavHmxFNnLpMHwVxfqeux2g.png"
+            }
+          ]
+        },
+        "KR": {
+          "link": "https://www.themoviedb.org/movie/1311031-ju-chang-ban-gui-mie-no-ren-wu-xian-cheng-bian-di-yi-zhang-yi-wo-zuo-zai-lai/watch?locale=KR",
+          "flatrate": [
+            {
+              "name": "Netflix",
+              "logo": "/rK1KljqmbvO9HQa1PBFLILWah72.png"
+            },
+            {
+              "name": "Netflix Standard with Ads",
+              "logo": "/eGUwOOIxcazwEBxqJpSN5sWEu6V.png"
+            },
+            {
+              "name": "TVING",
+              "logo": "/w4ov8Zx73eu2TjHsDs5EmiuYKA4.png"
+            }
+          ]
+        },
+        "KW": {
+          "link": "https://www.themoviedb.org/movie/1311031-ju-chang-ban-gui-mie-no-ren-wu-xian-cheng-bian-di-yi-zhang-yi-wo-zuo-zai-lai/watch?locale=KW",
+          "flatrate": [
+            {
+              "name": "Netflix",
+              "logo": "/rK1KljqmbvO9HQa1PBFLILWah72.png"
+            },
+            {
+              "name": "Amazon Prime Video",
+              "logo": "/gMZdpavHmxFNnLpMHwVxfqeux2g.png"
+            }
+          ]
+        },
+        "LB": {
+          "link": "https://www.themoviedb.org/movie/1311031-ju-chang-ban-gui-mie-no-ren-wu-xian-cheng-bian-di-yi-zhang-yi-wo-zuo-zai-lai/watch?locale=LB",
+          "flatrate": [
+            {
+              "name": "Netflix",
+              "logo": "/rK1KljqmbvO9HQa1PBFLILWah72.png"
+            },
+            {
+              "name": "Amazon Prime Video",
+              "logo": "/gMZdpavHmxFNnLpMHwVxfqeux2g.png"
+            }
+          ]
+        },
+        "LC": {
+          "link": "https://www.themoviedb.org/movie/1311031-ju-chang-ban-gui-mie-no-ren-wu-xian-cheng-bian-di-yi-zhang-yi-wo-zuo-zai-lai/watch?locale=LC",
+          "flatrate": [
+            {
+              "name": "Netflix",
+              "logo": "/rK1KljqmbvO9HQa1PBFLILWah72.png"
+            },
+            {
+              "name": "Amazon Prime Video",
+              "logo": "/gMZdpavHmxFNnLpMHwVxfqeux2g.png"
+            },
+            {
+              "name": "Disney Plus",
+              "logo": "/5eZ872CghnHFLB1j8grszbrx0dx.png"
+            },
+            {
+              "name": "HBO Max",
+              "logo": "/skypuy7SXuugIQeYg0IglmzoKaS.png"
+            }
+          ]
+        },
+        "LI": {
+          "link": "https://www.themoviedb.org/movie/1311031-ju-chang-ban-gui-mie-no-ren-wu-xian-cheng-bian-di-yi-zhang-yi-wo-zuo-zai-lai/watch?locale=LI",
+          "flatrate": [
+            {
+              "name": "Netflix",
+              "logo": "/rK1KljqmbvO9HQa1PBFLILWah72.png"
+            },
+            {
+              "name": "Amazon Prime Video",
+              "logo": "/gMZdpavHmxFNnLpMHwVxfqeux2g.png"
+            }
+          ]
+        },
+        "LT": {
+          "link": "https://www.themoviedb.org/movie/1311031-ju-chang-ban-gui-mie-no-ren-wu-xian-cheng-bian-di-yi-zhang-yi-wo-zuo-zai-lai/watch?locale=LT",
+          "flatrate": [
+            {
+              "name": "Netflix",
+              "logo": "/rK1KljqmbvO9HQa1PBFLILWah72.png"
+            },
+            {
+              "name": "Amazon Prime Video",
+              "logo": "/gMZdpavHmxFNnLpMHwVxfqeux2g.png"
+            }
+          ]
+        },
+        "LU": {
+          "link": "https://www.themoviedb.org/movie/1311031-ju-chang-ban-gui-mie-no-ren-wu-xian-cheng-bian-di-yi-zhang-yi-wo-zuo-zai-lai/watch?locale=LU",
+          "flatrate": [
+            {
+              "name": "Netflix",
+              "logo": "/rK1KljqmbvO9HQa1PBFLILWah72.png"
+            },
+            {
+              "name": "Amazon Prime Video",
+              "logo": "/gMZdpavHmxFNnLpMHwVxfqeux2g.png"
+            }
+          ]
+        },
+        "LV": {
+          "link": "https://www.themoviedb.org/movie/1311031-ju-chang-ban-gui-mie-no-ren-wu-xian-cheng-bian-di-yi-zhang-yi-wo-zuo-zai-lai/watch?locale=LV",
+          "flatrate": [
+            {
+              "name": "Netflix",
+              "logo": "/rK1KljqmbvO9HQa1PBFLILWah72.png"
+            },
+            {
+              "name": "Amazon Prime Video",
+              "logo": "/gMZdpavHmxFNnLpMHwVxfqeux2g.png"
+            }
+          ]
+        },
+        "LY": {
+          "link": "https://www.themoviedb.org/movie/1311031-ju-chang-ban-gui-mie-no-ren-wu-xian-cheng-bian-di-yi-zhang-yi-wo-zuo-zai-lai/watch?locale=LY",
+          "flatrate": [
+            {
+              "name": "Netflix",
+              "logo": "/rK1KljqmbvO9HQa1PBFLILWah72.png"
+            },
+            {
+              "name": "Amazon Prime Video",
+              "logo": "/gMZdpavHmxFNnLpMHwVxfqeux2g.png"
+            }
+          ]
+        },
+        "MA": {
+          "link": "https://www.themoviedb.org/movie/1311031-ju-chang-ban-gui-mie-no-ren-wu-xian-cheng-bian-di-yi-zhang-yi-wo-zuo-zai-lai/watch?locale=MA",
+          "flatrate": [
+            {
+              "name": "Netflix",
+              "logo": "/rK1KljqmbvO9HQa1PBFLILWah72.png"
+            },
+            {
+              "name": "Amazon Prime Video",
+              "logo": "/gMZdpavHmxFNnLpMHwVxfqeux2g.png"
+            }
+          ]
+        },
+        "MC": {
+          "link": "https://www.themoviedb.org/movie/1311031-ju-chang-ban-gui-mie-no-ren-wu-xian-cheng-bian-di-yi-zhang-yi-wo-zuo-zai-lai/watch?locale=MC",
+          "flatrate": [
+            {
+              "name": "Netflix",
+              "logo": "/rK1KljqmbvO9HQa1PBFLILWah72.png"
+            },
+            {
+              "name": "Amazon Prime Video",
+              "logo": "/gMZdpavHmxFNnLpMHwVxfqeux2g.png"
+            }
+          ]
+        },
+        "MD": {
+          "link": "https://www.themoviedb.org/movie/1311031-ju-chang-ban-gui-mie-no-ren-wu-xian-cheng-bian-di-yi-zhang-yi-wo-zuo-zai-lai/watch?locale=MD",
+          "flatrate": [
+            {
+              "name": "Netflix",
+              "logo": "/rK1KljqmbvO9HQa1PBFLILWah72.png"
+            },
+            {
+              "name": "Crunchyroll",
+              "logo": "/uFL3c4Cq8M6WoLymlC5Y8bmGytV.png"
+            }
+          ]
+        },
+        "ME": {
+          "link": "https://www.themoviedb.org/movie/1311031-ju-chang-ban-gui-mie-no-ren-wu-xian-cheng-bian-di-yi-zhang-yi-wo-zuo-zai-lai/watch?locale=ME",
+          "flatrate": [
+            {
+              "name": "Netflix",
+              "logo": "/rK1KljqmbvO9HQa1PBFLILWah72.png"
+            }
+          ]
+        },
+        "MG": {
+          "link": "https://www.themoviedb.org/movie/1311031-ju-chang-ban-gui-mie-no-ren-wu-xian-cheng-bian-di-yi-zhang-yi-wo-zuo-zai-lai/watch?locale=MG",
+          "flatrate": [
+            {
+              "name": "Netflix",
+              "logo": "/rK1KljqmbvO9HQa1PBFLILWah72.png"
+            },
+            {
+              "name": "Amazon Prime Video",
+              "logo": "/gMZdpavHmxFNnLpMHwVxfqeux2g.png"
+            }
+          ]
+        },
+        "MK": {
+          "link": "https://www.themoviedb.org/movie/1311031-ju-chang-ban-gui-mie-no-ren-wu-xian-cheng-bian-di-yi-zhang-yi-wo-zuo-zai-lai/watch?locale=MK",
+          "flatrate": [
+            {
+              "name": "Netflix",
+              "logo": "/rK1KljqmbvO9HQa1PBFLILWah72.png"
+            },
+            {
+              "name": "Amazon Prime Video",
+              "logo": "/gMZdpavHmxFNnLpMHwVxfqeux2g.png"
+            }
+          ]
+        },
+        "ML": {
+          "link": "https://www.themoviedb.org/movie/1311031-ju-chang-ban-gui-mie-no-ren-wu-xian-cheng-bian-di-yi-zhang-yi-wo-zuo-zai-lai/watch?locale=ML",
+          "flatrate": [
+            {
+              "name": "Netflix",
+              "logo": "/rK1KljqmbvO9HQa1PBFLILWah72.png"
+            },
+            {
+              "name": "Amazon Prime Video",
+              "logo": "/gMZdpavHmxFNnLpMHwVxfqeux2g.png"
+            }
+          ]
+        },
+        "MT": {
+          "link": "https://www.themoviedb.org/movie/1311031-ju-chang-ban-gui-mie-no-ren-wu-xian-cheng-bian-di-yi-zhang-yi-wo-zuo-zai-lai/watch?locale=MT",
+          "flatrate": [
+            {
+              "name": "Netflix",
+              "logo": "/rK1KljqmbvO9HQa1PBFLILWah72.png"
+            },
+            {
+              "name": "Amazon Prime Video",
+              "logo": "/gMZdpavHmxFNnLpMHwVxfqeux2g.png"
+            }
+          ]
+        },
+        "MU": {
+          "link": "https://www.themoviedb.org/movie/1311031-ju-chang-ban-gui-mie-no-ren-wu-xian-cheng-bian-di-yi-zhang-yi-wo-zuo-zai-lai/watch?locale=MU",
+          "flatrate": [
+            {
+              "name": "Netflix",
+              "logo": "/rK1KljqmbvO9HQa1PBFLILWah72.png"
+            }
+          ]
+        },
+        "MW": {
+          "link": "https://www.themoviedb.org/movie/1311031-ju-chang-ban-gui-mie-no-ren-wu-xian-cheng-bian-di-yi-zhang-yi-wo-zuo-zai-lai/watch?locale=MW",
+          "flatrate": [
+            {
+              "name": "Amazon Prime Video",
+              "logo": "/gMZdpavHmxFNnLpMHwVxfqeux2g.png"
+            }
+          ]
+        },
+        "MX": {
+          "link": "https://www.themoviedb.org/movie/1311031-ju-chang-ban-gui-mie-no-ren-wu-xian-cheng-bian-di-yi-zhang-yi-wo-zuo-zai-lai/watch?locale=MX",
+          "flatrate": [
+            {
+              "name": "Netflix",
+              "logo": "/rK1KljqmbvO9HQa1PBFLILWah72.png"
+            },
+            {
+              "name": "Amazon Prime Video",
+              "logo": "/gMZdpavHmxFNnLpMHwVxfqeux2g.png"
+            },
+            {
+              "name": "Disney Plus",
+              "logo": "/5eZ872CghnHFLB1j8grszbrx0dx.png"
+            },
+            {
+              "name": "Crunchyroll",
+              "logo": "/uFL3c4Cq8M6WoLymlC5Y8bmGytV.png"
+            },
+            {
+              "name": "HBO Max",
+              "logo": "/skypuy7SXuugIQeYg0IglmzoKaS.png"
+            },
+            {
+              "name": "HBO Max Amazon Channel",
+              "logo": "/64fLWeSyZ1KQZhIdvTdy4QHeWty.png"
+            },
+            {
+              "name": "Netflix Standard with Ads",
+              "logo": "/eGUwOOIxcazwEBxqJpSN5sWEu6V.png"
+            },
+            {
+              "name": "Crunchyroll Amazon Channel",
+              "logo": "/qHLLmKo7udRgiSnIASVTwP2IxfJ.png"
+            },
+            {
+              "name": "Amazon Prime Video with Ads",
+              "logo": "/tpwTT1FpWqLLhxUfAuDavIXDDfI.png"
+            }
+          ]
+        },
+        "MY": {
+          "link": "https://www.themoviedb.org/movie/1311031-ju-chang-ban-gui-mie-no-ren-wu-xian-cheng-bian-di-yi-zhang-yi-wo-zuo-zai-lai/watch?locale=MY",
+          "flatrate": [
+            {
+              "name": "Netflix",
+              "logo": "/rK1KljqmbvO9HQa1PBFLILWah72.png"
+            }
+          ],
+          "rent": [
+            {
+              "name": "Apple TV Store",
+              "logo": "/qdEGArH3lKfFnAtYXMkSYk5wxuG.png"
+            }
+          ],
+          "buy": [
+            {
+              "name": "Apple TV Store",
+              "logo": "/qdEGArH3lKfFnAtYXMkSYk5wxuG.png"
+            }
+          ]
+        },
+        "MZ": {
+          "link": "https://www.themoviedb.org/movie/1311031-ju-chang-ban-gui-mie-no-ren-wu-xian-cheng-bian-di-yi-zhang-yi-wo-zuo-zai-lai/watch?locale=MZ",
+          "flatrate": [
+            {
+              "name": "Netflix",
+              "logo": "/rK1KljqmbvO9HQa1PBFLILWah72.png"
+            },
+            {
+              "name": "Amazon Prime Video",
+              "logo": "/gMZdpavHmxFNnLpMHwVxfqeux2g.png"
+            }
+          ]
+        },
+        "NE": {
+          "link": "https://www.themoviedb.org/movie/1311031-ju-chang-ban-gui-mie-no-ren-wu-xian-cheng-bian-di-yi-zhang-yi-wo-zuo-zai-lai/watch?locale=NE",
+          "flatrate": [
+            {
+              "name": "Netflix",
+              "logo": "/rK1KljqmbvO9HQa1PBFLILWah72.png"
+            },
+            {
+              "name": "Amazon Prime Video",
+              "logo": "/gMZdpavHmxFNnLpMHwVxfqeux2g.png"
+            }
+          ]
+        },
+        "NG": {
+          "link": "https://www.themoviedb.org/movie/1311031-ju-chang-ban-gui-mie-no-ren-wu-xian-cheng-bian-di-yi-zhang-yi-wo-zuo-zai-lai/watch?locale=NG",
+          "flatrate": [
+            {
+              "name": "Netflix",
+              "logo": "/rK1KljqmbvO9HQa1PBFLILWah72.png"
+            },
+            {
+              "name": "Amazon Prime Video",
+              "logo": "/gMZdpavHmxFNnLpMHwVxfqeux2g.png"
+            }
+          ]
+        },
+        "NI": {
+          "link": "https://www.themoviedb.org/movie/1311031-ju-chang-ban-gui-mie-no-ren-wu-xian-cheng-bian-di-yi-zhang-yi-wo-zuo-zai-lai/watch?locale=NI",
+          "flatrate": [
+            {
+              "name": "Netflix",
+              "logo": "/rK1KljqmbvO9HQa1PBFLILWah72.png"
+            },
+            {
+              "name": "Amazon Prime Video",
+              "logo": "/gMZdpavHmxFNnLpMHwVxfqeux2g.png"
+            },
+            {
+              "name": "Disney Plus",
+              "logo": "/5eZ872CghnHFLB1j8grszbrx0dx.png"
+            },
+            {
+              "name": "HBO Max",
+              "logo": "/skypuy7SXuugIQeYg0IglmzoKaS.png"
+            }
+          ]
+        },
+        "NL": {
+          "link": "https://www.themoviedb.org/movie/1311031-ju-chang-ban-gui-mie-no-ren-wu-xian-cheng-bian-di-yi-zhang-yi-wo-zuo-zai-lai/watch?locale=NL",
+          "flatrate": [
+            {
+              "name": "Netflix",
+              "logo": "/rK1KljqmbvO9HQa1PBFLILWah72.png"
+            },
+            {
+              "name": "Amazon Prime Video",
+              "logo": "/gMZdpavHmxFNnLpMHwVxfqeux2g.png"
+            },
+            {
+              "name": "Crunchyroll",
+              "logo": "/uFL3c4Cq8M6WoLymlC5Y8bmGytV.png"
+            },
+            {
+              "name": "Crunchyroll Amazon Channel",
+              "logo": "/qHLLmKo7udRgiSnIASVTwP2IxfJ.png"
+            }
+          ]
+        },
+        "NO": {
+          "link": "https://www.themoviedb.org/movie/1311031-ju-chang-ban-gui-mie-no-ren-wu-xian-cheng-bian-di-yi-zhang-yi-wo-zuo-zai-lai/watch?locale=NO",
+          "flatrate": [
+            {
+              "name": "Netflix",
+              "logo": "/rK1KljqmbvO9HQa1PBFLILWah72.png"
+            },
+            {
+              "name": "Amazon Prime Video",
+              "logo": "/gMZdpavHmxFNnLpMHwVxfqeux2g.png"
+            },
+            {
+              "name": "Crunchyroll Amazon Channel",
+              "logo": "/qHLLmKo7udRgiSnIASVTwP2IxfJ.png"
+            }
+          ]
+        },
+        "NZ": {
+          "link": "https://www.themoviedb.org/movie/1311031-ju-chang-ban-gui-mie-no-ren-wu-xian-cheng-bian-di-yi-zhang-yi-wo-zuo-zai-lai/watch?locale=NZ",
+          "flatrate": [
+            {
+              "name": "Amazon Prime Video",
+              "logo": "/gMZdpavHmxFNnLpMHwVxfqeux2g.png"
+            },
+            {
+              "name": "Crunchyroll",
+              "logo": "/uFL3c4Cq8M6WoLymlC5Y8bmGytV.png"
+            },
+            {
+              "name": "Crunchyroll Amazon Channel",
+              "logo": "/qHLLmKo7udRgiSnIASVTwP2IxfJ.png"
+            }
+          ],
+          "buy": [
+            {
+              "name": "Apple TV Store",
+              "logo": "/qdEGArH3lKfFnAtYXMkSYk5wxuG.png"
+            }
+          ]
+        },
+        "OM": {
+          "link": "https://www.themoviedb.org/movie/1311031-ju-chang-ban-gui-mie-no-ren-wu-xian-cheng-bian-di-yi-zhang-yi-wo-zuo-zai-lai/watch?locale=OM",
+          "flatrate": [
+            {
+              "name": "Netflix",
+              "logo": "/rK1KljqmbvO9HQa1PBFLILWah72.png"
+            },
+            {
+              "name": "Amazon Prime Video",
+              "logo": "/gMZdpavHmxFNnLpMHwVxfqeux2g.png"
+            }
+          ]
+        },
+        "PA": {
+          "link": "https://www.themoviedb.org/movie/1311031-ju-chang-ban-gui-mie-no-ren-wu-xian-cheng-bian-di-yi-zhang-yi-wo-zuo-zai-lai/watch?locale=PA",
+          "flatrate": [
+            {
+              "name": "Netflix",
+              "logo": "/rK1KljqmbvO9HQa1PBFLILWah72.png"
+            },
+            {
+              "name": "Amazon Prime Video",
+              "logo": "/gMZdpavHmxFNnLpMHwVxfqeux2g.png"
+            },
+            {
+              "name": "Disney Plus",
+              "logo": "/5eZ872CghnHFLB1j8grszbrx0dx.png"
+            },
+            {
+              "name": "HBO Max",
+              "logo": "/skypuy7SXuugIQeYg0IglmzoKaS.png"
+            }
+          ]
+        },
+        "PE": {
+          "link": "https://www.themoviedb.org/movie/1311031-ju-chang-ban-gui-mie-no-ren-wu-xian-cheng-bian-di-yi-zhang-yi-wo-zuo-zai-lai/watch?locale=PE",
+          "flatrate": [
+            {
+              "name": "Netflix",
+              "logo": "/rK1KljqmbvO9HQa1PBFLILWah72.png"
+            },
+            {
+              "name": "Amazon Prime Video",
+              "logo": "/gMZdpavHmxFNnLpMHwVxfqeux2g.png"
+            },
+            {
+              "name": "Disney Plus",
+              "logo": "/5eZ872CghnHFLB1j8grszbrx0dx.png"
+            },
+            {
+              "name": "HBO Max",
+              "logo": "/skypuy7SXuugIQeYg0IglmzoKaS.png"
+            },
+            {
+              "name": "Crunchyroll",
+              "logo": "/uFL3c4Cq8M6WoLymlC5Y8bmGytV.png"
+            }
+          ]
+        },
+        "PF": {
+          "link": "https://www.themoviedb.org/movie/1311031-ju-chang-ban-gui-mie-no-ren-wu-xian-cheng-bian-di-yi-zhang-yi-wo-zuo-zai-lai/watch?locale=PF",
+          "flatrate": [
+            {
+              "name": "Netflix",
+              "logo": "/rK1KljqmbvO9HQa1PBFLILWah72.png"
+            },
+            {
+              "name": "Amazon Prime Video",
+              "logo": "/gMZdpavHmxFNnLpMHwVxfqeux2g.png"
+            }
+          ]
+        },
+        "PH": {
+          "link": "https://www.themoviedb.org/movie/1311031-ju-chang-ban-gui-mie-no-ren-wu-xian-cheng-bian-di-yi-zhang-yi-wo-zuo-zai-lai/watch?locale=PH",
+          "flatrate": [
+            {
+              "name": "Netflix",
+              "logo": "/rK1KljqmbvO9HQa1PBFLILWah72.png"
+            }
+          ],
+          "rent": [
+            {
+              "name": "Apple TV Store",
+              "logo": "/qdEGArH3lKfFnAtYXMkSYk5wxuG.png"
+            }
+          ],
+          "buy": [
+            {
+              "name": "Apple TV Store",
+              "logo": "/qdEGArH3lKfFnAtYXMkSYk5wxuG.png"
+            }
+          ]
+        },
+        "PK": {
+          "link": "https://www.themoviedb.org/movie/1311031-ju-chang-ban-gui-mie-no-ren-wu-xian-cheng-bian-di-yi-zhang-yi-wo-zuo-zai-lai/watch?locale=PK",
+          "flatrate": [
+            {
+              "name": "Netflix",
+              "logo": "/rK1KljqmbvO9HQa1PBFLILWah72.png"
+            },
+            {
+              "name": "Amazon Prime Video",
+              "logo": "/gMZdpavHmxFNnLpMHwVxfqeux2g.png"
+            }
+          ]
+        },
+        "PL": {
+          "link": "https://www.themoviedb.org/movie/1311031-ju-chang-ban-gui-mie-no-ren-wu-xian-cheng-bian-di-yi-zhang-yi-wo-zuo-zai-lai/watch?locale=PL",
+          "flatrate": [
+            {
+              "name": "Netflix",
+              "logo": "/rK1KljqmbvO9HQa1PBFLILWah72.png"
+            },
+            {
+              "name": "Amazon Prime Video",
+              "logo": "/gMZdpavHmxFNnLpMHwVxfqeux2g.png"
+            },
+            {
+              "name": "Crunchyroll Amazon Channel",
+              "logo": "/qHLLmKo7udRgiSnIASVTwP2IxfJ.png"
+            }
+          ]
+        },
+        "PS": {
+          "link": "https://www.themoviedb.org/movie/1311031-ju-chang-ban-gui-mie-no-ren-wu-xian-cheng-bian-di-yi-zhang-yi-wo-zuo-zai-lai/watch?locale=PS",
+          "flatrate": [
+            {
+              "name": "Netflix",
+              "logo": "/rK1KljqmbvO9HQa1PBFLILWah72.png"
+            },
+            {
+              "name": "Amazon Prime Video",
+              "logo": "/gMZdpavHmxFNnLpMHwVxfqeux2g.png"
+            }
+          ]
+        },
+        "PT": {
+          "link": "https://www.themoviedb.org/movie/1311031-ju-chang-ban-gui-mie-no-ren-wu-xian-cheng-bian-di-yi-zhang-yi-wo-zuo-zai-lai/watch?locale=PT",
+          "flatrate": [
+            {
+              "name": "Netflix",
+              "logo": "/rK1KljqmbvO9HQa1PBFLILWah72.png"
+            },
+            {
+              "name": "Amazon Prime Video",
+              "logo": "/gMZdpavHmxFNnLpMHwVxfqeux2g.png"
+            },
+            {
+              "name": "Crunchyroll",
+              "logo": "/uFL3c4Cq8M6WoLymlC5Y8bmGytV.png"
+            },
+            {
+              "name": "Crunchyroll Amazon Channel",
+              "logo": "/qHLLmKo7udRgiSnIASVTwP2IxfJ.png"
+            }
+          ]
+        },
+        "PY": {
+          "link": "https://www.themoviedb.org/movie/1311031-ju-chang-ban-gui-mie-no-ren-wu-xian-cheng-bian-di-yi-zhang-yi-wo-zuo-zai-lai/watch?locale=PY",
+          "flatrate": [
+            {
+              "name": "Netflix",
+              "logo": "/rK1KljqmbvO9HQa1PBFLILWah72.png"
+            },
+            {
+              "name": "Amazon Prime Video",
+              "logo": "/gMZdpavHmxFNnLpMHwVxfqeux2g.png"
+            },
+            {
+              "name": "Disney Plus",
+              "logo": "/5eZ872CghnHFLB1j8grszbrx0dx.png"
+            },
+            {
+              "name": "HBO Max",
+              "logo": "/skypuy7SXuugIQeYg0IglmzoKaS.png"
+            }
+          ]
+        },
+        "QA": {
+          "link": "https://www.themoviedb.org/movie/1311031-ju-chang-ban-gui-mie-no-ren-wu-xian-cheng-bian-di-yi-zhang-yi-wo-zuo-zai-lai/watch?locale=QA",
+          "flatrate": [
+            {
+              "name": "Netflix",
+              "logo": "/rK1KljqmbvO9HQa1PBFLILWah72.png"
+            },
+            {
+              "name": "Amazon Prime Video",
+              "logo": "/gMZdpavHmxFNnLpMHwVxfqeux2g.png"
+            }
+          ]
+        },
+        "RO": {
+          "link": "https://www.themoviedb.org/movie/1311031-ju-chang-ban-gui-mie-no-ren-wu-xian-cheng-bian-di-yi-zhang-yi-wo-zuo-zai-lai/watch?locale=RO",
+          "flatrate": [
+            {
+              "name": "Netflix",
+              "logo": "/rK1KljqmbvO9HQa1PBFLILWah72.png"
+            },
+            {
+              "name": "Crunchyroll Amazon Channel",
+              "logo": "/qHLLmKo7udRgiSnIASVTwP2IxfJ.png"
+            }
+          ]
+        },
+        "RS": {
+          "link": "https://www.themoviedb.org/movie/1311031-ju-chang-ban-gui-mie-no-ren-wu-xian-cheng-bian-di-yi-zhang-yi-wo-zuo-zai-lai/watch?locale=RS",
+          "flatrate": [
+            {
+              "name": "Netflix",
+              "logo": "/rK1KljqmbvO9HQa1PBFLILWah72.png"
+            },
+            {
+              "name": "Amazon Prime Video",
+              "logo": "/gMZdpavHmxFNnLpMHwVxfqeux2g.png"
+            }
+          ]
+        },
+        "SA": {
+          "link": "https://www.themoviedb.org/movie/1311031-ju-chang-ban-gui-mie-no-ren-wu-xian-cheng-bian-di-yi-zhang-yi-wo-zuo-zai-lai/watch?locale=SA",
+          "flatrate": [
+            {
+              "name": "Netflix",
+              "logo": "/rK1KljqmbvO9HQa1PBFLILWah72.png"
+            },
+            {
+              "name": "Amazon Prime Video",
+              "logo": "/gMZdpavHmxFNnLpMHwVxfqeux2g.png"
+            }
+          ]
+        },
+        "SC": {
+          "link": "https://www.themoviedb.org/movie/1311031-ju-chang-ban-gui-mie-no-ren-wu-xian-cheng-bian-di-yi-zhang-yi-wo-zuo-zai-lai/watch?locale=SC",
+          "flatrate": [
+            {
+              "name": "Netflix",
+              "logo": "/rK1KljqmbvO9HQa1PBFLILWah72.png"
+            },
+            {
+              "name": "Amazon Prime Video",
+              "logo": "/gMZdpavHmxFNnLpMHwVxfqeux2g.png"
+            }
+          ]
+        },
+        "SE": {
+          "link": "https://www.themoviedb.org/movie/1311031-ju-chang-ban-gui-mie-no-ren-wu-xian-cheng-bian-di-yi-zhang-yi-wo-zuo-zai-lai/watch?locale=SE",
+          "flatrate": [
+            {
+              "name": "Netflix",
+              "logo": "/rK1KljqmbvO9HQa1PBFLILWah72.png"
+            },
+            {
+              "name": "Amazon Prime Video",
+              "logo": "/gMZdpavHmxFNnLpMHwVxfqeux2g.png"
+            },
+            {
+              "name": "Crunchyroll Amazon Channel",
+              "logo": "/qHLLmKo7udRgiSnIASVTwP2IxfJ.png"
+            },
+            {
+              "name": "Crunchyroll",
+              "logo": "/uFL3c4Cq8M6WoLymlC5Y8bmGytV.png"
+            }
+          ]
+        },
+        "SG": {
+          "link": "https://www.themoviedb.org/movie/1311031-ju-chang-ban-gui-mie-no-ren-wu-xian-cheng-bian-di-yi-zhang-yi-wo-zuo-zai-lai/watch?locale=SG",
+          "flatrate": [
+            {
+              "name": "Netflix",
+              "logo": "/rK1KljqmbvO9HQa1PBFLILWah72.png"
+            },
+            {
+              "name": "Catchplay",
+              "logo": "/bonc3GQiIbZVG9WyNYEYAI9mqFy.png"
+            },
+            {
+              "name": "Mewatch",
+              "logo": "/aj4EXUQKE0xT5F3JxblWDm0UemY.png"
+            }
+          ],
+          "rent": [
+            {
+              "name": "Catchplay",
+              "logo": "/bonc3GQiIbZVG9WyNYEYAI9mqFy.png"
+            },
+            {
+              "name": "Apple TV Store",
+              "logo": "/qdEGArH3lKfFnAtYXMkSYk5wxuG.png"
+            }
+          ],
+          "buy": [
+            {
+              "name": "Apple TV Store",
+              "logo": "/qdEGArH3lKfFnAtYXMkSYk5wxuG.png"
+            }
+          ]
+        },
+        "SI": {
+          "link": "https://www.themoviedb.org/movie/1311031-ju-chang-ban-gui-mie-no-ren-wu-xian-cheng-bian-di-yi-zhang-yi-wo-zuo-zai-lai/watch?locale=SI",
+          "flatrate": [
+            {
+              "name": "Netflix",
+              "logo": "/rK1KljqmbvO9HQa1PBFLILWah72.png"
+            },
+            {
+              "name": "Amazon Prime Video",
+              "logo": "/gMZdpavHmxFNnLpMHwVxfqeux2g.png"
+            }
+          ]
+        },
+        "SK": {
+          "link": "https://www.themoviedb.org/movie/1311031-ju-chang-ban-gui-mie-no-ren-wu-xian-cheng-bian-di-yi-zhang-yi-wo-zuo-zai-lai/watch?locale=SK",
+          "flatrate": [
+            {
+              "name": "Netflix",
+              "logo": "/rK1KljqmbvO9HQa1PBFLILWah72.png"
+            },
+            {
+              "name": "Amazon Prime Video",
+              "logo": "/gMZdpavHmxFNnLpMHwVxfqeux2g.png"
+            },
+            {
+              "name": "Crunchyroll Amazon Channel",
+              "logo": "/qHLLmKo7udRgiSnIASVTwP2IxfJ.png"
+            }
+          ]
+        },
+        "SM": {
+          "link": "https://www.themoviedb.org/movie/1311031-ju-chang-ban-gui-mie-no-ren-wu-xian-cheng-bian-di-yi-zhang-yi-wo-zuo-zai-lai/watch?locale=SM",
+          "flatrate": [
+            {
+              "name": "Netflix",
+              "logo": "/rK1KljqmbvO9HQa1PBFLILWah72.png"
+            },
+            {
+              "name": "Amazon Prime Video",
+              "logo": "/gMZdpavHmxFNnLpMHwVxfqeux2g.png"
+            },
+            {
+              "name": "Disney Plus",
+              "logo": "/5eZ872CghnHFLB1j8grszbrx0dx.png"
+            }
+          ]
+        },
+        "SN": {
+          "link": "https://www.themoviedb.org/movie/1311031-ju-chang-ban-gui-mie-no-ren-wu-xian-cheng-bian-di-yi-zhang-yi-wo-zuo-zai-lai/watch?locale=SN",
+          "flatrate": [
+            {
+              "name": "Netflix",
+              "logo": "/rK1KljqmbvO9HQa1PBFLILWah72.png"
+            },
+            {
+              "name": "Amazon Prime Video",
+              "logo": "/gMZdpavHmxFNnLpMHwVxfqeux2g.png"
+            }
+          ]
+        },
+        "SV": {
+          "link": "https://www.themoviedb.org/movie/1311031-ju-chang-ban-gui-mie-no-ren-wu-xian-cheng-bian-di-yi-zhang-yi-wo-zuo-zai-lai/watch?locale=SV",
+          "flatrate": [
+            {
+              "name": "Netflix",
+              "logo": "/rK1KljqmbvO9HQa1PBFLILWah72.png"
+            },
+            {
+              "name": "Amazon Prime Video",
+              "logo": "/gMZdpavHmxFNnLpMHwVxfqeux2g.png"
+            },
+            {
+              "name": "Disney Plus",
+              "logo": "/5eZ872CghnHFLB1j8grszbrx0dx.png"
+            },
+            {
+              "name": "HBO Max",
+              "logo": "/skypuy7SXuugIQeYg0IglmzoKaS.png"
+            }
+          ]
+        },
+        "TC": {
+          "link": "https://www.themoviedb.org/movie/1311031-ju-chang-ban-gui-mie-no-ren-wu-xian-cheng-bian-di-yi-zhang-yi-wo-zuo-zai-lai/watch?locale=TC",
+          "flatrate": [
+            {
+              "name": "Netflix",
+              "logo": "/rK1KljqmbvO9HQa1PBFLILWah72.png"
+            },
+            {
+              "name": "Amazon Prime Video",
+              "logo": "/gMZdpavHmxFNnLpMHwVxfqeux2g.png"
+            },
+            {
+              "name": "HBO Max",
+              "logo": "/skypuy7SXuugIQeYg0IglmzoKaS.png"
+            }
+          ]
+        },
+        "TD": {
+          "link": "https://www.themoviedb.org/movie/1311031-ju-chang-ban-gui-mie-no-ren-wu-xian-cheng-bian-di-yi-zhang-yi-wo-zuo-zai-lai/watch?locale=TD",
+          "flatrate": [
+            {
+              "name": "Netflix",
+              "logo": "/rK1KljqmbvO9HQa1PBFLILWah72.png"
+            },
+            {
+              "name": "Amazon Prime Video",
+              "logo": "/gMZdpavHmxFNnLpMHwVxfqeux2g.png"
+            }
+          ]
+        },
+        "TH": {
+          "link": "https://www.themoviedb.org/movie/1311031-ju-chang-ban-gui-mie-no-ren-wu-xian-cheng-bian-di-yi-zhang-yi-wo-zuo-zai-lai/watch?locale=TH",
+          "flatrate": [
+            {
+              "name": "Netflix",
+              "logo": "/rK1KljqmbvO9HQa1PBFLILWah72.png"
+            }
+          ],
+          "rent": [
+            {
+              "name": "Apple TV Store",
+              "logo": "/qdEGArH3lKfFnAtYXMkSYk5wxuG.png"
+            }
+          ],
+          "buy": [
+            {
+              "name": "Apple TV Store",
+              "logo": "/qdEGArH3lKfFnAtYXMkSYk5wxuG.png"
+            }
+          ]
+        },
+        "TN": {
+          "link": "https://www.themoviedb.org/movie/1311031-ju-chang-ban-gui-mie-no-ren-wu-xian-cheng-bian-di-yi-zhang-yi-wo-zuo-zai-lai/watch?locale=TN",
+          "flatrate": [
+            {
+              "name": "Netflix",
+              "logo": "/rK1KljqmbvO9HQa1PBFLILWah72.png"
+            },
+            {
+              "name": "Amazon Prime Video",
+              "logo": "/gMZdpavHmxFNnLpMHwVxfqeux2g.png"
+            }
+          ]
+        },
+        "TR": {
+          "link": "https://www.themoviedb.org/movie/1311031-ju-chang-ban-gui-mie-no-ren-wu-xian-cheng-bian-di-yi-zhang-yi-wo-zuo-zai-lai/watch?locale=TR",
+          "flatrate": [
+            {
+              "name": "Netflix",
+              "logo": "/rK1KljqmbvO9HQa1PBFLILWah72.png"
+            },
+            {
+              "name": "Amazon Prime Video",
+              "logo": "/gMZdpavHmxFNnLpMHwVxfqeux2g.png"
+            }
+          ]
+        },
+        "TT": {
+          "link": "https://www.themoviedb.org/movie/1311031-ju-chang-ban-gui-mie-no-ren-wu-xian-cheng-bian-di-yi-zhang-yi-wo-zuo-zai-lai/watch?locale=TT",
+          "flatrate": [
+            {
+              "name": "Netflix",
+              "logo": "/rK1KljqmbvO9HQa1PBFLILWah72.png"
+            },
+            {
+              "name": "Amazon Prime Video",
+              "logo": "/gMZdpavHmxFNnLpMHwVxfqeux2g.png"
+            },
+            {
+              "name": "Disney Plus",
+              "logo": "/5eZ872CghnHFLB1j8grszbrx0dx.png"
+            },
+            {
+              "name": "HBO Max",
+              "logo": "/skypuy7SXuugIQeYg0IglmzoKaS.png"
+            }
+          ]
+        },
+        "TW": {
+          "link": "https://www.themoviedb.org/movie/1311031-ju-chang-ban-gui-mie-no-ren-wu-xian-cheng-bian-di-yi-zhang-yi-wo-zuo-zai-lai/watch?locale=TW",
+          "flatrate": [
+            {
+              "name": "Netflix",
+              "logo": "/rK1KljqmbvO9HQa1PBFLILWah72.png"
+            },
+            {
+              "name": "Disney Plus",
+              "logo": "/5eZ872CghnHFLB1j8grszbrx0dx.png"
+            },
+            {
+              "name": "Catchplay",
+              "logo": "/bonc3GQiIbZVG9WyNYEYAI9mqFy.png"
+            }
+          ],
+          "rent": [
+            {
+              "name": "Apple TV Store",
+              "logo": "/qdEGArH3lKfFnAtYXMkSYk5wxuG.png"
+            }
+          ],
+          "buy": [
+            {
+              "name": "Apple TV Store",
+              "logo": "/qdEGArH3lKfFnAtYXMkSYk5wxuG.png"
+            }
+          ]
+        },
+        "TZ": {
+          "link": "https://www.themoviedb.org/movie/1311031-ju-chang-ban-gui-mie-no-ren-wu-xian-cheng-bian-di-yi-zhang-yi-wo-zuo-zai-lai/watch?locale=TZ",
+          "flatrate": [
+            {
+              "name": "Netflix",
+              "logo": "/rK1KljqmbvO9HQa1PBFLILWah72.png"
+            },
+            {
+              "name": "Amazon Prime Video",
+              "logo": "/gMZdpavHmxFNnLpMHwVxfqeux2g.png"
+            }
+          ]
+        },
+        "UA": {
+          "link": "https://www.themoviedb.org/movie/1311031-ju-chang-ban-gui-mie-no-ren-wu-xian-cheng-bian-di-yi-zhang-yi-wo-zuo-zai-lai/watch?locale=UA",
+          "flatrate": [
+            {
+              "name": "Netflix",
+              "logo": "/rK1KljqmbvO9HQa1PBFLILWah72.png"
+            }
+          ]
+        },
+        "UG": {
+          "link": "https://www.themoviedb.org/movie/1311031-ju-chang-ban-gui-mie-no-ren-wu-xian-cheng-bian-di-yi-zhang-yi-wo-zuo-zai-lai/watch?locale=UG",
+          "flatrate": [
+            {
+              "name": "Netflix",
+              "logo": "/rK1KljqmbvO9HQa1PBFLILWah72.png"
+            },
+            {
+              "name": "Amazon Prime Video",
+              "logo": "/gMZdpavHmxFNnLpMHwVxfqeux2g.png"
+            }
+          ]
+        },
+        "US": {
+          "link": "https://www.themoviedb.org/movie/1311031-ju-chang-ban-gui-mie-no-ren-wu-xian-cheng-bian-di-yi-zhang-yi-wo-zuo-zai-lai/watch?locale=US",
+          "flatrate": [
+            {
+              "name": "Netflix",
+              "logo": "/rK1KljqmbvO9HQa1PBFLILWah72.png"
+            },
+            {
+              "name": "Amazon Prime Video",
+              "logo": "/gMZdpavHmxFNnLpMHwVxfqeux2g.png"
+            },
+            {
+              "name": "Hulu",
+              "logo": "/44uAnmSqvA4yBOdbPWN8YgQHjWm.png"
+            },
+            {
+              "name": "Crunchyroll",
+              "logo": "/uFL3c4Cq8M6WoLymlC5Y8bmGytV.png"
+            },
+            {
+              "name": "Crunchyroll Amazon Channel",
+              "logo": "/qHLLmKo7udRgiSnIASVTwP2IxfJ.png"
+            },
+            {
+              "name": "Netflix Standard with Ads",
+              "logo": "/eGUwOOIxcazwEBxqJpSN5sWEu6V.png"
+            },
+            {
+              "name": "Amazon Prime Video with Ads",
+              "logo": "/tpwTT1FpWqLLhxUfAuDavIXDDfI.png"
+            }
+          ],
+          "buy": [
+            {
+              "name": "Amazon Video",
+              "logo": "/jn6TLbtaTZntTRX9UYucHJvpQx1.png"
+            },
+            {
+              "name": "Apple TV Store",
+              "logo": "/qdEGArH3lKfFnAtYXMkSYk5wxuG.png"
+            },
+            {
+              "name": "Google Play Movies",
+              "logo": "/aZRENwYILujqs0RVOZutTh0BVGV.png"
+            },
+            {
+              "name": "YouTube",
+              "logo": "/5Maob4o5w8oZnNeYpCDyVFD3M7X.png"
+            },
+            {
+              "name": "Fandango At Home",
+              "logo": "/wpOt6x0dRxTrIzuBosto4LGd7E9.png"
+            }
+          ]
+        },
+        "UY": {
+          "link": "https://www.themoviedb.org/movie/1311031-ju-chang-ban-gui-mie-no-ren-wu-xian-cheng-bian-di-yi-zhang-yi-wo-zuo-zai-lai/watch?locale=UY",
+          "flatrate": [
+            {
+              "name": "Netflix",
+              "logo": "/rK1KljqmbvO9HQa1PBFLILWah72.png"
+            },
+            {
+              "name": "Amazon Prime Video",
+              "logo": "/gMZdpavHmxFNnLpMHwVxfqeux2g.png"
+            },
+            {
+              "name": "Disney Plus",
+              "logo": "/5eZ872CghnHFLB1j8grszbrx0dx.png"
+            },
+            {
+              "name": "HBO Max",
+              "logo": "/skypuy7SXuugIQeYg0IglmzoKaS.png"
+            }
+          ]
+        },
+        "VA": {
+          "link": "https://www.themoviedb.org/movie/1311031-ju-chang-ban-gui-mie-no-ren-wu-xian-cheng-bian-di-yi-zhang-yi-wo-zuo-zai-lai/watch?locale=VA",
+          "flatrate": [
+            {
+              "name": "Amazon Prime Video",
+              "logo": "/gMZdpavHmxFNnLpMHwVxfqeux2g.png"
+            }
+          ]
+        },
+        "VE": {
+          "link": "https://www.themoviedb.org/movie/1311031-ju-chang-ban-gui-mie-no-ren-wu-xian-cheng-bian-di-yi-zhang-yi-wo-zuo-zai-lai/watch?locale=VE",
+          "flatrate": [
+            {
+              "name": "Netflix",
+              "logo": "/rK1KljqmbvO9HQa1PBFLILWah72.png"
+            },
+            {
+              "name": "Amazon Prime Video",
+              "logo": "/gMZdpavHmxFNnLpMHwVxfqeux2g.png"
+            },
+            {
+              "name": "Disney Plus",
+              "logo": "/5eZ872CghnHFLB1j8grszbrx0dx.png"
+            },
+            {
+              "name": "HBO Max",
+              "logo": "/skypuy7SXuugIQeYg0IglmzoKaS.png"
+            }
+          ]
+        },
+        "YE": {
+          "link": "https://www.themoviedb.org/movie/1311031-ju-chang-ban-gui-mie-no-ren-wu-xian-cheng-bian-di-yi-zhang-yi-wo-zuo-zai-lai/watch?locale=YE",
+          "flatrate": [
+            {
+              "name": "Netflix",
+              "logo": "/rK1KljqmbvO9HQa1PBFLILWah72.png"
+            },
+            {
+              "name": "Amazon Prime Video",
+              "logo": "/gMZdpavHmxFNnLpMHwVxfqeux2g.png"
+            }
+          ]
+        },
+        "ZA": {
+          "link": "https://www.themoviedb.org/movie/1311031-ju-chang-ban-gui-mie-no-ren-wu-xian-cheng-bian-di-yi-zhang-yi-wo-zuo-zai-lai/watch?locale=ZA",
+          "flatrate": [
+            {
+              "name": "Netflix",
+              "logo": "/rK1KljqmbvO9HQa1PBFLILWah72.png"
+            },
+            {
+              "name": "Amazon Prime Video",
+              "logo": "/gMZdpavHmxFNnLpMHwVxfqeux2g.png"
+            },
+            {
+              "name": "Crunchyroll",
+              "logo": "/uFL3c4Cq8M6WoLymlC5Y8bmGytV.png"
+            }
+          ],
+          "buy": [
+            {
+              "name": "Apple TV Store",
+              "logo": "/qdEGArH3lKfFnAtYXMkSYk5wxuG.png"
+            }
+          ]
+        },
+        "ZM": {
+          "link": "https://www.themoviedb.org/movie/1311031-ju-chang-ban-gui-mie-no-ren-wu-xian-cheng-bian-di-yi-zhang-yi-wo-zuo-zai-lai/watch?locale=ZM",
+          "flatrate": [
+            {
+              "name": "Netflix",
+              "logo": "/rK1KljqmbvO9HQa1PBFLILWah72.png"
+            },
+            {
+              "name": "Amazon Prime Video",
+              "logo": "/gMZdpavHmxFNnLpMHwVxfqeux2g.png"
+            }
+          ]
+        },
+        "ZW": {
+          "link": "https://www.themoviedb.org/movie/1311031-ju-chang-ban-gui-mie-no-ren-wu-xian-cheng-bian-di-yi-zhang-yi-wo-zuo-zai-lai/watch?locale=ZW",
+          "flatrate": [
+            {
+              "name": "Netflix",
+              "logo": "/rK1KljqmbvO9HQa1PBFLILWah72.png"
+            },
+            {
+              "name": "Amazon Prime Video",
+              "logo": "/gMZdpavHmxFNnLpMHwVxfqeux2g.png"
+            }
+          ]
+        }
+      },
+      "recommendations": [
+        {
+          "tmdb_id": 635302,
+          "title": "Demon Slayer -Kimetsu no Yaiba- The Movie: Mugen Train",
+          "year": "2020",
+          "poster": "/h8Rb9gBr48ODIwYUttZNYeMWeUU.jpg",
+          "genre_ids": [
+            16,
+            28,
+            14
+          ],
+          "vote": 8.231
+        },
+        {
+          "tmdb_id": 820232,
+          "title": "Demon Slayer: Kimetsu no Yaiba - Sibling's Bond",
+          "year": "2019",
+          "poster": "/vJUDoYNNKvBqbEPUskgvzPXGEFz.jpg",
+          "genre_ids": [
+            16,
+            28,
+            14,
+            12
+          ],
+          "vote": 7.861
+        },
+        {
+          "tmdb_id": 895003,
+          "title": "Demon Slayer: Kimetsu no Yaiba - Asakusa Arc",
+          "year": "2022",
+          "poster": "/t2w332ARBJxy1G65abj8C7VNjeW.jpg",
+          "genre_ids": [
+            16,
+            28,
+            14
+          ],
+          "vote": 7.565
+        },
+        {
+          "tmdb_id": 390634,
+          "title": "Fate/stay night: Heaven's Feel II. Lost Butterfly",
+          "year": "2019",
+          "poster": "/4tS0iyKQBDFqVpVcH21MSJwXZdq.jpg",
+          "genre_ids": [
+            16,
+            28,
+            14,
+            18,
+            10749
+          ],
+          "vote": 7.095
+        },
+        {
+          "tmdb_id": 73245,
+          "title": "Bleach the Movie: Hell Verse",
+          "year": "2010",
+          "poster": "/pd7V5iCB19VBPJkihxFXFwSRW2M.jpg",
+          "genre_ids": [
+            28,
+            16,
+            14,
+            12
+          ],
+          "vote": 7.6
+        },
+        {
+          "tmdb_id": 811948,
+          "title": "Demon Slayer: Kimetsu no Yaiba - The Hashira Meeting Arc",
+          "year": "2021",
+          "poster": "/j1FpReEQXp8JsgNQZcfGvzeXNoI.jpg",
+          "genre_ids": [
+            16,
+            28,
+            14
+          ],
+          "vote": 7.039
+        },
+        {
+          "tmdb_id": 802401,
+          "title": "Demon Slayer: Kimetsu no Yaiba Mt. Natagumo Arc",
+          "year": "2021",
+          "poster": "/wq1UG5lPCKpOJgmgpKJszKvoMUe.jpg",
+          "genre_ids": [
+            16,
+            28,
+            14
+          ],
+          "vote": 7.739
+        },
+        {
+          "tmdb_id": 1539104,
+          "title": "JUJUTSU KAISEN: Execution",
+          "year": "2025",
+          "poster": "/v0s3dx6am0RzfsuK3KdEy8ZoCDs.jpg",
+          "genre_ids": [
+            16,
+            28,
+            14
+          ],
+          "vote": 6.141
+        },
+        {
+          "tmdb_id": 44179,
+          "title": "Demon City Shinjuku",
+          "year": "1988",
+          "poster": "/9O6Mewk4JmM7pLvsHt9Eyq92fWq.jpg",
+          "genre_ids": [
+            28,
+            14,
+            16,
+            27
+          ],
+          "vote": 6
+        },
+        {
+          "tmdb_id": 34295,
+          "title": "Inuyasha the Movie 3: Swords of an Honorable Ruler",
+          "year": "2003",
+          "poster": "/cUqC1pHXFhow0kSJbg4e77EcuxQ.jpg",
+          "genre_ids": [
+            16,
+            14,
+            12
+          ],
+          "vote": 7.7
+        },
+        {
+          "tmdb_id": 567006,
+          "title": "Kabaneri of the Iron Fortress: The Battle of Unato",
+          "year": "2019",
+          "poster": "/1O5jE1w2wYkFInDHnWYa91TemOO.jpg",
+          "genre_ids": [
+            16,
+            18,
+            28,
+            878
+          ],
+          "vote": 7.19
+        },
+        {
+          "tmdb_id": 34297,
+          "title": "Inuyasha the Movie 4: Fire on the Mystic Island",
+          "year": "2004",
+          "poster": "/jOPgzW6oDuuG8OXosY04JUphhDY.jpg",
+          "genre_ids": [
+            14,
+            16,
+            12
+          ],
+          "vote": 7.6
+        }
+      ],
+      "updated": "2026-11-17T12:17:19.826Z"
     }
   ]
 }

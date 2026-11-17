@@ -1,5 +1,5 @@
 {
-  "generated": "2026-11-17T12:15:37.933Z",
+  "generated": "2026-11-17T12:17:20.084Z",
   "horror": [
     {
       "tmdb_id": 756999,
@@ -267,6 +267,22 @@
       ]
     },
     {
+      "tmdb_id": 635302,
+      "title": "Demon Slayer -Kimetsu no Yaiba- The Movie: Mugen Train",
+      "year": "2020",
+      "poster": "/h8Rb9gBr48ODIwYUttZNYeMWeUU.jpg",
+      "genre_ids": [
+        16,
+        28,
+        14
+      ],
+      "vote": 8.231,
+      "score": 1.8231,
+      "because": [
+        "Demon Slayer: Kimetsu no Yaiba Infinity Castle"
+      ]
+    },
+    {
       "tmdb_id": 354857,
       "title": "Regular Show: The Movie",
       "year": "2015",
@@ -281,6 +297,39 @@
       "score": 1.7933,
       "because": [
         "Ray Gunn"
+      ]
+    },
+    {
+      "tmdb_id": 820232,
+      "title": "Demon Slayer: Kimetsu no Yaiba - Sibling's Bond",
+      "year": "2019",
+      "poster": "/vJUDoYNNKvBqbEPUskgvzPXGEFz.jpg",
+      "genre_ids": [
+        16,
+        28,
+        14,
+        12
+      ],
+      "vote": 7.861,
+      "score": 1.7861,
+      "because": [
+        "Demon Slayer: Kimetsu no Yaiba Infinity Castle"
+      ]
+    },
+    {
+      "tmdb_id": 802401,
+      "title": "Demon Slayer: Kimetsu no Yaiba Mt. Natagumo Arc",
+      "year": "2021",
+      "poster": "/wq1UG5lPCKpOJgmgpKJszKvoMUe.jpg",
+      "genre_ids": [
+        16,
+        28,
+        14
+      ],
+      "vote": 7.739,
+      "score": 1.7739,
+      "because": [
+        "Demon Slayer: Kimetsu no Yaiba Infinity Castle"
       ]
     },
     {
@@ -301,6 +350,22 @@
       ]
     },
     {
+      "tmdb_id": 34295,
+      "title": "Inuyasha the Movie 3: Swords of an Honorable Ruler",
+      "year": "2003",
+      "poster": "/cUqC1pHXFhow0kSJbg4e77EcuxQ.jpg",
+      "genre_ids": [
+        16,
+        14,
+        12
+      ],
+      "vote": 7.7,
+      "score": 1.77,
+      "because": [
+        "Demon Slayer: Kimetsu no Yaiba Infinity Castle"
+      ]
+    },
+    {
       "tmdb_id": 152042,
       "title": "Puella Magi Madoka Magica the Movie Part I: Beginnings",
       "year": "2012",
@@ -314,6 +379,55 @@
       "score": 1.76,
       "because": [
         "Spirited Away"
+      ]
+    },
+    {
+      "tmdb_id": 73245,
+      "title": "Bleach the Movie: Hell Verse",
+      "year": "2010",
+      "poster": "/pd7V5iCB19VBPJkihxFXFwSRW2M.jpg",
+      "genre_ids": [
+        28,
+        16,
+        14,
+        12
+      ],
+      "vote": 7.6,
+      "score": 1.76,
+      "because": [
+        "Demon Slayer: Kimetsu no Yaiba Infinity Castle"
+      ]
+    },
+    {
+      "tmdb_id": 34297,
+      "title": "Inuyasha the Movie 4: Fire on the Mystic Island",
+      "year": "2004",
+      "poster": "/jOPgzW6oDuuG8OXosY04JUphhDY.jpg",
+      "genre_ids": [
+        14,
+        16,
+        12
+      ],
+      "vote": 7.6,
+      "score": 1.76,
+      "because": [
+        "Demon Slayer: Kimetsu no Yaiba Infinity Castle"
+      ]
+    },
+    {
+      "tmdb_id": 895003,
+      "title": "Demon Slayer: Kimetsu no Yaiba - Asakusa Arc",
+      "year": "2022",
+      "poster": "/t2w332ARBJxy1G65abj8C7VNjeW.jpg",
+      "genre_ids": [
+        16,
+        28,
+        14
+      ],
+      "vote": 7.565,
+      "score": 1.7565,
+      "because": [
+        "Demon Slayer: Kimetsu no Yaiba Infinity Castle"
       ]
     },
     {
@@ -418,125 +532,6 @@
       "score": 1.7216,
       "because": [
         "Sonic the Hedgehog 4"
-      ]
-    },
-    {
-      "tmdb_id": 430447,
-      "title": "Mary and The Witch's Flower",
-      "year": "2017",
-      "poster": "/lq3OJQiJ8hlCr23LAdHbeU3eqBF.jpg",
-      "genre_ids": [
-        16,
-        12,
-        10751,
-        14
-      ],
-      "vote": 7.168,
-      "score": 1.7168,
-      "because": [
-        "Spirited Away"
-      ]
-    },
-    {
-      "tmdb_id": 979296,
-      "title": "Sonic Drone Home",
-      "year": "2022",
-      "poster": "/ifc2YN7eZeHKwaoiT0Xn8LiJCFb.jpg",
-      "genre_ids": [
-        28,
-        10751,
-        35,
-        878,
-        16
-      ],
-      "vote": 7.1,
-      "score": 1.71,
-      "because": [
-        "Sonic the Hedgehog 4"
-      ]
-    },
-    {
-      "tmdb_id": 14613,
-      "title": "Next Avengers: Heroes of Tomorrow",
-      "year": "2008",
-      "poster": "/1y4J9HZJoTIMdt77wCq80uXaQJ.jpg",
-      "genre_ids": [
-        16,
-        10751,
-        28,
-        12,
-        878
-      ],
-      "vote": 7.059,
-      "score": 1.7059,
-      "because": [
-        "Spider-Man: Beyond the Spider-Verse"
-      ]
-    },
-    {
-      "tmdb_id": 618354,
-      "title": "Superman: Man of Tomorrow",
-      "year": "2020",
-      "poster": "/n9GtiJiBETVFayQy7YnVdF9AucU.jpg",
-      "genre_ids": [
-        16,
-        28,
-        878
-      ],
-      "vote": 7.039,
-      "score": 1.7039,
-      "because": [
-        "Ray Gunn"
-      ]
-    },
-    {
-      "tmdb_id": 283564,
-      "title": "SlugTerra: Return of the Elementals",
-      "year": "2014",
-      "poster": "/ApN2lteDsoIU5dDHJXeqVD13vpd.jpg",
-      "genre_ids": [
-        10751,
-        16,
-        12
-      ],
-      "vote": 7,
-      "score": 1.7,
-      "because": [
-        "Wildwood"
-      ]
-    },
-    {
-      "tmdb_id": 76492,
-      "title": "Hotel Transylvania",
-      "year": "2012",
-      "poster": "/eJGvzGrsfe2sqTUPv5IwLWXjVuR.jpg",
-      "genre_ids": [
-        16,
-        35,
-        10751,
-        14
-      ],
-      "vote": 6.973,
-      "score": 1.6973,
-      "because": [
-        "Spirited Away"
-      ]
-    },
-    {
-      "tmdb_id": 10882,
-      "title": "Sleeping Beauty",
-      "year": "1959",
-      "poster": "/pO9YMLSmj3essVSWSGygjGxX6Kw.jpg",
-      "genre_ids": [
-        14,
-        16,
-        10749,
-        10751
-      ],
-      "vote": 6.941,
-      "score": 1.6941,
-      "because": [
-        "Spirited Away"
       ]
     }
   ],
