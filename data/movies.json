@@ -1,6 +1,6 @@
 {
   "home_country": "CH",
-  "generated": "2026-11-17T12:17:20.076Z",
+  "generated": "2026-11-17T12:18:21.807Z",
   "movies": [
     {
       "imdb_id": "tt1457767",
@@ -3757,7 +3757,7 @@
           "vote": 6.413
         }
       ],
-      "updated": "2026-11-17T12:17:14.641Z"
+      "updated": "2026-11-17T12:18:17.992Z"
     },
     {
       "imdb_id": "tt0245429",
@@ -6754,7 +6754,7 @@
           "vote": 6.436
         }
       ],
-      "updated": "2026-11-17T12:17:15.079Z"
+      "updated": "2026-11-17T12:18:18.263Z"
     },
     {
       "imdb_id": "tt15239678",
@@ -11057,7 +11057,7 @@
           "vote": 7.9
         }
       ],
-      "updated": "2026-11-17T12:17:15.499Z"
+      "updated": "2026-11-17T12:18:18.535Z"
     },
     {
       "imdb_id": "tt2056785",
@@ -11773,7 +11773,7 @@
           "vote": 6.818
         }
       ],
-      "updated": "2026-11-17T12:17:15.930Z"
+      "updated": "2026-11-17T12:18:18.804Z"
     },
     {
       "imdb_id": "tt22084616",
@@ -14483,7 +14483,7 @@
           "vote": 6.53
         }
       ],
-      "updated": "2026-11-17T12:17:16.400Z"
+      "updated": "2026-11-17T12:18:19.077Z"
     },
     {
       "imdb_id": "tt45368240",
@@ -15238,7 +15238,7 @@
           "vote": 6.8
         }
       ],
-      "updated": "2026-11-17T12:17:16.819Z"
+      "updated": "2026-11-17T12:18:19.344Z"
     },
     {
       "imdb_id": "tt21357150",
@@ -15895,7 +15895,7 @@
           "vote": 8.085
         }
       ],
-      "updated": "2026-11-17T12:17:17.244Z"
+      "updated": "2026-11-17T12:18:19.612Z"
     },
     {
       "imdb_id": "tt31378509",
@@ -16720,7 +16720,7 @@
           "vote": 7.321
         }
       ],
-      "updated": "2026-11-17T12:17:17.676Z"
+      "updated": "2026-11-17T12:18:19.885Z"
     },
     {
       "imdb_id": "tt16360004",
@@ -17093,7 +17093,7 @@
           "vote": 7.059
         }
       ],
-      "updated": "2026-11-17T12:17:18.109Z"
+      "updated": "2026-11-17T12:18:20.157Z"
     },
     {
       "imdb_id": "tt18270542",
@@ -18015,7 +18015,7 @@
           "vote": 6.2
         }
       ],
-      "updated": "2026-11-17T12:17:18.535Z"
+      "updated": "2026-11-17T12:18:20.431Z"
     },
     {
       "imdb_id": "tt16744566",
@@ -18381,7 +18381,7 @@
           "vote": 7.216
         }
       ],
-      "updated": "2026-11-17T12:17:18.967Z"
+      "updated": "2026-11-17T12:18:20.703Z"
     },
     {
       "imdb_id": "tt31450459",
@@ -19365,7 +19365,7 @@
           "vote": 6
         }
       ],
-      "updated": "2026-11-17T12:17:19.389Z"
+      "updated": "2026-11-17T12:18:20.986Z"
     },
     {
       "imdb_id": "tt32820897",
@@ -22774,7 +22774,864 @@
           "vote": 7.6
         }
       ],
-      "updated": "2026-11-17T12:17:19.826Z"
+      "updated": "2026-11-17T12:18:21.270Z"
+    },
+    {
+      "imdb_id": "tt34384661",
+      "category": "horror",
+      "added": "2026-11-17",
+      "watched": false,
+      "pending_title": "Godzilla Minus Zero",
+      "tmdb_id": 1381071,
+      "title": "Godzilla Minus Zero",
+      "original_title": "ゴジラ-0.0",
+      "year": "2026",
+      "release_date": "2026-11-03",
+      "status": "Released",
+      "runtime": 135,
+      "tagline": "There is no third time. Everything ends here.",
+      "overview": "War reduced Japan to zero, and Godzilla plunged it into minus. Two years have passed since then, and the country has faced agonizing struggles to achieve recovery and finally reclaim its daily life. Just as humanity managed to cling to a hard-won peace, a new threat strikes, crushing hope in an instant. There is no third time. Everything ends here.",
+      "genres": [
+        "Science Fiction",
+        "Horror",
+        "Action"
+      ],
+      "genre_ids": [
+        878,
+        27,
+        28
+      ],
+      "keywords": [
+        "japan",
+        "atomic bomb",
+        "giant monster",
+        "sequel",
+        "survival",
+        "nuclear",
+        "kaiju",
+        "post war japan",
+        "monster movie",
+        "godzilla",
+        "shōwa era (1926-89)",
+        "tokusatsu",
+        "intense"
+      ],
+      "poster": "/hSmIJluOJmTWvJs4d7kHRxjc8s8.jpg",
+      "backdrop": "/oqrYIDH4tvfEzPe1yqT4jzmAWHQ.jpg",
+      "directors": [
+        "Takashi Yamazaki"
+      ],
+      "writers": [
+        "Takashi Yamazaki"
+      ],
+      "cast": [
+        {
+          "name": "Ryunosuke Kamiki",
+          "character": "Kōichi Shikishima",
+          "photo": "/ut7ewXjdgUmgkhJ1EtbOo9tbc7s.jpg"
+        },
+        {
+          "name": "Minami Hamabe",
+          "character": "Noriko Shikishima",
+          "photo": "/eQN8N2chINckvQDiNqzDXI0v9vN.jpg"
+        },
+        {
+          "name": "Min Tanaka",
+          "character": "Kanji Murakami",
+          "photo": "/bXmBnejA48Da7LzLdJqTKSVPCwd.jpg"
+        },
+        {
+          "name": "Hidetaka Yoshioka",
+          "character": "Kenji Noda",
+          "photo": "/xWNS6qStVthhWoxmKDfNS729BjJ.jpg"
+        },
+        {
+          "name": "Masami Nagasawa",
+          "character": "Makoto Aoyama",
+          "photo": "/yvHhfDOral1DeyBRSzpxsoHz60t.jpg"
+        },
+        {
+          "name": "Yuki Yamada",
+          "character": "Shiro Mizushima",
+          "photo": "/1oRe8UYddBYzyqAjlSwMTIFgg4K.jpg"
+        },
+        {
+          "name": "Kuranosuke Sasaki",
+          "character": "Seiji Akitsu",
+          "photo": "/lPDKfLKIKDCBdqig3uhYnPjwY5h.jpg"
+        },
+        {
+          "name": "Jun Kunimura",
+          "character": "Dr. Ogata",
+          "photo": "/zC0GbuXQGPur7i8AkdPUWedmDKz.jpg"
+        },
+        {
+          "name": "Sakura Ando",
+          "character": "Sumiko Ōta",
+          "photo": "/k2R2ryEFEuUe2f3Dsd5yH8aRdqV.jpg"
+        },
+        {
+          "name": "Miou Tanaka",
+          "character": "Captain Tatsuo Hotta",
+          "photo": "/4dXKZqcF1K6n6yVAGVVRlsc1RU0.jpg"
+        }
+      ],
+      "countries": [
+        "JP"
+      ],
+      "languages": [],
+      "trailer": "https://www.youtube.com/watch?v=Pu0pH5BuCPM",
+      "ratings": {
+        "tmdb": {
+          "value": 7.685,
+          "votes": 241
+        },
+        "imdb": null,
+        "metascore": null,
+        "others": []
+      },
+      "imdb_url": "https://www.imdb.com/title/tt34384661/",
+      "releases": {
+        "byCountry": {
+          "AE": [
+            {
+              "type": "Theatrical",
+              "typeId": 3,
+              "date": "2026-11-05"
+            }
+          ],
+          "AL": [
+            {
+              "type": "Theatrical",
+              "typeId": 3,
+              "date": "2026-11-05"
+            }
+          ],
+          "AR": [
+            {
+              "type": "Theatrical (limited)",
+              "typeId": 2,
+              "date": "2026-11-03"
+            },
+            {
+              "type": "Theatrical",
+              "typeId": 3,
+              "date": "2026-11-05"
+            }
+          ],
+          "AU": [
+            {
+              "type": "Theatrical",
+              "typeId": 3,
+              "date": "2026-11-05"
+            }
+          ],
+          "AW": [
+            {
+              "type": "Theatrical",
+              "typeId": 3,
+              "date": "2026-11-05"
+            }
+          ],
+          "AZ": [
+            {
+              "type": "Theatrical",
+              "typeId": 3,
+              "date": "2026-11-06"
+            }
+          ],
+          "BA": [
+            {
+              "type": "Theatrical",
+              "typeId": 3,
+              "date": "2026-11-05"
+            }
+          ],
+          "BE": [
+            {
+              "type": "Theatrical",
+              "typeId": 3,
+              "date": "2026-11-04"
+            }
+          ],
+          "BG": [
+            {
+              "type": "Theatrical",
+              "typeId": 3,
+              "date": "2026-11-06"
+            }
+          ],
+          "BH": [
+            {
+              "type": "Theatrical",
+              "typeId": 3,
+              "date": "2026-11-05"
+            }
+          ],
+          "BN": [
+            {
+              "type": "Theatrical",
+              "typeId": 3,
+              "date": "2026-11-05"
+            }
+          ],
+          "BO": [
+            {
+              "type": "Theatrical",
+              "typeId": 3,
+              "date": "2026-11-05"
+            }
+          ],
+          "BR": [
+            {
+              "type": "Theatrical",
+              "typeId": 3,
+              "date": "2026-11-05"
+            }
+          ],
+          "CA": [
+            {
+              "type": "Theatrical (limited)",
+              "typeId": 2,
+              "date": "2026-11-03"
+            },
+            {
+              "type": "Theatrical",
+              "typeId": 3,
+              "date": "2026-11-06"
+            }
+          ],
+          "CL": [
+            {
+              "type": "Theatrical",
+              "typeId": 3,
+              "date": "2026-11-05"
+            }
+          ],
+          "CO": [
+            {
+              "type": "Theatrical",
+              "typeId": 3,
+              "date": "2026-11-05",
+              "note": "12-A"
+            }
+          ],
+          "CZ": [
+            {
+              "type": "Theatrical",
+              "typeId": 3,
+              "date": "2026-11-05"
+            }
+          ],
+          "DE": [
+            {
+              "type": "Theatrical",
+              "typeId": 3,
+              "date": "2026-11-05"
+            }
+          ],
+          "DK": [
+            {
+              "type": "Theatrical",
+              "typeId": 3,
+              "date": "2026-11-05"
+            }
+          ],
+          "EC": [
+            {
+              "type": "Theatrical (limited)",
+              "typeId": 2,
+              "date": "2026-11-03",
+              "note": "+12"
+            },
+            {
+              "type": "Theatrical",
+              "typeId": 3,
+              "date": "2026-11-05",
+              "note": "+12"
+            }
+          ],
+          "EE": [
+            {
+              "type": "Theatrical",
+              "typeId": 3,
+              "date": "2026-11-06"
+            }
+          ],
+          "ES": [
+            {
+              "type": "Theatrical",
+              "typeId": 3,
+              "date": "2026-11-06"
+            }
+          ],
+          "FI": [
+            {
+              "type": "Theatrical",
+              "typeId": 3,
+              "date": "2026-11-06"
+            }
+          ],
+          "FR": [
+            {
+              "type": "Theatrical",
+              "typeId": 3,
+              "date": "2026-11-04"
+            }
+          ],
+          "GB": [
+            {
+              "type": "Premiere",
+              "typeId": 1,
+              "date": "2026-10-14",
+              "note": "BFI London Film Festival"
+            },
+            {
+              "type": "Theatrical (limited)",
+              "typeId": 2,
+              "date": "2026-11-05",
+              "note": "IMAX"
+            },
+            {
+              "type": "Theatrical",
+              "typeId": 3,
+              "date": "2026-11-06"
+            }
+          ],
+          "GL": [
+            {
+              "type": "Theatrical",
+              "typeId": 3,
+              "date": "2026-11-05"
+            }
+          ],
+          "GR": [
+            {
+              "type": "Theatrical",
+              "typeId": 3,
+              "date": "2026-11-05"
+            }
+          ],
+          "GT": [
+            {
+              "type": "Theatrical",
+              "typeId": 3,
+              "date": "2026-11-05",
+              "note": "B"
+            }
+          ],
+          "HK": [
+            {
+              "type": "Theatrical (limited)",
+              "typeId": 2,
+              "date": "2026-11-03"
+            },
+            {
+              "type": "Theatrical",
+              "typeId": 3,
+              "date": "2026-11-05"
+            },
+            {
+              "type": "Theatrical",
+              "typeId": 3,
+              "date": "2026-11-12",
+              "note": "4DX"
+            }
+          ],
+          "HR": [
+            {
+              "type": "Theatrical",
+              "typeId": 3,
+              "date": "2026-11-05"
+            }
+          ],
+          "HU": [
+            {
+              "type": "Theatrical",
+              "typeId": 3,
+              "date": "2026-11-05"
+            }
+          ],
+          "ID": [
+            {
+              "type": "Theatrical",
+              "typeId": 3,
+              "date": "2026-11-04"
+            }
+          ],
+          "IE": [
+            {
+              "type": "Theatrical",
+              "typeId": 3,
+              "date": "2026-11-06"
+            }
+          ],
+          "IN": [
+            {
+              "type": "Theatrical",
+              "typeId": 3,
+              "date": "2026-11-20"
+            }
+          ],
+          "IQ": [
+            {
+              "type": "Theatrical",
+              "typeId": 3,
+              "date": "2026-11-05"
+            }
+          ],
+          "IS": [
+            {
+              "type": "Theatrical",
+              "typeId": 3,
+              "date": "2026-11-06"
+            }
+          ],
+          "IT": [
+            {
+              "type": "Premiere",
+              "typeId": 1,
+              "date": "2026-10-31",
+              "note": "Lucca Comics & Games 2026"
+            },
+            {
+              "type": "Theatrical",
+              "typeId": 3,
+              "date": "2026-11-12"
+            }
+          ],
+          "JP": [
+            {
+              "type": "Premiere",
+              "typeId": 1,
+              "date": "2026-11-01",
+              "note": "Tokyo International Film Festival"
+            },
+            {
+              "type": "Theatrical",
+              "typeId": 3,
+              "date": "2026-11-03"
+            }
+          ],
+          "KW": [
+            {
+              "type": "Theatrical",
+              "typeId": 3,
+              "date": "2026-11-05"
+            }
+          ],
+          "LA": [
+            {
+              "type": "Theatrical",
+              "typeId": 3,
+              "date": "2026-11-04"
+            }
+          ],
+          "LT": [
+            {
+              "type": "Theatrical (limited)",
+              "typeId": 2,
+              "date": "2026-11-03"
+            },
+            {
+              "type": "Theatrical",
+              "typeId": 3,
+              "date": "2026-11-06"
+            }
+          ],
+          "LU": [
+            {
+              "type": "Theatrical",
+              "typeId": 3,
+              "date": "2026-11-04"
+            }
+          ],
+          "LV": [
+            {
+              "type": "Theatrical",
+              "typeId": 3,
+              "date": "2026-11-03"
+            }
+          ],
+          "MD": [
+            {
+              "type": "Theatrical",
+              "typeId": 3,
+              "date": "2026-11-06"
+            }
+          ],
+          "ME": [
+            {
+              "type": "Theatrical",
+              "typeId": 3,
+              "date": "2026-11-05"
+            }
+          ],
+          "MX": [
+            {
+              "type": "Theatrical (limited)",
+              "typeId": 2,
+              "date": "2026-11-03",
+              "note": "IMAX"
+            },
+            {
+              "type": "Theatrical",
+              "typeId": 3,
+              "date": "2026-11-05"
+            }
+          ],
+          "MY": [
+            {
+              "type": "Theatrical",
+              "typeId": 3,
+              "date": "2026-11-05"
+            }
+          ],
+          "NL": [
+            {
+              "type": "Premiere",
+              "typeId": 1,
+              "date": "2026-11-03",
+              "note": "Imagine Fantastic Film Festival"
+            },
+            {
+              "type": "Theatrical",
+              "typeId": 3,
+              "date": "2026-11-05"
+            }
+          ],
+          "NO": [
+            {
+              "type": "Theatrical",
+              "typeId": 3,
+              "date": "2026-11-06"
+            }
+          ],
+          "OM": [
+            {
+              "type": "Theatrical",
+              "typeId": 3,
+              "date": "2026-11-05"
+            }
+          ],
+          "PE": [
+            {
+              "type": "Theatrical (limited)",
+              "typeId": 2,
+              "date": "2026-11-03",
+              "note": "M14"
+            },
+            {
+              "type": "Theatrical",
+              "typeId": 3,
+              "date": "2026-11-05",
+              "note": "M14"
+            }
+          ],
+          "PH": [
+            {
+              "type": "Theatrical",
+              "typeId": 3,
+              "date": "2026-11-04"
+            }
+          ],
+          "PL": [
+            {
+              "type": "Theatrical",
+              "typeId": 3,
+              "date": "2026-11-06"
+            }
+          ],
+          "PR": [
+            {
+              "type": "Theatrical (limited)",
+              "typeId": 2,
+              "date": "2026-11-03",
+              "note": "IMAX"
+            },
+            {
+              "type": "Theatrical",
+              "typeId": 3,
+              "date": "2026-11-05"
+            }
+          ],
+          "PT": [
+            {
+              "type": "Theatrical",
+              "typeId": 3,
+              "date": "2026-11-06"
+            }
+          ],
+          "PY": [
+            {
+              "type": "Theatrical (limited)",
+              "typeId": 2,
+              "date": "2026-11-03",
+              "note": "S13"
+            },
+            {
+              "type": "Theatrical",
+              "typeId": 3,
+              "date": "2026-11-05",
+              "note": "S13"
+            }
+          ],
+          "QA": [
+            {
+              "type": "Theatrical",
+              "typeId": 3,
+              "date": "2026-11-05"
+            }
+          ],
+          "RO": [
+            {
+              "type": "Theatrical",
+              "typeId": 3,
+              "date": "2026-11-06"
+            }
+          ],
+          "RS": [
+            {
+              "type": "Theatrical",
+              "typeId": 3,
+              "date": "2026-11-05"
+            }
+          ],
+          "SA": [
+            {
+              "type": "Theatrical",
+              "typeId": 3,
+              "date": "2026-11-05"
+            }
+          ],
+          "SE": [
+            {
+              "type": "Theatrical",
+              "typeId": 3,
+              "date": "2026-11-06"
+            }
+          ],
+          "SG": [
+            {
+              "type": "Theatrical",
+              "typeId": 3,
+              "date": "2026-11-05"
+            }
+          ],
+          "TH": [
+            {
+              "type": "Theatrical",
+              "typeId": 3,
+              "date": "2026-11-04"
+            }
+          ],
+          "TR": [
+            {
+              "type": "Theatrical",
+              "typeId": 3,
+              "date": "2026-11-13"
+            }
+          ],
+          "TW": [
+            {
+              "type": "Theatrical",
+              "typeId": 3,
+              "date": "2026-11-06"
+            }
+          ],
+          "US": [
+            {
+              "type": "Premiere",
+              "typeId": 1,
+              "date": "2026-09-26",
+              "note": "New York Film Festival"
+            },
+            {
+              "type": "Theatrical (limited)",
+              "typeId": 2,
+              "date": "2026-11-03",
+              "note": "IMAX"
+            },
+            {
+              "type": "Theatrical",
+              "typeId": 3,
+              "date": "2026-11-06"
+            }
+          ],
+          "VN": [
+            {
+              "type": "Theatrical",
+              "typeId": 3,
+              "date": "2026-11-06"
+            }
+          ],
+          "XK": [
+            {
+              "type": "Theatrical",
+              "typeId": 3,
+              "date": "2026-11-05"
+            }
+          ],
+          "ZA": [
+            {
+              "type": "Theatrical",
+              "typeId": 3,
+              "date": "2026-11-06"
+            }
+          ]
+        },
+        "earliestDigital": null
+      },
+      "availability": {},
+      "recommendations": [
+        {
+          "tmdb_id": 940721,
+          "title": "Godzilla Minus One",
+          "year": "2023",
+          "poster": "/2E2WTX0TJEflAged6kzErwqX1kt.jpg",
+          "genre_ids": [
+            878,
+            27,
+            28
+          ],
+          "vote": 7.6
+        },
+        {
+          "tmdb_id": 39468,
+          "title": "Godzilla vs. Megaguirus",
+          "year": "2000",
+          "poster": "/2KTmuhq1KJOsBBC0yK22sWZ6IX5.jpg",
+          "genre_ids": [
+            28,
+            878,
+            53,
+            27
+          ],
+          "vote": 6.645
+        },
+        {
+          "tmdb_id": 18289,
+          "title": "Godzilla vs. Biollante",
+          "year": "1989",
+          "poster": "/dAr3SzPTfKP23uILP4BBiML8MVG.jpg",
+          "genre_ids": [
+            28,
+            27,
+            878
+          ],
+          "vote": 7.328
+        },
+        {
+          "tmdb_id": 3107,
+          "title": "Destroy All Monsters",
+          "year": "1968",
+          "poster": "/24r1hsRisfUidwLF67J0iMuWh7p.jpg",
+          "genre_ids": [
+            878,
+            28
+          ],
+          "vote": 6.873
+        },
+        {
+          "tmdb_id": 315011,
+          "title": "Shin Godzilla",
+          "year": "2016",
+          "poster": "/jPNShaWZMpVF0iQ7j1dvTuZLD20.jpg",
+          "genre_ids": [
+            28,
+            878,
+            27
+          ],
+          "vote": 7.3
+        },
+        {
+          "tmdb_id": 10643,
+          "title": "Godzilla 2000: Millennium",
+          "year": "1999",
+          "poster": "/7BrjFxV0j5VzZRfVYeYbFXMUweB.jpg",
+          "genre_ids": [
+            28,
+            12,
+            878
+          ],
+          "vote": 6.861
+        },
+        {
+          "tmdb_id": 536115,
+          "title": "Godzilla: The Planet Eater",
+          "year": "2018",
+          "poster": "/fOA44BITFth0u4hMSOUgpK0kM6t.jpg",
+          "genre_ids": [
+            16,
+            878,
+            28,
+            12
+          ],
+          "vote": 6.493
+        },
+        {
+          "tmdb_id": 823464,
+          "title": "Godzilla x Kong: The New Empire",
+          "year": "2024",
+          "poster": "/z1p34vh7dEOnLDmyCrlUVLuoDzd.jpg",
+          "genre_ids": [
+            28,
+            12,
+            878
+          ],
+          "vote": 7.023
+        },
+        {
+          "tmdb_id": 340382,
+          "title": "Attack on Titan II: End of the World",
+          "year": "2015",
+          "poster": "/l9cJ5PKEkVJb6YUCiURtcMbTQ5D.jpg",
+          "genre_ids": [
+            27,
+            878,
+            28
+          ],
+          "vote": 6.347
+        },
+        {
+          "tmdb_id": 449574,
+          "title": "Godzilla: Planet of the Monsters",
+          "year": "2017",
+          "poster": "/hAuZ7g6TqDLv5fOqXIPgYRguOkm.jpg",
+          "genre_ids": [
+            16,
+            28,
+            878
+          ],
+          "vote": 6.376
+        },
+        {
+          "tmdb_id": 60159,
+          "title": "Gamera 3: Revenge of Iris",
+          "year": "1999",
+          "poster": "/yeUzjv04YdWS3Er5m1gPJJS1D10.jpg",
+          "genre_ids": [
+            14,
+            878,
+            27,
+            28
+          ],
+          "vote": 7.4
+        },
+        {
+          "tmdb_id": 3146,
+          "title": "The War of the Gargantuas",
+          "year": "1966",
+          "poster": "/q8EH0y601mhYJmchoTRoo92Q0FS.jpg",
+          "genre_ids": [
+            28,
+            27,
+            878
+          ],
+          "vote": 6.3
+        }
+      ],
+      "updated": "2026-11-17T12:18:21.557Z"
     }
   ]
 }

@@ -1,6 +1,22 @@
 {
-  "generated": "2026-11-17T12:17:20.084Z",
+  "generated": "2026-11-17T12:18:21.814Z",
   "horror": [
+    {
+      "tmdb_id": 940721,
+      "title": "Godzilla Minus One",
+      "year": "2023",
+      "poster": "/2E2WTX0TJEflAged6kzErwqX1kt.jpg",
+      "genre_ids": [
+        878,
+        27,
+        28
+      ],
+      "vote": 7.6,
+      "score": 1.76,
+      "because": [
+        "Godzilla Minus Zero"
+      ]
+    },
     {
       "tmdb_id": 756999,
       "title": "The Black Phone",
@@ -17,6 +33,39 @@
       ]
     },
     {
+      "tmdb_id": 60159,
+      "title": "Gamera 3: Revenge of Iris",
+      "year": "1999",
+      "poster": "/yeUzjv04YdWS3Er5m1gPJJS1D10.jpg",
+      "genre_ids": [
+        14,
+        878,
+        27,
+        28
+      ],
+      "vote": 7.4,
+      "score": 1.74,
+      "because": [
+        "Godzilla Minus Zero"
+      ]
+    },
+    {
+      "tmdb_id": 18289,
+      "title": "Godzilla vs. Biollante",
+      "year": "1989",
+      "poster": "/dAr3SzPTfKP23uILP4BBiML8MVG.jpg",
+      "genre_ids": [
+        28,
+        27,
+        878
+      ],
+      "vote": 7.328,
+      "score": 1.7328000000000001,
+      "because": [
+        "Godzilla Minus Zero"
+      ]
+    },
+    {
       "tmdb_id": 423108,
       "title": "The Conjuring: The Devil Made Me Do It",
       "year": "2021",
@@ -30,6 +79,22 @@
       "score": 1.7323,
       "because": [
         "The Conjuring"
+      ]
+    },
+    {
+      "tmdb_id": 315011,
+      "title": "Shin Godzilla",
+      "year": "2016",
+      "poster": "/jPNShaWZMpVF0iQ7j1dvTuZLD20.jpg",
+      "genre_ids": [
+        28,
+        878,
+        27
+      ],
+      "vote": 7.3,
+      "score": 1.73,
+      "because": [
+        "Godzilla Minus Zero"
       ]
     },
     {
@@ -77,6 +142,23 @@
       ]
     },
     {
+      "tmdb_id": 39468,
+      "title": "Godzilla vs. Megaguirus",
+      "year": "2000",
+      "poster": "/2KTmuhq1KJOsBBC0yK22sWZ6IX5.jpg",
+      "genre_ids": [
+        28,
+        878,
+        53,
+        27
+      ],
+      "vote": 6.645,
+      "score": 1.6644999999999999,
+      "because": [
+        "Godzilla Minus Zero"
+      ]
+    },
+    {
       "tmdb_id": 709631,
       "title": "Cobweb",
       "year": "2023",
@@ -120,6 +202,38 @@
       "score": 1.6386,
       "because": [
         "The Conjuring"
+      ]
+    },
+    {
+      "tmdb_id": 340382,
+      "title": "Attack on Titan II: End of the World",
+      "year": "2015",
+      "poster": "/l9cJ5PKEkVJb6YUCiURtcMbTQ5D.jpg",
+      "genre_ids": [
+        27,
+        878,
+        28
+      ],
+      "vote": 6.347,
+      "score": 1.6347,
+      "because": [
+        "Godzilla Minus Zero"
+      ]
+    },
+    {
+      "tmdb_id": 3146,
+      "title": "The War of the Gargantuas",
+      "year": "1966",
+      "poster": "/q8EH0y601mhYJmchoTRoo92Q0FS.jpg",
+      "genre_ids": [
+        28,
+        27,
+        878
+      ],
+      "vote": 6.3,
+      "score": 1.63,
+      "because": [
+        "Godzilla Minus Zero"
       ]
     },
     {

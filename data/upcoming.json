@@ -1,6 +1,6 @@
 {
   "home_country": "CH",
-  "generated": "2026-11-17T12:17:35.497Z",
+  "generated": "2026-11-17T12:18:31.749Z",
   "movies": [
     {
       "tmdb_id": 1300968,
@@ -78,9 +78,9 @@
         "where": "World"
       },
       "trailer": "https://www.youtube.com/watch?v=Dr060OLTodE",
-      "match": 75,
+      "match": 76,
       "reasons": [
-        "You like Science Fiction & Adventure",
+        "You like Science Fiction & Action",
         "Starring Jesse Plemons (Digger)",
         "Themes: based on novel or book, dystopia, sequel"
       ]
@@ -163,96 +163,11 @@
         "where": "World"
       },
       "trailer": "https://www.youtube.com/watch?v=Swiz1XyfhcI",
-      "match": 65,
+      "match": 63,
       "reasons": [
         "You like Adventure & Animation",
         "Starring Zendaya (Dune: Part Two)",
         "Themes: sequel, 3d animation"
-      ]
-    },
-    {
-      "tmdb_id": 1538497,
-      "imdb_id": "tt38077943",
-      "title": "Hexed",
-      "original_title": "Hexed",
-      "tagline": "Something is happening to Billie...",
-      "overview": "An impulsive and unconventional teenage girl named Billie discovers secret magical abilities which, once unleashed, hurtle her into a spectacle-filled journey out of suburbia and into a vast witch realm called Hexe. Forced to team up with her cautious mother, Alice, they uncover family mysteries that could change the world of witches forever.",
-      "poster": "/yykeYKbDBM9eUMJUucaaDo2mi1p.jpg",
-      "backdrop": "/wZ9Me7OndzgBOEAa8nSBNPu3Sl4.jpg",
-      "runtime": 103,
-      "genres": [
-        "Adventure",
-        "Animation",
-        "Family",
-        "Fantasy",
-        "Comedy"
-      ],
-      "category": "animation",
-      "directors": [
-        "Jason Hand",
-        "Fawn Veerasunthorn"
-      ],
-      "writers": [
-        "Dana Ledoux Miller",
-        "Jared Bush",
-        "Josie Trinidad"
-      ],
-      "cast": [
-        {
-          "name": "Hailee Steinfeld",
-          "character": "Billie Doe (voice)",
-          "photo": "/qDInsG0cxWNxS1X4t59TBZ5S6x5.jpg"
-        },
-        {
-          "name": "Rashida Jones",
-          "character": "Alice Doe (voice)",
-          "photo": "/cgWGm9eYCretBWeljPVtpRV7n6V.jpg"
-        },
-        {
-          "name": "Jodie Foster",
-          "character": "Queen Celeste (voice)",
-          "photo": "/5emVgsLFlU6SmeBIFsF2Y7aqwtG.jpg"
-        },
-        {
-          "name": "Walton Goggins",
-          "character": "Beef Roger Crummchuk (voice)",
-          "photo": "/5lcVMJbWrNDFiWa1WxK4oR8zwev.jpg"
-        },
-        {
-          "name": "Tracey Ullman",
-          "character": "Ms. Quill (voice)",
-          "photo": "/cmug3uUXKBo9fhCcJk3pkgt1nvM.jpg"
-        },
-        {
-          "name": "Stephen Fry",
-          "character": "Elias Quire (voice)",
-          "photo": "/dH7GuUZ8QPM9RN99ak9KKOkSkdS.jpg"
-        },
-        {
-          "name": "Henry Winkler",
-          "character": "Nigel (voice)",
-          "photo": "/c35LVOjB1gbY5iYzhN9PGIXUHWt.jpg"
-        },
-        {
-          "name": "Dan Stevens",
-          "character": "Hieronymous (voice)",
-          "photo": "/fFsgginZKH527o38ZfdDxuzx7Ew.jpg"
-        }
-      ],
-      "countries": [
-        "US"
-      ],
-      "release": {
-        "date": "2026-11-25",
-        "type": "Release",
-        "where": "World"
-      },
-      "trailer": "https://www.youtube.com/watch?v=IuosV-TRxDU",
-      "match": 63,
-      "reasons": [
-        "You like Adventure & Animation",
-        "Starring Hailee Steinfeld (Spider-Man: Beyond the Spider-Verse)",
-        "Themes: witch, magic, 3d animation"
       ]
     },
     {
@@ -331,7 +246,7 @@
         "where": "World"
       },
       "trailer": null,
-      "match": 63,
+      "match": 62,
       "reasons": [
         "You like Adventure & Fantasy",
         "Starring Jason Momoa (Dune: Part Three)",
@@ -414,10 +329,95 @@
         "where": "World"
       },
       "trailer": null,
-      "match": 59,
+      "match": 60,
       "reasons": [
-        "You like Science Fiction & Adventure",
+        "You like Science Fiction & Action",
         "Themes: superhero, based on comic, sequel"
+      ]
+    },
+    {
+      "tmdb_id": 1538497,
+      "imdb_id": "tt38077943",
+      "title": "Hexed",
+      "original_title": "Hexed",
+      "tagline": "Something is happening to Billie...",
+      "overview": "An impulsive and unconventional teenage girl named Billie discovers secret magical abilities which, once unleashed, hurtle her into a spectacle-filled journey out of suburbia and into a vast witch realm called Hexe. Forced to team up with her cautious mother, Alice, they uncover family mysteries that could change the world of witches forever.",
+      "poster": "/yykeYKbDBM9eUMJUucaaDo2mi1p.jpg",
+      "backdrop": "/wZ9Me7OndzgBOEAa8nSBNPu3Sl4.jpg",
+      "runtime": 103,
+      "genres": [
+        "Adventure",
+        "Animation",
+        "Family",
+        "Fantasy",
+        "Comedy"
+      ],
+      "category": "animation",
+      "directors": [
+        "Jason Hand",
+        "Fawn Veerasunthorn"
+      ],
+      "writers": [
+        "Dana Ledoux Miller",
+        "Jared Bush",
+        "Josie Trinidad"
+      ],
+      "cast": [
+        {
+          "name": "Hailee Steinfeld",
+          "character": "Billie Doe (voice)",
+          "photo": "/qDInsG0cxWNxS1X4t59TBZ5S6x5.jpg"
+        },
+        {
+          "name": "Rashida Jones",
+          "character": "Alice Doe (voice)",
+          "photo": "/cgWGm9eYCretBWeljPVtpRV7n6V.jpg"
+        },
+        {
+          "name": "Jodie Foster",
+          "character": "Queen Celeste (voice)",
+          "photo": "/5emVgsLFlU6SmeBIFsF2Y7aqwtG.jpg"
+        },
+        {
+          "name": "Walton Goggins",
+          "character": "Beef Roger Crummchuk (voice)",
+          "photo": "/5lcVMJbWrNDFiWa1WxK4oR8zwev.jpg"
+        },
+        {
+          "name": "Tracey Ullman",
+          "character": "Ms. Quill (voice)",
+          "photo": "/cmug3uUXKBo9fhCcJk3pkgt1nvM.jpg"
+        },
+        {
+          "name": "Stephen Fry",
+          "character": "Elias Quire (voice)",
+          "photo": "/dH7GuUZ8QPM9RN99ak9KKOkSkdS.jpg"
+        },
+        {
+          "name": "Henry Winkler",
+          "character": "Nigel (voice)",
+          "photo": "/c35LVOjB1gbY5iYzhN9PGIXUHWt.jpg"
+        },
+        {
+          "name": "Dan Stevens",
+          "character": "Hieronymous (voice)",
+          "photo": "/fFsgginZKH527o38ZfdDxuzx7Ew.jpg"
+        }
+      ],
+      "countries": [
+        "US"
+      ],
+      "release": {
+        "date": "2026-11-25",
+        "type": "Release",
+        "where": "World"
+      },
+      "trailer": "https://www.youtube.com/watch?v=IuosV-TRxDU",
+      "match": 60,
+      "reasons": [
+        "You like Adventure & Animation",
+        "Starring Hailee Steinfeld (Spider-Man: Beyond the Spider-Verse)",
+        "Themes: witch, magic, 3d animation"
       ]
     },
     {
@@ -501,7 +501,7 @@
         "where": "World"
       },
       "trailer": "https://www.youtube.com/watch?v=FjYzudbOzlY",
-      "match": 58,
+      "match": 57,
       "reasons": [
         "You like Science Fiction & Adventure",
         "Themes: sequel, family, based on video game"
@@ -641,256 +641,11 @@
         "where": "World"
       },
       "trailer": "https://www.youtube.com/watch?v=uO4wsV7HEUY",
-      "match": 52,
+      "match": 54,
       "reasons": [
         "You like Science Fiction & Action",
         "Directed by Idris Elba (Sonic the Hedgehog 4)",
         "Directed by Idris Elba (Sonic the Hedgehog 4)"
-      ]
-    },
-    {
-      "tmdb_id": 1595124,
-      "imdb_id": "tt14413964",
-      "title": "Steps",
-      "original_title": "Steps",
-      "tagline": "At midnight, we ride.",
-      "overview": "Think you know Cinderella's 'evil' stepsisters? Think again! When misunderstood Lilith is blamed for hijacking the Royal Ball with a stolen magic wand, she accidentally turns her sister Margot into a frog and leaves the kingdom in the hands of a prince-obsessed mean girl. Now Lilith must team up with Cinderella — and a surprisingly dreamy troll — to save the kingdom, repair the fractured fairytale, and prove that even so-called villains deserve a shot at happily-ever-after.",
-      "poster": "/c7eHnRXLK86sdCuq0rnZgp7GvS5.jpg",
-      "backdrop": "/g1bEboMx1a8JCg1jXeDCh24RtgW.jpg",
-      "runtime": 102,
-      "genres": [
-        "Animation",
-        "Fantasy",
-        "Comedy",
-        "Family",
-        "Adventure"
-      ],
-      "category": "animation",
-      "directors": [
-        "Alyce Tzue"
-      ],
-      "writers": [
-        "Charles Perrault",
-        "Ava Tramer",
-        "James Madejski"
-      ],
-      "cast": [
-        {
-          "name": "Ali Wong",
-          "character": "Lilith (voice)",
-          "photo": "/vpVDlzPIIzgwdO23MbbwvfmPtXQ.jpg"
-        },
-        {
-          "name": "Amanda Seyfried",
-          "character": "Cinderella (voice)",
-          "photo": "/gtBUIpZ3dvLpOMIVORxE6sHSyZj.jpg"
-        },
-        {
-          "name": "Stephanie Hsu",
-          "character": "Margot (voice)",
-          "photo": "/8gb3lfIHKQAGOQyeC4ynQPsCiHr.jpg"
-        },
-        {
-          "name": "Bette Midler",
-          "character": "Fairy Godmother (voice)",
-          "photo": "/ooPKeoLvwacY6BRj99u7uvZCYlF.jpg"
-        },
-        {
-          "name": "Nikki Glaser",
-          "character": "Priscilla (voice)",
-          "photo": "/zF2UyqN6000VpUkgXVnM9JHuAhW.jpg"
-        },
-        {
-          "name": "Peter Dinklage",
-          "character": "Roderick (voice)",
-          "photo": "/9CAd7wr8QZyIN0E7nm8v1B6WkGn.jpg"
-        },
-        {
-          "name": "Daniel Radcliffe",
-          "character": "The Prince (voice)",
-          "photo": "/uUFfo8RANo7tuckB6AZAnESne55.jpg"
-        },
-        {
-          "name": "Young Mazino",
-          "character": "Gef (voice)",
-          "photo": "/cRuVRx1DMe2hBkz5pssVqdpCtaQ.jpg"
-        }
-      ],
-      "countries": [
-        "US"
-      ],
-      "release": {
-        "date": "2026-11-20",
-        "type": "Release",
-        "where": "World"
-      },
-      "trailer": "https://www.youtube.com/watch?v=tNV4i3BqUGY",
-      "match": 50,
-      "reasons": [
-        "You like Adventure & Animation",
-        "Starring Amanda Seyfried (You Can See Everything)",
-        "Themes: magic"
-      ]
-    },
-    {
-      "tmdb_id": 1177369,
-      "imdb_id": "tt29873948",
-      "title": "The Legend of Zelda",
-      "original_title": "The Legend of Zelda",
-      "tagline": "",
-      "overview": "A live-action adaptation of Nintendo's Legend of Zelda video game series.",
-      "poster": "/4XuaHHQ5eR9czPZPHcaaUjekx5w.jpg",
-      "backdrop": "/7iHZruybsGB7g9vrm9eeypzmpV1.jpg",
-      "runtime": null,
-      "genres": [
-        "Action",
-        "Adventure",
-        "Fantasy"
-      ],
-      "category": "general",
-      "directors": [
-        "Wes Ball"
-      ],
-      "writers": [
-        "T.S. Nowlin",
-        "Derek Connolly"
-      ],
-      "cast": [
-        {
-          "name": "Benjamin Evan Ainsworth",
-          "character": "Link",
-          "photo": "/y3AxpGZ2RkBIZmguo3DUH9jh64i.jpg"
-        },
-        {
-          "name": "Bo Bragason",
-          "character": "Princess Zelda",
-          "photo": "/rokw2EUwUfQWuDbVGwIeQZBIQQc.jpg"
-        },
-        {
-          "name": "Uli Latukefu",
-          "character": "Ganondorf",
-          "photo": "/m0wqEqbNrWkZ5vh6EZKliu86wgY.jpg"
-        },
-        {
-          "name": "Dichen Lachman",
-          "character": "Impa",
-          "photo": "/yLrpMHBNtuUAu3M9EjaYHnn5EEY.jpg"
-        },
-        {
-          "name": "Sam Neill",
-          "character": "",
-          "photo": "/iIfuxalf37xUayuGyK0zG7z6WEZ.jpg"
-        },
-        {
-          "name": "Yvonne Strahovski",
-          "character": "",
-          "photo": "/2IQEjn5T8urx6ikXM87QGs5MrWg.jpg"
-        },
-        {
-          "name": "Lydia Peckham",
-          "character": "",
-          "photo": "/tcBJklZSsP2JuQIYataJHW3pJXE.jpg"
-        },
-        {
-          "name": "Samara Weaving",
-          "character": "",
-          "photo": "/ngVKl0sxrut5PPMAIDsfXrVjA1R.jpg"
-        }
-      ],
-      "countries": [
-        "JP",
-        "US"
-      ],
-      "release": {
-        "date": "2027-04-28",
-        "type": "Release",
-        "where": "World"
-      },
-      "trailer": null,
-      "match": 49,
-      "reasons": [
-        "You like Adventure & Action",
-        "Themes: hero, magic, villain"
-      ]
-    },
-    {
-      "tmdb_id": 621304,
-      "imdb_id": "tt6779038",
-      "title": "Children of Blood and Bone",
-      "original_title": "Children of Blood and Bone",
-      "tagline": "To defeat an empire, rise as one.",
-      "overview": "In the world of Orïsha, a young woman goes on a quest to reclaim the magic that was violently stolen from her people. She and her brother ally with the daughter and son of the king to fight back against his brutal rule.",
-      "poster": "/qxUPu92DF5Bo6jcCDhnMTHFPEEc.jpg",
-      "backdrop": "/iJHHwaFZumvMLx96apZPNhhIb1A.jpg",
-      "runtime": 146,
-      "genres": [
-        "Fantasy",
-        "Adventure"
-      ],
-      "category": "general",
-      "directors": [
-        "Gina Prince-Bythewood"
-      ],
-      "writers": [
-        "Tomi Adeyemi",
-        "Gina Prince-Bythewood"
-      ],
-      "cast": [
-        {
-          "name": "Thuso Mbedu",
-          "character": "Zelie",
-          "photo": "/pAStLwNMw8Seb0BM4uqrdOvtjK1.jpg"
-        },
-        {
-          "name": "Damson Idris",
-          "character": "Prince Inan",
-          "photo": "/y0dcRs4GF6Xx23OxDr1ytc8thlL.jpg"
-        },
-        {
-          "name": "Amandla Stenberg",
-          "character": "Princess Amari",
-          "photo": "/r6aPdJnGV2ZZkg6G55WOCicR39f.jpg"
-        },
-        {
-          "name": "Tosin Cole",
-          "character": "Tzain",
-          "photo": "/8sFFg9Pw2OmAXPr4Lhql8ANzd4e.jpg"
-        },
-        {
-          "name": "Viola Davis",
-          "character": "Mama Agba",
-          "photo": "/xDssw6vpYNRjsybvMPRE30e0dPN.jpg"
-        },
-        {
-          "name": "Cynthia Erivo",
-          "character": "Admiral Kaea",
-          "photo": "/gIAXqZwZCBqkh2ppfAV4xcnMxki.jpg"
-        },
-        {
-          "name": "Idris Elba",
-          "character": "Lekan",
-          "photo": "/be1bVF7qGX91a6c5WeRPs5pKXln.jpg"
-        },
-        {
-          "name": "Lashana Lynch",
-          "character": "Jumoke",
-          "photo": "/ypNxRag9uJ5nzPAN2um3amQK340.jpg"
-        }
-      ],
-      "countries": [
-        "US"
-      ],
-      "release": {
-        "date": "2027-01-14",
-        "type": "Release",
-        "where": "World"
-      },
-      "trailer": "https://www.youtube.com/watch?v=a20LtkPALYM",
-      "match": 49,
-      "reasons": [
-        "You like Adventure & Fantasy",
-        "Starring Idris Elba (Sonic the Hedgehog 4)",
-        "Themes: based on novel or book, magic"
       ]
     },
     {
@@ -972,9 +727,9 @@
         "where": "World"
       },
       "trailer": null,
-      "match": 48,
+      "match": 50,
       "reasons": [
-        "You like Science Fiction & Adventure",
+        "You like Science Fiction & Action",
         "Themes: sequel"
       ]
     },
@@ -1052,7 +807,7 @@
         "where": "World"
       },
       "trailer": null,
-      "match": 48,
+      "match": 49,
       "reasons": [
         "You like Science Fiction & Adventure",
         "Themes: space adventure"
@@ -1133,10 +888,91 @@
         "where": "World"
       },
       "trailer": null,
-      "match": 48,
+      "match": 49,
       "reasons": [
-        "You like Science Fiction & Adventure",
+        "You like Science Fiction & Action",
         "Themes: based on novel or book"
+      ]
+    },
+    {
+      "tmdb_id": 1177369,
+      "imdb_id": "tt29873948",
+      "title": "The Legend of Zelda",
+      "original_title": "The Legend of Zelda",
+      "tagline": "",
+      "overview": "A live-action adaptation of Nintendo's Legend of Zelda video game series.",
+      "poster": "/4XuaHHQ5eR9czPZPHcaaUjekx5w.jpg",
+      "backdrop": "/7iHZruybsGB7g9vrm9eeypzmpV1.jpg",
+      "runtime": null,
+      "genres": [
+        "Action",
+        "Adventure",
+        "Fantasy"
+      ],
+      "category": "general",
+      "directors": [
+        "Wes Ball"
+      ],
+      "writers": [
+        "T.S. Nowlin",
+        "Derek Connolly"
+      ],
+      "cast": [
+        {
+          "name": "Benjamin Evan Ainsworth",
+          "character": "Link",
+          "photo": "/y3AxpGZ2RkBIZmguo3DUH9jh64i.jpg"
+        },
+        {
+          "name": "Bo Bragason",
+          "character": "Princess Zelda",
+          "photo": "/rokw2EUwUfQWuDbVGwIeQZBIQQc.jpg"
+        },
+        {
+          "name": "Uli Latukefu",
+          "character": "Ganondorf",
+          "photo": "/m0wqEqbNrWkZ5vh6EZKliu86wgY.jpg"
+        },
+        {
+          "name": "Dichen Lachman",
+          "character": "Impa",
+          "photo": "/yLrpMHBNtuUAu3M9EjaYHnn5EEY.jpg"
+        },
+        {
+          "name": "Sam Neill",
+          "character": "",
+          "photo": "/iIfuxalf37xUayuGyK0zG7z6WEZ.jpg"
+        },
+        {
+          "name": "Yvonne Strahovski",
+          "character": "",
+          "photo": "/2IQEjn5T8urx6ikXM87QGs5MrWg.jpg"
+        },
+        {
+          "name": "Lydia Peckham",
+          "character": "",
+          "photo": "/tcBJklZSsP2JuQIYataJHW3pJXE.jpg"
+        },
+        {
+          "name": "Samara Weaving",
+          "character": "",
+          "photo": "/ngVKl0sxrut5PPMAIDsfXrVjA1R.jpg"
+        }
+      ],
+      "countries": [
+        "JP",
+        "US"
+      ],
+      "release": {
+        "date": "2027-04-28",
+        "type": "Release",
+        "where": "World"
+      },
+      "trailer": null,
+      "match": 49,
+      "reasons": [
+        "You like Action & Adventure",
+        "Themes: hero, magic, villain"
       ]
     },
     {
@@ -1201,8 +1037,92 @@
       "trailer": "https://www.youtube.com/watch?v=zG8TU7GTaoo",
       "match": 48,
       "reasons": [
-        "You like Adventure & Animation",
+        "You like Action & Adventure",
         "Themes: based on comic, sequel"
+      ]
+    },
+    {
+      "tmdb_id": 1595124,
+      "imdb_id": "tt14413964",
+      "title": "Steps",
+      "original_title": "Steps",
+      "tagline": "At midnight, we ride.",
+      "overview": "Think you know Cinderella's 'evil' stepsisters? Think again! When misunderstood Lilith is blamed for hijacking the Royal Ball with a stolen magic wand, she accidentally turns her sister Margot into a frog and leaves the kingdom in the hands of a prince-obsessed mean girl. Now Lilith must team up with Cinderella — and a surprisingly dreamy troll — to save the kingdom, repair the fractured fairytale, and prove that even so-called villains deserve a shot at happily-ever-after.",
+      "poster": "/c7eHnRXLK86sdCuq0rnZgp7GvS5.jpg",
+      "backdrop": "/g1bEboMx1a8JCg1jXeDCh24RtgW.jpg",
+      "runtime": 102,
+      "genres": [
+        "Animation",
+        "Fantasy",
+        "Comedy",
+        "Family",
+        "Adventure"
+      ],
+      "category": "animation",
+      "directors": [
+        "Alyce Tzue"
+      ],
+      "writers": [
+        "Charles Perrault",
+        "Ava Tramer",
+        "James Madejski"
+      ],
+      "cast": [
+        {
+          "name": "Ali Wong",
+          "character": "Lilith (voice)",
+          "photo": "/vpVDlzPIIzgwdO23MbbwvfmPtXQ.jpg"
+        },
+        {
+          "name": "Amanda Seyfried",
+          "character": "Cinderella (voice)",
+          "photo": "/gtBUIpZ3dvLpOMIVORxE6sHSyZj.jpg"
+        },
+        {
+          "name": "Stephanie Hsu",
+          "character": "Margot (voice)",
+          "photo": "/8gb3lfIHKQAGOQyeC4ynQPsCiHr.jpg"
+        },
+        {
+          "name": "Bette Midler",
+          "character": "Fairy Godmother (voice)",
+          "photo": "/ooPKeoLvwacY6BRj99u7uvZCYlF.jpg"
+        },
+        {
+          "name": "Nikki Glaser",
+          "character": "Priscilla (voice)",
+          "photo": "/zF2UyqN6000VpUkgXVnM9JHuAhW.jpg"
+        },
+        {
+          "name": "Peter Dinklage",
+          "character": "Roderick (voice)",
+          "photo": "/9CAd7wr8QZyIN0E7nm8v1B6WkGn.jpg"
+        },
+        {
+          "name": "Daniel Radcliffe",
+          "character": "The Prince (voice)",
+          "photo": "/uUFfo8RANo7tuckB6AZAnESne55.jpg"
+        },
+        {
+          "name": "Young Mazino",
+          "character": "Gef (voice)",
+          "photo": "/cRuVRx1DMe2hBkz5pssVqdpCtaQ.jpg"
+        }
+      ],
+      "countries": [
+        "US"
+      ],
+      "release": {
+        "date": "2026-11-20",
+        "type": "Release",
+        "where": "World"
+      },
+      "trailer": "https://www.youtube.com/watch?v=tNV4i3BqUGY",
+      "match": 48,
+      "reasons": [
+        "You like Adventure & Animation",
+        "Starring Amanda Seyfried (You Can See Everything)",
+        "Themes: magic"
       ]
     },
     {
@@ -1279,11 +1199,91 @@
         "where": "CH"
       },
       "trailer": "https://www.youtube.com/watch?v=FmM2giDwLAE",
-      "match": 47,
+      "match": 48,
       "reasons": [
         "You like Action & Fantasy",
         "Starring Kristen Bell (Sonic the Hedgehog 4)",
         "Themes: dark comedy, sequel"
+      ]
+    },
+    {
+      "tmdb_id": 621304,
+      "imdb_id": "tt6779038",
+      "title": "Children of Blood and Bone",
+      "original_title": "Children of Blood and Bone",
+      "tagline": "To defeat an empire, rise as one.",
+      "overview": "In the world of Orïsha, a young woman goes on a quest to reclaim the magic that was violently stolen from her people. She and her brother ally with the daughter and son of the king to fight back against his brutal rule.",
+      "poster": "/qxUPu92DF5Bo6jcCDhnMTHFPEEc.jpg",
+      "backdrop": "/iJHHwaFZumvMLx96apZPNhhIb1A.jpg",
+      "runtime": 146,
+      "genres": [
+        "Fantasy",
+        "Adventure"
+      ],
+      "category": "general",
+      "directors": [
+        "Gina Prince-Bythewood"
+      ],
+      "writers": [
+        "Tomi Adeyemi",
+        "Gina Prince-Bythewood"
+      ],
+      "cast": [
+        {
+          "name": "Thuso Mbedu",
+          "character": "Zelie",
+          "photo": "/pAStLwNMw8Seb0BM4uqrdOvtjK1.jpg"
+        },
+        {
+          "name": "Damson Idris",
+          "character": "Prince Inan",
+          "photo": "/y0dcRs4GF6Xx23OxDr1ytc8thlL.jpg"
+        },
+        {
+          "name": "Amandla Stenberg",
+          "character": "Princess Amari",
+          "photo": "/r6aPdJnGV2ZZkg6G55WOCicR39f.jpg"
+        },
+        {
+          "name": "Tosin Cole",
+          "character": "Tzain",
+          "photo": "/8sFFg9Pw2OmAXPr4Lhql8ANzd4e.jpg"
+        },
+        {
+          "name": "Viola Davis",
+          "character": "Mama Agba",
+          "photo": "/xDssw6vpYNRjsybvMPRE30e0dPN.jpg"
+        },
+        {
+          "name": "Cynthia Erivo",
+          "character": "Admiral Kaea",
+          "photo": "/gIAXqZwZCBqkh2ppfAV4xcnMxki.jpg"
+        },
+        {
+          "name": "Idris Elba",
+          "character": "Lekan",
+          "photo": "/be1bVF7qGX91a6c5WeRPs5pKXln.jpg"
+        },
+        {
+          "name": "Lashana Lynch",
+          "character": "Jumoke",
+          "photo": "/ypNxRag9uJ5nzPAN2um3amQK340.jpg"
+        }
+      ],
+      "countries": [
+        "US"
+      ],
+      "release": {
+        "date": "2027-01-14",
+        "type": "Release",
+        "where": "World"
+      },
+      "trailer": "https://www.youtube.com/watch?v=a20LtkPALYM",
+      "match": 47,
+      "reasons": [
+        "You like Adventure & Fantasy",
+        "Starring Idris Elba (Sonic the Hedgehog 4)",
+        "Themes: based on novel or book, magic"
       ]
     },
     {
@@ -1434,86 +1434,84 @@
       ]
     },
     {
-      "tmdb_id": 1084728,
-      "imdb_id": "tt32243339",
-      "title": "Asterix: The Kingdom of Nubia",
-      "original_title": "Astérix - Le Royaume de Nubie",
-      "tagline": "No, Obelix… that is not a boar!",
-      "overview": "The irreductible Gauls are turned into harmless children after a rare youth elixir accidentally ends up into the magic potion. To find the antidote and save the village from the Romans attack, Asterix and Obelix embark on a crazy journey to the far away Kingdom of Nubia.",
-      "poster": "/mxDsm7jKW1G7LNTtvp1C0ID9gN5.jpg",
-      "backdrop": "/gFbCOBwB9qEptHJY230sNCsyZfX.jpg",
-      "runtime": 86,
+      "tmdb_id": 1458319,
+      "imdb_id": "tt36416299",
+      "title": "How to Train Your Dragon 2",
+      "original_title": "How to Train Your Dragon 2",
+      "tagline": "",
+      "overview": "The second live-action adaptation of the animated trilogy. Plot TBA.",
+      "poster": "/6VlnDSuTmBPW6a45Qxp5qeDINBq.jpg",
+      "backdrop": null,
+      "runtime": null,
       "genres": [
-        "Animation",
+        "Action",
         "Adventure",
-        "Comedy",
         "Family",
         "Fantasy"
       ],
-      "category": "animation",
+      "category": "general",
       "directors": [
-        "Alexandre Heboyan"
+        "Dean DeBlois"
       ],
       "writers": [
-        "Albert Uderzo",
-        "René Goscinny",
-        "Alexandre de La Patellière"
+        "Dean DeBlois",
+        "Cressida Cowell"
       ],
       "cast": [
         {
-          "name": "Christian Clavier",
-          "character": "Astérix (voice)",
-          "photo": "/9WsvKjheeizXCcZrFjZCrCoItqO.jpg"
+          "name": "Mason Thames",
+          "character": "Hiccup",
+          "photo": "/SfoR8rDtlacuxAHa3mRUfHChEf.jpg"
         },
         {
-          "name": "François-Xavier Demaison",
-          "character": "Obélix (voice)",
-          "photo": "/u2WWC1YAJuZLLk6Ho4IzhNAozqe.jpg"
+          "name": "Nico Parker",
+          "character": "Astrid",
+          "photo": "/gt0NJClVSCPCEfcPgcLj3f85uLa.jpg"
         },
         {
-          "name": "Bernard Alane",
-          "character": "Panoramix (voice)",
-          "photo": "/uBcoU8pZmVcWfi4ayNVSJsBvZir.jpg"
+          "name": "Cate Blanchett",
+          "character": "Valka",
+          "photo": "/1Rd567YFdGfkJjSlhNPR8joYkaX.jpg"
         },
         {
-          "name": "Issa Doumbia",
-          "character": "Duplicatha (voice)",
-          "photo": "/gF1mF8rAzwU7Fo7yydMWTVt4mYx.jpg"
+          "name": "Gerard Butler",
+          "character": "Stoick",
+          "photo": "/i54XoxYieuff2w6MwyfwVUBvmR0.jpg"
         },
         {
-          "name": "Eye Haïdara",
-          "character": "(voice)",
-          "photo": "/lIsjqRGJOIg9mErmsT3S2nbcMMN.jpg"
+          "name": "Ólafur Darri Ólafsson",
+          "character": "Drago",
+          "photo": "/5ZlxkgsiKh9d4fWzR23sDf8d3HO.jpg"
         },
         {
-          "name": "Élie Semoun",
-          "character": "Cubitus (voice)",
-          "photo": "/gjJpIq92ubeKgAAvK6yexZycIlv.jpg"
+          "name": "Nick Frost",
+          "character": "Gobber",
+          "photo": "/2CHS4t6miNGLgMQAjhFqb4fFuKS.jpg"
         },
         {
-          "name": "François de Brauer",
-          "character": "(voice)",
-          "photo": "/k1AX6MmmtZbn3IvRh75gk4RwIar.jpg"
+          "name": "Phil Dunster",
+          "character": "Eret",
+          "photo": "/mKPBzvglLwMoL2LwShO8eHYGgjo.jpg"
         },
         {
-          "name": "Claudia Tagbo",
-          "character": "(voice)",
-          "photo": "/1oODh0wsz51BVbVNc4brBjNUNpU.jpg"
+          "name": "Julian Dennison",
+          "character": "Fishlegs",
+          "photo": "/zSFwaT2osi7D2G0vFetub4yCDwi.jpg"
         }
       ],
       "countries": [
-        "FR"
+        "US"
       ],
       "release": {
-        "date": "2026-12-02",
+        "date": "2027-06-10",
         "type": "Release",
         "where": "World"
       },
       "trailer": null,
-      "match": 40,
+      "match": 38,
       "reasons": [
-        "You like Adventure & Animation",
-        "Themes: based on comic"
+        "You like Action & Adventure",
+        "Themes: sequel"
       ]
     },
     {
@@ -1591,10 +1589,93 @@
         "where": "World"
       },
       "trailer": "https://www.youtube.com/watch?v=nIw1O3zvOfE",
-      "match": 40,
+      "match": 38,
       "reasons": [
         "You like Adventure & Fantasy",
         "Themes: based on novel or book, sequel"
+      ]
+    },
+    {
+      "tmdb_id": 1084728,
+      "imdb_id": "tt32243339",
+      "title": "Asterix: The Kingdom of Nubia",
+      "original_title": "Astérix - Le Royaume de Nubie",
+      "tagline": "No, Obelix… that is not a boar!",
+      "overview": "The irreductible Gauls are turned into harmless children after a rare youth elixir accidentally ends up into the magic potion. To find the antidote and save the village from the Romans attack, Asterix and Obelix embark on a crazy journey to the far away Kingdom of Nubia.",
+      "poster": "/mxDsm7jKW1G7LNTtvp1C0ID9gN5.jpg",
+      "backdrop": "/gFbCOBwB9qEptHJY230sNCsyZfX.jpg",
+      "runtime": 86,
+      "genres": [
+        "Animation",
+        "Adventure",
+        "Comedy",
+        "Family",
+        "Fantasy"
+      ],
+      "category": "animation",
+      "directors": [
+        "Alexandre Heboyan"
+      ],
+      "writers": [
+        "Albert Uderzo",
+        "René Goscinny",
+        "Alexandre de La Patellière"
+      ],
+      "cast": [
+        {
+          "name": "Christian Clavier",
+          "character": "Astérix (voice)",
+          "photo": "/9WsvKjheeizXCcZrFjZCrCoItqO.jpg"
+        },
+        {
+          "name": "François-Xavier Demaison",
+          "character": "Obélix (voice)",
+          "photo": "/u2WWC1YAJuZLLk6Ho4IzhNAozqe.jpg"
+        },
+        {
+          "name": "Bernard Alane",
+          "character": "Panoramix (voice)",
+          "photo": "/uBcoU8pZmVcWfi4ayNVSJsBvZir.jpg"
+        },
+        {
+          "name": "Issa Doumbia",
+          "character": "Duplicatha (voice)",
+          "photo": "/gF1mF8rAzwU7Fo7yydMWTVt4mYx.jpg"
+        },
+        {
+          "name": "Eye Haïdara",
+          "character": "(voice)",
+          "photo": "/lIsjqRGJOIg9mErmsT3S2nbcMMN.jpg"
+        },
+        {
+          "name": "Élie Semoun",
+          "character": "Cubitus (voice)",
+          "photo": "/gjJpIq92ubeKgAAvK6yexZycIlv.jpg"
+        },
+        {
+          "name": "François de Brauer",
+          "character": "(voice)",
+          "photo": "/k1AX6MmmtZbn3IvRh75gk4RwIar.jpg"
+        },
+        {
+          "name": "Claudia Tagbo",
+          "character": "(voice)",
+          "photo": "/1oODh0wsz51BVbVNc4brBjNUNpU.jpg"
+        }
+      ],
+      "countries": [
+        "FR"
+      ],
+      "release": {
+        "date": "2026-12-02",
+        "type": "Release",
+        "where": "World"
+      },
+      "trailer": null,
+      "match": 37,
+      "reasons": [
+        "You like Adventure & Animation",
+        "Themes: based on comic"
       ]
     },
     {
@@ -1673,7 +1754,7 @@
         "where": "World"
       },
       "trailer": null,
-      "match": 39,
+      "match": 37,
       "reasons": [
         "You like Adventure & Animation",
         "Themes: sequel"
@@ -1756,161 +1837,10 @@
         "where": "World"
       },
       "trailer": "https://www.youtube.com/watch?v=JciwN7x6mB8",
-      "match": 39,
+      "match": 37,
       "reasons": [
         "You like Adventure & Animation",
         "Themes: magic"
-      ]
-    },
-    {
-      "tmdb_id": 1458319,
-      "imdb_id": "tt36416299",
-      "title": "How to Train Your Dragon 2",
-      "original_title": "How to Train Your Dragon 2",
-      "tagline": "",
-      "overview": "The second live-action adaptation of the animated trilogy. Plot TBA.",
-      "poster": "/6VlnDSuTmBPW6a45Qxp5qeDINBq.jpg",
-      "backdrop": null,
-      "runtime": null,
-      "genres": [
-        "Action",
-        "Adventure",
-        "Family",
-        "Fantasy"
-      ],
-      "category": "general",
-      "directors": [
-        "Dean DeBlois"
-      ],
-      "writers": [
-        "Dean DeBlois",
-        "Cressida Cowell"
-      ],
-      "cast": [
-        {
-          "name": "Mason Thames",
-          "character": "Hiccup",
-          "photo": "/SfoR8rDtlacuxAHa3mRUfHChEf.jpg"
-        },
-        {
-          "name": "Nico Parker",
-          "character": "Astrid",
-          "photo": "/gt0NJClVSCPCEfcPgcLj3f85uLa.jpg"
-        },
-        {
-          "name": "Cate Blanchett",
-          "character": "Valka",
-          "photo": "/1Rd567YFdGfkJjSlhNPR8joYkaX.jpg"
-        },
-        {
-          "name": "Gerard Butler",
-          "character": "Stoick",
-          "photo": "/i54XoxYieuff2w6MwyfwVUBvmR0.jpg"
-        },
-        {
-          "name": "Ólafur Darri Ólafsson",
-          "character": "Drago",
-          "photo": "/5ZlxkgsiKh9d4fWzR23sDf8d3HO.jpg"
-        },
-        {
-          "name": "Nick Frost",
-          "character": "Gobber",
-          "photo": "/2CHS4t6miNGLgMQAjhFqb4fFuKS.jpg"
-        },
-        {
-          "name": "Phil Dunster",
-          "character": "Eret",
-          "photo": "/mKPBzvglLwMoL2LwShO8eHYGgjo.jpg"
-        },
-        {
-          "name": "Julian Dennison",
-          "character": "Fishlegs",
-          "photo": "/zSFwaT2osi7D2G0vFetub4yCDwi.jpg"
-        }
-      ],
-      "countries": [
-        "US"
-      ],
-      "release": {
-        "date": "2027-06-10",
-        "type": "Release",
-        "where": "World"
-      },
-      "trailer": null,
-      "match": 39,
-      "reasons": [
-        "You like Adventure & Action",
-        "Themes: sequel"
-      ]
-    },
-    {
-      "tmdb_id": 920167,
-      "imdb_id": "tt31970593",
-      "title": "Witch on the Holy Night",
-      "original_title": "魔法使いの夜",
-      "tagline": "",
-      "overview": "Near the end of the Showa era in the late 1980s, in Misaki town, an old mansion is rumored to be the home of a witch. After moving into the mansion, Aoko Aozaki begins to learn sorcery from a young mage, Alice Kuonji, the rumored witch of the mansion. The Aozaki family oversees the land on which Misaki is built and the heir (Aoko) is tasked with protecting it. Mysterious intruders have been disrupting the bounded field in Misaki, leading Alice and Aoko to investigate. A mannequin or puppet attacks them and is incinerated. As this happens, both of them spot someone running away, a civilian who must not get away having seen magic alive. Unexpectedly, a young boy named Soujuurou Shizuki is drawn to the mansion and comes to reside with them as well.",
-      "poster": "/xKpYIt7T6nJ8oqzV52yLtZdC0YB.jpg",
-      "backdrop": "/eTs5EnaQtnMDfwawMFDoVZLs7Fp.jpg",
-      "runtime": null,
-      "genres": [
-        "Animation",
-        "Fantasy",
-        "Drama"
-      ],
-      "category": "animation",
-      "directors": [
-        "Hikaru Kondou",
-        "Masaru Takeuchi"
-      ],
-      "writers": [
-        "Kinoko Nasu"
-      ],
-      "cast": [
-        {
-          "name": "Haruka Tomatsu",
-          "character": "Aoko Aozaki (voice)",
-          "photo": "/geVvuA2zMGE5xzfc20aDelJSelu.jpg"
-        },
-        {
-          "name": "Kana Hanazawa",
-          "character": "Alice Kuonji (voice)",
-          "photo": "/9UTBlNRopSOKyoWnCm74tyHOfR1.jpg"
-        },
-        {
-          "name": "Yusuke Kobayashi",
-          "character": "Sojuro Shizuki (voice)",
-          "photo": "/y4ukKDSobZJNuB4H3k89hkrKCDC.jpg"
-        },
-        {
-          "name": "Shohei Kajikawa",
-          "character": "Housuke Kinomi (voice)",
-          "photo": "/yZccGkTo1lgdnDzBAH94B3i6ig5.jpg"
-        },
-        {
-          "name": "Chika Anzai",
-          "character": "Kojika Kumari (voice)",
-          "photo": "/lk3Az9O67qrXR69rctwDDHWqi9d.jpg"
-        },
-        {
-          "name": "Toshinari Fukamachi",
-          "character": "Tobimaru Tsukiji (voice)",
-          "photo": "/o7BCrhWApisvlVSsb9JAVVCNW5M.jpg"
-        }
-      ],
-      "countries": [
-        "JP"
-      ],
-      "release": {
-        "date": "2027-01-26",
-        "type": "Cinema",
-        "where": "CH"
-      },
-      "trailer": "https://www.youtube.com/watch?v=bkvGGVHT08M",
-      "match": 38,
-      "reasons": [
-        "You like Animation & Fantasy",
-        "Themes: witch, magic, supernatural"
       ]
     },
     {
@@ -2000,85 +1930,200 @@
       ]
     },
     {
-      "tmdb_id": 1497464,
-      "imdb_id": "tt26443610",
-      "title": "Gatto",
-      "original_title": "Gatto",
-      "tagline": "This cat's on his last life...",
-      "overview": "After years of maneuvering the canal-ridden, superstitious city of Venice, Italy, a scrappy black cat named Nero begins to question whether he’s lived the right lives. Indebted to Rocco, a ruthless local feline mob boss, Nero finds himself in a quandary and is forced to forge a truly unexpected friendship that may finally lead him to his purpose—unless Venice gets the better of him first.",
-      "poster": "/jNDWZ8hV7LHATIhaA3pDV5iWWcZ.jpg",
-      "backdrop": "/dJyNIzED9PPLraxEdKU5hGkXM0x.jpg",
+      "tmdb_id": 920167,
+      "imdb_id": "tt31970593",
+      "title": "Witch on the Holy Night",
+      "original_title": "魔法使いの夜",
+      "tagline": "",
+      "overview": "Near the end of the Showa era in the late 1980s, in Misaki town, an old mansion is rumored to be the home of a witch. After moving into the mansion, Aoko Aozaki begins to learn sorcery from a young mage, Alice Kuonji, the rumored witch of the mansion. The Aozaki family oversees the land on which Misaki is built and the heir (Aoko) is tasked with protecting it. Mysterious intruders have been disrupting the bounded field in Misaki, leading Alice and Aoko to investigate. A mannequin or puppet attacks them and is incinerated. As this happens, both of them spot someone running away, a civilian who must not get away having seen magic alive. Unexpectedly, a young boy named Soujuurou Shizuki is drawn to the mansion and comes to reside with them as well.",
+      "poster": "/xKpYIt7T6nJ8oqzV52yLtZdC0YB.jpg",
+      "backdrop": "/eTs5EnaQtnMDfwawMFDoVZLs7Fp.jpg",
       "runtime": null,
       "genres": [
         "Animation",
-        "Comedy",
-        "Crime",
-        "Family"
+        "Fantasy",
+        "Drama"
       ],
       "category": "animation",
       "directors": [
-        "Enrico Casarosa"
+        "Hikaru Kondou",
+        "Masaru Takeuchi"
       ],
       "writers": [
-        "Enrico Casarosa",
-        "Tripper Clancy",
-        "Andy Siara"
+        "Kinoko Nasu"
       ],
       "cast": [
         {
-          "name": "Mark Ruffalo",
-          "character": "Nero (voice)",
-          "photo": "/5GilHMOt5PAQh6rlUKZzGmaKEI7.jpg"
+          "name": "Haruka Tomatsu",
+          "character": "Aoko Aozaki (voice)",
+          "photo": "/geVvuA2zMGE5xzfc20aDelJSelu.jpg"
+        },
+        {
+          "name": "Kana Hanazawa",
+          "character": "Alice Kuonji (voice)",
+          "photo": "/9UTBlNRopSOKyoWnCm74tyHOfR1.jpg"
+        },
+        {
+          "name": "Yusuke Kobayashi",
+          "character": "Sojuro Shizuki (voice)",
+          "photo": "/y4ukKDSobZJNuB4H3k89hkrKCDC.jpg"
+        },
+        {
+          "name": "Shohei Kajikawa",
+          "character": "Housuke Kinomi (voice)",
+          "photo": "/yZccGkTo1lgdnDzBAH94B3i6ig5.jpg"
+        },
+        {
+          "name": "Chika Anzai",
+          "character": "Kojika Kumari (voice)",
+          "photo": "/lk3Az9O67qrXR69rctwDDHWqi9d.jpg"
+        },
+        {
+          "name": "Toshinari Fukamachi",
+          "character": "Tobimaru Tsukiji (voice)",
+          "photo": "/o7BCrhWApisvlVSsb9JAVVCNW5M.jpg"
+        }
+      ],
+      "countries": [
+        "JP"
+      ],
+      "release": {
+        "date": "2027-01-26",
+        "type": "Cinema",
+        "where": "CH"
+      },
+      "trailer": "https://www.youtube.com/watch?v=bkvGGVHT08M",
+      "match": 36,
+      "reasons": [
+        "You like Animation & Fantasy",
+        "Themes: witch, magic, supernatural"
+      ]
+    },
+    {
+      "tmdb_id": 1297467,
+      "imdb_id": "tt32492552",
+      "title": "The Exorcist: Martyrs",
+      "original_title": "The Exorcist: Martyrs",
+      "tagline": "Darkness must be hunted.",
+      "overview": "Thirteen years ago, New York City detective Julie Miller ended the terror reign of satanic serial killer Father Sunday. The case made her a hero, and she has thrown herself into her work ever since. Now a new killer scrawls her name in an altar boy's blood on the walls of a church crypt, dragging her back into the darkness she believed she had buried with him.",
+      "poster": "/nituVk6sSSyOk1Q3SWjs5DmefVU.jpg",
+      "backdrop": "/e0pOcLgfYVDfeGDB1oEv8JUlc41.jpg",
+      "runtime": null,
+      "genres": [
+        "Horror"
+      ],
+      "category": "horror",
+      "directors": [
+        "Mike Flanagan"
+      ],
+      "writers": [
+        "Mike Flanagan",
+        "William Peter Blatty"
+      ],
+      "cast": [
+        {
+          "name": "Scarlett Johansson",
+          "character": "Det. Julie Miller",
+          "photo": "/2I2xAQmL87k5YswCnc4vHjpXxE0.jpg"
+        },
+        {
+          "name": "Sasha Calle",
+          "character": "Det. Gina Restrepo",
+          "photo": "/yLZY25AQOC2xKzsWqteyJTcWPK3.jpg"
+        },
+        {
+          "name": "Chiwetel Ejiofor",
+          "character": "Father William",
+          "photo": "/kq5DDnqqofoRI0t6ddtRlsJnNPT.jpg"
+        },
+        {
+          "name": "John Leguizamo",
+          "character": "Father Sunday",
+          "photo": "/kwYCdxTlDh9zauUCg4mp2XTCQTw.jpg"
         },
         {
           "name": "Laurence Fishburne",
-          "character": "Rocco (voice)",
+          "character": "Father Nichol",
           "photo": "/2GbXERENPpl5MmlqOLlPVaVtifD.jpg"
         },
         {
-          "name": "Enrico Casarosa",
-          "character": "Saverio (voice)",
-          "photo": "/1Y5cbZQN7fEZcCNCHUANPNfdVQK.jpg"
+          "name": "Diane Lane",
+          "character": "Mary Miller",
+          "photo": "/6OfP3vFMuCL51zamFKgb8aS74hs.jpg"
         },
         {
-          "name": "Bianca Babaşa",
-          "character": "Maja (voice)",
-          "photo": null
+          "name": "Jacobi Jupe",
+          "character": "Max Miller",
+          "photo": "/wVpax8MOwdelnQILiDNoDkTzebU.jpg"
         },
         {
-          "name": "Sherry Cola",
-          "character": "Regina (voice)",
-          "photo": "/fO6t05iJo4gqsTkOgPO1jwF4B4t.jpg"
-        },
-        {
-          "name": "John Turturro",
-          "character": "Capitano Briganti (voice)",
-          "photo": "/6O9W9cJW0kCqMzYeLupV9oH0ftn.jpg"
-        },
-        {
-          "name": "Rumen Sali Shopov",
-          "character": "Papu Janko (voice)",
-          "photo": null
-        },
-        {
-          "name": "Rhys Darby",
-          "character": "Focaccia (voice)",
-          "photo": "/65Zy72IsUjopCkRt0s55Tk68GIm.jpg"
+          "name": "Scoot McNairy",
+          "character": "Clay Silver",
+          "photo": "/oP2LJEqupxVZ2XdEW1lN5Q5LF3M.jpg"
         }
       ],
       "countries": [
         "US"
       ],
       "release": {
-        "date": "2027-03-03",
+        "date": "2027-03-10",
         "type": "Release",
         "where": "World"
       },
-      "trailer": "https://www.youtube.com/watch?v=fq7Q-dtIZeM",
-      "match": 35,
+      "trailer": "https://www.youtube.com/watch?v=iIEYfH-jg1Y",
+      "match": 36,
       "reasons": [
-        "You like Animation & Comedy",
-        "Themes: friendship, 3d animation"
+        "You like Horror",
+        "Starring Scarlett Johansson (Ray Gunn)",
+        "Themes: based on novel or book, supernatural, exorcism"
+      ]
+    },
+    {
+      "tmdb_id": 1720486,
+      "imdb_id": "tt43621069",
+      "title": "Lilo & Scratch",
+      "original_title": "Lilo & Scratch",
+      "tagline": "The ‘ohana is getting bigger.",
+      "overview": "Stitch is tasked with looking after Scratch, a cat Lilo has found, but Scratch has more similarities with Stitch than meets the eye.",
+      "poster": "/fiKAxvuHInioQHGJU0fGDxc6hXR.jpg",
+      "backdrop": "/iYivIgRjEbxsS3Jgt64k4zpCTyv.jpg",
+      "runtime": null,
+      "genres": [
+        "Animation",
+        "Comedy",
+        "Family",
+        "Science Fiction"
+      ],
+      "category": "animation",
+      "directors": [
+        "Fawn Veerasunthorn",
+        "Malcon Pierce"
+      ],
+      "writers": [],
+      "cast": [
+        {
+          "name": "Chris Sanders",
+          "character": "Stitch (voice)",
+          "photo": "/mrUm1agSL9Kj6dhV6ABVJvrwlie.jpg"
+        },
+        {
+          "name": "Maia Kealoha",
+          "character": "Lilo (voice)",
+          "photo": "/jqsKbBF28V2Oq5tKPR5USkNufwC.jpg"
+        }
+      ],
+      "countries": [
+        "US"
+      ],
+      "release": {
+        "date": "2026-11-25",
+        "type": "Release",
+        "where": "World"
+      },
+      "trailer": null,
+      "match": 34,
+      "reasons": [
+        "You like Science Fiction & Animation"
       ]
     },
     {
@@ -2158,7 +2203,7 @@
         "where": "CH"
       },
       "trailer": "https://www.youtube.com/watch?v=kA9NfV4pM_Q",
-      "match": 35,
+      "match": 34,
       "reasons": [
         "You like Fantasy & Comedy",
         "Starring Richard E. Grant (Wildwood)",
@@ -2166,101 +2211,85 @@
       ]
     },
     {
-      "tmdb_id": 1720486,
-      "imdb_id": "tt43621069",
-      "title": "Lilo & Scratch",
-      "original_title": "Lilo & Scratch",
-      "tagline": "The ‘ohana is getting bigger.",
-      "overview": "Stitch is tasked with looking after Scratch, a cat Lilo has found, but Scratch has more similarities with Stitch than meets the eye.",
-      "poster": "/fiKAxvuHInioQHGJU0fGDxc6hXR.jpg",
-      "backdrop": "/iYivIgRjEbxsS3Jgt64k4zpCTyv.jpg",
+      "tmdb_id": 1497464,
+      "imdb_id": "tt26443610",
+      "title": "Gatto",
+      "original_title": "Gatto",
+      "tagline": "This cat's on his last life...",
+      "overview": "After years of maneuvering the canal-ridden, superstitious city of Venice, Italy, a scrappy black cat named Nero begins to question whether he’s lived the right lives. Indebted to Rocco, a ruthless local feline mob boss, Nero finds himself in a quandary and is forced to forge a truly unexpected friendship that may finally lead him to his purpose—unless Venice gets the better of him first.",
+      "poster": "/jNDWZ8hV7LHATIhaA3pDV5iWWcZ.jpg",
+      "backdrop": "/dJyNIzED9PPLraxEdKU5hGkXM0x.jpg",
       "runtime": null,
       "genres": [
         "Animation",
         "Comedy",
-        "Family",
-        "Science Fiction"
+        "Crime",
+        "Family"
       ],
       "category": "animation",
       "directors": [
-        "Fawn Veerasunthorn",
-        "Malcon Pierce"
+        "Enrico Casarosa"
       ],
-      "writers": [],
+      "writers": [
+        "Enrico Casarosa",
+        "Tripper Clancy",
+        "Andy Siara"
+      ],
       "cast": [
         {
-          "name": "Chris Sanders",
-          "character": "Stitch (voice)",
-          "photo": "/mrUm1agSL9Kj6dhV6ABVJvrwlie.jpg"
+          "name": "Mark Ruffalo",
+          "character": "Nero (voice)",
+          "photo": "/5GilHMOt5PAQh6rlUKZzGmaKEI7.jpg"
         },
         {
-          "name": "Maia Kealoha",
-          "character": "Lilo (voice)",
-          "photo": "/jqsKbBF28V2Oq5tKPR5USkNufwC.jpg"
+          "name": "Laurence Fishburne",
+          "character": "Rocco (voice)",
+          "photo": "/2GbXERENPpl5MmlqOLlPVaVtifD.jpg"
+        },
+        {
+          "name": "Enrico Casarosa",
+          "character": "Saverio (voice)",
+          "photo": "/1Y5cbZQN7fEZcCNCHUANPNfdVQK.jpg"
+        },
+        {
+          "name": "Bianca Babaşa",
+          "character": "Maja (voice)",
+          "photo": null
+        },
+        {
+          "name": "Sherry Cola",
+          "character": "Regina (voice)",
+          "photo": "/fO6t05iJo4gqsTkOgPO1jwF4B4t.jpg"
+        },
+        {
+          "name": "John Turturro",
+          "character": "Capitano Briganti (voice)",
+          "photo": "/6O9W9cJW0kCqMzYeLupV9oH0ftn.jpg"
+        },
+        {
+          "name": "Rumen Sali Shopov",
+          "character": "Papu Janko (voice)",
+          "photo": null
+        },
+        {
+          "name": "Rhys Darby",
+          "character": "Focaccia (voice)",
+          "photo": "/65Zy72IsUjopCkRt0s55Tk68GIm.jpg"
         }
       ],
       "countries": [
         "US"
       ],
       "release": {
-        "date": "2026-11-25",
+        "date": "2027-03-03",
         "type": "Release",
         "where": "World"
       },
-      "trailer": null,
-      "match": 34,
-      "reasons": [
-        "You like Science Fiction & Animation"
-      ]
-    },
-    {
-      "tmdb_id": 1599184,
-      "imdb_id": "tt51165610",
-      "title": "Battle Through the Heavens Movie：Duel of the Two Dou Emperors",
-      "original_title": "斗破苍穹剧场版 双帝之战",
-      "tagline": "",
-      "overview": "",
-      "poster": "/dzEKynSeeXWPNaFCpYK7R92TVll.jpg",
-      "backdrop": "/9uMWGlxHR3bpyhzKQLYL83m5puq.jpg",
-      "runtime": null,
-      "genres": [
-        "Animation",
-        "Adventure"
-      ],
-      "category": "animation",
-      "directors": [],
-      "writers": [
-        "Tian Can Tu Dou"
-      ],
-      "cast": [
-        {
-          "name": "Bu Yi",
-          "character": "Voice",
-          "photo": "/rC30srBjftYqkJgMi82XFe2kWs.jpg"
-        },
-        {
-          "name": "Liu Yuxuan",
-          "character": "Voice",
-          "photo": null
-        },
-        {
-          "name": "Chen Yiwen",
-          "character": "Voice",
-          "photo": "/muj3gVK2759u2X9GMYqfw2VTfiu.jpg"
-        }
-      ],
-      "countries": [
-        "CN"
-      ],
-      "release": {
-        "date": "2026-11-22",
-        "type": "Release",
-        "where": "World"
-      },
-      "trailer": null,
+      "trailer": "https://www.youtube.com/watch?v=fq7Q-dtIZeM",
       "match": 33,
       "reasons": [
-        "You like Adventure & Animation"
+        "You like Animation & Comedy",
+        "Themes: friendship, 3d animation"
       ]
     },
     {
@@ -2335,89 +2364,60 @@
         "where": "World"
       },
       "trailer": "https://www.youtube.com/watch?v=zHSYXDLH4io",
-      "match": 32,
+      "match": 33,
       "reasons": [
         "You like Action & Comedy",
         "Starring Ben Schwartz (Sonic the Hedgehog 4)"
       ]
     },
     {
-      "tmdb_id": 1457866,
-      "imdb_id": "tt36408401",
-      "title": "THE FURTHER MIS-ADVENTURES OF CLIFF BOOTH",
-      "original_title": "THE FURTHER MIS-ADVENTURES OF CLIFF BOOTH",
+      "tmdb_id": 1599184,
+      "imdb_id": "tt51165610",
+      "title": "Battle Through the Heavens Movie：Duel of the Two Dou Emperors",
+      "original_title": "斗破苍穹剧场版 双帝之战",
       "tagline": "",
-      "overview": "Eight years after the events of Once Upon a Time in... Hollywood, Cliff Booth returns to a changing Los Angeles. Now working as a fixer in the shadows of the Hollywood studio system, Cliff finds himself entangled in a dangerous web of secrets, crimes and betrayals that will test everything he knows about loyalty and survival.",
-      "poster": "/thX8Rs7nfgmPHfCgjoFuRovy49l.jpg",
-      "backdrop": "/qqPspJFy0XrEoVTKZdp0Em7kej6.jpg",
-      "runtime": 141,
+      "overview": "",
+      "poster": "/dzEKynSeeXWPNaFCpYK7R92TVll.jpg",
+      "backdrop": "/9uMWGlxHR3bpyhzKQLYL83m5puq.jpg",
+      "runtime": null,
       "genres": [
-        "Comedy",
-        "Drama",
-        "Thriller"
+        "Animation",
+        "Adventure"
       ],
-      "category": "general",
-      "directors": [
-        "David Fincher"
-      ],
+      "category": "animation",
+      "directors": [],
       "writers": [
-        "Quentin Tarantino"
+        "Tian Can Tu Dou"
       ],
       "cast": [
         {
-          "name": "Brad Pitt",
-          "character": "Cliff Booth",
-          "photo": "/ajNaPmXVVMJFg9GWmu6MJzTaXdV.jpg"
+          "name": "Bu Yi",
+          "character": "Voice",
+          "photo": "/rC30srBjftYqkJgMi82XFe2kWs.jpg"
         },
         {
-          "name": "Elizabeth Debicki",
-          "character": "Karen Crosby",
-          "photo": "/nTTnQVTn13Ve4ifjRY9v8kVc99w.jpg"
+          "name": "Liu Yuxuan",
+          "character": "Voice",
+          "photo": null
         },
         {
-          "name": "Scott Caan",
-          "character": "Charlie Peters",
-          "photo": "/hX5X4K7BfzOOGcxiNQ24EpPZrfC.jpg"
-        },
-        {
-          "name": "Yahya Abdul-Mateen II",
-          "character": "Roderick 'Hot Rod' Harrison",
-          "photo": "/38D1WYFVUlcuaVvMbyFvctrDlDR.jpg"
-        },
-        {
-          "name": "Carla Gugino",
-          "character": "Toni Peters",
-          "photo": "/dAqGOsHSzlP6RhaUURX2NrwITaq.jpg"
-        },
-        {
-          "name": "Peter Weller",
-          "character": "Gus Booth",
-          "photo": "/mVRJX38zabRadVPJe0XOTObVzhp.jpg"
-        },
-        {
-          "name": "Matt Groove",
-          "character": "Mr. Verdusco",
-          "photo": "/mi5j53C24Pfc338xwzZnzfQ6MQF.jpg"
-        },
-        {
-          "name": "JB Tadena",
-          "character": "Mr. Verdusco",
-          "photo": "/lAVmnngcImft4VXYevsgpSqwtQm.jpg"
+          "name": "Chen Yiwen",
+          "character": "Voice",
+          "photo": "/muj3gVK2759u2X9GMYqfw2VTfiu.jpg"
         }
       ],
       "countries": [
-        "US"
+        "CN"
       ],
       "release": {
-        "date": "2026-11-25",
+        "date": "2026-11-22",
         "type": "Release",
         "where": "World"
       },
-      "trailer": "https://www.youtube.com/watch?v=fJH-wfSXnWg",
-      "match": 29,
+      "trailer": null,
+      "match": 31,
       "reasons": [
-        "You like Comedy & Drama",
-        "Themes: 1970s, dark comedy, sequel"
+        "You like Adventure & Animation"
       ]
     },
     {
@@ -2493,10 +2493,89 @@
         "where": "World"
       },
       "trailer": null,
-      "match": 28,
+      "match": 31,
       "reasons": [
         "You like Science Fiction & Horror",
         "Themes: sequel"
+      ]
+    },
+    {
+      "tmdb_id": 1457866,
+      "imdb_id": "tt36408401",
+      "title": "THE FURTHER MIS-ADVENTURES OF CLIFF BOOTH",
+      "original_title": "THE FURTHER MIS-ADVENTURES OF CLIFF BOOTH",
+      "tagline": "",
+      "overview": "Eight years after the events of Once Upon a Time in... Hollywood, Cliff Booth returns to a changing Los Angeles. Now working as a fixer in the shadows of the Hollywood studio system, Cliff finds himself entangled in a dangerous web of secrets, crimes and betrayals that will test everything he knows about loyalty and survival.",
+      "poster": "/thX8Rs7nfgmPHfCgjoFuRovy49l.jpg",
+      "backdrop": "/qqPspJFy0XrEoVTKZdp0Em7kej6.jpg",
+      "runtime": 141,
+      "genres": [
+        "Comedy",
+        "Drama",
+        "Thriller"
+      ],
+      "category": "general",
+      "directors": [
+        "David Fincher"
+      ],
+      "writers": [
+        "Quentin Tarantino"
+      ],
+      "cast": [
+        {
+          "name": "Brad Pitt",
+          "character": "Cliff Booth",
+          "photo": "/ajNaPmXVVMJFg9GWmu6MJzTaXdV.jpg"
+        },
+        {
+          "name": "Elizabeth Debicki",
+          "character": "Karen Crosby",
+          "photo": "/nTTnQVTn13Ve4ifjRY9v8kVc99w.jpg"
+        },
+        {
+          "name": "Scott Caan",
+          "character": "Charlie Peters",
+          "photo": "/hX5X4K7BfzOOGcxiNQ24EpPZrfC.jpg"
+        },
+        {
+          "name": "Yahya Abdul-Mateen II",
+          "character": "Roderick 'Hot Rod' Harrison",
+          "photo": "/38D1WYFVUlcuaVvMbyFvctrDlDR.jpg"
+        },
+        {
+          "name": "Carla Gugino",
+          "character": "Toni Peters",
+          "photo": "/dAqGOsHSzlP6RhaUURX2NrwITaq.jpg"
+        },
+        {
+          "name": "Peter Weller",
+          "character": "Gus Booth",
+          "photo": "/mVRJX38zabRadVPJe0XOTObVzhp.jpg"
+        },
+        {
+          "name": "Matt Groove",
+          "character": "Mr. Verdusco",
+          "photo": "/mi5j53C24Pfc338xwzZnzfQ6MQF.jpg"
+        },
+        {
+          "name": "JB Tadena",
+          "character": "Mr. Verdusco",
+          "photo": "/lAVmnngcImft4VXYevsgpSqwtQm.jpg"
+        }
+      ],
+      "countries": [
+        "US"
+      ],
+      "release": {
+        "date": "2026-11-25",
+        "type": "Release",
+        "where": "World"
+      },
+      "trailer": "https://www.youtube.com/watch?v=fJH-wfSXnWg",
+      "match": 28,
+      "reasons": [
+        "You like Comedy & Drama",
+        "Themes: 1970s, dark comedy, sequel"
       ]
     },
     {
@@ -2653,10 +2732,167 @@
         "where": "World"
       },
       "trailer": "https://www.youtube.com/watch?v=5HK3wimDxBI",
-      "match": 25,
+      "match": 26,
       "reasons": [
         "You like Action & Crime",
         "Themes: sequel"
+      ]
+    },
+    {
+      "tmdb_id": 1268053,
+      "imdb_id": "tt31945129",
+      "title": "Winnie-the-Pooh: Blood and Honey - The Lost Years",
+      "original_title": "Winnie-the-Pooh: Blood and Honey - The Lost Years",
+      "tagline": "Pooh and Friends are out for blood and honey",
+      "overview": "Fifteen years after Pooh, Tigger, and Rabbit are captured and turned into attractions for the sinister Woozles Circus, orphaned teenager Momo Milne begins searching for her missing mother. Following a clue linking her mother’s disappearance to the circus, Momo and her best friend Billie take jobs inside the bizarre traveling show to uncover the truth.  Behind the bright lights and carnival magic, they discover a nightmare: the circus hides monstrous half-human creatures, violent secrets, and a trail of missing victims. As Pooh and the others struggle under cruel captivity, their bloodthirsty instincts begin to resurface, turning the carnival into a slaughterhouse.  Trapped inside a deadly world of twisted fairy tales and brutal horrors, Momo must unravel the connection between her mother and the circus before she and Billie become the next victims of the Woozles’ terrifying show.",
+      "poster": "/ed7c0fV7atZyGZ031Ci0D61HSnm.jpg",
+      "backdrop": "/cbjEec6ONqBsWKYUymyJp77TJMy.jpg",
+      "runtime": 85,
+      "genres": [
+        "Horror"
+      ],
+      "category": "horror",
+      "directors": [
+        "Scott Chambers"
+      ],
+      "writers": [
+        "A.A. Milne",
+        "Richard Stanley",
+        "Hans Christian Andersen"
+      ],
+      "cast": [
+        {
+          "name": "Josephine Blazier",
+          "character": "MoMo",
+          "photo": "/eF5Lvww6wT8a4wdq7i9Ak4gW3Th.jpg"
+        },
+        {
+          "name": "George Montague",
+          "character": "Winnie the Pooh",
+          "photo": "/zAg31yy46hUB2rjDcSHbWmbVSQi.jpg"
+        },
+        {
+          "name": "Leo Harris",
+          "character": "Oliver",
+          "photo": "/4bg57XX6Juv4VPgkFWnVkz5cW8f.jpg"
+        },
+        {
+          "name": "Roger L. Jackson",
+          "character": "Rabbit (voice)",
+          "photo": "/kDAoLRPVKgfTXRhDep0JNouhyAV.jpg"
+        },
+        {
+          "name": "Jacob Marshfield",
+          "character": "Rabbit",
+          "photo": "/UGHAL1yFxrd7KyyYNPM8NNR31b.jpg"
+        },
+        {
+          "name": "Zena Donnelly",
+          "character": "Billie",
+          "photo": "/xto2Nc6HfonsGEZUsCuKj5N7zWn.jpg"
+        },
+        {
+          "name": "Lewis Santer",
+          "character": "Tigger",
+          "photo": "/itfxF8FK4LasNtlwCAJv9a3T82D.jpg"
+        },
+        {
+          "name": "Richard Stanley",
+          "character": "Balthazar Von Woozle",
+          "photo": "/vI3tIvvqUdjC1v8uVtIaDnEDWX4.jpg"
+        }
+      ],
+      "countries": [
+        "GB"
+      ],
+      "release": {
+        "date": "2027-01-21",
+        "type": "Release",
+        "where": "World"
+      },
+      "trailer": "https://www.youtube.com/watch?v=swcW56xOU3o",
+      "match": 26,
+      "reasons": [
+        "You like Horror",
+        "Themes: mutation, sequel, transhumanism"
+      ]
+    },
+    {
+      "tmdb_id": 1520592,
+      "imdb_id": "tt33085567",
+      "title": "River",
+      "original_title": "River",
+      "tagline": "Fear runs deep.",
+      "overview": "After the death of their father, three siblings take a boat trip to spread their dad's ashes. However, they discover they have inadvertently stumbled onto the hunting grounds of a strange pair of masked killers, and must fight for their lives on a busted motorboat.",
+      "poster": "/xe9V5utoUjyb92g5eBWbro1MSKd.jpg",
+      "backdrop": "/gDpRamKdIUrlea0KyzaPnS9NM8K.jpg",
+      "runtime": 92,
+      "genres": [
+        "Horror",
+        "Thriller"
+      ],
+      "category": "horror",
+      "directors": [
+        "Joshua Giuliano"
+      ],
+      "writers": [
+        "Joshua Giuliano"
+      ],
+      "cast": [
+        {
+          "name": "Jane Levy",
+          "character": "Lucy",
+          "photo": "/iYyWPOOpZgAqZK6IddSaD4R9QW3.jpg"
+        },
+        {
+          "name": "Jessica Rothe",
+          "character": "Carla",
+          "photo": "/oItPXy56W0Y5taqIMZilRtnPDMn.jpg"
+        },
+        {
+          "name": "Max Mattern",
+          "character": "Drew",
+          "photo": "/fugNAhgsqKIrJkQUB9jEr56LzDk.jpg"
+        },
+        {
+          "name": "Dane DiLiegro",
+          "character": "The Man",
+          "photo": "/dBaJs1QNTpYL3RIdBz8VN01mmDf.jpg"
+        },
+        {
+          "name": "Mickey Dolan",
+          "character": "Charlie",
+          "photo": "/mIZBvVJcsbbd41tayryiwhKfAqe.jpg"
+        },
+        {
+          "name": "Addison Smith",
+          "character": "Young Carla",
+          "photo": null
+        },
+        {
+          "name": "Aubree Liscotti",
+          "character": "Young Lucy",
+          "photo": null
+        },
+        {
+          "name": "Westley Bator",
+          "character": "River",
+          "photo": "/f0E1cEdq4bDBO0SczOHK3F9rsoG.jpg"
+        }
+      ],
+      "countries": [
+        "US"
+      ],
+      "release": {
+        "date": "2027-01-14",
+        "type": "Release",
+        "where": "World"
+      },
+      "trailer": "https://www.youtube.com/watch?v=ox8lEnsxDag",
+      "match": 25,
+      "reasons": [
+        "You like Horror & Thriller",
+        "Themes: survival, family, brother sister relationship"
       ]
     },
     {
@@ -2742,159 +2978,59 @@
       ]
     },
     {
-      "tmdb_id": 1234054,
-      "imdb_id": "tt39150157",
-      "title": "Rafadan Tayfa: Gordion",
-      "original_title": "Rafadan Tayfa: Gordion",
+      "tmdb_id": 1808156,
+      "imdb_id": "tt50107708",
+      "title": "STRØM – Nordwärts zur Freiheit",
+      "original_title": "STRØM – Nordwärts zur Freiheit",
       "tagline": "",
       "overview": "",
-      "poster": "/rxmeK2viKGiLWachtO6tJ89hP08.jpg",
-      "backdrop": null,
+      "poster": "/kYEqCK4sPUXLelaecvVkHeETC48.jpg",
+      "backdrop": "/byu6e3I1LXMiSwoK42DrSg7bD4M.jpg",
       "runtime": null,
       "genres": [
-        "Animation",
-        "Family"
+        "Adventure",
+        "Documentary"
       ],
-      "category": "animation",
-      "directors": [],
-      "writers": [],
+      "category": "general",
+      "directors": [
+        "Nils Kauf"
+      ],
+      "writers": [
+        "Nils Kauf"
+      ],
       "cast": [
         {
-          "name": "Hakan Coşar",
-          "character": "Mert",
+          "name": "Michèle Loretan",
+          "character": "self",
           "photo": null
         },
         {
-          "name": "Yağmur Sergen",
-          "character": "Kamil / Ankaralı Ozan",
-          "photo": "/nWlog9UZNw3KvexHE2OAH7Mq5oM.jpg"
-        },
-        {
-          "name": "Levent Kol",
-          "character": "Hayri",
-          "photo": "/p5Oxf8i512C0ORt3gXjtWB1TfoD.jpg"
-        },
-        {
-          "name": "Şirin Giobbi",
-          "character": "Akın",
-          "photo": "/ay0nK2RbXWIXHJ4TrbdGtFl9zYY.jpg"
-        },
-        {
-          "name": "Aysın Işımer",
-          "character": "Sevim",
+          "name": "Nils Bühler",
+          "character": "self",
           "photo": null
         },
         {
-          "name": "Emine Sergen Kazbek",
-          "character": "Hale",
-          "photo": "/zLIhxD2fU4bwwLKZlOwT9ZN9vSr.jpg"
+          "name": "Jérôme Schüpbach",
+          "character": "self",
+          "photo": null
         },
         {
-          "name": "İsmet Numanoğlu",
-          "character": "Kuşçu Baba / Zobi",
-          "photo": "/jZQwEIxYs1Hj2tw7FirOajcRvIh.jpg"
-        },
-        {
-          "name": "Hakan Bozbey",
-          "character": "Ajan / Rıza / Ziya",
+          "name": "Nils Kauf",
+          "character": "self",
           "photo": null
         }
       ],
-      "countries": [
-        "TR"
-      ],
+      "countries": [],
       "release": {
-        "date": "2026-12-25",
-        "type": "Release",
-        "where": "World"
+        "date": "2026-11-26",
+        "type": "Cinema",
+        "where": "CH"
       },
       "trailer": null,
       "match": 23,
       "reasons": [
-        "You like Animation & Family"
-      ]
-    },
-    {
-      "tmdb_id": 1316999,
-      "imdb_id": "tt22183852",
-      "title": "Tangles",
-      "original_title": "Tangles",
-      "tagline": "A story about Alzheimer’s, my mother and me.",
-      "overview": "A young woman is forced to return to the conservative small town where her bizarre family lives to take care of her mother, having to deal with the cruel reality of her mom's Alzheimer disease and become the daughter they need.",
-      "poster": "/agQGw5Cux2CYaxI8UHlLbta2bgw.jpg",
-      "backdrop": "/hc0rBryUFk893Zo1P1tODmOxaJw.jpg",
-      "runtime": 102,
-      "genres": [
-        "Animation",
-        "Drama",
-        "Comedy",
-        "History"
-      ],
-      "category": "animation",
-      "directors": [
-        "Leah Nelson"
-      ],
-      "writers": [
-        "Sarah Leavitt",
-        "Leah Nelson",
-        "Trev Renney"
-      ],
-      "cast": [
-        {
-          "name": "Julia Louis-Dreyfus",
-          "character": "Midge Leavitt (voice)",
-          "photo": "/iEfHQNrVbVFesDPjdySom9nqsFg.jpg"
-        },
-        {
-          "name": "Abbi Jacobson",
-          "character": "Sarah Leavitt (voice)",
-          "photo": "/tYTlv2MmiOjPfkOE9ywGAaqllbv.jpg"
-        },
-        {
-          "name": "Bryan Cranston",
-          "character": "Rob Leavitt (voice)",
-          "photo": "/7Jahy5LZX2Fo8fGJltMreAI49hC.jpg"
-        },
-        {
-          "name": "Samira Wiley",
-          "character": "Donimo (voice)",
-          "photo": "/m45A0hYcpnGckwxqs7j0I6Sp2Dj.jpg"
-        },
-        {
-          "name": "Beanie Feldstein",
-          "character": "Hannah Leavitt (voice)",
-          "photo": "/lyK1s3TcUKQidfVDnNPt3TAc6mI.jpg"
-        },
-        {
-          "name": "Seth Rogen",
-          "character": "Zach (voice)",
-          "photo": "/nYl9bvQzaPQLzlf0wf75clLN6Hi.jpg"
-        },
-        {
-          "name": "Wanda Sykes",
-          "character": "Paula (voice)",
-          "photo": "/toPTeiRGN1Ha0DaXl8587i9aHUi.jpg"
-        },
-        {
-          "name": "Bowen Yang",
-          "character": "Dale (voice)",
-          "photo": "/qzjyaEe7jjLaKSmzQ2dmtcjyCpe.jpg"
-        }
-      ],
-      "countries": [
-        "US",
-        "CA"
-      ],
-      "release": {
-        "date": "2026-11-27",
-        "type": "Release",
-        "where": "World"
-      },
-      "trailer": "https://www.youtube.com/watch?v=rP58f4PPOwY",
-      "match": 23,
-      "reasons": [
-        "You like Animation & Comedy",
-        "Themes: adult animation"
+        "You like Adventure & Documentary",
+        "Themes: survival"
       ]
     },
     {
@@ -2972,168 +3108,9 @@
         "where": "World"
       },
       "trailer": null,
-      "match": 21,
+      "match": 22,
       "reasons": [
         "You like Action & Comedy"
-      ]
-    },
-    {
-      "tmdb_id": 1384528,
-      "imdb_id": "tt34515768",
-      "title": "O.M: Operation Mole",
-      "original_title": "ஓ.ம்: Operation Mole",
-      "tagline": "",
-      "overview": "Set across the temple corridors of Tirupati and Tiruvannamalai, an elite undercover operative infiltrates a sprawling transnational red sanders syndicate. As criminal politics escalate, a covert task force launches Operation Mole to dismantle the cartel from within.",
-      "poster": "/vFnFLqXjf7RQfkNxrrys43BZKxJ.jpg",
-      "backdrop": "/r0CliRoVddOLJ5zVT2Zd8ldbLuu.jpg",
-      "runtime": 179,
-      "genres": [
-        "Crime",
-        "Action",
-        "Thriller"
-      ],
-      "category": "general",
-      "directors": [
-        "Rajkumar Periasamy"
-      ],
-      "writers": [
-        "Rajkumar Periasamy",
-        "Vishu Ramaswamy",
-        "Rokesh"
-      ],
-      "cast": [
-        {
-          "name": "Dhanush",
-          "character": "Palanivel/Thirukumaran",
-          "photo": "/xnGKntkTDURY5mJ0sOVRI3VIDsY.jpg"
-        },
-        {
-          "name": "Mammootty",
-          "character": "Burma 'Siya' Karthikeyan",
-          "photo": "/c5ewp9XtDIOwK5QWhwA7TD0GzqO.jpg"
-        },
-        {
-          "name": "Sai Pallavi",
-          "character": "Nithya Reddy IPS",
-          "photo": "/qAPdGKUIUEzLibdgVCey7oKvvME.jpg"
-        },
-        {
-          "name": "Sreeleela",
-          "character": "Roja",
-          "photo": "/fHrQFHy9GPII2rGsImbpBg83N3p.jpg"
-        },
-        {
-          "name": "Indrans",
-          "character": "",
-          "photo": "/vs5Acy2hJ4dWoM3xRGdnFKdVXzw.jpg"
-        },
-        {
-          "name": "Naseeruddin Shah",
-          "character": "",
-          "photo": "/iaRC8eqliA5clpsQ50sITYoNQGG.jpg"
-        },
-        {
-          "name": "Renu Desai",
-          "character": "",
-          "photo": "/jP99Q1Mc6QbdlAiiIy9781XRkvG.jpg"
-        },
-        {
-          "name": "Sanjay Swaroop",
-          "character": "Krishnaiah",
-          "photo": "/zVErh5DAZyNbyGoaD5ZLHsKcdal.jpg"
-        }
-      ],
-      "countries": [
-        "IN"
-      ],
-      "release": {
-        "date": "2026-11-19",
-        "type": "Release",
-        "where": "World"
-      },
-      "trailer": null,
-      "match": 20,
-      "reasons": [
-        "You like Action & Crime"
-      ]
-    },
-    {
-      "tmdb_id": 1145110,
-      "imdb_id": "tt28228084",
-      "title": "King",
-      "original_title": "किंग",
-      "tagline": "",
-      "overview": "Mentor and disciple embark on a perilous journey, pushing their survival skills to the limit against overwhelming odds and unforgiving environments.",
-      "poster": "/Aq5J3pzesN7WJLIzEkWD2b4FqV9.jpg",
-      "backdrop": "/mjiDUz5idO9LrJC40JphKmSqjfF.jpg",
-      "runtime": null,
-      "genres": [
-        "Action",
-        "Thriller"
-      ],
-      "category": "general",
-      "directors": [
-        "Siddharth Anand"
-      ],
-      "writers": [
-        "Sujoy Ghosh",
-        "Sagar Pandya",
-        "Suresh Nair"
-      ],
-      "cast": [
-        {
-          "name": "Shah Rukh Khan",
-          "character": "",
-          "photo": "/tKeQhSyXyzlzxNtxFq24iIvzXrC.jpg"
-        },
-        {
-          "name": "Suhana Khan",
-          "character": "",
-          "photo": "/iOwA7DenXjNqF9CpUnPoKeAZrRm.jpg"
-        },
-        {
-          "name": "Deepika Padukone",
-          "character": "",
-          "photo": "/rzvvBQ0r6oiqDdzcsdTRB7jN4Rx.jpg"
-        },
-        {
-          "name": "Abhishek Bachchan",
-          "character": "",
-          "photo": "/cALtfAvfUtS0Luf8MZaSiLfFRwd.jpg"
-        },
-        {
-          "name": "Anil Kapoor",
-          "character": "",
-          "photo": "/dwvnpiwg9m2zj0VHzlgzEotFl0G.jpg"
-        },
-        {
-          "name": "Jackie Shroff",
-          "character": "",
-          "photo": "/sVqe6VioM37LQwgQLd8wnC5vapK.jpg"
-        },
-        {
-          "name": "Rani Mukerji",
-          "character": "",
-          "photo": "/t82PAPb2ZGicWvHco72V2XEh0Lo.jpg"
-        },
-        {
-          "name": "Jaideep Ahlawat",
-          "character": "",
-          "photo": "/uILn4y8EWbMdeu71laMsh8zHY0M.jpg"
-        }
-      ],
-      "countries": [
-        "IN"
-      ],
-      "release": {
-        "date": "2026-12-24",
-        "type": "Release",
-        "where": "World"
-      },
-      "trailer": null,
-      "match": 20,
-      "reasons": [
-        "You like Action & Thriller"
       ]
     }
   ]
