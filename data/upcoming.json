@@ -1,6 +1,6 @@
 {
   "home_country": "CH",
-  "generated": "2026-11-17T12:18:31.749Z",
+  "generated": "2026-11-17T13:22:54.081Z",
   "movies": [
     {
       "tmdb_id": 1300968,
@@ -1431,6 +1431,88 @@
       "reasons": [
         "You like Adventure & Action",
         "Themes: hero, time travel"
+      ]
+    },
+    {
+      "tmdb_id": 1147572,
+      "imdb_id": "tt9077514",
+      "title": "Narnia: The Magician's Nephew",
+      "original_title": "Narnia: The Magician's Nephew",
+      "tagline": "A universe begins.",
+      "overview": "Two children discover a wood full of pools leading to other worlds. One takes them to a dead city beneath a dying sun, where they wake a queen who exterminated its population and accidentally bring her back to London.",
+      "poster": "/yrqR0qquy4JOfqZCsFJV7vJoOSh.jpg",
+      "backdrop": "/ioGlZohe3jmaH2TSmSWJVRjHoMT.jpg",
+      "runtime": null,
+      "genres": [
+        "Fantasy",
+        "Adventure",
+        "Family"
+      ],
+      "category": "general",
+      "directors": [
+        "Greta Gerwig"
+      ],
+      "writers": [
+        "C. S. Lewis",
+        "Greta Gerwig"
+      ],
+      "cast": [
+        {
+          "name": "David McKenna",
+          "character": "Digory Kirke",
+          "photo": "/m3iSEe5F8oAQkE0kRN3LTqMTpG.jpg"
+        },
+        {
+          "name": "Beatrice Campbell",
+          "character": "Polly Plummer",
+          "photo": "/nzUTSc7KSPwnOo7tfRNDiFMWMgN.jpg"
+        },
+        {
+          "name": "Daniel Craig",
+          "character": "Andrew Ketterley",
+          "photo": "/iFerDZUmC5Fu26i4qI8xnUVEHc7.jpg"
+        },
+        {
+          "name": "Carey Mulligan",
+          "character": "Mabel Kirke",
+          "photo": "/iwVHhqoz5b62FR0SDpZ7wfsuTBI.jpg"
+        },
+        {
+          "name": "Emma Mackey",
+          "character": "Jadis / The White Witch",
+          "photo": "/l4JOGnGOAeZr3BQvAerFyvakrU0.jpg"
+        },
+        {
+          "name": "Meryl Streep",
+          "character": "Aslan (voice)",
+          "photo": "/g5cVxQBAQ3AXt3LhdBXtbbN47Uc.jpg"
+        },
+        {
+          "name": "Ciarán Hinds",
+          "character": "",
+          "photo": "/lyaKf0FipuiYWsVEQ5Nt0v5KwYx.jpg"
+        },
+        {
+          "name": "Kobna Holdbrook-Smith",
+          "character": "Frank",
+          "photo": "/6KNQjNWVdosnKAehV7FHpxQV2dD.jpg"
+        }
+      ],
+      "countries": [
+        "US",
+        "GB"
+      ],
+      "release": {
+        "date": "2027-02-10",
+        "type": "Release",
+        "where": "World"
+      },
+      "trailer": "https://www.youtube.com/watch?v=gDJ-ini7fF0",
+      "match": 42,
+      "reasons": [
+        "You like Adventure & Fantasy",
+        "Starring Carey Mulligan (Wildwood)",
+        "Themes: based on novel or book"
       ]
     },
     {
@@ -3031,86 +3113,6 @@
       "reasons": [
         "You like Adventure & Documentary",
         "Themes: survival"
-      ]
-    },
-    {
-      "tmdb_id": 1533928,
-      "imdb_id": "tt41075537",
-      "title": "Bachelor Party D'eux",
-      "original_title": "ബാച്ച്‌ലർ പാർട്ടി ഡിയക്സ്",
-      "tagline": "An Amal Neerad Joint",
-      "overview": "When urban chaos erupts around them, a band of honour-bound thieves must pull off a dangerous escape together, refusing to abandon each other despite deadly obstacles in their path.",
-      "poster": "/3xXf8Y9lRZ7MUJX3grJvriJ6kKx.jpg",
-      "backdrop": "/rJMxmbqJhPFrTTJW8idTcqCNNV7.jpg",
-      "runtime": 129,
-      "genres": [
-        "Action",
-        "Comedy",
-        "Crime"
-      ],
-      "category": "general",
-      "directors": [
-        "Amal Neerad"
-      ],
-      "writers": [
-        "Amal Neerad",
-        "Rafeeq Ahammed",
-        "Vinayak Sasikumar"
-      ],
-      "cast": [
-        {
-          "name": "Naslen",
-          "character": "Sony",
-          "photo": "/8cAVtELGh2ZL5DhyijYBiAQF2Zt.jpg"
-        },
-        {
-          "name": "Kunchacko Boban",
-          "character": "Dheeraj Prabhu",
-          "photo": "/1jdbIaYOBuhPNGS8XCqlzMsb0SV.jpg"
-        },
-        {
-          "name": "Tovino Thomas",
-          "character": "",
-          "photo": "/uySCXY4TZxEDcVJD8WOjDQmMHc9.jpg"
-        },
-        {
-          "name": "Soubin Shahir",
-          "character": "Dani",
-          "photo": "/eFMA1PFOpDtiJ5MlkSAMexvTPsl.jpg"
-        },
-        {
-          "name": "Sharafudheen",
-          "character": "Pappan",
-          "photo": "/icEHwPLrRp2sAk3gzylO8ar4Hey.jpg"
-        },
-        {
-          "name": "Sreenath Bhasi",
-          "character": "Xavi",
-          "photo": "/oPsXUtaE0ZslhaGRdtww0ZpMRe7.jpg"
-        },
-        {
-          "name": "Chandu Salimkumar",
-          "character": "Mammu",
-          "photo": "/ggUVlr0DVwJMl7qXY5RcHSzrnWv.jpg"
-        },
-        {
-          "name": "Hansika Krishna",
-          "character": "Carol",
-          "photo": "/nrnBEQ65WN2K0fwz32JY4E3h9VB.jpg"
-        }
-      ],
-      "countries": [
-        "IN"
-      ],
-      "release": {
-        "date": "2026-11-19",
-        "type": "Release",
-        "where": "World"
-      },
-      "trailer": null,
-      "match": 22,
-      "reasons": [
-        "You like Action & Comedy"
       ]
     }
   ]
