@@ -1,5 +1,5 @@
 {
-  "generated": "2026-11-17T12:12:23.380Z",
+  "generated": "2026-11-17T12:15:37.933Z",
   "horror": [
     {
       "tmdb_id": 756999,
@@ -352,6 +352,23 @@
       ]
     },
     {
+      "tmdb_id": 1190012,
+      "title": "South Park: Joining the Panderverse",
+      "year": "2023",
+      "poster": "/18IsRVfs5MkkTcqTGlUAnka6sCh.jpg",
+      "genre_ids": [
+        16,
+        35,
+        878,
+        10770
+      ],
+      "vote": 7.494,
+      "score": 1.7494,
+      "because": [
+        "Digger"
+      ]
+    },
+    {
       "tmdb_id": 76589,
       "title": "Justice League: Doom",
       "year": "2012",
@@ -520,23 +537,6 @@
       "score": 1.6941,
       "because": [
         "Spirited Away"
-      ]
-    },
-    {
-      "tmdb_id": 332718,
-      "title": "Bilal: A New Breed of Hero",
-      "year": "2016",
-      "poster": "/ncWuEzxnXqssxRfHghZuUAIezCo.jpg",
-      "genre_ids": [
-        16,
-        28,
-        12,
-        36
-      ],
-      "vote": 6.818,
-      "score": 1.6818,
-      "because": [
-        "Wildwood"
       ]
     }
   ],

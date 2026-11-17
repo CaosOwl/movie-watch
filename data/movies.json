@@ -1,6 +1,6 @@
 {
   "home_country": "CH",
-  "generated": "2026-11-17T12:12:23.377Z",
+  "generated": "2026-11-17T12:15:37.928Z",
   "movies": [
     {
       "imdb_id": "tt1457767",
@@ -3757,7 +3757,7 @@
           "vote": 6.413
         }
       ],
-      "updated": "2026-11-17T12:12:20.190Z"
+      "updated": "2026-11-17T12:15:34.005Z"
     },
     {
       "imdb_id": "tt0245429",
@@ -6754,7 +6754,7 @@
           "vote": 6.436
         }
       ],
-      "updated": "2026-11-17T12:12:20.482Z"
+      "updated": "2026-11-17T12:15:34.343Z"
     },
     {
       "imdb_id": "tt15239678",
@@ -11057,7 +11057,7 @@
           "vote": 7.9
         }
       ],
-      "updated": "2026-11-17T12:12:20.776Z"
+      "updated": "2026-11-17T12:15:34.678Z"
     },
     {
       "imdb_id": "tt2056785",
@@ -11773,7 +11773,7 @@
           "vote": 6.818
         }
       ],
-      "updated": "2026-11-17T12:12:21.074Z"
+      "updated": "2026-11-17T12:15:35.004Z"
     },
     {
       "imdb_id": "tt22084616",
@@ -14483,7 +14483,7 @@
           "vote": 6.53
         }
       ],
-      "updated": "2026-11-17T12:12:21.396Z"
+      "updated": "2026-11-17T12:15:35.355Z"
     },
     {
       "imdb_id": "tt45368240",
@@ -15238,7 +15238,7 @@
           "vote": 6.8
         }
       ],
-      "updated": "2026-11-17T12:12:21.686Z"
+      "updated": "2026-11-17T12:15:35.687Z"
     },
     {
       "imdb_id": "tt21357150",
@@ -15895,7 +15895,7 @@
           "vote": 8.085
         }
       ],
-      "updated": "2026-11-17T12:12:21.977Z"
+      "updated": "2026-11-17T12:15:36.009Z"
     },
     {
       "imdb_id": "tt31378509",
@@ -16720,7 +16720,7 @@
           "vote": 7.321
         }
       ],
-      "updated": "2026-11-17T12:12:22.267Z"
+      "updated": "2026-11-17T12:15:36.351Z"
     },
     {
       "imdb_id": "tt16360004",
@@ -17093,7 +17093,7 @@
           "vote": 7.059
         }
       ],
-      "updated": "2026-11-17T12:12:22.552Z"
+      "updated": "2026-11-17T12:15:36.677Z"
     },
     {
       "imdb_id": "tt18270542",
@@ -18015,7 +18015,7 @@
           "vote": 6.2
         }
       ],
-      "updated": "2026-11-17T12:12:22.838Z"
+      "updated": "2026-11-17T12:15:37.003Z"
     },
     {
       "imdb_id": "tt16744566",
@@ -18381,7 +18381,991 @@
           "vote": 7.216
         }
       ],
-      "updated": "2026-11-17T12:12:23.127Z"
+      "updated": "2026-11-17T12:15:37.340Z"
+    },
+    {
+      "imdb_id": "tt31450459",
+      "category": "general",
+      "added": "2026-11-17",
+      "watched": false,
+      "pending_title": "Digger",
+      "tmdb_id": 1248832,
+      "title": "Digger",
+      "original_title": "Digger",
+      "year": "2026",
+      "release_date": "2026-09-28",
+      "status": "Released",
+      "runtime": 129,
+      "tagline": "A man. A plan. A meltdown.",
+      "overview": "The most powerful man in the world embarks on a frantic mission to prove he is humanity's savior before the disaster he's unleashed destroys everything.",
+      "genres": [
+        "Comedy",
+        "Drama"
+      ],
+      "genre_ids": [
+        35,
+        18
+      ],
+      "keywords": [
+        "capitalism",
+        "greed",
+        "climate change",
+        "dark comedy",
+        "redemption",
+        "satire",
+        "billionaire",
+        "oil industry",
+        "ego",
+        "corporate power",
+        "political satire",
+        "aggressive",
+        "environmental disaster",
+        "satirical",
+        "ironic"
+      ],
+      "poster": "/1ATXKrIPJyKNwnJ6lcG088Sa6zi.jpg",
+      "backdrop": "/vC5IxhgO6cVmw9O4QgkraRzfHvh.jpg",
+      "directors": [
+        "Alejandro G. Iñárritu"
+      ],
+      "writers": [
+        "Alejandro G. Iñárritu",
+        "Sabina Berman",
+        "Jez Butterworth",
+        "Alexander Dinelaris"
+      ],
+      "cast": [
+        {
+          "name": "Tom Cruise",
+          "character": "Rockwell",
+          "photo": "/maf8PhSvDCdEwjEMbYfGpojR5RP.jpg"
+        },
+        {
+          "name": "Riz Ahmed",
+          "character": "Ganesh",
+          "photo": "/1uP9RaX7BGVx7XGTEmwObBJJzsC.jpg"
+        },
+        {
+          "name": "John Goodman",
+          "character": "President Compson",
+          "photo": "/yyYqoyKHO7hE1zpgEV2XlqYWcNV.jpg"
+        },
+        {
+          "name": "Sandra Hüller",
+          "character": "Emma",
+          "photo": "/eytKTAVD9fP8kklbW4dMilbceig.jpg"
+        },
+        {
+          "name": "Michael Stuhlbarg",
+          "character": "Vice President",
+          "photo": "/aYB3SQm3h6ZyAdlbGyiNfakjx56.jpg"
+        },
+        {
+          "name": "Jesse Plemons",
+          "character": "Kenny",
+          "photo": "/og4I51GsuwohdPgoELOHVMMqMre.jpg"
+        },
+        {
+          "name": "Robert John Burke",
+          "character": "General Fitzgerald",
+          "photo": "/uWEaY5gypb6cp1bdUYG4uCKw4sK.jpg"
+        },
+        {
+          "name": "Emma D'Arcy",
+          "character": "Lina",
+          "photo": "/9Zlmb7VmtVCxkLq5yqFFRRxCaED.jpg"
+        },
+        {
+          "name": "Burn Gorman",
+          "character": "Defense Secretary Amos",
+          "photo": "/udgACYWqCSuu6nvtrSjmyU28B0V.jpg"
+        },
+        {
+          "name": "Sophie Wilde",
+          "character": "Hannah",
+          "photo": "/fMZvMsvTv9MYSC6LTNdIUaMGjIv.jpg"
+        }
+      ],
+      "countries": [
+        "US"
+      ],
+      "languages": [
+        "English",
+        "Spanish",
+        "French",
+        "Mandarin"
+      ],
+      "trailer": "https://www.youtube.com/watch?v=job8V254NAE",
+      "ratings": {
+        "tmdb": {
+          "value": 7.487,
+          "votes": 526
+        },
+        "imdb": null,
+        "metascore": null,
+        "others": []
+      },
+      "imdb_url": "https://www.imdb.com/title/tt31450459/",
+      "releases": {
+        "byCountry": {
+          "AE": [
+            {
+              "type": "Theatrical",
+              "typeId": 3,
+              "date": "2026-10-01"
+            }
+          ],
+          "AG": [
+            {
+              "type": "Theatrical",
+              "typeId": 3,
+              "date": "2026-10-01"
+            }
+          ],
+          "AR": [
+            {
+              "type": "Theatrical",
+              "typeId": 3,
+              "date": "2026-10-01"
+            }
+          ],
+          "AT": [
+            {
+              "type": "Theatrical",
+              "typeId": 3,
+              "date": "2026-10-01"
+            }
+          ],
+          "AU": [
+            {
+              "type": "Theatrical",
+              "typeId": 3,
+              "date": "2026-10-01"
+            }
+          ],
+          "AW": [
+            {
+              "type": "Theatrical",
+              "typeId": 3,
+              "date": "2026-10-01"
+            }
+          ],
+          "AZ": [
+            {
+              "type": "Theatrical",
+              "typeId": 3,
+              "date": "2026-10-01"
+            }
+          ],
+          "BA": [
+            {
+              "type": "Theatrical",
+              "typeId": 3,
+              "date": "2026-10-01"
+            }
+          ],
+          "BE": [
+            {
+              "type": "Theatrical",
+              "typeId": 3,
+              "date": "2026-09-30"
+            }
+          ],
+          "BG": [
+            {
+              "type": "Theatrical",
+              "typeId": 3,
+              "date": "2026-10-02"
+            }
+          ],
+          "BH": [
+            {
+              "type": "Theatrical",
+              "typeId": 3,
+              "date": "2026-10-01"
+            }
+          ],
+          "BO": [
+            {
+              "type": "Theatrical",
+              "typeId": 3,
+              "date": "2026-10-01"
+            }
+          ],
+          "BR": [
+            {
+              "type": "Theatrical",
+              "typeId": 3,
+              "date": "2026-10-01"
+            }
+          ],
+          "BY": [
+            {
+              "type": "Theatrical",
+              "typeId": 3,
+              "date": "2026-10-01"
+            }
+          ],
+          "BZ": [
+            {
+              "type": "Theatrical",
+              "typeId": 3,
+              "date": "2026-10-01"
+            }
+          ],
+          "CA": [
+            {
+              "type": "Theatrical",
+              "typeId": 3,
+              "date": "2026-10-02"
+            }
+          ],
+          "CH": [
+            {
+              "type": "Theatrical (limited)",
+              "typeId": 2,
+              "date": "2026-09-30"
+            },
+            {
+              "type": "Theatrical",
+              "typeId": 3,
+              "date": "2026-10-01"
+            }
+          ],
+          "CL": [
+            {
+              "type": "Theatrical",
+              "typeId": 3,
+              "date": "2026-10-01"
+            }
+          ],
+          "CO": [
+            {
+              "type": "Theatrical",
+              "typeId": 3,
+              "date": "2026-10-01"
+            }
+          ],
+          "CR": [
+            {
+              "type": "Theatrical",
+              "typeId": 3,
+              "date": "2026-10-01"
+            }
+          ],
+          "CU": [
+            {
+              "type": "Theatrical",
+              "typeId": 3,
+              "date": "2026-10-01"
+            }
+          ],
+          "CY": [
+            {
+              "type": "Theatrical",
+              "typeId": 3,
+              "date": "2026-10-01"
+            }
+          ],
+          "CZ": [
+            {
+              "type": "Theatrical",
+              "typeId": 3,
+              "date": "2026-10-01"
+            }
+          ],
+          "DE": [
+            {
+              "type": "Theatrical",
+              "typeId": 3,
+              "date": "2026-10-01"
+            }
+          ],
+          "DK": [
+            {
+              "type": "Theatrical",
+              "typeId": 3,
+              "date": "2026-10-01"
+            }
+          ],
+          "DO": [
+            {
+              "type": "Theatrical",
+              "typeId": 3,
+              "date": "2026-10-01"
+            }
+          ],
+          "EC": [
+            {
+              "type": "Theatrical",
+              "typeId": 3,
+              "date": "2026-10-01",
+              "note": "+15"
+            }
+          ],
+          "EE": [
+            {
+              "type": "Theatrical",
+              "typeId": 3,
+              "date": "2026-10-02"
+            }
+          ],
+          "EG": [
+            {
+              "type": "Theatrical",
+              "typeId": 3,
+              "date": "2026-10-01"
+            }
+          ],
+          "ES": [
+            {
+              "type": "Theatrical",
+              "typeId": 3,
+              "date": "2026-10-02"
+            }
+          ],
+          "FI": [
+            {
+              "type": "Theatrical",
+              "typeId": 3,
+              "date": "2026-10-02"
+            }
+          ],
+          "FR": [
+            {
+              "type": "Theatrical (limited)",
+              "typeId": 2,
+              "date": "2026-09-28"
+            },
+            {
+              "type": "Theatrical",
+              "typeId": 3,
+              "date": "2026-09-30"
+            }
+          ],
+          "GB": [
+            {
+              "type": "Premiere",
+              "typeId": 1,
+              "date": "2026-09-22",
+              "note": "London, England"
+            },
+            {
+              "type": "Theatrical",
+              "typeId": 3,
+              "date": "2026-10-02"
+            }
+          ],
+          "GE": [
+            {
+              "type": "Theatrical",
+              "typeId": 3,
+              "date": "2026-10-01"
+            }
+          ],
+          "GH": [
+            {
+              "type": "Theatrical",
+              "typeId": 3,
+              "date": "2026-10-02"
+            }
+          ],
+          "GP": [
+            {
+              "type": "Theatrical",
+              "typeId": 3,
+              "date": "2026-09-30"
+            }
+          ],
+          "GR": [
+            {
+              "type": "Theatrical",
+              "typeId": 3,
+              "date": "2026-10-01"
+            }
+          ],
+          "GT": [
+            {
+              "type": "Theatrical",
+              "typeId": 3,
+              "date": "2026-10-01"
+            }
+          ],
+          "GY": [
+            {
+              "type": "Theatrical",
+              "typeId": 3,
+              "date": "2026-10-01"
+            }
+          ],
+          "HR": [
+            {
+              "type": "Theatrical",
+              "typeId": 3,
+              "date": "2026-10-01"
+            }
+          ],
+          "HU": [
+            {
+              "type": "Theatrical",
+              "typeId": 3,
+              "date": "2026-10-01"
+            }
+          ],
+          "ID": [
+            {
+              "type": "Theatrical",
+              "typeId": 3,
+              "date": "2026-10-02"
+            }
+          ],
+          "IE": [
+            {
+              "type": "Theatrical",
+              "typeId": 3,
+              "date": "2026-10-02"
+            }
+          ],
+          "IL": [
+            {
+              "type": "Theatrical",
+              "typeId": 3,
+              "date": "2026-10-01"
+            }
+          ],
+          "IN": [
+            {
+              "type": "Theatrical (limited)",
+              "typeId": 2,
+              "date": "2026-10-01",
+              "note": "IMAX"
+            },
+            {
+              "type": "Theatrical",
+              "typeId": 3,
+              "date": "2026-10-02"
+            }
+          ],
+          "IQ": [
+            {
+              "type": "Theatrical",
+              "typeId": 3,
+              "date": "2026-10-01"
+            }
+          ],
+          "IS": [
+            {
+              "type": "Theatrical",
+              "typeId": 3,
+              "date": "2026-10-01"
+            }
+          ],
+          "IT": [
+            {
+              "type": "Theatrical",
+              "typeId": 3,
+              "date": "2026-10-01"
+            }
+          ],
+          "JO": [
+            {
+              "type": "Theatrical",
+              "typeId": 3,
+              "date": "2026-10-01"
+            }
+          ],
+          "JP": [
+            {
+              "type": "Premiere",
+              "typeId": 1,
+              "date": "2026-10-06"
+            },
+            {
+              "type": "Theatrical",
+              "typeId": 3,
+              "date": "2026-10-09"
+            }
+          ],
+          "KH": [
+            {
+              "type": "Theatrical",
+              "typeId": 3,
+              "date": "2026-10-01"
+            }
+          ],
+          "KR": [
+            {
+              "type": "Theatrical",
+              "typeId": 3,
+              "date": "2026-10-03"
+            }
+          ],
+          "KW": [
+            {
+              "type": "Theatrical",
+              "typeId": 3,
+              "date": "2026-10-01"
+            }
+          ],
+          "KZ": [
+            {
+              "type": "Theatrical",
+              "typeId": 3,
+              "date": "2026-10-01"
+            }
+          ],
+          "LB": [
+            {
+              "type": "Theatrical",
+              "typeId": 3,
+              "date": "2026-10-01"
+            }
+          ],
+          "LT": [
+            {
+              "type": "Theatrical",
+              "typeId": 3,
+              "date": "2026-10-02"
+            }
+          ],
+          "LU": [
+            {
+              "type": "Theatrical",
+              "typeId": 3,
+              "date": "2026-09-30"
+            }
+          ],
+          "LV": [
+            {
+              "type": "Theatrical",
+              "typeId": 3,
+              "date": "2026-10-02"
+            }
+          ],
+          "ME": [
+            {
+              "type": "Theatrical",
+              "typeId": 3,
+              "date": "2026-10-01"
+            }
+          ],
+          "MK": [
+            {
+              "type": "Theatrical",
+              "typeId": 3,
+              "date": "2026-10-01"
+            }
+          ],
+          "MN": [
+            {
+              "type": "Theatrical",
+              "typeId": 3,
+              "date": "2026-10-02"
+            }
+          ],
+          "MT": [
+            {
+              "type": "Theatrical",
+              "typeId": 3,
+              "date": "2026-10-02"
+            }
+          ],
+          "MX": [
+            {
+              "type": "Premiere",
+              "typeId": 1,
+              "date": "2026-09-25",
+              "note": "Ciudad de México"
+            },
+            {
+              "type": "Theatrical",
+              "typeId": 3,
+              "date": "2026-10-01"
+            }
+          ],
+          "MY": [
+            {
+              "type": "Theatrical",
+              "typeId": 3,
+              "date": "2026-10-01"
+            }
+          ],
+          "NI": [
+            {
+              "type": "Theatrical",
+              "typeId": 3,
+              "date": "2026-10-01"
+            }
+          ],
+          "NL": [
+            {
+              "type": "Theatrical",
+              "typeId": 3,
+              "date": "2026-10-01"
+            }
+          ],
+          "NO": [
+            {
+              "type": "Theatrical",
+              "typeId": 3,
+              "date": "2026-10-02"
+            }
+          ],
+          "NP": [
+            {
+              "type": "Theatrical",
+              "typeId": 3,
+              "date": "2026-10-03"
+            }
+          ],
+          "NZ": [
+            {
+              "type": "Theatrical",
+              "typeId": 3,
+              "date": "2026-10-01"
+            }
+          ],
+          "OM": [
+            {
+              "type": "Theatrical",
+              "typeId": 3,
+              "date": "2026-10-01"
+            }
+          ],
+          "PA": [
+            {
+              "type": "Theatrical",
+              "typeId": 3,
+              "date": "2026-10-01"
+            }
+          ],
+          "PE": [
+            {
+              "type": "Theatrical",
+              "typeId": 3,
+              "date": "2026-10-01"
+            }
+          ],
+          "PH": [
+            {
+              "type": "Theatrical",
+              "typeId": 3,
+              "date": "2026-10-02"
+            }
+          ],
+          "PK": [
+            {
+              "type": "Theatrical",
+              "typeId": 3,
+              "date": "2026-10-02"
+            }
+          ],
+          "PL": [
+            {
+              "type": "Theatrical",
+              "typeId": 3,
+              "date": "2026-10-02"
+            }
+          ],
+          "PR": [
+            {
+              "type": "Theatrical",
+              "typeId": 3,
+              "date": "2026-10-01"
+            }
+          ],
+          "PS": [
+            {
+              "type": "Theatrical",
+              "typeId": 3,
+              "date": "2026-10-01"
+            }
+          ],
+          "PT": [
+            {
+              "type": "Theatrical",
+              "typeId": 3,
+              "date": "2026-10-01"
+            }
+          ],
+          "PY": [
+            {
+              "type": "Theatrical",
+              "typeId": 3,
+              "date": "2026-10-01"
+            }
+          ],
+          "QA": [
+            {
+              "type": "Theatrical",
+              "typeId": 3,
+              "date": "2026-10-01"
+            }
+          ],
+          "RO": [
+            {
+              "type": "Theatrical",
+              "typeId": 3,
+              "date": "2026-10-02"
+            }
+          ],
+          "RS": [
+            {
+              "type": "Theatrical",
+              "typeId": 3,
+              "date": "2026-10-01"
+            }
+          ],
+          "SA": [
+            {
+              "type": "Theatrical",
+              "typeId": 3,
+              "date": "2026-10-01"
+            }
+          ],
+          "SE": [
+            {
+              "type": "Theatrical",
+              "typeId": 3,
+              "date": "2026-10-02"
+            }
+          ],
+          "SG": [
+            {
+              "type": "Theatrical",
+              "typeId": 3,
+              "date": "2026-10-01"
+            }
+          ],
+          "SI": [
+            {
+              "type": "Theatrical",
+              "typeId": 3,
+              "date": "2026-10-01"
+            }
+          ],
+          "SK": [
+            {
+              "type": "Theatrical",
+              "typeId": 3,
+              "date": "2026-10-01"
+            }
+          ],
+          "SV": [
+            {
+              "type": "Theatrical",
+              "typeId": 3,
+              "date": "2026-10-01"
+            }
+          ],
+          "TH": [
+            {
+              "type": "Theatrical",
+              "typeId": 3,
+              "date": "2026-10-08"
+            }
+          ],
+          "TR": [
+            {
+              "type": "Theatrical",
+              "typeId": 3,
+              "date": "2026-10-02"
+            }
+          ],
+          "TT": [
+            {
+              "type": "Theatrical",
+              "typeId": 3,
+              "date": "2026-10-01"
+            }
+          ],
+          "TW": [
+            {
+              "type": "Theatrical",
+              "typeId": 3,
+              "date": "2026-10-01"
+            }
+          ],
+          "UA": [
+            {
+              "type": "Theatrical",
+              "typeId": 3,
+              "date": "2026-10-01"
+            }
+          ],
+          "US": [
+            {
+              "type": "Theatrical",
+              "typeId": 3,
+              "date": "2026-10-02"
+            }
+          ],
+          "UY": [
+            {
+              "type": "Theatrical",
+              "typeId": 3,
+              "date": "2026-10-01"
+            }
+          ],
+          "VE": [
+            {
+              "type": "Theatrical",
+              "typeId": 3,
+              "date": "2026-10-01"
+            }
+          ],
+          "ZA": [
+            {
+              "type": "Theatrical",
+              "typeId": 3,
+              "date": "2026-10-02"
+            }
+          ]
+        },
+        "earliestDigital": null
+      },
+      "availability": {},
+      "recommendations": [
+        {
+          "tmdb_id": 701387,
+          "title": "Bugonia",
+          "year": "2025",
+          "poster": "/rSdOua3wKMEaFWDcKAYWRjXQWOt.jpg",
+          "genre_ids": [
+            878,
+            53,
+            35
+          ],
+          "vote": 7.295
+        },
+        {
+          "tmdb_id": 497828,
+          "title": "Triangle of Sadness",
+          "year": "2022",
+          "poster": "/k9eLozCgCed5FGTSdHu0bBElAV8.jpg",
+          "genre_ids": [
+            35,
+            18
+          ],
+          "vote": 6.998
+        },
+        {
+          "tmdb_id": 28973,
+          "title": "A King in New York",
+          "year": "1957",
+          "poster": "/e6KtBoiXa5D3LLZtiMCkiqIDnZv.jpg",
+          "genre_ids": [
+            35,
+            18
+          ],
+          "vote": 6.73
+        },
+        {
+          "tmdb_id": 26639,
+          "title": "Britannia Hospital",
+          "year": "1982",
+          "poster": "/jbqfoco8nzpaPEHSxQIBTgGpAed.jpg",
+          "genre_ids": [
+            35,
+            878
+          ],
+          "vote": 6.22
+        },
+        {
+          "tmdb_id": 1190012,
+          "title": "South Park: Joining the Panderverse",
+          "year": "2023",
+          "poster": "/18IsRVfs5MkkTcqTGlUAnka6sCh.jpg",
+          "genre_ids": [
+            16,
+            35,
+            878,
+            10770
+          ],
+          "vote": 7.494
+        },
+        {
+          "tmdb_id": 646376,
+          "title": "The Middle Man",
+          "year": "2021",
+          "poster": "/lp0wpfAih1g4yUB78x0fVvzAJzu.jpg",
+          "genre_ids": [
+            35,
+            18
+          ],
+          "vote": 6.1
+        },
+        {
+          "tmdb_id": 41479,
+          "title": "The Joneses",
+          "year": "2010",
+          "poster": "/5YINGouZK9pmPdMPAHv158eQf3o.jpg",
+          "genre_ids": [
+            35,
+            18
+          ],
+          "vote": 6.219
+        },
+        {
+          "tmdb_id": 646380,
+          "title": "Don't Look Up",
+          "year": "2021",
+          "poster": "/th4E1yqsE8DGpAseLiUrI60Hf8V.jpg",
+          "genre_ids": [
+            35,
+            878,
+            18
+          ],
+          "vote": 7.05
+        },
+        {
+          "tmdb_id": 507244,
+          "title": "Afterburn",
+          "year": "2025",
+          "poster": "/xR0IhVBjbNU34b8erhJCgRbjXo3.jpg",
+          "genre_ids": [
+            28,
+            878,
+            35
+          ],
+          "vote": 6.189
+        },
+        {
+          "tmdb_id": 231,
+          "title": "Syriana",
+          "year": "2005",
+          "poster": "/mO3hWUTOxmLJxihvDU0YFkb0Mb5.jpg",
+          "genre_ids": [
+            18,
+            53
+          ],
+          "vote": 6.4
+        },
+        {
+          "tmdb_id": 1161617,
+          "title": "Code 3",
+          "year": "2025",
+          "poster": "/gIAYMDb5mIAeCAj76q1sRsKjkzo.jpg",
+          "genre_ids": [
+            35,
+            28,
+            18
+          ],
+          "vote": 7.095
+        },
+        {
+          "tmdb_id": 717693,
+          "title": "Playing God",
+          "year": "2021",
+          "poster": "/5eXtK7BQMAYVktjVf78s0scMTdX.jpg",
+          "genre_ids": [
+            35,
+            18
+          ],
+          "vote": 6
+        }
+      ],
+      "updated": "2026-11-17T12:15:37.678Z"
     }
   ]
 }
