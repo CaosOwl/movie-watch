@@ -1,6 +1,6 @@
 {
   "home_country": "CH",
-  "generated": "2026-11-18T13:01:44.313Z",
+  "generated": "2026-11-19T10:25:17.664Z",
   "movies": [
     {
       "imdb_id": "tt1457767",
@@ -113,7 +113,7 @@
       "ratings": {
         "tmdb": {
           "value": 7.545,
-          "votes": 13307
+          "votes": 13308
         },
         "imdb": null,
         "metascore": null,
@@ -3714,15 +3714,15 @@
           "vote": 6.386
         },
         {
-          "tmdb_id": 77883,
-          "title": "The Possession",
-          "year": "2012",
-          "poster": "/4VxIbGO5A9HRlkAPMi70zimosDY.jpg",
+          "tmdb_id": 1282980,
+          "title": "825 Forest Road",
+          "year": "2025",
+          "poster": "/mxvRZxq6ACTeJYJZKsHQAhz76yF.jpg",
           "genre_ids": [
             27,
             53
           ],
-          "vote": 6.026
+          "vote": 5.884
         },
         {
           "tmdb_id": 44698,
@@ -3736,15 +3736,15 @@
           "vote": 5.8
         },
         {
-          "tmdb_id": 1282980,
-          "title": "825 Forest Road",
-          "year": "2025",
-          "poster": "/mxvRZxq6ACTeJYJZKsHQAhz76yF.jpg",
+          "tmdb_id": 77883,
+          "title": "The Possession",
+          "year": "2012",
+          "poster": "/4VxIbGO5A9HRlkAPMi70zimosDY.jpg",
           "genre_ids": [
             27,
             53
           ],
-          "vote": 5.884
+          "vote": 6.026
         },
         {
           "tmdb_id": 709631,
@@ -3757,7 +3757,7 @@
           "vote": 6.413
         }
       ],
-      "updated": "2026-11-18T13:01:40.268Z"
+      "updated": "2026-11-19T10:25:11.498Z"
     },
     {
       "imdb_id": "tt0245429",
@@ -3868,7 +3868,7 @@
       "ratings": {
         "tmdb": {
           "value": 8.537,
-          "votes": 19236
+          "votes": 19243
         },
         "imdb": null,
         "metascore": null,
@@ -6748,7 +6748,7 @@
             10751,
             14
           ],
-          "vote": 6.57
+          "vote": 6.572
         },
         {
           "tmdb_id": 202575,
@@ -6802,7 +6802,7 @@
           "vote": 7.351
         }
       ],
-      "updated": "2026-11-18T13:01:40.595Z"
+      "updated": "2026-11-19T10:25:11.916Z"
     },
     {
       "imdb_id": "tt15239678",
@@ -6851,8 +6851,8 @@
       ],
       "writers": [
         "Denis Villeneuve",
-        "Frank Herbert",
-        "Jon Spaihts"
+        "Jon Spaihts",
+        "Frank Herbert"
       ],
       "cast": [
         {
@@ -6915,8 +6915,8 @@
       "trailer": "https://www.youtube.com/watch?v=U2Qp5pL3ovA",
       "ratings": {
         "tmdb": {
-          "value": 8.142,
-          "votes": 9000
+          "value": 8.1,
+          "votes": 9008
         },
         "imdb": null,
         "metascore": null,
@@ -10972,6 +10972,18 @@
           "vote": 7.786
         },
         {
+          "tmdb_id": 841,
+          "title": "Dune",
+          "year": "1984",
+          "poster": "/4kJmUCE7mkVJjXa7A0g2rY4IGTm.jpg",
+          "genre_ids": [
+            28,
+            878,
+            12
+          ],
+          "vote": 6.197
+        },
+        {
           "tmdb_id": 1895,
           "title": "Star Wars: Episode III - Revenge of the Sith",
           "year": "2005",
@@ -10993,19 +11005,7 @@
             878,
             12
           ],
-          "vote": 6.54
-        },
-        {
-          "tmdb_id": 299687,
-          "title": "The 5th Wave",
-          "year": "2016",
-          "poster": "/4Dd79cz5qxKNoKWg1xsfrpOchEr.jpg",
-          "genre_ids": [
-            878,
-            12,
-            28
-          ],
-          "vote": 5.9
+          "vote": 6.539
         },
         {
           "tmdb_id": 9543,
@@ -11053,19 +11053,7 @@
             12,
             878
           ],
-          "vote": 7.5
-        },
-        {
-          "tmdb_id": 80274,
-          "title": "Ender's Game",
-          "year": "2013",
-          "poster": "/pVcRI5YKnkkgaAD876jBeKb189d.jpg",
-          "genre_ids": [
-            878,
-            28,
-            12
-          ],
-          "vote": 6.593
+          "vote": 7.54
         },
         {
           "tmdb_id": 447365,
@@ -11102,9 +11090,21 @@
             12
           ],
           "vote": 5.92
+        },
+        {
+          "tmdb_id": 181812,
+          "title": "Star Wars: The Rise of Skywalker",
+          "year": "2019",
+          "poster": "/db32LaOibwEliAmSL2jjDF6oDdj.jpg",
+          "genre_ids": [
+            12,
+            28,
+            878
+          ],
+          "vote": 6.236
         }
       ],
-      "updated": "2026-11-18T13:01:40.890Z"
+      "updated": "2026-11-19T10:25:12.354Z"
     },
     {
       "imdb_id": "tt2056785",
@@ -11122,14 +11122,16 @@
       "tagline": "How far would you go for those you love?",
       "overview": "Prue and her classmate Curtis are drawn into a magical forest filled with enchanted creatures, loyal allies, and formidable adversaries as they embark on a desperate quest to rescue Prue's abducted baby brother from a murder of crows led by a mysterious woman named Alexandra.",
       "genres": [
+        "Adventure",
         "Animation",
-        "Fantasy",
-        "Adventure"
+        "Drama",
+        "Fantasy"
       ],
       "genre_ids": [
+        12,
         16,
-        14,
-        12
+        18,
+        14
       ],
       "keywords": [
         "based on novel or book",
@@ -11145,8 +11147,8 @@
         "enchanted forest",
         "incredulous",
         "intense",
-        "admiring",
-        "bewildered"
+        "bewildered",
+        "fairytale"
       ],
       "poster": "/snFM00mpNAfUzUtkdEW0uDEvXA0.jpg",
       "backdrop": "/sl5NJ1vtyhP9Vr88bB4blULsJYp.jpg",
@@ -11221,7 +11223,7 @@
       "ratings": {
         "tmdb": {
           "value": 8.5,
-          "votes": 293
+          "votes": 297
         },
         "imdb": null,
         "metascore": null,
@@ -11689,7 +11691,20 @@
             10751,
             14
           ],
-          "vote": 8.83
+          "vote": 8.831
+        },
+        {
+          "tmdb_id": 116711,
+          "title": "Epic",
+          "year": "2013",
+          "poster": "/81cSsWzjTfR3cJSqnTiHwy1eyPK.jpg",
+          "genre_ids": [
+            16,
+            12,
+            10751,
+            14
+          ],
+          "vote": 6.572
         },
         {
           "tmdb_id": 59981,
@@ -11714,45 +11729,46 @@
             12,
             14
           ],
-          "vote": 6.618
+          "vote": 6.619
         },
         {
-          "tmdb_id": 116711,
-          "title": "Epic",
-          "year": "2013",
-          "poster": "/81cSsWzjTfR3cJSqnTiHwy1eyPK.jpg",
+          "tmdb_id": 588921,
+          "title": "Ainbo: Spirit of the Amazon",
+          "year": "2021",
+          "poster": "/l8HyObVj8fPrzacAPtGWWLDhcfh.jpg",
           "genre_ids": [
-            16,
             12,
+            16,
             10751,
             14
           ],
-          "vote": 6.57
+          "vote": 7
         },
         {
-          "tmdb_id": 739547,
-          "title": "Thelma the Unicorn",
-          "year": "2024",
-          "poster": "/yutiEZ7taGDNau2jGjKIdDwQpDw.jpg",
-          "genre_ids": [
-            16,
-            14,
-            10751
-          ],
-          "vote": 6.869
-        },
-        {
-          "tmdb_id": 10315,
-          "title": "Fantastic Mr. Fox",
-          "year": "2009",
-          "poster": "/bOVr292mwn3jxr1e0NmUPM1rcjo.jpg",
+          "tmdb_id": 11837,
+          "title": "Watership Down",
+          "year": "1978",
+          "poster": "/q9ZcNxfquJbMTd6UfhAlJbmLBts.jpg",
           "genre_ids": [
             12,
             16,
-            35,
-            10751
+            18
           ],
-          "vote": 7.829
+          "vote": 7.2
+        },
+        {
+          "tmdb_id": 560057,
+          "title": "The Sea Beast",
+          "year": "2022",
+          "poster": "/9Zfv4Ap1e8eKOYnZPtYaWhLkk0d.jpg",
+          "genre_ids": [
+            16,
+            12,
+            28,
+            10751,
+            14
+          ],
+          "vote": 7.322
         },
         {
           "tmdb_id": 805051,
@@ -11768,18 +11784,17 @@
           "vote": 6.7
         },
         {
-          "tmdb_id": 400157,
-          "title": "Wonder Park",
-          "year": "2019",
-          "poster": "/8KomINZhIuJeB4oB7k7tkq8tmE.jpg",
+          "tmdb_id": 21290,
+          "title": "Strings",
+          "year": "2004",
+          "poster": "/lJJ5ePSlmx3BZ8jFPndboIA60iH.jpg",
           "genre_ids": [
-            35,
-            16,
             12,
-            10751,
+            16,
+            18,
             14
           ],
-          "vote": 6.598
+          "vote": 6.6
         },
         {
           "tmdb_id": 346687,
@@ -11790,21 +11805,19 @@
             12,
             14
           ],
-          "vote": 6.066
+          "vote": 6.058
         },
         {
-          "tmdb_id": 597316,
-          "title": "My Little Pony: A New Generation",
-          "year": "2021",
-          "poster": "/uvbj8puRj37Pc8FS4rIfVeReYFF.jpg",
+          "tmdb_id": 739547,
+          "title": "Thelma the Unicorn",
+          "year": "2024",
+          "poster": "/yutiEZ7taGDNau2jGjKIdDwQpDw.jpg",
           "genre_ids": [
             16,
-            10751,
             14,
-            35,
-            12
+            10751
           ],
-          "vote": 7.657
+          "vote": 6.869
         },
         {
           "tmdb_id": 955644,
@@ -11818,22 +11831,9 @@
             10751
           ],
           "vote": 6.7
-        },
-        {
-          "tmdb_id": 133931,
-          "title": "Zambezia",
-          "year": "2012",
-          "poster": "/7aJl440TlbyqthklVrvCnSbjKYe.jpg",
-          "genre_ids": [
-            35,
-            16,
-            12,
-            10751
-          ],
-          "vote": 6.232
         }
       ],
-      "updated": "2026-11-18T13:01:41.178Z"
+      "updated": "2026-11-19T10:25:12.767Z"
     },
     {
       "imdb_id": "tt22084616",
@@ -11949,8 +11949,8 @@
       "trailer": "https://www.youtube.com/watch?v=P3uI5sLosKU",
       "ratings": {
         "tmdb": {
-          "value": 8.5,
-          "votes": 6940
+          "value": 8.462,
+          "votes": 6961
         },
         "imdb": null,
         "metascore": null,
@@ -12078,7 +12078,7 @@
               "type": "Theatrical (limited)",
               "typeId": 2,
               "date": "2026-12-03",
-              "note": "Homem-Aranha: Um Novo Novo Dia"
+              "note": "Homem-Aranha: Um (Novo) Novo Dia"
             }
           ],
           "CA": [
@@ -12608,6 +12608,12 @@
               "type": "Theatrical",
               "typeId": 3,
               "date": "2026-07-29"
+            },
+            {
+              "type": "Digital",
+              "typeId": 4,
+              "date": "2026-11-26",
+              "note": "Netflix"
             }
           ],
           "PK": [
@@ -14554,7 +14560,7 @@
             12,
             878
           ],
-          "vote": 7.9
+          "vote": 7.945
         },
         {
           "tmdb_id": 102382,
@@ -14578,7 +14584,19 @@
             12,
             878
           ],
-          "vote": 6.194
+          "vote": 6.195
+        },
+        {
+          "tmdb_id": 580489,
+          "title": "Venom: Let There Be Carnage",
+          "year": "2021",
+          "poster": "/pzKsRuKLFmYrW5Q0q8E8G78Tcgo.jpg",
+          "genre_ids": [
+            878,
+            28,
+            12
+          ],
+          "vote": 6.7
         },
         {
           "tmdb_id": 271110,
@@ -14590,7 +14608,7 @@
             28,
             878
           ],
-          "vote": 7.455
+          "vote": 7.456
         },
         {
           "tmdb_id": 298618,
@@ -14602,7 +14620,7 @@
             878,
             12
           ],
-          "vote": 6.589
+          "vote": 6.59
         },
         {
           "tmdb_id": 447365,
@@ -14675,21 +14693,9 @@
             12
           ],
           "vote": 8.085
-        },
-        {
-          "tmdb_id": 246655,
-          "title": "X-Men: Apocalypse",
-          "year": "2016",
-          "poster": "/ikA8UhYdTGpqbatFa93nIf6noSr.jpg",
-          "genre_ids": [
-            878,
-            14,
-            28
-          ],
-          "vote": 6.53
         }
       ],
-      "updated": "2026-11-18T13:01:41.471Z"
+      "updated": "2026-11-19T10:25:13.190Z"
     },
     {
       "imdb_id": "tt45368240",
@@ -14755,12 +14761,12 @@
         {
           "name": "Amanda Seyfried",
           "character": "Self / Elizabeth Holmes",
-          "photo": "/qvfwAfUfKfX4DraCgfn0YriiLO0.jpg"
+          "photo": "/gtBUIpZ3dvLpOMIVORxE6sHSyZj.jpg"
         },
         {
           "name": "Christopher Abbott",
           "character": "Billy Evans",
-          "photo": "/qWmlTycQb3yXaGhxPb6LCyaDjqh.jpg"
+          "photo": "/bE7zzh60RXydH3p632ZZSmsTlcn.jpg"
         },
         {
           "name": "Lance Oppenheim",
@@ -14798,7 +14804,7 @@
       "ratings": {
         "tmdb": {
           "value": 8.8,
-          "votes": 128
+          "votes": 133
         },
         "imdb": null,
         "metascore": null,
@@ -15055,6 +15061,11 @@
               "typeId": 1,
               "date": "2026-11-26",
               "note": "Torino Film Festival"
+            },
+            {
+              "type": "Theatrical",
+              "typeId": 3,
+              "date": "2026-11-27"
             }
           ],
           "KR": [
@@ -15446,17 +15457,17 @@
           "vote": 8.025
         },
         {
-          "tmdb_id": 778870,
-          "title": "Strip Down, Rise Up",
-          "year": "2021",
-          "poster": "/CXQ5zOrhHGcw1imsRMwa7W8izS.jpg",
+          "tmdb_id": 1214523,
+          "title": "Frida",
+          "year": "2024",
+          "poster": "/qfPjPZF2AqB2XnXPFcHlYtlQRS3.jpg",
           "genre_ids": [
             99
           ],
-          "vote": 6.38
+          "vote": 6.8
         }
       ],
-      "updated": "2026-11-18T13:01:41.753Z"
+      "updated": "2026-11-19T10:25:13.604Z"
     },
     {
       "imdb_id": "tt21357150",
@@ -15492,16 +15503,16 @@
         "team up",
         "multiverse"
       ],
-      "poster": "/1zqWkLwC1zLBBBtIWzmkmWeMWnT.jpg",
-      "backdrop": "/rObL4of4eFA8yWaN9pRFo9aOVNi.jpg",
+      "poster": "/cWXtJhrlruF8CeYuaBGE8vdj3Q9.jpg",
+      "backdrop": "/g3gpP5YDbA85DsA0bt5mgGQIe5q.jpg",
       "directors": [
         "Joe Russo",
         "Anthony Russo"
       ],
       "writers": [
         "Stephen McFeely",
-        "Stan Lee",
         "Jack Kirby",
+        "Stan Lee",
         "Michael Waldron"
       ],
       "cast": [
@@ -15981,7 +15992,7 @@
             28,
             878
           ],
-          "vote": 7.455
+          "vote": 7.456
         },
         {
           "tmdb_id": 141052,
@@ -16089,19 +16100,19 @@
             12,
             878
           ],
-          "vote": 6.194
+          "vote": 6.195
         },
         {
           "tmdb_id": 1155089,
           "title": "Justice League: Crisis on Infinite Earths Part One",
           "year": "2024",
-          "poster": "/mcRVsjMbhFstRK9z2oGRHiIvulr.jpg",
+          "poster": "/zR6C66EDklgTPLHRSmmMt5878MR.jpg",
           "genre_ids": [
             16,
             878,
             28
           ],
-          "vote": 7.226
+          "vote": 7.2
         },
         {
           "tmdb_id": 24428,
@@ -16116,7 +16127,7 @@
           "vote": 8.085
         }
       ],
-      "updated": "2026-11-18T13:01:42.052Z"
+      "updated": "2026-11-19T10:25:14.018Z"
     },
     {
       "imdb_id": "tt31378509",
@@ -16807,7 +16818,7 @@
             878,
             12
           ],
-          "vote": 8.142
+          "vote": 8.1
         },
         {
           "tmdb_id": 188927,
@@ -16843,7 +16854,7 @@
             12,
             28
           ],
-          "vote": 6.549
+          "vote": 6.55
         },
         {
           "tmdb_id": 438631,
@@ -16872,13 +16883,13 @@
           "tmdb_id": 330459,
           "title": "Rogue One: A Star Wars Story",
           "year": "2016",
-          "poster": "/i0yw1mFbB7sNGHCs7EXZPzFkdA1.jpg",
+          "poster": "/1zoZ0e2q34FUnT7xuEnGazBFrbL.jpg",
           "genre_ids": [
             28,
             12,
             878
           ],
-          "vote": 7.511
+          "vote": 7.5
         },
         {
           "tmdb_id": 841,
@@ -16890,19 +16901,7 @@
             878,
             12
           ],
-          "vote": 6.196
-        },
-        {
-          "tmdb_id": 80274,
-          "title": "Ender's Game",
-          "year": "2013",
-          "poster": "/pVcRI5YKnkkgaAD876jBeKb189d.jpg",
-          "genre_ids": [
-            878,
-            28,
-            12
-          ],
-          "vote": 6.593
+          "vote": 6.197
         },
         {
           "tmdb_id": 339964,
@@ -16914,7 +16913,7 @@
             878,
             28
           ],
-          "vote": 6.655
+          "vote": 6.654
         },
         {
           "tmdb_id": 848326,
@@ -16939,9 +16938,21 @@
             878
           ],
           "vote": 7.321
+        },
+        {
+          "tmdb_id": 262504,
+          "title": "Allegiant",
+          "year": "2016",
+          "poster": "/faq9JlF8znUGQ5p3En1W61Fi5p0.jpg",
+          "genre_ids": [
+            12,
+            878,
+            28
+          ],
+          "vote": 6.099
         }
       ],
-      "updated": "2026-11-18T13:01:42.340Z"
+      "updated": "2026-11-19T10:25:14.434Z"
     },
     {
       "imdb_id": "tt16360004",
@@ -16995,8 +17006,8 @@
       ],
       "writers": [
         "Christopher Miller",
-        "David Callaham",
         "Phil Lord",
+        "David Callaham",
         "Samantha Suyi Lee"
       ],
       "cast": [
@@ -17231,7 +17242,7 @@
             12,
             878
           ],
-          "vote": 8.404
+          "vote": 8.403
         },
         {
           "tmdb_id": 284274,
@@ -17259,19 +17270,19 @@
             14,
             878
           ],
-          "vote": 7.494
+          "vote": 7.493
         },
         {
           "tmdb_id": 1155089,
           "title": "Justice League: Crisis on Infinite Earths Part One",
           "year": "2024",
-          "poster": "/mcRVsjMbhFstRK9z2oGRHiIvulr.jpg",
+          "poster": "/zR6C66EDklgTPLHRSmmMt5878MR.jpg",
           "genre_ids": [
             16,
             878,
             28
           ],
-          "vote": 7.224
+          "vote": 7.2
         },
         {
           "tmdb_id": 76589,
@@ -17313,7 +17324,7 @@
           "vote": 7.315
         }
       ],
-      "updated": "2026-11-18T13:01:42.620Z"
+      "updated": "2026-11-19T10:25:14.857Z"
     },
     {
       "imdb_id": "tt18270542",
@@ -18097,7 +18108,7 @@
             12,
             9648
           ],
-          "vote": 6.7
+          "vote": 6.701
         },
         {
           "tmdb_id": 7450,
@@ -18124,7 +18135,7 @@
             9648,
             878
           ],
-          "vote": 6.312
+          "vote": 6.313
         },
         {
           "tmdb_id": 354857,
@@ -18150,7 +18161,7 @@
             10751,
             878
           ],
-          "vote": 6.512
+          "vote": 6.513
         },
         {
           "tmdb_id": 16577,
@@ -18229,20 +18240,19 @@
           "vote": 6.951
         },
         {
-          "tmdb_id": 698687,
-          "title": "Transformers One",
-          "year": "2024",
-          "poster": "/iRCgqpdVE4wyLQvGYU3ZP7pAtUc.jpg",
+          "tmdb_id": 464882,
+          "title": "Batman vs. Two-Face",
+          "year": "2017",
+          "poster": "/yTbj8Kcp4WFwMRdEejnn55KIsfH.jpg",
           "genre_ids": [
             16,
-            878,
-            12,
-            10751
+            28,
+            878
           ],
-          "vote": 7.979
+          "vote": 6.3
         }
       ],
-      "updated": "2026-11-18T13:01:42.902Z"
+      "updated": "2026-11-19T10:25:15.279Z"
     },
     {
       "imdb_id": "tt16744566",
@@ -18258,7 +18268,7 @@
       "status": "Post Production",
       "runtime": 0,
       "tagline": "The countdown to chaos has begun.",
-      "overview": "The fourth installment in the Sonic the Hedgehog film franchise. Plot TBA.",
+      "overview": "When a new threat emerges from a fractured timeline, Team Sonic finds themselves facing an adventure unlike anything they've encountered before. With the Chaos Emeralds scattered across different periods in time, Sonic—alongside new friends and old—must journey through the past, present, and future to recover them before a dangerous alternate timeline becomes reality.",
       "genres": [
         "Comedy",
         "Action",
@@ -18517,17 +18527,16 @@
           "vote": 6.19
         },
         {
-          "tmdb_id": 8355,
-          "title": "Ice Age: Dawn of the Dinosaurs",
-          "year": "2009",
-          "poster": "/cXOLaxcNjNAYmEx1trZxOTKhK3Q.jpg",
+          "tmdb_id": 41154,
+          "title": "Men in Black 3",
+          "year": "2012",
+          "poster": "/90DdoEStzeObs96fsYf4GG544iN.jpg",
           "genre_ids": [
-            16,
+            28,
             35,
-            10751,
-            12
+            878
           ],
-          "vote": 6.784
+          "vote": 6.551
         },
         {
           "tmdb_id": 136793,
@@ -18543,17 +18552,43 @@
           "vote": 6
         },
         {
-          "tmdb_id": 57800,
-          "title": "Ice Age: Continental Drift",
-          "year": "2012",
-          "poster": "/dfp1BZF7FxbBUyzHvMOI9t8NWDD.jpg",
+          "tmdb_id": 8355,
+          "title": "Ice Age: Dawn of the Dinosaurs",
+          "year": "2009",
+          "poster": "/cXOLaxcNjNAYmEx1trZxOTKhK3Q.jpg",
           "genre_ids": [
             16,
             35,
-            12,
-            10751
+            10751,
+            12
           ],
-          "vote": 6.396
+          "vote": 6.784
+        },
+        {
+          "tmdb_id": 123025,
+          "title": "Batman: The Dark Knight Returns, Part 1",
+          "year": "2012",
+          "poster": "/rVr2Tdp2LcL3DheXUrVN345Myhg.jpg",
+          "genre_ids": [
+            878,
+            28,
+            16,
+            9648
+          ],
+          "vote": 7.736
+        },
+        {
+          "tmdb_id": 354857,
+          "title": "Regular Show: The Movie",
+          "year": "2015",
+          "poster": "/p44RoW4naoE1nlSGOqqT0J2pc09.jpg",
+          "genre_ids": [
+            16,
+            35,
+            878,
+            12
+          ],
+          "vote": 7.933
         },
         {
           "tmdb_id": 280217,
@@ -18570,45 +18605,22 @@
           "vote": 6.631
         },
         {
-          "tmdb_id": 258509,
-          "title": "Alvin and the Chipmunks: The Road Chip",
-          "year": "2015",
-          "poster": "/aQhFoqby8UYq4uGQXOtV7P8JLBl.jpg",
+          "tmdb_id": 556901,
+          "title": "Teen Titans Go! vs. Teen Titans",
+          "year": "2019",
+          "poster": "/GWJEdzVC9aOBSOMF9NHodYxSsE.jpg",
           "genre_ids": [
-            10751,
+            28,
+            16,
             35,
-            12,
-            16
-          ],
-          "vote": 6.032
-        },
-        {
-          "tmdb_id": 18890,
-          "title": "We're Back! A Dinosaur's Story",
-          "year": "1993",
-          "poster": "/iyFmhYlioe3PDZjSKWtcIhu5R02.jpg",
-          "genre_ids": [
-            16,
-            878,
-            10751
-          ],
-          "vote": 6.095
-        },
-        {
-          "tmdb_id": 1010823,
-          "title": "Magnum Opus",
-          "year": "2022",
-          "poster": "/8p8JsKokKbuNCn9yBirAg1oEwGd.jpg",
-          "genre_ids": [
-            16,
             10751,
-            878,
-            35
+            14,
+            878
           ],
-          "vote": 7.216
+          "vote": 7.493
         }
       ],
-      "updated": "2026-11-18T13:01:43.193Z"
+      "updated": "2026-11-19T10:25:15.710Z"
     },
     {
       "imdb_id": "tt31450459",
@@ -18726,7 +18738,7 @@
       "ratings": {
         "tmdb": {
           "value": 7.5,
-          "votes": 527
+          "votes": 533
         },
         "imdb": null,
         "metascore": null,
@@ -18735,13 +18747,6 @@
       "imdb_url": "https://www.imdb.com/title/tt31450459/",
       "releases": {
         "byCountry": {
-          "AD": [
-            {
-              "type": "Theatrical",
-              "typeId": 3,
-              "date": "2026-10-02"
-            }
-          ],
           "AE": [
             {
               "type": "Theatrical",
@@ -18754,27 +18759,6 @@
               "type": "Theatrical",
               "typeId": 3,
               "date": "2026-10-01"
-            }
-          ],
-          "AL": [
-            {
-              "type": "Theatrical",
-              "typeId": 3,
-              "date": "2026-10-01"
-            }
-          ],
-          "AM": [
-            {
-              "type": "Theatrical",
-              "typeId": 3,
-              "date": "2026-10-01"
-            }
-          ],
-          "AO": [
-            {
-              "type": "Theatrical",
-              "typeId": 3,
-              "date": "2026-10-02"
             }
           ],
           "AR": [
@@ -18819,20 +18803,6 @@
               "date": "2026-10-01"
             }
           ],
-          "BB": [
-            {
-              "type": "Theatrical",
-              "typeId": 3,
-              "date": "2026-10-01"
-            }
-          ],
-          "BD": [
-            {
-              "type": "Theatrical",
-              "typeId": 3,
-              "date": "2026-09-30"
-            }
-          ],
           "BE": [
             {
               "type": "Theatrical",
@@ -18848,13 +18818,6 @@
             }
           ],
           "BH": [
-            {
-              "type": "Theatrical",
-              "typeId": 3,
-              "date": "2026-10-01"
-            }
-          ],
-          "BN": [
             {
               "type": "Theatrical",
               "typeId": 3,
@@ -18898,24 +18861,12 @@
           ],
           "CH": [
             {
-              "type": "Theatrical (limited)",
-              "typeId": 2,
-              "date": "2026-09-30"
-            },
-            {
               "type": "Theatrical",
               "typeId": 3,
-              "date": "2026-10-01"
+              "date": "2026-09-30"
             }
           ],
           "CL": [
-            {
-              "type": "Theatrical",
-              "typeId": 3,
-              "date": "2026-10-01"
-            }
-          ],
-          "CN": [
             {
               "type": "Theatrical",
               "typeId": 3,
@@ -19014,13 +18965,6 @@
               "date": "2026-10-02"
             }
           ],
-          "FJ": [
-            {
-              "type": "Theatrical",
-              "typeId": 3,
-              "date": "2026-10-01"
-            }
-          ],
           "FR": [
             {
               "type": "Theatrical (limited)",
@@ -19082,13 +19026,6 @@
             }
           ],
           "GY": [
-            {
-              "type": "Theatrical",
-              "typeId": 3,
-              "date": "2026-10-01"
-            }
-          ],
-          "HN": [
             {
               "type": "Theatrical",
               "typeId": 3,
@@ -19183,21 +19120,7 @@
               "date": "2026-10-09"
             }
           ],
-          "KG": [
-            {
-              "type": "Theatrical",
-              "typeId": 3,
-              "date": "2026-10-01"
-            }
-          ],
           "KH": [
-            {
-              "type": "Theatrical",
-              "typeId": 3,
-              "date": "2026-10-01"
-            }
-          ],
-          "KN": [
             {
               "type": "Theatrical",
               "typeId": 3,
@@ -19232,20 +19155,6 @@
               "date": "2026-10-01"
             }
           ],
-          "LC": [
-            {
-              "type": "Theatrical",
-              "typeId": 3,
-              "date": "2026-10-01"
-            }
-          ],
-          "LK": [
-            {
-              "type": "Theatrical",
-              "typeId": 3,
-              "date": "2026-10-02"
-            }
-          ],
           "LT": [
             {
               "type": "Theatrical",
@@ -19265,20 +19174,6 @@
               "type": "Theatrical",
               "typeId": 3,
               "date": "2026-10-02"
-            }
-          ],
-          "MA": [
-            {
-              "type": "Theatrical",
-              "typeId": 3,
-              "date": "2026-09-30"
-            }
-          ],
-          "MD": [
-            {
-              "type": "Theatrical",
-              "typeId": 3,
-              "date": "2026-10-01"
             }
           ],
           "ME": [
@@ -19309,13 +19204,6 @@
               "date": "2026-10-02"
             }
           ],
-          "MU": [
-            {
-              "type": "Theatrical",
-              "typeId": 3,
-              "date": "2026-09-30"
-            }
-          ],
           "MX": [
             {
               "type": "Premiere",
@@ -19334,13 +19222,6 @@
               "type": "Theatrical",
               "typeId": 3,
               "date": "2026-10-01"
-            }
-          ],
-          "NG": [
-            {
-              "type": "Theatrical",
-              "typeId": 3,
-              "date": "2026-10-02"
             }
           ],
           "NI": [
@@ -19504,13 +19385,6 @@
               "date": "2026-10-01"
             }
           ],
-          "SN": [
-            {
-              "type": "Theatrical",
-              "typeId": 3,
-              "date": "2026-10-02"
-            }
-          ],
           "SV": [
             {
               "type": "Theatrical",
@@ -19523,20 +19397,6 @@
               "type": "Theatrical",
               "typeId": 3,
               "date": "2026-10-08"
-            }
-          ],
-          "TJ": [
-            {
-              "type": "Theatrical",
-              "typeId": 3,
-              "date": "2026-10-01"
-            }
-          ],
-          "TN": [
-            {
-              "type": "Theatrical",
-              "typeId": 3,
-              "date": "2026-09-30"
             }
           ],
           "TR": [
@@ -19567,13 +19427,6 @@
               "date": "2026-10-01"
             }
           ],
-          "UG": [
-            {
-              "type": "Theatrical",
-              "typeId": 3,
-              "date": "2026-10-02"
-            }
-          ],
           "US": [
             {
               "type": "Theatrical",
@@ -19588,28 +19441,7 @@
               "date": "2026-10-01"
             }
           ],
-          "UZ": [
-            {
-              "type": "Theatrical",
-              "typeId": 3,
-              "date": "2026-10-01"
-            }
-          ],
           "VE": [
-            {
-              "type": "Theatrical",
-              "typeId": 3,
-              "date": "2026-10-01"
-            }
-          ],
-          "VN": [
-            {
-              "type": "Theatrical",
-              "typeId": 3,
-              "date": "2026-10-16"
-            }
-          ],
-          "XK": [
             {
               "type": "Theatrical",
               "typeId": 3,
@@ -19621,13 +19453,6 @@
               "type": "Theatrical",
               "typeId": 3,
               "date": "2026-10-02"
-            }
-          ],
-          "ZM": [
-            {
-              "type": "Theatrical",
-              "typeId": 3,
-              "date": "2026-10-01"
             }
           ]
         },
@@ -19645,18 +19470,7 @@
             53,
             35
           ],
-          "vote": 7.3
-        },
-        {
-          "tmdb_id": 646376,
-          "title": "The Middle Man",
-          "year": "2021",
-          "poster": "/lp0wpfAih1g4yUB78x0fVvzAJzu.jpg",
-          "genre_ids": [
-            35,
-            18
-          ],
-          "vote": 6.1
+          "vote": 7.292
         },
         {
           "tmdb_id": 497828,
@@ -19670,6 +19484,17 @@
           "vote": 6.999
         },
         {
+          "tmdb_id": 646376,
+          "title": "The Middle Man",
+          "year": "2021",
+          "poster": "/lp0wpfAih1g4yUB78x0fVvzAJzu.jpg",
+          "genre_ids": [
+            35,
+            18
+          ],
+          "vote": 6.1
+        },
+        {
           "tmdb_id": 26639,
           "title": "Britannia Hospital",
           "year": "1982",
@@ -19679,17 +19504,6 @@
             878
           ],
           "vote": 6.217
-        },
-        {
-          "tmdb_id": 28973,
-          "title": "A King in New York",
-          "year": "1957",
-          "poster": "/e6KtBoiXa5D3LLZtiMCkiqIDnZv.jpg",
-          "genre_ids": [
-            35,
-            18
-          ],
-          "vote": 6.731
         },
         {
           "tmdb_id": 1190012,
@@ -19737,7 +19551,7 @@
             878,
             35
           ],
-          "vote": 6.189
+          "vote": 6.2
         },
         {
           "tmdb_id": 231,
@@ -19760,7 +19574,19 @@
             28,
             18
           ],
-          "vote": 7.066
+          "vote": 7.052
+        },
+        {
+          "tmdb_id": 13282,
+          "title": "Death Race 2000",
+          "year": "1975",
+          "poster": "/kwM8kkNGtv62gfPWVhD6qFxjDzg.jpg",
+          "genre_ids": [
+            28,
+            878,
+            35
+          ],
+          "vote": 6.1
         },
         {
           "tmdb_id": 717693,
@@ -19774,7 +19600,7 @@
           "vote": 6
         }
       ],
-      "updated": "2026-11-18T13:01:43.479Z"
+      "updated": "2026-11-19T10:25:16.134Z"
     },
     {
       "imdb_id": "tt32820897",
@@ -19884,8 +19710,8 @@
       "trailer": "https://www.youtube.com/watch?v=EpAlHmuA2YM",
       "ratings": {
         "tmdb": {
-          "value": 8.798,
-          "votes": 2400
+          "value": 8.8,
+          "votes": 2401
         },
         "imdb": null,
         "metascore": null,
@@ -23084,6 +22910,19 @@
           "vote": 7.095
         },
         {
+          "tmdb_id": 968870,
+          "title": "Pretty Guardian Sailor Moon Cosmos the Movie Part 2",
+          "year": "2023",
+          "poster": "/sHmtdPMhnVtZWHro6f8CuDQuusz.jpg",
+          "genre_ids": [
+            16,
+            12,
+            14,
+            10749
+          ],
+          "vote": 8
+        },
+        {
           "tmdb_id": 811948,
           "title": "Demon Slayer: Kimetsu no Yaiba - The Hashira Meeting Arc",
           "year": "2021",
@@ -23142,7 +22981,7 @@
             28,
             14
           ],
-          "vote": 6.141
+          "vote": 6.14
         },
         {
           "tmdb_id": 567006,
@@ -23158,33 +22997,19 @@
           "vote": 7.19
         },
         {
-          "tmdb_id": 22537,
-          "title": "Inuyasha the Movie 2: The Castle Beyond the Looking Glass",
-          "year": "2002",
-          "poster": "/iIHC94gkBt0Uha8TUTgHcAt6IoD.jpg",
+          "tmdb_id": 34297,
+          "title": "Inuyasha the Movie 4: Fire on the Mystic Island",
+          "year": "2004",
+          "poster": "/jOPgzW6oDuuG8OXosY04JUphhDY.jpg",
           "genre_ids": [
-            28,
+            14,
             16,
-            12,
-            14
+            12
           ],
-          "vote": 7.683
-        },
-        {
-          "tmdb_id": 42360,
-          "title": "Inuyasha the Movie: Affections Touching Across Time",
-          "year": "2001",
-          "poster": "/gl8TvgVL6B2PR71cnrG7PbAUPls.jpg",
-          "genre_ids": [
-            28,
-            16,
-            12,
-            14
-          ],
-          "vote": 7.536
+          "vote": 7.6
         }
       ],
-      "updated": "2026-11-18T13:01:43.774Z"
+      "updated": "2026-11-19T10:25:16.567Z"
     },
     {
       "imdb_id": "tt34384661",
@@ -23296,8 +23121,8 @@
       "trailer": "https://www.youtube.com/watch?v=Pu0pH5BuCPM",
       "ratings": {
         "tmdb": {
-          "value": 7.664,
-          "votes": 253
+          "value": 7.679,
+          "votes": 262
         },
         "imdb": null,
         "metascore": null,
@@ -23720,6 +23545,13 @@
               "date": "2026-11-06"
             }
           ],
+          "NP": [
+            {
+              "type": "Theatrical",
+              "typeId": 3,
+              "date": "2026-11-27"
+            }
+          ],
           "OM": [
             {
               "type": "Theatrical",
@@ -23907,7 +23739,7 @@
             27,
             28
           ],
-          "vote": 7.626
+          "vote": 7.6
         },
         {
           "tmdb_id": 18289,
@@ -23919,7 +23751,7 @@
             27,
             878
           ],
-          "vote": 7.321
+          "vote": 7.3
         },
         {
           "tmdb_id": 3107,
@@ -23930,7 +23762,7 @@
             878,
             28
           ],
-          "vote": 6.868
+          "vote": 6.865
         },
         {
           "tmdb_id": 315011,
@@ -23942,7 +23774,7 @@
             878,
             27
           ],
-          "vote": 7.257
+          "vote": 7.3
         },
         {
           "tmdb_id": 10643,
@@ -23954,7 +23786,7 @@
             12,
             878
           ],
-          "vote": 6.861
+          "vote": 6.858
         },
         {
           "tmdb_id": 536115,
@@ -23982,18 +23814,6 @@
           "vote": 7.022
         },
         {
-          "tmdb_id": 39464,
-          "title": "Godzilla vs. Hedorah",
-          "year": "1971",
-          "poster": "/sy9k4VKud71zhY4a7kaq9flptw.jpg",
-          "genre_ids": [
-            878,
-            28,
-            27
-          ],
-          "vote": 6.807
-        },
-        {
           "tmdb_id": 12636,
           "title": "Godzilla Against MechaGodzilla",
           "year": "2002",
@@ -24003,19 +23823,7 @@
             878,
             53
           ],
-          "vote": 7.45
-        },
-        {
-          "tmdb_id": 19336,
-          "title": "Godzilla vs. Gigan",
-          "year": "1972",
-          "poster": "/pNQro37cFrg4Lfz5DUbRFZlMG3y.jpg",
-          "genre_ids": [
-            28,
-            12,
-            878
-          ],
-          "vote": 6.347
+          "vote": 7.449
         },
         {
           "tmdb_id": 340382,
@@ -24030,6 +23838,18 @@
           "vote": 6.347
         },
         {
+          "tmdb_id": 19336,
+          "title": "Godzilla vs. Gigan",
+          "year": "1972",
+          "poster": "/pNQro37cFrg4Lfz5DUbRFZlMG3y.jpg",
+          "genre_ids": [
+            28,
+            12,
+            878
+          ],
+          "vote": 6.338
+        },
+        {
           "tmdb_id": 60159,
           "title": "Gamera 3: Revenge of Iris",
           "year": "1999",
@@ -24041,9 +23861,2414 @@
             28
           ],
           "vote": 7.4
+        },
+        {
+          "tmdb_id": 3146,
+          "title": "The War of the Gargantuas",
+          "year": "1966",
+          "poster": "/q8EH0y601mhYJmchoTRoo92Q0FS.jpg",
+          "genre_ids": [
+            28,
+            27,
+            878
+          ],
+          "vote": 6.3
         }
       ],
-      "updated": "2026-11-18T13:01:44.062Z"
+      "updated": "2026-11-19T10:25:16.987Z"
+    },
+    {
+      "imdb_id": "tt35538033",
+      "category": "horror",
+      "added": "2026-11-19",
+      "watched": false,
+      "pending_title": "Resident Evil",
+      "tmdb_id": 1423191,
+      "title": "Resident Evil",
+      "original_title": "Resident Evil",
+      "year": "2026",
+      "release_date": "2026-09-16",
+      "status": "Released",
+      "runtime": 94,
+      "tagline": "A new era of evil.",
+      "overview": "Medical courier Bryan unwittingly finds himself fighting for survival as one fateful, horrifying night collapses around him in chaos.",
+      "genres": [
+        "Horror",
+        "Science Fiction",
+        "Adventure"
+      ],
+      "genre_ids": [
+        27,
+        878,
+        12
+      ],
+      "keywords": [
+        "isolation",
+        "infection",
+        "outbreak",
+        "survival",
+        "decapitation",
+        "snow",
+        "zombie",
+        "based on video game",
+        "survival horror",
+        "reboot",
+        "zombie apocalypse",
+        "courier service",
+        "virus",
+        "body horror",
+        "approving"
+      ],
+      "poster": "/gAgWJhUSQWCgtKR8170nMkYlBda.jpg",
+      "backdrop": "/3icyRAqgakNcQn6aDVz9libFmBA.jpg",
+      "directors": [
+        "Zach Cregger"
+      ],
+      "writers": [
+        "Shay Hatten",
+        "Zach Cregger"
+      ],
+      "cast": [
+        {
+          "name": "Austin Abrams",
+          "character": "Bryan",
+          "photo": "/nvbJNwyhIICUFcS4lhxj9mGvL5z.jpg"
+        },
+        {
+          "name": "Paul Walter Hauser",
+          "character": "Paul",
+          "photo": "/hXjjbYg1Ah8mFf5ZcaakyXzDKMx.jpg"
+        },
+        {
+          "name": "Kali Reis",
+          "character": "Maxine",
+          "photo": "/ruLDXHnKA4aHEQCcFGDAJ7bLTdt.jpg"
+        },
+        {
+          "name": "Zach Cherry",
+          "character": "Carl",
+          "photo": "/fT3Wv8ef0Vn0daHWAObCp2Bd4Y.jpg"
+        },
+        {
+          "name": "Johnno Wilson",
+          "character": "Officer Wilson",
+          "photo": "/eZtBoBE0F7Qb9ZyNpacMOQtmWnM.jpg"
+        },
+        {
+          "name": "Shaun W. Loeser",
+          "character": "Puker",
+          "photo": "/pMV7kzy7OHk4X93uRGbrdvuFgQB.jpg"
+        },
+        {
+          "name": "Zach Cregger",
+          "character": "Intercom (voice)",
+          "photo": "/bpFGFfWYIrZVK7WjwkVLwIoMKEb.jpg"
+        },
+        {
+          "name": "Emily Piggford",
+          "character": "Dr. Maria Stokes",
+          "photo": "/ruijvaNNXzGXqGphQXsoHts1Ovc.jpg"
+        },
+        {
+          "name": "Will Merrick",
+          "character": "Dave",
+          "photo": "/zqyH01TJ9WW6TaAULCG2ChSbNwI.jpg"
+        },
+        {
+          "name": "Zoé Bellas",
+          "character": "Birdie",
+          "photo": "/3nw4EhStA4IcJQxz4Yevm25u5ov.jpg"
+        }
+      ],
+      "countries": [
+        "US",
+        "DE",
+        "FR"
+      ],
+      "languages": [
+        "English"
+      ],
+      "trailer": "https://www.youtube.com/watch?v=mNd1gb19A-c",
+      "ratings": {
+        "tmdb": {
+          "value": 7.534,
+          "votes": 2370
+        },
+        "imdb": null,
+        "metascore": null,
+        "others": []
+      },
+      "imdb_url": "https://www.imdb.com/title/tt35538033/",
+      "releases": {
+        "byCountry": {
+          "AE": [
+            {
+              "type": "Theatrical",
+              "typeId": 3,
+              "date": "2026-09-17",
+              "note": "15+"
+            }
+          ],
+          "AG": [
+            {
+              "type": "Theatrical",
+              "typeId": 3,
+              "date": "2026-09-17"
+            }
+          ],
+          "AL": [
+            {
+              "type": "Theatrical",
+              "typeId": 3,
+              "date": "2026-09-17"
+            }
+          ],
+          "AM": [
+            {
+              "type": "Theatrical",
+              "typeId": 3,
+              "date": "2026-09-24"
+            }
+          ],
+          "AR": [
+            {
+              "type": "Theatrical",
+              "typeId": 3,
+              "date": "2026-09-17"
+            }
+          ],
+          "AT": [
+            {
+              "type": "Theatrical",
+              "typeId": 3,
+              "date": "2026-09-17"
+            }
+          ],
+          "AU": [
+            {
+              "type": "Theatrical",
+              "typeId": 3,
+              "date": "2026-09-17"
+            }
+          ],
+          "AW": [
+            {
+              "type": "Theatrical",
+              "typeId": 3,
+              "date": "2026-09-17"
+            }
+          ],
+          "AZ": [
+            {
+              "type": "Theatrical",
+              "typeId": 3,
+              "date": "2026-09-24"
+            }
+          ],
+          "BA": [
+            {
+              "type": "Theatrical",
+              "typeId": 3,
+              "date": "2026-09-17"
+            }
+          ],
+          "BB": [
+            {
+              "type": "Theatrical",
+              "typeId": 3,
+              "date": "2026-09-17"
+            }
+          ],
+          "BE": [
+            {
+              "type": "Theatrical",
+              "typeId": 3,
+              "date": "2026-09-16"
+            }
+          ],
+          "BG": [
+            {
+              "type": "Theatrical",
+              "typeId": 3,
+              "date": "2026-09-18"
+            }
+          ],
+          "BH": [
+            {
+              "type": "Theatrical",
+              "typeId": 3,
+              "date": "2026-09-17",
+              "note": "15+"
+            }
+          ],
+          "BN": [
+            {
+              "type": "Theatrical",
+              "typeId": 3,
+              "date": "2026-09-17"
+            }
+          ],
+          "BO": [
+            {
+              "type": "Theatrical",
+              "typeId": 3,
+              "date": "2026-09-17"
+            }
+          ],
+          "BR": [
+            {
+              "type": "Theatrical",
+              "typeId": 3,
+              "date": "2026-09-17"
+            }
+          ],
+          "CA": [
+            {
+              "type": "Theatrical",
+              "typeId": 3,
+              "date": "2026-09-18"
+            },
+            {
+              "type": "Digital",
+              "typeId": 4,
+              "date": "2026-11-03"
+            }
+          ],
+          "CH": [
+            {
+              "type": "Theatrical",
+              "typeId": 3,
+              "date": "2026-09-17"
+            }
+          ],
+          "CL": [
+            {
+              "type": "Theatrical",
+              "typeId": 3,
+              "date": "2026-09-17"
+            }
+          ],
+          "CN": [
+            {
+              "type": "Theatrical",
+              "typeId": 3,
+              "date": "2026-10-05"
+            }
+          ],
+          "CO": [
+            {
+              "type": "Theatrical",
+              "typeId": 3,
+              "date": "2026-09-17",
+              "note": "S15"
+            }
+          ],
+          "CR": [
+            {
+              "type": "Theatrical",
+              "typeId": 3,
+              "date": "2026-09-17"
+            }
+          ],
+          "CZ": [
+            {
+              "type": "Theatrical",
+              "typeId": 3,
+              "date": "2026-09-17"
+            }
+          ],
+          "DE": [
+            {
+              "type": "Theatrical",
+              "typeId": 3,
+              "date": "2026-09-17"
+            },
+            {
+              "type": "Digital",
+              "typeId": 4,
+              "date": "2026-11-26"
+            },
+            {
+              "type": "Physical",
+              "typeId": 5,
+              "date": "2027-02-28",
+              "note": "4K Ultra HD / Blu-ray / DVD"
+            }
+          ],
+          "DK": [
+            {
+              "type": "Theatrical",
+              "typeId": 3,
+              "date": "2026-09-17"
+            }
+          ],
+          "DO": [
+            {
+              "type": "Theatrical",
+              "typeId": 3,
+              "date": "2026-09-17"
+            }
+          ],
+          "EC": [
+            {
+              "type": "Theatrical",
+              "typeId": 3,
+              "date": "2026-09-17",
+              "note": "+15"
+            }
+          ],
+          "EE": [
+            {
+              "type": "Theatrical",
+              "typeId": 3,
+              "date": "2026-09-18"
+            }
+          ],
+          "EG": [
+            {
+              "type": "Theatrical",
+              "typeId": 3,
+              "date": "2026-09-17"
+            }
+          ],
+          "ES": [
+            {
+              "type": "Theatrical",
+              "typeId": 3,
+              "date": "2026-09-17"
+            }
+          ],
+          "FI": [
+            {
+              "type": "Theatrical",
+              "typeId": 3,
+              "date": "2026-09-18"
+            }
+          ],
+          "FR": [
+            {
+              "type": "Theatrical",
+              "typeId": 3,
+              "date": "2026-09-16"
+            }
+          ],
+          "GB": [
+            {
+              "type": "Theatrical",
+              "typeId": 3,
+              "date": "2026-09-18"
+            },
+            {
+              "type": "Physical",
+              "typeId": 5,
+              "date": "2026-12-28",
+              "note": "4K Ultra HD / Blu-ray / DVD"
+            }
+          ],
+          "GE": [
+            {
+              "type": "Theatrical",
+              "typeId": 3,
+              "date": "2026-09-24"
+            }
+          ],
+          "GH": [
+            {
+              "type": "Theatrical",
+              "typeId": 3,
+              "date": "2026-09-18"
+            }
+          ],
+          "GP": [
+            {
+              "type": "Theatrical",
+              "typeId": 3,
+              "date": "2026-09-18"
+            }
+          ],
+          "GR": [
+            {
+              "type": "Theatrical",
+              "typeId": 3,
+              "date": "2026-09-17"
+            }
+          ],
+          "GT": [
+            {
+              "type": "Theatrical",
+              "typeId": 3,
+              "date": "2026-09-17",
+              "note": "B15"
+            }
+          ],
+          "GY": [
+            {
+              "type": "Theatrical",
+              "typeId": 3,
+              "date": "2026-09-17"
+            }
+          ],
+          "HK": [
+            {
+              "type": "Theatrical",
+              "typeId": 3,
+              "date": "2026-09-17"
+            }
+          ],
+          "HN": [
+            {
+              "type": "Theatrical",
+              "typeId": 3,
+              "date": "2026-09-17"
+            }
+          ],
+          "HR": [
+            {
+              "type": "Theatrical",
+              "typeId": 3,
+              "date": "2026-09-17"
+            }
+          ],
+          "HU": [
+            {
+              "type": "Theatrical",
+              "typeId": 3,
+              "date": "2026-09-17"
+            }
+          ],
+          "ID": [
+            {
+              "type": "Theatrical",
+              "typeId": 3,
+              "date": "2026-09-16"
+            }
+          ],
+          "IE": [
+            {
+              "type": "Theatrical",
+              "typeId": 3,
+              "date": "2026-09-18"
+            }
+          ],
+          "IL": [
+            {
+              "type": "Theatrical",
+              "typeId": 3,
+              "date": "2026-09-17"
+            },
+            {
+              "type": "Digital",
+              "typeId": 4,
+              "date": "2026-12-03",
+              "note": "iTunes / Apple TV"
+            }
+          ],
+          "IN": [
+            {
+              "type": "Theatrical",
+              "typeId": 3,
+              "date": "2026-09-17"
+            }
+          ],
+          "IQ": [
+            {
+              "type": "Theatrical",
+              "typeId": 3,
+              "date": "2026-09-16"
+            }
+          ],
+          "IT": [
+            {
+              "type": "Theatrical",
+              "typeId": 3,
+              "date": "2026-09-17"
+            }
+          ],
+          "JM": [
+            {
+              "type": "Theatrical",
+              "typeId": 3,
+              "date": "2026-09-18"
+            }
+          ],
+          "JP": [
+            {
+              "type": "Theatrical",
+              "typeId": 3,
+              "date": "2026-10-09"
+            }
+          ],
+          "KE": [
+            {
+              "type": "Theatrical",
+              "typeId": 3,
+              "date": "2026-09-16"
+            }
+          ],
+          "KG": [
+            {
+              "type": "Theatrical",
+              "typeId": 3,
+              "date": "2026-09-24"
+            }
+          ],
+          "KH": [
+            {
+              "type": "Theatrical",
+              "typeId": 3,
+              "date": "2026-09-17"
+            }
+          ],
+          "KN": [
+            {
+              "type": "Theatrical",
+              "typeId": 3,
+              "date": "2026-09-17"
+            }
+          ],
+          "KR": [
+            {
+              "type": "Theatrical",
+              "typeId": 3,
+              "date": "2026-09-17"
+            }
+          ],
+          "KW": [
+            {
+              "type": "Theatrical",
+              "typeId": 3,
+              "date": "2026-09-17"
+            }
+          ],
+          "KZ": [
+            {
+              "type": "Theatrical",
+              "typeId": 3,
+              "date": "2026-09-24"
+            }
+          ],
+          "LA": [
+            {
+              "type": "Theatrical",
+              "typeId": 3,
+              "date": "2026-09-23"
+            }
+          ],
+          "LC": [
+            {
+              "type": "Theatrical",
+              "typeId": 3,
+              "date": "2026-09-17"
+            }
+          ],
+          "LT": [
+            {
+              "type": "Theatrical",
+              "typeId": 3,
+              "date": "2026-09-18"
+            }
+          ],
+          "LU": [
+            {
+              "type": "Theatrical",
+              "typeId": 3,
+              "date": "2026-09-16"
+            }
+          ],
+          "LV": [
+            {
+              "type": "Theatrical",
+              "typeId": 3,
+              "date": "2026-09-18"
+            }
+          ],
+          "MA": [
+            {
+              "type": "Theatrical",
+              "typeId": 3,
+              "date": "2026-09-16"
+            }
+          ],
+          "ME": [
+            {
+              "type": "Theatrical",
+              "typeId": 3,
+              "date": "2026-09-17"
+            }
+          ],
+          "MM": [
+            {
+              "type": "Theatrical",
+              "typeId": 3,
+              "date": "2026-09-18"
+            }
+          ],
+          "MN": [
+            {
+              "type": "Theatrical",
+              "typeId": 3,
+              "date": "2026-09-18"
+            }
+          ],
+          "MO": [
+            {
+              "type": "Theatrical",
+              "typeId": 3,
+              "date": "2026-09-17"
+            }
+          ],
+          "MT": [
+            {
+              "type": "Theatrical",
+              "typeId": 3,
+              "date": "2026-09-18"
+            }
+          ],
+          "MX": [
+            {
+              "type": "Theatrical",
+              "typeId": 3,
+              "date": "2026-09-16"
+            }
+          ],
+          "MY": [
+            {
+              "type": "Theatrical",
+              "typeId": 3,
+              "date": "2026-09-16"
+            }
+          ],
+          "NI": [
+            {
+              "type": "Theatrical",
+              "typeId": 3,
+              "date": "2026-09-17"
+            }
+          ],
+          "NL": [
+            {
+              "type": "Theatrical",
+              "typeId": 3,
+              "date": "2026-09-17"
+            }
+          ],
+          "NO": [
+            {
+              "type": "Theatrical",
+              "typeId": 3,
+              "date": "2026-09-16"
+            }
+          ],
+          "NP": [
+            {
+              "type": "Theatrical",
+              "typeId": 3,
+              "date": "2026-10-02"
+            }
+          ],
+          "NZ": [
+            {
+              "type": "Theatrical",
+              "typeId": 3,
+              "date": "2026-09-17"
+            }
+          ],
+          "OM": [
+            {
+              "type": "Theatrical",
+              "typeId": 3,
+              "date": "2026-09-17",
+              "note": "12+"
+            }
+          ],
+          "PA": [
+            {
+              "type": "Theatrical",
+              "typeId": 3,
+              "date": "2026-09-17"
+            }
+          ],
+          "PE": [
+            {
+              "type": "Theatrical",
+              "typeId": 3,
+              "date": "2026-09-17",
+              "note": "S14"
+            }
+          ],
+          "PH": [
+            {
+              "type": "Theatrical",
+              "typeId": 3,
+              "date": "2026-09-16"
+            }
+          ],
+          "PL": [
+            {
+              "type": "Theatrical",
+              "typeId": 3,
+              "date": "2026-09-18"
+            },
+            {
+              "type": "Digital",
+              "typeId": 4,
+              "date": "2026-11-03",
+              "note": "VOD"
+            }
+          ],
+          "PR": [
+            {
+              "type": "Theatrical",
+              "typeId": 3,
+              "date": "2026-09-17"
+            }
+          ],
+          "PT": [
+            {
+              "type": "Theatrical",
+              "typeId": 3,
+              "date": "2026-09-17"
+            }
+          ],
+          "PY": [
+            {
+              "type": "Theatrical",
+              "typeId": 3,
+              "date": "2026-09-17",
+              "note": "S13"
+            }
+          ],
+          "QA": [
+            {
+              "type": "Theatrical",
+              "typeId": 3,
+              "date": "2026-09-19",
+              "note": "18+"
+            }
+          ],
+          "RO": [
+            {
+              "type": "Theatrical",
+              "typeId": 3,
+              "date": "2026-09-18"
+            },
+            {
+              "type": "Digital",
+              "typeId": 4,
+              "date": "2026-11-03",
+              "note": "TVOD"
+            }
+          ],
+          "RS": [
+            {
+              "type": "Theatrical (limited)",
+              "typeId": 2,
+              "date": "2026-09-16",
+              "note": "IMAX (Cineplexx Galerija)"
+            },
+            {
+              "type": "Theatrical",
+              "typeId": 3,
+              "date": "2026-09-17"
+            }
+          ],
+          "SA": [
+            {
+              "type": "Theatrical",
+              "typeId": 3,
+              "date": "2026-09-17",
+              "note": "R18"
+            }
+          ],
+          "SE": [
+            {
+              "type": "Theatrical",
+              "typeId": 3,
+              "date": "2026-09-18"
+            }
+          ],
+          "SG": [
+            {
+              "type": "Theatrical",
+              "typeId": 3,
+              "date": "2026-09-17"
+            }
+          ],
+          "SI": [
+            {
+              "type": "Theatrical",
+              "typeId": 3,
+              "date": "2026-09-17"
+            }
+          ],
+          "SK": [
+            {
+              "type": "Theatrical",
+              "typeId": 3,
+              "date": "2026-09-17"
+            }
+          ],
+          "SN": [
+            {
+              "type": "Theatrical",
+              "typeId": 3,
+              "date": "2026-09-18"
+            }
+          ],
+          "TH": [
+            {
+              "type": "Theatrical",
+              "typeId": 3,
+              "date": "2026-09-24"
+            }
+          ],
+          "TJ": [
+            {
+              "type": "Theatrical",
+              "typeId": 3,
+              "date": "2026-09-24"
+            }
+          ],
+          "TN": [
+            {
+              "type": "Theatrical",
+              "typeId": 3,
+              "date": "2026-09-16"
+            }
+          ],
+          "TR": [
+            {
+              "type": "Theatrical",
+              "typeId": 3,
+              "date": "2026-09-18"
+            }
+          ],
+          "TT": [
+            {
+              "type": "Theatrical",
+              "typeId": 3,
+              "date": "2026-09-17"
+            }
+          ],
+          "TW": [
+            {
+              "type": "Theatrical",
+              "typeId": 3,
+              "date": "2026-09-17"
+            }
+          ],
+          "UA": [
+            {
+              "type": "Theatrical",
+              "typeId": 3,
+              "date": "2026-09-17"
+            }
+          ],
+          "UG": [
+            {
+              "type": "Theatrical",
+              "typeId": 3,
+              "date": "2026-09-18"
+            }
+          ],
+          "US": [
+            {
+              "type": "Premiere",
+              "typeId": 1,
+              "date": "2026-09-17",
+              "note": "Fantastic Fest"
+            },
+            {
+              "type": "Theatrical",
+              "typeId": 3,
+              "date": "2026-09-18"
+            },
+            {
+              "type": "Digital",
+              "typeId": 4,
+              "date": "2026-11-03"
+            },
+            {
+              "type": "Physical",
+              "typeId": 5,
+              "date": "2026-12-29",
+              "note": "4K Ultra HD / Blu-ray / DVD"
+            }
+          ],
+          "UY": [
+            {
+              "type": "Theatrical",
+              "typeId": 3,
+              "date": "2026-09-17"
+            }
+          ],
+          "VE": [
+            {
+              "type": "Theatrical",
+              "typeId": 3,
+              "date": "2026-09-17"
+            }
+          ],
+          "VN": [
+            {
+              "type": "Theatrical",
+              "typeId": 3,
+              "date": "2026-09-18",
+              "note": "T18"
+            }
+          ],
+          "XK": [
+            {
+              "type": "Theatrical",
+              "typeId": 3,
+              "date": "2026-09-17"
+            }
+          ],
+          "ZA": [
+            {
+              "type": "Theatrical",
+              "typeId": 3,
+              "date": "2026-09-23"
+            }
+          ]
+        },
+        "earliestDigital": {
+          "country": "CA",
+          "type": "Digital",
+          "typeId": 4,
+          "date": "2026-11-03"
+        }
+      },
+      "availability": {
+        "AR": {
+          "link": "https://www.themoviedb.org/movie/1423191-resident-evil/watch?locale=AR",
+          "rent": [
+            {
+              "name": "Apple TV Store",
+              "logo": "/qdEGArH3lKfFnAtYXMkSYk5wxuG.png"
+            },
+            {
+              "name": "Amazon Video",
+              "logo": "/jn6TLbtaTZntTRX9UYucHJvpQx1.png"
+            }
+          ],
+          "buy": [
+            {
+              "name": "Apple TV Store",
+              "logo": "/qdEGArH3lKfFnAtYXMkSYk5wxuG.png"
+            },
+            {
+              "name": "Amazon Video",
+              "logo": "/jn6TLbtaTZntTRX9UYucHJvpQx1.png"
+            }
+          ]
+        },
+        "AU": {
+          "link": "https://www.themoviedb.org/movie/1423191-resident-evil/watch?locale=AU",
+          "rent": [
+            {
+              "name": "JustWatch TV Store",
+              "logo": "/aaFIYn2NGPCo0rpLiWokbvNqNJd.png"
+            },
+            {
+              "name": "Apple TV Store",
+              "logo": "/qdEGArH3lKfFnAtYXMkSYk5wxuG.png"
+            },
+            {
+              "name": "Amazon Video",
+              "logo": "/jn6TLbtaTZntTRX9UYucHJvpQx1.png"
+            },
+            {
+              "name": "Fetch TV",
+              "logo": "/hFTUerTxMwrM9RIo9z48qxCsi7z.png"
+            }
+          ],
+          "buy": [
+            {
+              "name": "Apple TV Store",
+              "logo": "/qdEGArH3lKfFnAtYXMkSYk5wxuG.png"
+            },
+            {
+              "name": "Amazon Video",
+              "logo": "/jn6TLbtaTZntTRX9UYucHJvpQx1.png"
+            },
+            {
+              "name": "Fetch TV",
+              "logo": "/hFTUerTxMwrM9RIo9z48qxCsi7z.png"
+            }
+          ]
+        },
+        "BE": {
+          "link": "https://www.themoviedb.org/movie/1423191-resident-evil/watch?locale=BE",
+          "rent": [
+            {
+              "name": "Apple TV Store",
+              "logo": "/qdEGArH3lKfFnAtYXMkSYk5wxuG.png"
+            },
+            {
+              "name": "Amazon Video",
+              "logo": "/jn6TLbtaTZntTRX9UYucHJvpQx1.png"
+            }
+          ],
+          "buy": [
+            {
+              "name": "Apple TV Store",
+              "logo": "/qdEGArH3lKfFnAtYXMkSYk5wxuG.png"
+            },
+            {
+              "name": "Amazon Video",
+              "logo": "/jn6TLbtaTZntTRX9UYucHJvpQx1.png"
+            }
+          ]
+        },
+        "BG": {
+          "link": "https://www.themoviedb.org/movie/1423191-resident-evil/watch?locale=BG",
+          "rent": [
+            {
+              "name": "Apple TV Store",
+              "logo": "/qdEGArH3lKfFnAtYXMkSYk5wxuG.png"
+            },
+            {
+              "name": "Amazon Video",
+              "logo": "/jn6TLbtaTZntTRX9UYucHJvpQx1.png"
+            }
+          ],
+          "buy": [
+            {
+              "name": "Apple TV Store",
+              "logo": "/qdEGArH3lKfFnAtYXMkSYk5wxuG.png"
+            },
+            {
+              "name": "Amazon Video",
+              "logo": "/jn6TLbtaTZntTRX9UYucHJvpQx1.png"
+            }
+          ]
+        },
+        "BO": {
+          "link": "https://www.themoviedb.org/movie/1423191-resident-evil/watch?locale=BO",
+          "rent": [
+            {
+              "name": "Apple TV Store",
+              "logo": "/qdEGArH3lKfFnAtYXMkSYk5wxuG.png"
+            }
+          ],
+          "buy": [
+            {
+              "name": "Apple TV Store",
+              "logo": "/qdEGArH3lKfFnAtYXMkSYk5wxuG.png"
+            }
+          ]
+        },
+        "BR": {
+          "link": "https://www.themoviedb.org/movie/1423191-resident-evil/watch?locale=BR",
+          "flatrate": [
+            {
+              "name": "Claro tv+",
+              "logo": "/olzQMHt2SX7iNy8WDMR299hVFcL.png"
+            }
+          ],
+          "rent": [
+            {
+              "name": "Apple TV Store",
+              "logo": "/qdEGArH3lKfFnAtYXMkSYk5wxuG.png"
+            },
+            {
+              "name": "Amazon Video",
+              "logo": "/jn6TLbtaTZntTRX9UYucHJvpQx1.png"
+            }
+          ],
+          "buy": [
+            {
+              "name": "Apple TV Store",
+              "logo": "/qdEGArH3lKfFnAtYXMkSYk5wxuG.png"
+            },
+            {
+              "name": "Amazon Video",
+              "logo": "/jn6TLbtaTZntTRX9UYucHJvpQx1.png"
+            }
+          ]
+        },
+        "CA": {
+          "link": "https://www.themoviedb.org/movie/1423191-resident-evil/watch?locale=CA",
+          "rent": [
+            {
+              "name": "Apple TV Store",
+              "logo": "/qdEGArH3lKfFnAtYXMkSYk5wxuG.png"
+            },
+            {
+              "name": "CosmoGo",
+              "logo": "/fyUUKmDdzpJjSwsXPN4Rpi7jTu5.png"
+            },
+            {
+              "name": "Amazon Video",
+              "logo": "/jn6TLbtaTZntTRX9UYucHJvpQx1.png"
+            }
+          ],
+          "buy": [
+            {
+              "name": "Apple TV Store",
+              "logo": "/qdEGArH3lKfFnAtYXMkSYk5wxuG.png"
+            },
+            {
+              "name": "CosmoGo",
+              "logo": "/fyUUKmDdzpJjSwsXPN4Rpi7jTu5.png"
+            },
+            {
+              "name": "Amazon Video",
+              "logo": "/jn6TLbtaTZntTRX9UYucHJvpQx1.png"
+            }
+          ]
+        },
+        "CL": {
+          "link": "https://www.themoviedb.org/movie/1423191-resident-evil/watch?locale=CL",
+          "rent": [
+            {
+              "name": "Apple TV Store",
+              "logo": "/qdEGArH3lKfFnAtYXMkSYk5wxuG.png"
+            },
+            {
+              "name": "Amazon Video",
+              "logo": "/jn6TLbtaTZntTRX9UYucHJvpQx1.png"
+            }
+          ],
+          "buy": [
+            {
+              "name": "Apple TV Store",
+              "logo": "/qdEGArH3lKfFnAtYXMkSYk5wxuG.png"
+            },
+            {
+              "name": "Amazon Video",
+              "logo": "/jn6TLbtaTZntTRX9UYucHJvpQx1.png"
+            }
+          ]
+        },
+        "CO": {
+          "link": "https://www.themoviedb.org/movie/1423191-resident-evil/watch?locale=CO",
+          "rent": [
+            {
+              "name": "Apple TV Store",
+              "logo": "/qdEGArH3lKfFnAtYXMkSYk5wxuG.png"
+            },
+            {
+              "name": "Amazon Video",
+              "logo": "/jn6TLbtaTZntTRX9UYucHJvpQx1.png"
+            }
+          ],
+          "buy": [
+            {
+              "name": "Apple TV Store",
+              "logo": "/qdEGArH3lKfFnAtYXMkSYk5wxuG.png"
+            },
+            {
+              "name": "Amazon Video",
+              "logo": "/jn6TLbtaTZntTRX9UYucHJvpQx1.png"
+            }
+          ]
+        },
+        "CR": {
+          "link": "https://www.themoviedb.org/movie/1423191-resident-evil/watch?locale=CR",
+          "rent": [
+            {
+              "name": "Apple TV Store",
+              "logo": "/qdEGArH3lKfFnAtYXMkSYk5wxuG.png"
+            }
+          ],
+          "buy": [
+            {
+              "name": "Apple TV Store",
+              "logo": "/qdEGArH3lKfFnAtYXMkSYk5wxuG.png"
+            }
+          ]
+        },
+        "CZ": {
+          "link": "https://www.themoviedb.org/movie/1423191-resident-evil/watch?locale=CZ",
+          "rent": [
+            {
+              "name": "Apple TV Store",
+              "logo": "/qdEGArH3lKfFnAtYXMkSYk5wxuG.png"
+            },
+            {
+              "name": "Rakuten TV",
+              "logo": "/872dfVu1biZISJ8rO143CZZutPR.png"
+            },
+            {
+              "name": "Amazon Video",
+              "logo": "/jn6TLbtaTZntTRX9UYucHJvpQx1.png"
+            }
+          ],
+          "buy": [
+            {
+              "name": "Apple TV Store",
+              "logo": "/qdEGArH3lKfFnAtYXMkSYk5wxuG.png"
+            },
+            {
+              "name": "Rakuten TV",
+              "logo": "/872dfVu1biZISJ8rO143CZZutPR.png"
+            },
+            {
+              "name": "Amazon Video",
+              "logo": "/jn6TLbtaTZntTRX9UYucHJvpQx1.png"
+            }
+          ]
+        },
+        "DK": {
+          "link": "https://www.themoviedb.org/movie/1423191-resident-evil/watch?locale=DK",
+          "rent": [
+            {
+              "name": "Viaplay",
+              "logo": "/c1J9PGGowXwW5AxAaZaGipeFu7U.png"
+            },
+            {
+              "name": "Apple TV Store",
+              "logo": "/qdEGArH3lKfFnAtYXMkSYk5wxuG.png"
+            },
+            {
+              "name": "Rakuten TV",
+              "logo": "/872dfVu1biZISJ8rO143CZZutPR.png"
+            },
+            {
+              "name": "SF Anytime",
+              "logo": "/fVuqy8kmzsULoJjc3ROOcurRH7S.png"
+            },
+            {
+              "name": "Amazon Video",
+              "logo": "/jn6TLbtaTZntTRX9UYucHJvpQx1.png"
+            }
+          ],
+          "buy": [
+            {
+              "name": "Viaplay",
+              "logo": "/c1J9PGGowXwW5AxAaZaGipeFu7U.png"
+            },
+            {
+              "name": "Apple TV Store",
+              "logo": "/qdEGArH3lKfFnAtYXMkSYk5wxuG.png"
+            },
+            {
+              "name": "Rakuten TV",
+              "logo": "/872dfVu1biZISJ8rO143CZZutPR.png"
+            },
+            {
+              "name": "SF Anytime",
+              "logo": "/fVuqy8kmzsULoJjc3ROOcurRH7S.png"
+            },
+            {
+              "name": "Amazon Video",
+              "logo": "/jn6TLbtaTZntTRX9UYucHJvpQx1.png"
+            }
+          ]
+        },
+        "EC": {
+          "link": "https://www.themoviedb.org/movie/1423191-resident-evil/watch?locale=EC",
+          "rent": [
+            {
+              "name": "Apple TV Store",
+              "logo": "/qdEGArH3lKfFnAtYXMkSYk5wxuG.png"
+            }
+          ],
+          "buy": [
+            {
+              "name": "Apple TV Store",
+              "logo": "/qdEGArH3lKfFnAtYXMkSYk5wxuG.png"
+            }
+          ]
+        },
+        "EE": {
+          "link": "https://www.themoviedb.org/movie/1423191-resident-evil/watch?locale=EE",
+          "rent": [
+            {
+              "name": "Apple TV Store",
+              "logo": "/qdEGArH3lKfFnAtYXMkSYk5wxuG.png"
+            },
+            {
+              "name": "Go3",
+              "logo": "/bWrdc66M5z0FJgznkdRdPueU2S.png"
+            },
+            {
+              "name": "Amazon Video",
+              "logo": "/jn6TLbtaTZntTRX9UYucHJvpQx1.png"
+            }
+          ],
+          "buy": [
+            {
+              "name": "Apple TV Store",
+              "logo": "/qdEGArH3lKfFnAtYXMkSYk5wxuG.png"
+            },
+            {
+              "name": "Amazon Video",
+              "logo": "/jn6TLbtaTZntTRX9UYucHJvpQx1.png"
+            }
+          ]
+        },
+        "ES": {
+          "link": "https://www.themoviedb.org/movie/1423191-resident-evil/watch?locale=ES",
+          "rent": [
+            {
+              "name": "Apple TV Store",
+              "logo": "/qdEGArH3lKfFnAtYXMkSYk5wxuG.png"
+            },
+            {
+              "name": "Movistar Plus+ Ficción Total ",
+              "logo": "/7OEtlOKTmjTXh40eHUES11Oc1i7.png"
+            },
+            {
+              "name": "Rakuten TV",
+              "logo": "/872dfVu1biZISJ8rO143CZZutPR.png"
+            },
+            {
+              "name": "Amazon Video",
+              "logo": "/jn6TLbtaTZntTRX9UYucHJvpQx1.png"
+            }
+          ],
+          "buy": [
+            {
+              "name": "Apple TV Store",
+              "logo": "/qdEGArH3lKfFnAtYXMkSYk5wxuG.png"
+            },
+            {
+              "name": "Rakuten TV",
+              "logo": "/872dfVu1biZISJ8rO143CZZutPR.png"
+            },
+            {
+              "name": "Amazon Video",
+              "logo": "/jn6TLbtaTZntTRX9UYucHJvpQx1.png"
+            }
+          ]
+        },
+        "FI": {
+          "link": "https://www.themoviedb.org/movie/1423191-resident-evil/watch?locale=FI",
+          "rent": [
+            {
+              "name": "Apple TV Store",
+              "logo": "/qdEGArH3lKfFnAtYXMkSYk5wxuG.png"
+            },
+            {
+              "name": "Rakuten TV",
+              "logo": "/872dfVu1biZISJ8rO143CZZutPR.png"
+            },
+            {
+              "name": "SF Anytime",
+              "logo": "/fVuqy8kmzsULoJjc3ROOcurRH7S.png"
+            },
+            {
+              "name": "Viaplay",
+              "logo": "/c1J9PGGowXwW5AxAaZaGipeFu7U.png"
+            },
+            {
+              "name": "Amazon Video",
+              "logo": "/jn6TLbtaTZntTRX9UYucHJvpQx1.png"
+            }
+          ],
+          "buy": [
+            {
+              "name": "Apple TV Store",
+              "logo": "/qdEGArH3lKfFnAtYXMkSYk5wxuG.png"
+            },
+            {
+              "name": "Rakuten TV",
+              "logo": "/872dfVu1biZISJ8rO143CZZutPR.png"
+            },
+            {
+              "name": "SF Anytime",
+              "logo": "/fVuqy8kmzsULoJjc3ROOcurRH7S.png"
+            },
+            {
+              "name": "Viaplay",
+              "logo": "/c1J9PGGowXwW5AxAaZaGipeFu7U.png"
+            },
+            {
+              "name": "Amazon Video",
+              "logo": "/jn6TLbtaTZntTRX9UYucHJvpQx1.png"
+            }
+          ]
+        },
+        "GB": {
+          "link": "https://www.themoviedb.org/movie/1423191-resident-evil/watch?locale=GB",
+          "rent": [
+            {
+              "name": "Apple TV Store",
+              "logo": "/qdEGArH3lKfFnAtYXMkSYk5wxuG.png"
+            },
+            {
+              "name": "Rakuten TV",
+              "logo": "/872dfVu1biZISJ8rO143CZZutPR.png"
+            },
+            {
+              "name": "Amazon Video",
+              "logo": "/jn6TLbtaTZntTRX9UYucHJvpQx1.png"
+            },
+            {
+              "name": "Sky Store",
+              "logo": "/nNkZ1JKe6vNhzti14KiKEUWHE6H.png"
+            }
+          ],
+          "buy": [
+            {
+              "name": "Apple TV Store",
+              "logo": "/qdEGArH3lKfFnAtYXMkSYk5wxuG.png"
+            },
+            {
+              "name": "Rakuten TV",
+              "logo": "/872dfVu1biZISJ8rO143CZZutPR.png"
+            },
+            {
+              "name": "Amazon Video",
+              "logo": "/jn6TLbtaTZntTRX9UYucHJvpQx1.png"
+            },
+            {
+              "name": "Sky Store",
+              "logo": "/nNkZ1JKe6vNhzti14KiKEUWHE6H.png"
+            }
+          ]
+        },
+        "GG": {
+          "link": "https://www.themoviedb.org/movie/1423191-resident-evil/watch?locale=GG",
+          "rent": [
+            {
+              "name": "Amazon Video",
+              "logo": "/jn6TLbtaTZntTRX9UYucHJvpQx1.png"
+            }
+          ],
+          "buy": [
+            {
+              "name": "Amazon Video",
+              "logo": "/jn6TLbtaTZntTRX9UYucHJvpQx1.png"
+            }
+          ]
+        },
+        "GR": {
+          "link": "https://www.themoviedb.org/movie/1423191-resident-evil/watch?locale=GR",
+          "rent": [
+            {
+              "name": "Apple TV Store",
+              "logo": "/qdEGArH3lKfFnAtYXMkSYk5wxuG.png"
+            },
+            {
+              "name": "Amazon Video",
+              "logo": "/jn6TLbtaTZntTRX9UYucHJvpQx1.png"
+            }
+          ],
+          "buy": [
+            {
+              "name": "Apple TV Store",
+              "logo": "/qdEGArH3lKfFnAtYXMkSYk5wxuG.png"
+            },
+            {
+              "name": "Amazon Video",
+              "logo": "/jn6TLbtaTZntTRX9UYucHJvpQx1.png"
+            }
+          ]
+        },
+        "GT": {
+          "link": "https://www.themoviedb.org/movie/1423191-resident-evil/watch?locale=GT",
+          "rent": [
+            {
+              "name": "Apple TV Store",
+              "logo": "/qdEGArH3lKfFnAtYXMkSYk5wxuG.png"
+            }
+          ],
+          "buy": [
+            {
+              "name": "Apple TV Store",
+              "logo": "/qdEGArH3lKfFnAtYXMkSYk5wxuG.png"
+            }
+          ]
+        },
+        "HK": {
+          "link": "https://www.themoviedb.org/movie/1423191-resident-evil/watch?locale=HK",
+          "rent": [
+            {
+              "name": "Apple TV Store",
+              "logo": "/qdEGArH3lKfFnAtYXMkSYk5wxuG.png"
+            }
+          ],
+          "buy": [
+            {
+              "name": "Apple TV Store",
+              "logo": "/qdEGArH3lKfFnAtYXMkSYk5wxuG.png"
+            }
+          ]
+        },
+        "HN": {
+          "link": "https://www.themoviedb.org/movie/1423191-resident-evil/watch?locale=HN",
+          "rent": [
+            {
+              "name": "Apple TV Store",
+              "logo": "/qdEGArH3lKfFnAtYXMkSYk5wxuG.png"
+            }
+          ],
+          "buy": [
+            {
+              "name": "Apple TV Store",
+              "logo": "/qdEGArH3lKfFnAtYXMkSYk5wxuG.png"
+            }
+          ]
+        },
+        "HR": {
+          "link": "https://www.themoviedb.org/movie/1423191-resident-evil/watch?locale=HR",
+          "buy": [
+            {
+              "name": "Amazon Video",
+              "logo": "/jn6TLbtaTZntTRX9UYucHJvpQx1.png"
+            }
+          ]
+        },
+        "HU": {
+          "link": "https://www.themoviedb.org/movie/1423191-resident-evil/watch?locale=HU",
+          "rent": [
+            {
+              "name": "Apple TV Store",
+              "logo": "/qdEGArH3lKfFnAtYXMkSYk5wxuG.png"
+            },
+            {
+              "name": "Rakuten TV",
+              "logo": "/872dfVu1biZISJ8rO143CZZutPR.png"
+            },
+            {
+              "name": "Amazon Video",
+              "logo": "/jn6TLbtaTZntTRX9UYucHJvpQx1.png"
+            }
+          ],
+          "buy": [
+            {
+              "name": "Apple TV Store",
+              "logo": "/qdEGArH3lKfFnAtYXMkSYk5wxuG.png"
+            },
+            {
+              "name": "Rakuten TV",
+              "logo": "/872dfVu1biZISJ8rO143CZZutPR.png"
+            },
+            {
+              "name": "Amazon Video",
+              "logo": "/jn6TLbtaTZntTRX9UYucHJvpQx1.png"
+            }
+          ]
+        },
+        "ID": {
+          "link": "https://www.themoviedb.org/movie/1423191-resident-evil/watch?locale=ID",
+          "rent": [
+            {
+              "name": "Apple TV Store",
+              "logo": "/qdEGArH3lKfFnAtYXMkSYk5wxuG.png"
+            }
+          ],
+          "buy": [
+            {
+              "name": "Apple TV Store",
+              "logo": "/qdEGArH3lKfFnAtYXMkSYk5wxuG.png"
+            }
+          ]
+        },
+        "IE": {
+          "link": "https://www.themoviedb.org/movie/1423191-resident-evil/watch?locale=IE",
+          "rent": [
+            {
+              "name": "Apple TV Store",
+              "logo": "/qdEGArH3lKfFnAtYXMkSYk5wxuG.png"
+            },
+            {
+              "name": "Sky Store",
+              "logo": "/nNkZ1JKe6vNhzti14KiKEUWHE6H.png"
+            },
+            {
+              "name": "Rakuten TV",
+              "logo": "/872dfVu1biZISJ8rO143CZZutPR.png"
+            },
+            {
+              "name": "Amazon Video",
+              "logo": "/jn6TLbtaTZntTRX9UYucHJvpQx1.png"
+            }
+          ],
+          "buy": [
+            {
+              "name": "Apple TV Store",
+              "logo": "/qdEGArH3lKfFnAtYXMkSYk5wxuG.png"
+            },
+            {
+              "name": "Sky Store",
+              "logo": "/nNkZ1JKe6vNhzti14KiKEUWHE6H.png"
+            },
+            {
+              "name": "Rakuten TV",
+              "logo": "/872dfVu1biZISJ8rO143CZZutPR.png"
+            },
+            {
+              "name": "Amazon Video",
+              "logo": "/jn6TLbtaTZntTRX9UYucHJvpQx1.png"
+            }
+          ]
+        },
+        "IN": {
+          "link": "https://www.themoviedb.org/movie/1423191-resident-evil/watch?locale=IN",
+          "rent": [
+            {
+              "name": "Apple TV Store",
+              "logo": "/qdEGArH3lKfFnAtYXMkSYk5wxuG.png"
+            },
+            {
+              "name": "Zee5",
+              "logo": "/uQvhdtB8skccsGHmvKi3y5bqBsX.png"
+            },
+            {
+              "name": "Amazon Video",
+              "logo": "/jn6TLbtaTZntTRX9UYucHJvpQx1.png"
+            }
+          ],
+          "buy": [
+            {
+              "name": "Apple TV Store",
+              "logo": "/qdEGArH3lKfFnAtYXMkSYk5wxuG.png"
+            }
+          ]
+        },
+        "IS": {
+          "link": "https://www.themoviedb.org/movie/1423191-resident-evil/watch?locale=IS",
+          "rent": [
+            {
+              "name": "Viaplay",
+              "logo": "/c1J9PGGowXwW5AxAaZaGipeFu7U.png"
+            },
+            {
+              "name": "Amazon Video",
+              "logo": "/jn6TLbtaTZntTRX9UYucHJvpQx1.png"
+            }
+          ],
+          "buy": [
+            {
+              "name": "Viaplay",
+              "logo": "/c1J9PGGowXwW5AxAaZaGipeFu7U.png"
+            },
+            {
+              "name": "Amazon Video",
+              "logo": "/jn6TLbtaTZntTRX9UYucHJvpQx1.png"
+            }
+          ]
+        },
+        "IT": {
+          "link": "https://www.themoviedb.org/movie/1423191-resident-evil/watch?locale=IT",
+          "rent": [
+            {
+              "name": "Apple TV Store",
+              "logo": "/qdEGArH3lKfFnAtYXMkSYk5wxuG.png"
+            },
+            {
+              "name": "Rakuten TV",
+              "logo": "/872dfVu1biZISJ8rO143CZZutPR.png"
+            },
+            {
+              "name": "Amazon Video",
+              "logo": "/jn6TLbtaTZntTRX9UYucHJvpQx1.png"
+            }
+          ],
+          "buy": [
+            {
+              "name": "Apple TV Store",
+              "logo": "/qdEGArH3lKfFnAtYXMkSYk5wxuG.png"
+            },
+            {
+              "name": "Rakuten TV",
+              "logo": "/872dfVu1biZISJ8rO143CZZutPR.png"
+            },
+            {
+              "name": "Amazon Video",
+              "logo": "/jn6TLbtaTZntTRX9UYucHJvpQx1.png"
+            }
+          ]
+        },
+        "LT": {
+          "link": "https://www.themoviedb.org/movie/1423191-resident-evil/watch?locale=LT",
+          "rent": [
+            {
+              "name": "Apple TV Store",
+              "logo": "/qdEGArH3lKfFnAtYXMkSYk5wxuG.png"
+            },
+            {
+              "name": "Go3",
+              "logo": "/bWrdc66M5z0FJgznkdRdPueU2S.png"
+            },
+            {
+              "name": "Amazon Video",
+              "logo": "/jn6TLbtaTZntTRX9UYucHJvpQx1.png"
+            }
+          ],
+          "buy": [
+            {
+              "name": "Apple TV Store",
+              "logo": "/qdEGArH3lKfFnAtYXMkSYk5wxuG.png"
+            },
+            {
+              "name": "Amazon Video",
+              "logo": "/jn6TLbtaTZntTRX9UYucHJvpQx1.png"
+            }
+          ]
+        },
+        "LV": {
+          "link": "https://www.themoviedb.org/movie/1423191-resident-evil/watch?locale=LV",
+          "rent": [
+            {
+              "name": "Apple TV Store",
+              "logo": "/qdEGArH3lKfFnAtYXMkSYk5wxuG.png"
+            },
+            {
+              "name": "Go3",
+              "logo": "/bWrdc66M5z0FJgznkdRdPueU2S.png"
+            },
+            {
+              "name": "Amazon Video",
+              "logo": "/jn6TLbtaTZntTRX9UYucHJvpQx1.png"
+            }
+          ],
+          "buy": [
+            {
+              "name": "Apple TV Store",
+              "logo": "/qdEGArH3lKfFnAtYXMkSYk5wxuG.png"
+            },
+            {
+              "name": "Amazon Video",
+              "logo": "/jn6TLbtaTZntTRX9UYucHJvpQx1.png"
+            }
+          ]
+        },
+        "MX": {
+          "link": "https://www.themoviedb.org/movie/1423191-resident-evil/watch?locale=MX",
+          "rent": [
+            {
+              "name": "Apple TV Store",
+              "logo": "/qdEGArH3lKfFnAtYXMkSYk5wxuG.png"
+            },
+            {
+              "name": "Amazon Video",
+              "logo": "/jn6TLbtaTZntTRX9UYucHJvpQx1.png"
+            }
+          ],
+          "buy": [
+            {
+              "name": "Apple TV Store",
+              "logo": "/qdEGArH3lKfFnAtYXMkSYk5wxuG.png"
+            },
+            {
+              "name": "Amazon Video",
+              "logo": "/jn6TLbtaTZntTRX9UYucHJvpQx1.png"
+            }
+          ]
+        },
+        "MY": {
+          "link": "https://www.themoviedb.org/movie/1423191-resident-evil/watch?locale=MY",
+          "rent": [
+            {
+              "name": "Apple TV Store",
+              "logo": "/qdEGArH3lKfFnAtYXMkSYk5wxuG.png"
+            }
+          ],
+          "buy": [
+            {
+              "name": "Apple TV Store",
+              "logo": "/qdEGArH3lKfFnAtYXMkSYk5wxuG.png"
+            }
+          ]
+        },
+        "NL": {
+          "link": "https://www.themoviedb.org/movie/1423191-resident-evil/watch?locale=NL",
+          "rent": [
+            {
+              "name": "Pathé Thuis",
+              "logo": "/oB7QrPnusUtIpKr8k0YQ12INLeP.png"
+            },
+            {
+              "name": "Apple TV Store",
+              "logo": "/qdEGArH3lKfFnAtYXMkSYk5wxuG.png"
+            },
+            {
+              "name": "Amazon Video",
+              "logo": "/jn6TLbtaTZntTRX9UYucHJvpQx1.png"
+            },
+            {
+              "name": "meJane",
+              "logo": "/sLa7ctMpAoKdxIS72mHl7xuhONL.png"
+            }
+          ],
+          "buy": [
+            {
+              "name": "Pathé Thuis",
+              "logo": "/oB7QrPnusUtIpKr8k0YQ12INLeP.png"
+            },
+            {
+              "name": "Apple TV Store",
+              "logo": "/qdEGArH3lKfFnAtYXMkSYk5wxuG.png"
+            },
+            {
+              "name": "Amazon Video",
+              "logo": "/jn6TLbtaTZntTRX9UYucHJvpQx1.png"
+            },
+            {
+              "name": "meJane",
+              "logo": "/sLa7ctMpAoKdxIS72mHl7xuhONL.png"
+            }
+          ]
+        },
+        "NO": {
+          "link": "https://www.themoviedb.org/movie/1423191-resident-evil/watch?locale=NO",
+          "rent": [
+            {
+              "name": "Viaplay",
+              "logo": "/c1J9PGGowXwW5AxAaZaGipeFu7U.png"
+            },
+            {
+              "name": "Apple TV Store",
+              "logo": "/qdEGArH3lKfFnAtYXMkSYk5wxuG.png"
+            },
+            {
+              "name": "Rakuten TV",
+              "logo": "/872dfVu1biZISJ8rO143CZZutPR.png"
+            },
+            {
+              "name": "SF Anytime",
+              "logo": "/fVuqy8kmzsULoJjc3ROOcurRH7S.png"
+            },
+            {
+              "name": "TV 2 Play",
+              "logo": "/m502wSLGwHL9WUK38NeAbwrBk6P.png"
+            },
+            {
+              "name": "Amazon Video",
+              "logo": "/jn6TLbtaTZntTRX9UYucHJvpQx1.png"
+            }
+          ],
+          "buy": [
+            {
+              "name": "Viaplay",
+              "logo": "/c1J9PGGowXwW5AxAaZaGipeFu7U.png"
+            },
+            {
+              "name": "Apple TV Store",
+              "logo": "/qdEGArH3lKfFnAtYXMkSYk5wxuG.png"
+            },
+            {
+              "name": "Rakuten TV",
+              "logo": "/872dfVu1biZISJ8rO143CZZutPR.png"
+            },
+            {
+              "name": "SF Anytime",
+              "logo": "/fVuqy8kmzsULoJjc3ROOcurRH7S.png"
+            },
+            {
+              "name": "TV 2 Play",
+              "logo": "/m502wSLGwHL9WUK38NeAbwrBk6P.png"
+            },
+            {
+              "name": "Amazon Video",
+              "logo": "/jn6TLbtaTZntTRX9UYucHJvpQx1.png"
+            }
+          ]
+        },
+        "NZ": {
+          "link": "https://www.themoviedb.org/movie/1423191-resident-evil/watch?locale=NZ",
+          "rent": [
+            {
+              "name": "Neon TV",
+              "logo": "/68KYULhVkHI6TVrmPSE0LlPXB1U.png"
+            },
+            {
+              "name": "Apple TV Store",
+              "logo": "/qdEGArH3lKfFnAtYXMkSYk5wxuG.png"
+            },
+            {
+              "name": "JustWatch TV Store",
+              "logo": "/aaFIYn2NGPCo0rpLiWokbvNqNJd.png"
+            },
+            {
+              "name": "Amazon Video",
+              "logo": "/jn6TLbtaTZntTRX9UYucHJvpQx1.png"
+            }
+          ],
+          "buy": [
+            {
+              "name": "Apple TV Store",
+              "logo": "/qdEGArH3lKfFnAtYXMkSYk5wxuG.png"
+            },
+            {
+              "name": "Amazon Video",
+              "logo": "/jn6TLbtaTZntTRX9UYucHJvpQx1.png"
+            }
+          ]
+        },
+        "PE": {
+          "link": "https://www.themoviedb.org/movie/1423191-resident-evil/watch?locale=PE",
+          "rent": [
+            {
+              "name": "Apple TV Store",
+              "logo": "/qdEGArH3lKfFnAtYXMkSYk5wxuG.png"
+            },
+            {
+              "name": "Amazon Video",
+              "logo": "/jn6TLbtaTZntTRX9UYucHJvpQx1.png"
+            }
+          ],
+          "buy": [
+            {
+              "name": "Apple TV Store",
+              "logo": "/qdEGArH3lKfFnAtYXMkSYk5wxuG.png"
+            },
+            {
+              "name": "Amazon Video",
+              "logo": "/jn6TLbtaTZntTRX9UYucHJvpQx1.png"
+            }
+          ]
+        },
+        "PH": {
+          "link": "https://www.themoviedb.org/movie/1423191-resident-evil/watch?locale=PH",
+          "rent": [
+            {
+              "name": "Apple TV Store",
+              "logo": "/qdEGArH3lKfFnAtYXMkSYk5wxuG.png"
+            }
+          ],
+          "buy": [
+            {
+              "name": "Apple TV Store",
+              "logo": "/qdEGArH3lKfFnAtYXMkSYk5wxuG.png"
+            }
+          ]
+        },
+        "PL": {
+          "link": "https://www.themoviedb.org/movie/1423191-resident-evil/watch?locale=PL",
+          "rent": [
+            {
+              "name": "Apple TV Store",
+              "logo": "/qdEGArH3lKfFnAtYXMkSYk5wxuG.png"
+            },
+            {
+              "name": "Player",
+              "logo": "/8mtdz2Y3NW5NfiSZiBFhngFSy3S.png"
+            },
+            {
+              "name": "Amazon Video",
+              "logo": "/jn6TLbtaTZntTRX9UYucHJvpQx1.png"
+            },
+            {
+              "name": "Premiery Canal+",
+              "logo": "/kxOtmlmiegOd6Mp766dYdp2Ois3.png"
+            },
+            {
+              "name": "Rakuten TV",
+              "logo": "/872dfVu1biZISJ8rO143CZZutPR.png"
+            },
+            {
+              "name": "Pilot WP",
+              "logo": "/1VxmGpd4KF1m74zYo4CXQEqk3Q2.png"
+            }
+          ],
+          "buy": [
+            {
+              "name": "Apple TV Store",
+              "logo": "/qdEGArH3lKfFnAtYXMkSYk5wxuG.png"
+            },
+            {
+              "name": "Amazon Video",
+              "logo": "/jn6TLbtaTZntTRX9UYucHJvpQx1.png"
+            },
+            {
+              "name": "Rakuten TV",
+              "logo": "/872dfVu1biZISJ8rO143CZZutPR.png"
+            },
+            {
+              "name": "Pilot WP",
+              "logo": "/1VxmGpd4KF1m74zYo4CXQEqk3Q2.png"
+            }
+          ]
+        },
+        "PT": {
+          "link": "https://www.themoviedb.org/movie/1423191-resident-evil/watch?locale=PT",
+          "rent": [
+            {
+              "name": "Apple TV Store",
+              "logo": "/qdEGArH3lKfFnAtYXMkSYk5wxuG.png"
+            },
+            {
+              "name": "Rakuten TV",
+              "logo": "/872dfVu1biZISJ8rO143CZZutPR.png"
+            },
+            {
+              "name": "Amazon Video",
+              "logo": "/jn6TLbtaTZntTRX9UYucHJvpQx1.png"
+            }
+          ],
+          "buy": [
+            {
+              "name": "Apple TV Store",
+              "logo": "/qdEGArH3lKfFnAtYXMkSYk5wxuG.png"
+            },
+            {
+              "name": "Rakuten TV",
+              "logo": "/872dfVu1biZISJ8rO143CZZutPR.png"
+            },
+            {
+              "name": "Amazon Video",
+              "logo": "/jn6TLbtaTZntTRX9UYucHJvpQx1.png"
+            }
+          ]
+        },
+        "PY": {
+          "link": "https://www.themoviedb.org/movie/1423191-resident-evil/watch?locale=PY",
+          "rent": [
+            {
+              "name": "Apple TV Store",
+              "logo": "/qdEGArH3lKfFnAtYXMkSYk5wxuG.png"
+            }
+          ],
+          "buy": [
+            {
+              "name": "Apple TV Store",
+              "logo": "/qdEGArH3lKfFnAtYXMkSYk5wxuG.png"
+            }
+          ]
+        },
+        "RO": {
+          "link": "https://www.themoviedb.org/movie/1423191-resident-evil/watch?locale=RO",
+          "rent": [
+            {
+              "name": "Rakuten TV",
+              "logo": "/872dfVu1biZISJ8rO143CZZutPR.png"
+            },
+            {
+              "name": "Amazon Video",
+              "logo": "/jn6TLbtaTZntTRX9UYucHJvpQx1.png"
+            }
+          ],
+          "buy": [
+            {
+              "name": "Rakuten TV",
+              "logo": "/872dfVu1biZISJ8rO143CZZutPR.png"
+            },
+            {
+              "name": "Amazon Video",
+              "logo": "/jn6TLbtaTZntTRX9UYucHJvpQx1.png"
+            }
+          ]
+        },
+        "SE": {
+          "link": "https://www.themoviedb.org/movie/1423191-resident-evil/watch?locale=SE",
+          "rent": [
+            {
+              "name": "Apple TV Store",
+              "logo": "/qdEGArH3lKfFnAtYXMkSYk5wxuG.png"
+            },
+            {
+              "name": "Viaplay",
+              "logo": "/c1J9PGGowXwW5AxAaZaGipeFu7U.png"
+            },
+            {
+              "name": "Rakuten TV",
+              "logo": "/872dfVu1biZISJ8rO143CZZutPR.png"
+            },
+            {
+              "name": "SF Anytime",
+              "logo": "/fVuqy8kmzsULoJjc3ROOcurRH7S.png"
+            },
+            {
+              "name": "Amazon Video",
+              "logo": "/jn6TLbtaTZntTRX9UYucHJvpQx1.png"
+            }
+          ],
+          "buy": [
+            {
+              "name": "Apple TV Store",
+              "logo": "/qdEGArH3lKfFnAtYXMkSYk5wxuG.png"
+            },
+            {
+              "name": "Viaplay",
+              "logo": "/c1J9PGGowXwW5AxAaZaGipeFu7U.png"
+            },
+            {
+              "name": "Rakuten TV",
+              "logo": "/872dfVu1biZISJ8rO143CZZutPR.png"
+            },
+            {
+              "name": "SF Anytime",
+              "logo": "/fVuqy8kmzsULoJjc3ROOcurRH7S.png"
+            },
+            {
+              "name": "Amazon Video",
+              "logo": "/jn6TLbtaTZntTRX9UYucHJvpQx1.png"
+            }
+          ]
+        },
+        "SG": {
+          "link": "https://www.themoviedb.org/movie/1423191-resident-evil/watch?locale=SG",
+          "rent": [
+            {
+              "name": "Apple TV Store",
+              "logo": "/qdEGArH3lKfFnAtYXMkSYk5wxuG.png"
+            }
+          ],
+          "buy": [
+            {
+              "name": "Apple TV Store",
+              "logo": "/qdEGArH3lKfFnAtYXMkSYk5wxuG.png"
+            }
+          ]
+        },
+        "SI": {
+          "link": "https://www.themoviedb.org/movie/1423191-resident-evil/watch?locale=SI",
+          "buy": [
+            {
+              "name": "Apple TV Store",
+              "logo": "/qdEGArH3lKfFnAtYXMkSYk5wxuG.png"
+            }
+          ]
+        },
+        "SK": {
+          "link": "https://www.themoviedb.org/movie/1423191-resident-evil/watch?locale=SK",
+          "buy": [
+            {
+              "name": "Apple TV Store",
+              "logo": "/qdEGArH3lKfFnAtYXMkSYk5wxuG.png"
+            },
+            {
+              "name": "Amazon Video",
+              "logo": "/jn6TLbtaTZntTRX9UYucHJvpQx1.png"
+            }
+          ]
+        },
+        "TH": {
+          "link": "https://www.themoviedb.org/movie/1423191-resident-evil/watch?locale=TH",
+          "rent": [
+            {
+              "name": "Apple TV Store",
+              "logo": "/qdEGArH3lKfFnAtYXMkSYk5wxuG.png"
+            }
+          ],
+          "buy": [
+            {
+              "name": "Apple TV Store",
+              "logo": "/qdEGArH3lKfFnAtYXMkSYk5wxuG.png"
+            }
+          ]
+        },
+        "TW": {
+          "link": "https://www.themoviedb.org/movie/1423191-resident-evil/watch?locale=TW",
+          "rent": [
+            {
+              "name": "Apple TV Store",
+              "logo": "/qdEGArH3lKfFnAtYXMkSYk5wxuG.png"
+            }
+          ],
+          "buy": [
+            {
+              "name": "Apple TV Store",
+              "logo": "/qdEGArH3lKfFnAtYXMkSYk5wxuG.png"
+            }
+          ]
+        },
+        "US": {
+          "link": "https://www.themoviedb.org/movie/1423191-resident-evil/watch?locale=US",
+          "rent": [
+            {
+              "name": "Amazon Video",
+              "logo": "/jn6TLbtaTZntTRX9UYucHJvpQx1.png"
+            },
+            {
+              "name": "Apple TV Store",
+              "logo": "/qdEGArH3lKfFnAtYXMkSYk5wxuG.png"
+            },
+            {
+              "name": "Fandango At Home",
+              "logo": "/wpOt6x0dRxTrIzuBosto4LGd7E9.png"
+            }
+          ],
+          "buy": [
+            {
+              "name": "Amazon Video",
+              "logo": "/jn6TLbtaTZntTRX9UYucHJvpQx1.png"
+            },
+            {
+              "name": "Apple TV Store",
+              "logo": "/qdEGArH3lKfFnAtYXMkSYk5wxuG.png"
+            },
+            {
+              "name": "Fandango At Home",
+              "logo": "/wpOt6x0dRxTrIzuBosto4LGd7E9.png"
+            }
+          ]
+        },
+        "VE": {
+          "link": "https://www.themoviedb.org/movie/1423191-resident-evil/watch?locale=VE",
+          "rent": [
+            {
+              "name": "Apple TV Store",
+              "logo": "/qdEGArH3lKfFnAtYXMkSYk5wxuG.png"
+            }
+          ],
+          "buy": [
+            {
+              "name": "Apple TV Store",
+              "logo": "/qdEGArH3lKfFnAtYXMkSYk5wxuG.png"
+            }
+          ]
+        },
+        "ZA": {
+          "link": "https://www.themoviedb.org/movie/1423191-resident-evil/watch?locale=ZA",
+          "rent": [
+            {
+              "name": "Apple TV Store",
+              "logo": "/qdEGArH3lKfFnAtYXMkSYk5wxuG.png"
+            }
+          ],
+          "buy": [
+            {
+              "name": "Apple TV Store",
+              "logo": "/qdEGArH3lKfFnAtYXMkSYk5wxuG.png"
+            }
+          ]
+        }
+      },
+      "recommendations": [
+        {
+          "tmdb_id": 1141182,
+          "title": "Die Alone",
+          "year": "2024",
+          "poster": "/dQdIj2OYELhLzECWONY932wGRxA.jpg",
+          "genre_ids": [
+            27,
+            53,
+            878
+          ],
+          "vote": 6.456
+        },
+        {
+          "tmdb_id": 170,
+          "title": "28 Days Later",
+          "year": "2002",
+          "poster": "/sQckQRt17VaWbo39GIu0TMOiszq.jpg",
+          "genre_ids": [
+            27,
+            53,
+            878
+          ],
+          "vote": 7.242
+        },
+        {
+          "tmdb_id": 294254,
+          "title": "Maze Runner: The Scorch Trials",
+          "year": "2015",
+          "poster": "/mYw7ZyejqSCPFlrT2jHZOESZDU3.jpg",
+          "genre_ids": [
+            878,
+            28,
+            53,
+            12
+          ],
+          "vote": 6.728
+        },
+        {
+          "tmdb_id": 11683,
+          "title": "Land of the Dead",
+          "year": "2005",
+          "poster": "/xxp0qcZ3n2YA53SIzWilDSfIaA4.jpg",
+          "genre_ids": [
+            27,
+            878,
+            53
+          ],
+          "vote": 6.276
+        },
+        {
+          "tmdb_id": 106845,
+          "title": "Re-Kill",
+          "year": "2015",
+          "poster": "/iPunx6eRmwxCDuDGB0N0o1jqADP.jpg",
+          "genre_ids": [
+            27,
+            878
+          ],
+          "vote": 5.9
+        },
+        {
+          "tmdb_id": 9599,
+          "title": "The Blob",
+          "year": "1988",
+          "poster": "/n6nT4SMY6fLozm7AuGySpXUmjry.jpg",
+          "genre_ids": [
+            27,
+            878,
+            53
+          ],
+          "vote": 6.878
+        },
+        {
+          "tmdb_id": 23963,
+          "title": "Pontypool",
+          "year": "2009",
+          "poster": "/4wWMvurzg1AoArX57pqsPWwhps2.jpg",
+          "genre_ids": [
+            27,
+            9648,
+            878
+          ],
+          "vote": 6.459
+        },
+        {
+          "tmdb_id": 123105,
+          "title": "The Bay",
+          "year": "2012",
+          "poster": "/fnmYgr4AOOE09zKa7omPW1FWT8K.jpg",
+          "genre_ids": [
+            27,
+            878,
+            53
+          ],
+          "vote": 5.816
+        },
+        {
+          "tmdb_id": 1576,
+          "title": "Resident Evil",
+          "year": "2002",
+          "poster": "/1UKNef590A0ZaMnxsscIcWuK1Em.jpg",
+          "genre_ids": [
+            27,
+            28,
+            878
+          ],
+          "vote": 6.688
+        },
+        {
+          "tmdb_id": 338676,
+          "title": "Extinction",
+          "year": "2015",
+          "poster": "/zwIDreu9pYCqKpv4jomqVM9yX1e.jpg",
+          "genre_ids": [
+            27,
+            878,
+            53
+          ],
+          "vote": 6.364
+        },
+        {
+          "tmdb_id": 1100988,
+          "title": "28 Years Later",
+          "year": "2025",
+          "poster": "/n5FygjEppOvac6yEaowi26nTyw3.jpg",
+          "genre_ids": [
+            27,
+            53,
+            878
+          ],
+          "vote": 6.595
+        },
+        {
+          "tmdb_id": 399894,
+          "title": "Daylight's End",
+          "year": "2016",
+          "poster": "/nHVRzCZe3uHyh3DXhhMT9VcNyoX.jpg",
+          "genre_ids": [
+            28,
+            27,
+            878
+          ],
+          "vote": 5.8
+        }
+      ],
+      "updated": "2026-11-19T10:25:17.413Z"
     }
   ]
 }
