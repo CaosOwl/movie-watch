@@ -1,6 +1,6 @@
 {
   "home_country": "CH",
-  "generated": "2026-11-19T10:25:17.664Z",
+  "generated": "2026-11-19T13:02:07.380Z",
   "movies": [
     {
       "imdb_id": "tt1457767",
@@ -48,8 +48,8 @@
         "James Wan"
       ],
       "writers": [
-        "Chad Hayes",
-        "Carey Hayes"
+        "Carey Hayes",
+        "Chad Hayes"
       ],
       "cast": [
         {
@@ -779,12 +779,20 @@
             {
               "name": "Apple TV Store",
               "logo": "/qdEGArH3lKfFnAtYXMkSYk5wxuG.png"
+            },
+            {
+              "name": "Amazon Video",
+              "logo": "/jn6TLbtaTZntTRX9UYucHJvpQx1.png"
             }
           ],
           "buy": [
             {
               "name": "Apple TV Store",
               "logo": "/qdEGArH3lKfFnAtYXMkSYk5wxuG.png"
+            },
+            {
+              "name": "Amazon Video",
+              "logo": "/jn6TLbtaTZntTRX9UYucHJvpQx1.png"
             }
           ]
         },
@@ -3757,7 +3765,7 @@
           "vote": 6.413
         }
       ],
-      "updated": "2026-11-19T10:25:11.498Z"
+      "updated": "2026-11-19T13:02:02.190Z"
     },
     {
       "imdb_id": "tt0245429",
@@ -3868,7 +3876,7 @@
       "ratings": {
         "tmdb": {
           "value": 8.537,
-          "votes": 19243
+          "votes": 19245
         },
         "imdb": null,
         "metascore": null,
@@ -6802,7 +6810,7 @@
           "vote": 7.351
         }
       ],
-      "updated": "2026-11-19T10:25:11.916Z"
+      "updated": "2026-11-19T13:02:02.543Z"
     },
     {
       "imdb_id": "tt15239678",
@@ -8317,12 +8325,20 @@
             {
               "name": "Apple TV Store",
               "logo": "/qdEGArH3lKfFnAtYXMkSYk5wxuG.png"
+            },
+            {
+              "name": "Amazon Video",
+              "logo": "/jn6TLbtaTZntTRX9UYucHJvpQx1.png"
             }
           ],
           "buy": [
             {
               "name": "Apple TV Store",
               "logo": "/qdEGArH3lKfFnAtYXMkSYk5wxuG.png"
+            },
+            {
+              "name": "Amazon Video",
+              "logo": "/jn6TLbtaTZntTRX9UYucHJvpQx1.png"
             }
           ]
         },
@@ -8373,10 +8389,6 @@
             }
           ],
           "buy": [
-            {
-              "name": "Amazon Video",
-              "logo": "/jn6TLbtaTZntTRX9UYucHJvpQx1.png"
-            },
             {
               "name": "Apple TV Store",
               "logo": "/qdEGArH3lKfFnAtYXMkSYk5wxuG.png"
@@ -8717,6 +8729,10 @@
             {
               "name": "HBO Max",
               "logo": "/skypuy7SXuugIQeYg0IglmzoKaS.png"
+            },
+            {
+              "name": "MovistarTV",
+              "logo": "/kxUmV9TCZHfukpVOMuN90Jibbnm.png"
             },
             {
               "name": "Universal+ Amazon Channel",
@@ -10165,10 +10181,6 @@
             {
               "name": "Rakuten TV",
               "logo": "/872dfVu1biZISJ8rO143CZZutPR.png"
-            },
-            {
-              "name": "Amazon Video",
-              "logo": "/jn6TLbtaTZntTRX9UYucHJvpQx1.png"
             }
           ]
         },
@@ -11104,7 +11116,7 @@
           "vote": 6.236
         }
       ],
-      "updated": "2026-11-19T10:25:12.354Z"
+      "updated": "2026-11-19T13:02:02.896Z"
     },
     {
       "imdb_id": "tt2056785",
@@ -11691,7 +11703,7 @@
             10751,
             14
           ],
-          "vote": 8.831
+          "vote": 8.8
         },
         {
           "tmdb_id": 116711,
@@ -11732,6 +11744,55 @@
           "vote": 6.619
         },
         {
+          "tmdb_id": 11837,
+          "title": "Watership Down",
+          "year": "1978",
+          "poster": "/q9ZcNxfquJbMTd6UfhAlJbmLBts.jpg",
+          "genre_ids": [
+            12,
+            16,
+            18
+          ],
+          "vote": 7.2
+        },
+        {
+          "tmdb_id": 21290,
+          "title": "Strings",
+          "year": "2004",
+          "poster": "/lJJ5ePSlmx3BZ8jFPndboIA60iH.jpg",
+          "genre_ids": [
+            12,
+            16,
+            18,
+            14
+          ],
+          "vote": 6.6
+        },
+        {
+          "tmdb_id": 805051,
+          "title": "Welcome to Smelliville",
+          "year": "2021",
+          "poster": "/ArjU46Pq0TaPVhvjedZ0zfT82qM.jpg",
+          "genre_ids": [
+            16,
+            12,
+            10751,
+            14
+          ],
+          "vote": 6.7
+        },
+        {
+          "tmdb_id": 346687,
+          "title": "The Water Man",
+          "year": "2020",
+          "poster": "/krupbFlSTnnKIjpRryrg2CTdeIL.jpg",
+          "genre_ids": [
+            12,
+            14
+          ],
+          "vote": 6.058
+        },
+        {
           "tmdb_id": 588921,
           "title": "Ainbo: Spirit of the Amazon",
           "year": "2021",
@@ -11745,16 +11806,16 @@
           "vote": 7
         },
         {
-          "tmdb_id": 11837,
-          "title": "Watership Down",
-          "year": "1978",
-          "poster": "/q9ZcNxfquJbMTd6UfhAlJbmLBts.jpg",
+          "tmdb_id": 33821,
+          "title": "Pinocchio",
+          "year": "2009",
+          "poster": "/gOiT5YjhS7nQGoPOhaEaaEwjBxS.jpg",
           "genre_ids": [
             12,
-            16,
-            18
+            18,
+            14
           ],
-          "vote": 7.2
+          "vote": 6.1
         },
         {
           "tmdb_id": 560057,
@@ -11771,55 +11832,6 @@
           "vote": 7.322
         },
         {
-          "tmdb_id": 805051,
-          "title": "Welcome to Smelliville",
-          "year": "2021",
-          "poster": "/ArjU46Pq0TaPVhvjedZ0zfT82qM.jpg",
-          "genre_ids": [
-            16,
-            12,
-            10751,
-            14
-          ],
-          "vote": 6.7
-        },
-        {
-          "tmdb_id": 21290,
-          "title": "Strings",
-          "year": "2004",
-          "poster": "/lJJ5ePSlmx3BZ8jFPndboIA60iH.jpg",
-          "genre_ids": [
-            12,
-            16,
-            18,
-            14
-          ],
-          "vote": 6.6
-        },
-        {
-          "tmdb_id": 346687,
-          "title": "The Water Man",
-          "year": "2020",
-          "poster": "/krupbFlSTnnKIjpRryrg2CTdeIL.jpg",
-          "genre_ids": [
-            12,
-            14
-          ],
-          "vote": 6.058
-        },
-        {
-          "tmdb_id": 739547,
-          "title": "Thelma the Unicorn",
-          "year": "2024",
-          "poster": "/yutiEZ7taGDNau2jGjKIdDwQpDw.jpg",
-          "genre_ids": [
-            16,
-            14,
-            10751
-          ],
-          "vote": 6.869
-        },
-        {
           "tmdb_id": 955644,
           "title": "Mia and Me: The Hero of Centopia",
           "year": "2022",
@@ -11833,7 +11845,7 @@
           "vote": 6.7
         }
       ],
-      "updated": "2026-11-19T10:25:12.767Z"
+      "updated": "2026-11-19T13:02:03.247Z"
     },
     {
       "imdb_id": "tt22084616",
@@ -11949,8 +11961,8 @@
       "trailer": "https://www.youtube.com/watch?v=P3uI5sLosKU",
       "ratings": {
         "tmdb": {
-          "value": 8.462,
-          "votes": 6961
+          "value": 8.461,
+          "votes": 6968
         },
         "imdb": null,
         "metascore": null,
@@ -12912,10 +12924,6 @@
             }
           ],
           "buy": [
-            {
-              "name": "Amazon Video",
-              "logo": "/jn6TLbtaTZntTRX9UYucHJvpQx1.png"
-            },
             {
               "name": "Apple TV Store",
               "logo": "/qdEGArH3lKfFnAtYXMkSYk5wxuG.png"
@@ -14695,7 +14703,7 @@
           "vote": 8.085
         }
       ],
-      "updated": "2026-11-19T10:25:13.190Z"
+      "updated": "2026-11-19T13:02:03.635Z"
     },
     {
       "imdb_id": "tt45368240",
@@ -14735,8 +14743,8 @@
         "independent film",
         "crime documentary"
       ],
-      "poster": "/Ap8QwmKfSjYbWC4XIP8w9pdn72O.jpg",
-      "backdrop": "/nhIL3O4W9h5V5JbNQm7yjoDk3So.jpg",
+      "poster": "/mVh3qkw2NUFxWWyF0G1hg2Wh0K5.jpg",
+      "backdrop": "/rrbbzCyS45yooXpUGJatfptlHYI.jpg",
       "directors": [
         "Nathan Fielder",
         "Lance Oppenheim"
@@ -14776,12 +14784,12 @@
         {
           "name": "Christian Rasmus Holmes IV",
           "character": "Self",
-          "photo": "/8uN7aAfhGkZ25A6HroG73IUMP0r.jpg"
+          "photo": "/m27JLpdojcJXaRM9gGUaomSUz0a.jpg"
         },
         {
           "name": "Noel Anne Holmes",
           "character": "Self",
-          "photo": "/wVQJFsBamiNh569RXirYMnDScAa.jpg"
+          "photo": "/ja5uFBObNtfDTCq8ETefkoxoV47.jpg"
         },
         {
           "name": "Gary Wilmes",
@@ -14804,7 +14812,7 @@
       "ratings": {
         "tmdb": {
           "value": 8.8,
-          "votes": 133
+          "votes": 134
         },
         "imdb": null,
         "metascore": null,
@@ -15467,7 +15475,7 @@
           "vote": 6.8
         }
       ],
-      "updated": "2026-11-19T10:25:13.604Z"
+      "updated": "2026-11-19T13:02:03.979Z"
     },
     {
       "imdb_id": "tt21357150",
@@ -15504,7 +15512,7 @@
         "multiverse"
       ],
       "poster": "/cWXtJhrlruF8CeYuaBGE8vdj3Q9.jpg",
-      "backdrop": "/g3gpP5YDbA85DsA0bt5mgGQIe5q.jpg",
+      "backdrop": "/rObL4of4eFA8yWaN9pRFo9aOVNi.jpg",
       "directors": [
         "Joe Russo",
         "Anthony Russo"
@@ -16028,7 +16036,7 @@
             878,
             28
           ],
-          "vote": 8.247
+          "vote": 8.2
         },
         {
           "tmdb_id": 447365,
@@ -16127,7 +16135,7 @@
           "vote": 8.085
         }
       ],
-      "updated": "2026-11-19T10:25:14.018Z"
+      "updated": "2026-11-19T13:02:04.335Z"
     },
     {
       "imdb_id": "tt31378509",
@@ -16952,7 +16960,7 @@
           "vote": 6.099
         }
       ],
-      "updated": "2026-11-19T10:25:14.434Z"
+      "updated": "2026-11-19T13:02:04.674Z"
     },
     {
       "imdb_id": "tt16360004",
@@ -17324,7 +17332,7 @@
           "vote": 7.315
         }
       ],
-      "updated": "2026-11-19T10:25:14.857Z"
+      "updated": "2026-11-19T13:02:05.021Z"
     },
     {
       "imdb_id": "tt18270542",
@@ -18098,6 +18106,32 @@
       "availability": {},
       "recommendations": [
         {
+          "tmdb_id": 142061,
+          "title": "Batman: The Dark Knight Returns, Part 2",
+          "year": "2013",
+          "poster": "/d1TqoVkyL4x0dlu9w3F9Ah4LjNv.jpg",
+          "genre_ids": [
+            878,
+            28,
+            16,
+            9648
+          ],
+          "vote": 7.9
+        },
+        {
+          "tmdb_id": 123025,
+          "title": "Batman: The Dark Knight Returns, Part 1",
+          "year": "2012",
+          "poster": "/rVr2Tdp2LcL3DheXUrVN345Myhg.jpg",
+          "genre_ids": [
+            878,
+            28,
+            16,
+            9648
+          ],
+          "vote": 7.736
+        },
+        {
           "tmdb_id": 75612,
           "title": "Oblivion",
           "year": "2013",
@@ -18164,6 +18198,18 @@
           "vote": 6.513
         },
         {
+          "tmdb_id": 1003580,
+          "title": "Legion of Super-Heroes",
+          "year": "2023",
+          "poster": "/3whQLi8RI7h2h2Si2KTDFJxfEcR.jpg",
+          "genre_ids": [
+            16,
+            878,
+            28
+          ],
+          "vote": 6.376
+        },
+        {
           "tmdb_id": 16577,
           "title": "Astro Boy",
           "year": "2009",
@@ -18174,7 +18220,7 @@
             10751,
             878
           ],
-          "vote": 6.342
+          "vote": 6.343
         },
         {
           "tmdb_id": 618354,
@@ -18211,48 +18257,9 @@
             9648
           ],
           "vote": 7.512
-        },
-        {
-          "tmdb_id": 17009,
-          "title": "Jetsons: The Movie",
-          "year": "1990",
-          "poster": "/u7MciwvfyYrvZEua22wz48Puu7O.jpg",
-          "genre_ids": [
-            16,
-            35,
-            10751,
-            878
-          ],
-          "vote": 6.2
-        },
-        {
-          "tmdb_id": 1267,
-          "title": "Meet the Robinsons",
-          "year": "2007",
-          "poster": "/naya0zF4kT401Sx15AtwB9vpcJr.jpg",
-          "genre_ids": [
-            16,
-            35,
-            10751,
-            878,
-            12
-          ],
-          "vote": 6.951
-        },
-        {
-          "tmdb_id": 464882,
-          "title": "Batman vs. Two-Face",
-          "year": "2017",
-          "poster": "/yTbj8Kcp4WFwMRdEejnn55KIsfH.jpg",
-          "genre_ids": [
-            16,
-            28,
-            878
-          ],
-          "vote": 6.3
         }
       ],
-      "updated": "2026-11-19T10:25:15.279Z"
+      "updated": "2026-11-19T13:02:05.367Z"
     },
     {
       "imdb_id": "tt16744566",
@@ -18620,7 +18627,7 @@
           "vote": 7.493
         }
       ],
-      "updated": "2026-11-19T10:25:15.710Z"
+      "updated": "2026-11-19T13:02:05.712Z"
     },
     {
       "imdb_id": "tt31450459",
@@ -19600,7 +19607,7 @@
           "vote": 6
         }
       ],
-      "updated": "2026-11-19T10:25:16.134Z"
+      "updated": "2026-11-19T13:02:06.061Z"
     },
     {
       "imdb_id": "tt32820897",
@@ -23009,7 +23016,7 @@
           "vote": 7.6
         }
       ],
-      "updated": "2026-11-19T10:25:16.567Z"
+      "updated": "2026-11-19T13:02:06.431Z"
     },
     {
       "imdb_id": "tt34384661",
@@ -23121,8 +23128,8 @@
       "trailer": "https://www.youtube.com/watch?v=Pu0pH5BuCPM",
       "ratings": {
         "tmdb": {
-          "value": 7.679,
-          "votes": 262
+          "value": 7.7,
+          "votes": 263
         },
         "imdb": null,
         "metascore": null,
@@ -23875,7 +23882,7 @@
           "vote": 6.3
         }
       ],
-      "updated": "2026-11-19T10:25:16.987Z"
+      "updated": "2026-11-19T13:02:06.783Z"
     },
     {
       "imdb_id": "tt35538033",
@@ -26268,7 +26275,7 @@
           "vote": 5.8
         }
       ],
-      "updated": "2026-11-19T10:25:17.413Z"
+      "updated": "2026-11-19T13:02:07.131Z"
     }
   ]
 }

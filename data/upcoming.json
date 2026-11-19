@@ -1,6 +1,6 @@
 {
   "home_country": "CH",
-  "generated": "2026-11-19T10:25:32.733Z",
+  "generated": "2026-11-19T13:02:19.934Z",
   "movies": [
     {
       "tmdb_id": 421892,
@@ -902,9 +902,9 @@
         "Josh Greenbaum"
       ],
       "writers": [
-        "Dan Hernandez",
+        "Benji Samit",
         "Josh Gad",
-        "Benji Samit"
+        "Dan Hernandez"
       ],
       "cast": [
         {
@@ -1704,8 +1704,8 @@
         "Alexandre Heboyan"
       ],
       "writers": [
-        "René Goscinny",
         "Albert Uderzo",
+        "René Goscinny",
         "Alexandre de La Patellière"
       ],
       "cast": [
@@ -3076,11 +3076,11 @@
       "tmdb_id": 1533928,
       "imdb_id": "tt41075537",
       "title": "Bachelor Party D'eux",
-      "original_title": "ബാച്ച്‌ലർ പാർട്ടി ഡിയക്സ്",
-      "tagline": "An Amal Neerad Joint",
+      "original_title": "ബാച്ച്‌ലർ Party D'eux",
+      "tagline": "",
       "overview": "When urban chaos erupts around them, a band of honour-bound thieves must pull off a dangerous escape together, refusing to abandon each other despite deadly obstacles in their path.",
-      "poster": "/l6vgYddcWa76ZnRmVBLEwXfbMiu.jpg",
-      "backdrop": "/rJMxmbqJhPFrTTJW8idTcqCNNV7.jpg",
+      "poster": "/2YVd84sp7iPcvQxXk0PfhDDC6GT.jpg",
+      "backdrop": "/erBbnB0x1WeE9zZHo9h2kJww5ZU.jpg",
       "runtime": 132,
       "genres": [
         "Action",
