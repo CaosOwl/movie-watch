@@ -1,6 +1,6 @@
 {
   "home_country": "CH",
-  "generated": "2026-11-19T13:02:07.380Z",
+  "generated": "2026-11-20T12:53:06.007Z",
   "movies": [
     {
       "imdb_id": "tt1457767",
@@ -48,8 +48,8 @@
         "James Wan"
       ],
       "writers": [
-        "Carey Hayes",
-        "Chad Hayes"
+        "Chad Hayes",
+        "Carey Hayes"
       ],
       "cast": [
         {
@@ -113,7 +113,7 @@
       "ratings": {
         "tmdb": {
           "value": 7.545,
-          "votes": 13308
+          "votes": 13313
         },
         "imdb": null,
         "metascore": null,
@@ -1675,10 +1675,6 @@
               "logo": "/eGUwOOIxcazwEBxqJpSN5sWEu6V.png"
             },
             {
-              "name": "Tivify",
-              "logo": "/o1Z73d95pgJMpS3iCfRDtK5XJgp.png"
-            },
-            {
               "name": "Amazon Prime Video with Ads",
               "logo": "/tpwTT1FpWqLLhxUfAuDavIXDDfI.png"
             },
@@ -2993,12 +2989,20 @@
             {
               "name": "Claro video",
               "logo": "/zTJg0WVErBkcJv4S9FkQRUyXjnq.png"
+            },
+            {
+              "name": "Amazon Video",
+              "logo": "/jn6TLbtaTZntTRX9UYucHJvpQx1.png"
             }
           ],
           "buy": [
             {
               "name": "Apple TV Store",
               "logo": "/qdEGArH3lKfFnAtYXMkSYk5wxuG.png"
+            },
+            {
+              "name": "Amazon Video",
+              "logo": "/jn6TLbtaTZntTRX9UYucHJvpQx1.png"
             }
           ]
         },
@@ -3641,7 +3645,7 @@
           "genre_ids": [
             27
           ],
-          "vote": 6.949
+          "vote": 6.948
         },
         {
           "tmdb_id": 91586,
@@ -3685,7 +3689,7 @@
             27,
             53
           ],
-          "vote": 7
+          "vote": 6.959
         },
         {
           "tmdb_id": 423108,
@@ -3733,17 +3737,6 @@
           "vote": 5.884
         },
         {
-          "tmdb_id": 44698,
-          "title": "The Evil",
-          "year": "1978",
-          "poster": "/LmdVqM8DrCZmcghCyPZDHLI1Xm.jpg",
-          "genre_ids": [
-            53,
-            27
-          ],
-          "vote": 5.8
-        },
-        {
           "tmdb_id": 77883,
           "title": "The Possession",
           "year": "2012",
@@ -3753,6 +3746,17 @@
             53
           ],
           "vote": 6.026
+        },
+        {
+          "tmdb_id": 44698,
+          "title": "The Evil",
+          "year": "1978",
+          "poster": "/LmdVqM8DrCZmcghCyPZDHLI1Xm.jpg",
+          "genre_ids": [
+            53,
+            27
+          ],
+          "vote": 5.8
         },
         {
           "tmdb_id": 709631,
@@ -3765,7 +3769,7 @@
           "vote": 6.413
         }
       ],
-      "updated": "2026-11-19T13:02:02.190Z"
+      "updated": "2026-11-20T12:52:59.808Z"
     },
     {
       "imdb_id": "tt0245429",
@@ -3876,7 +3880,7 @@
       "ratings": {
         "tmdb": {
           "value": 8.537,
-          "votes": 19245
+          "votes": 19251
         },
         "imdb": null,
         "metascore": null,
@@ -4676,10 +4680,6 @@
             }
           ],
           "buy": [
-            {
-              "name": "Amazon Video",
-              "logo": "/jn6TLbtaTZntTRX9UYucHJvpQx1.png"
-            },
             {
               "name": "Apple TV Store",
               "logo": "/qdEGArH3lKfFnAtYXMkSYk5wxuG.png"
@@ -6746,6 +6746,18 @@
           "vote": 6.973
         },
         {
+          "tmdb_id": 152042,
+          "title": "Puella Magi Madoka Magica the Movie Part I: Beginnings",
+          "year": "2012",
+          "poster": "/kJjtXLRR1mV7kEUuSnCKDEmN94G.jpg",
+          "genre_ids": [
+            53,
+            16,
+            14
+          ],
+          "vote": 7.599
+        },
+        {
           "tmdb_id": 116711,
           "title": "Epic",
           "year": "2013",
@@ -6772,20 +6784,6 @@
           "vote": 6.288
         },
         {
-          "tmdb_id": 21481,
-          "title": "Twitches",
-          "year": "2005",
-          "poster": "/8ctDK5B0uR2gre2PxQSSkJZFmh.jpg",
-          "genre_ids": [
-            35,
-            18,
-            10751,
-            14,
-            10770
-          ],
-          "vote": 6.748
-        },
-        {
           "tmdb_id": 15485,
           "title": "Disney Princess Enchanted Tales: Follow Your Dreams",
           "year": "2007",
@@ -6798,19 +6796,21 @@
           "vote": 6.436
         },
         {
-          "tmdb_id": 10144,
-          "title": "The Little Mermaid",
-          "year": "1989",
-          "poster": "/plcZXvI310FkbwIptvd6rqk63LP.jpg",
+          "tmdb_id": 21481,
+          "title": "Twitches",
+          "year": "2005",
+          "poster": "/8ctDK5B0uR2gre2PxQSSkJZFmh.jpg",
           "genre_ids": [
-            16,
+            35,
+            18,
             10751,
-            14
+            14,
+            10770
           ],
-          "vote": 7.351
+          "vote": 6.748
         }
       ],
-      "updated": "2026-11-19T13:02:02.543Z"
+      "updated": "2026-11-20T12:53:00.223Z"
     },
     {
       "imdb_id": "tt15239678",
@@ -6859,8 +6859,8 @@
       ],
       "writers": [
         "Denis Villeneuve",
-        "Jon Spaihts",
-        "Frank Herbert"
+        "Frank Herbert",
+        "Jon Spaihts"
       ],
       "cast": [
         {
@@ -6923,8 +6923,8 @@
       "trailer": "https://www.youtube.com/watch?v=U2Qp5pL3ovA",
       "ratings": {
         "tmdb": {
-          "value": 8.1,
-          "votes": 9008
+          "value": 8.143,
+          "votes": 9018
         },
         "imdb": null,
         "metascore": null,
@@ -10993,7 +10993,7 @@
             878,
             12
           ],
-          "vote": 6.197
+          "vote": 6.196
         },
         {
           "tmdb_id": 1895,
@@ -11020,6 +11020,18 @@
           "vote": 6.539
         },
         {
+          "tmdb_id": 299687,
+          "title": "The 5th Wave",
+          "year": "2016",
+          "poster": "/4Dd79cz5qxKNoKWg1xsfrpOchEr.jpg",
+          "genre_ids": [
+            878,
+            12,
+            28
+          ],
+          "vote": 5.949
+        },
+        {
           "tmdb_id": 9543,
           "title": "Prince of Persia: The Sands of Time",
           "year": "2010",
@@ -11030,6 +11042,18 @@
             28
           ],
           "vote": 6.315
+        },
+        {
+          "tmdb_id": 559,
+          "title": "Spider-Man 3",
+          "year": "2007",
+          "poster": "/qFmwhVUoUSXjkKRmca5yGDEXBIj.jpg",
+          "genre_ids": [
+            28,
+            12,
+            878
+          ],
+          "vote": 6.489
         },
         {
           "tmdb_id": 188927,
@@ -11077,7 +11101,7 @@
             12,
             28
           ],
-          "vote": 7.93
+          "vote": 7.929
         },
         {
           "tmdb_id": 262504,
@@ -11089,34 +11113,10 @@
             878,
             28
           ],
-          "vote": 6.099
-        },
-        {
-          "tmdb_id": 81005,
-          "title": "Jack the Giant Slayer",
-          "year": "2013",
-          "poster": "/9jSI7saUX9Qz0JLh19jX2ulEwL7.jpg",
-          "genre_ids": [
-            14,
-            28,
-            12
-          ],
-          "vote": 5.92
-        },
-        {
-          "tmdb_id": 181812,
-          "title": "Star Wars: The Rise of Skywalker",
-          "year": "2019",
-          "poster": "/db32LaOibwEliAmSL2jjDF6oDdj.jpg",
-          "genre_ids": [
-            12,
-            28,
-            878
-          ],
-          "vote": 6.236
+          "vote": 6.097
         }
       ],
-      "updated": "2026-11-19T13:02:02.896Z"
+      "updated": "2026-11-20T12:53:00.646Z"
     },
     {
       "imdb_id": "tt2056785",
@@ -11134,14 +11134,14 @@
       "tagline": "How far would you go for those you love?",
       "overview": "Prue and her classmate Curtis are drawn into a magical forest filled with enchanted creatures, loyal allies, and formidable adversaries as they embark on a desperate quest to rescue Prue's abducted baby brother from a murder of crows led by a mysterious woman named Alexandra.",
       "genres": [
-        "Adventure",
         "Animation",
+        "Adventure",
         "Drama",
         "Fantasy"
       ],
       "genre_ids": [
-        12,
         16,
+        12,
         18,
         14
       ],
@@ -11235,7 +11235,7 @@
       "ratings": {
         "tmdb": {
           "value": 8.5,
-          "votes": 297
+          "votes": 302
         },
         "imdb": null,
         "metascore": null,
@@ -11703,7 +11703,7 @@
             10751,
             14
           ],
-          "vote": 8.8
+          "vote": 8.831
         },
         {
           "tmdb_id": 116711,
@@ -11744,6 +11744,19 @@
           "vote": 6.619
         },
         {
+          "tmdb_id": 805051,
+          "title": "Welcome to Smelliville",
+          "year": "2021",
+          "poster": "/ArjU46Pq0TaPVhvjedZ0zfT82qM.jpg",
+          "genre_ids": [
+            16,
+            12,
+            10751,
+            14
+          ],
+          "vote": 6.699
+        },
+        {
           "tmdb_id": 11837,
           "title": "Watership Down",
           "year": "1978",
@@ -11756,41 +11769,16 @@
           "vote": 7.2
         },
         {
-          "tmdb_id": 21290,
-          "title": "Strings",
-          "year": "2004",
-          "poster": "/lJJ5ePSlmx3BZ8jFPndboIA60iH.jpg",
-          "genre_ids": [
-            12,
-            16,
-            18,
-            14
-          ],
-          "vote": 6.6
-        },
-        {
-          "tmdb_id": 805051,
-          "title": "Welcome to Smelliville",
-          "year": "2021",
-          "poster": "/ArjU46Pq0TaPVhvjedZ0zfT82qM.jpg",
+          "tmdb_id": 739547,
+          "title": "Thelma the Unicorn",
+          "year": "2024",
+          "poster": "/yutiEZ7taGDNau2jGjKIdDwQpDw.jpg",
           "genre_ids": [
             16,
-            12,
-            10751,
-            14
+            14,
+            10751
           ],
-          "vote": 6.7
-        },
-        {
-          "tmdb_id": 346687,
-          "title": "The Water Man",
-          "year": "2020",
-          "poster": "/krupbFlSTnnKIjpRryrg2CTdeIL.jpg",
-          "genre_ids": [
-            12,
-            14
-          ],
-          "vote": 6.058
+          "vote": 6.869
         },
         {
           "tmdb_id": 588921,
@@ -11806,16 +11794,17 @@
           "vote": 7
         },
         {
-          "tmdb_id": 33821,
-          "title": "Pinocchio",
-          "year": "2009",
-          "poster": "/gOiT5YjhS7nQGoPOhaEaaEwjBxS.jpg",
+          "tmdb_id": 955644,
+          "title": "Mia and Me: The Hero of Centopia",
+          "year": "2022",
+          "poster": "/uHYoyAFffEKWRAH8cNaWI7xClj0.jpg",
           "genre_ids": [
+            16,
+            14,
             12,
-            18,
-            14
+            10751
           ],
-          "vote": 6.1
+          "vote": 6.7
         },
         {
           "tmdb_id": 560057,
@@ -11832,20 +11821,32 @@
           "vote": 7.322
         },
         {
-          "tmdb_id": 955644,
-          "title": "Mia and Me: The Hero of Centopia",
-          "year": "2022",
-          "poster": "/uHYoyAFffEKWRAH8cNaWI7xClj0.jpg",
+          "tmdb_id": 21290,
+          "title": "Strings",
+          "year": "2004",
+          "poster": "/lJJ5ePSlmx3BZ8jFPndboIA60iH.jpg",
+          "genre_ids": [
+            12,
+            16,
+            18,
+            14
+          ],
+          "vote": 6.6
+        },
+        {
+          "tmdb_id": 256439,
+          "title": "My Little Pony: The Runaway Rainbow",
+          "year": "2006",
+          "poster": "/dnEqkXi0oUo9jlQCUzhCN0Vxyx7.jpg",
           "genre_ids": [
             16,
-            14,
             12,
-            10751
+            14
           ],
-          "vote": 6.7
+          "vote": 7.4
         }
       ],
-      "updated": "2026-11-19T13:02:03.247Z"
+      "updated": "2026-11-20T12:53:01.090Z"
     },
     {
       "imdb_id": "tt22084616",
@@ -11890,7 +11891,7 @@
         "aftercreditsstinger"
       ],
       "poster": "/bjiS5ipwxb9JFy3XRRN4OAilSeX.jpg",
-      "backdrop": "/subj7knTn4DeS6KS7qI66EQKe9i.jpg",
+      "backdrop": "/r08LxMJCbf1SiJIWeyH9aJmdqwC.jpg",
       "directors": [
         "Destin Daniel Cretton"
       ],
@@ -11961,8 +11962,8 @@
       "trailer": "https://www.youtube.com/watch?v=P3uI5sLosKU",
       "ratings": {
         "tmdb": {
-          "value": 8.461,
-          "votes": 6968
+          "value": 8.458,
+          "votes": 6992
         },
         "imdb": null,
         "metascore": null,
@@ -12156,6 +12157,12 @@
               "type": "Theatrical",
               "typeId": 3,
               "date": "2026-07-29"
+            },
+            {
+              "type": "Theatrical",
+              "typeId": 3,
+              "date": "2026-12-03",
+              "note": "Special edition re-release"
             }
           ],
           "DE": [
@@ -14592,7 +14599,7 @@
             12,
             878
           ],
-          "vote": 6.195
+          "vote": 6.194
         },
         {
           "tmdb_id": 580489,
@@ -14604,7 +14611,7 @@
             28,
             12
           ],
-          "vote": 6.7
+          "vote": 6.716
         },
         {
           "tmdb_id": 271110,
@@ -14616,7 +14623,7 @@
             28,
             878
           ],
-          "vote": 7.456
+          "vote": 7.455
         },
         {
           "tmdb_id": 298618,
@@ -14628,7 +14635,7 @@
             878,
             12
           ],
-          "vote": 6.59
+          "vote": 6.589
         },
         {
           "tmdb_id": 447365,
@@ -14640,7 +14647,7 @@
             12,
             28
           ],
-          "vote": 7.93
+          "vote": 7.929
         },
         {
           "tmdb_id": 100402,
@@ -14652,7 +14659,7 @@
             12,
             878
           ],
-          "vote": 7.653
+          "vote": 7.652
         },
         {
           "tmdb_id": 283995,
@@ -14665,18 +14672,6 @@
             28
           ],
           "vote": 7.607
-        },
-        {
-          "tmdb_id": 141052,
-          "title": "Justice League",
-          "year": "2017",
-          "poster": "/eifGNCSDuxJeS1loAXil5bIGgvC.jpg",
-          "genre_ids": [
-            28,
-            12,
-            878
-          ],
-          "vote": 6.062
         },
         {
           "tmdb_id": 10138,
@@ -14701,9 +14696,21 @@
             12
           ],
           "vote": 8.085
+        },
+        {
+          "tmdb_id": 246655,
+          "title": "X-Men: Apocalypse",
+          "year": "2016",
+          "poster": "/ikA8UhYdTGpqbatFa93nIf6noSr.jpg",
+          "genre_ids": [
+            878,
+            14,
+            28
+          ],
+          "vote": 6.53
         }
       ],
-      "updated": "2026-11-19T13:02:03.635Z"
+      "updated": "2026-11-20T12:53:01.514Z"
     },
     {
       "imdb_id": "tt45368240",
@@ -14812,7 +14819,7 @@
       "ratings": {
         "tmdb": {
           "value": 8.8,
-          "votes": 134
+          "votes": 137
         },
         "imdb": null,
         "metascore": null,
@@ -15033,6 +15040,13 @@
               "typeId": 1,
               "date": "2026-11-01",
               "note": "Budapest International Film Festival"
+            }
+          ],
+          "IE": [
+            {
+              "type": "Theatrical",
+              "typeId": 3,
+              "date": "2026-11-20"
             }
           ],
           "IL": [
@@ -15355,16 +15369,6 @@
       "availability": {},
       "recommendations": [
         {
-          "tmdb_id": 1591516,
-          "title": "Evil Influencer: The Jodi Hildebrandt Story",
-          "year": "2025",
-          "poster": "/xCawp08whOaJS434IDlBytX7sSm.jpg",
-          "genre_ids": [
-            99
-          ],
-          "vote": 6.188
-        },
-        {
           "tmdb_id": 34015,
           "title": "We Live in Public",
           "year": "2009",
@@ -15375,6 +15379,16 @@
           "vote": 6.79
         },
         {
+          "tmdb_id": 1591516,
+          "title": "Evil Influencer: The Jodi Hildebrandt Story",
+          "year": "2025",
+          "poster": "/xCawp08whOaJS434IDlBytX7sSm.jpg",
+          "genre_ids": [
+            99
+          ],
+          "vote": 6.188
+        },
+        {
           "tmdb_id": 1061671,
           "title": "Pamela, a love story",
           "year": "2023",
@@ -15382,7 +15396,7 @@
           "genre_ids": [
             99
           ],
-          "vote": 6.998
+          "vote": 6.987
         },
         {
           "tmdb_id": 1723460,
@@ -15425,14 +15439,14 @@
           "vote": 6.1
         },
         {
-          "tmdb_id": 653729,
-          "title": "Time",
-          "year": "2020",
-          "poster": "/2yLZmlf6vdpkhTaD0oUmIFu8SsM.jpg",
+          "tmdb_id": 430830,
+          "title": "Nobody Speak: Trials of the Free Press",
+          "year": "2017",
+          "poster": "/beWrI8ykYq95C0VSWrBoz4dec23.jpg",
           "genre_ids": [
             99
           ],
-          "vote": 6.7
+          "vote": 6
         },
         {
           "tmdb_id": 293310,
@@ -15445,16 +15459,6 @@
           "vote": 7.743
         },
         {
-          "tmdb_id": 430830,
-          "title": "Nobody Speak: Trials of the Free Press",
-          "year": "2017",
-          "poster": "/beWrI8ykYq95C0VSWrBoz4dec23.jpg",
-          "genre_ids": [
-            99
-          ],
-          "vote": 6
-        },
-        {
           "tmdb_id": 1461714,
           "title": "My Mom Jayne",
           "year": "2025",
@@ -15465,17 +15469,27 @@
           "vote": 8.025
         },
         {
-          "tmdb_id": 1214523,
-          "title": "Frida",
-          "year": "2024",
-          "poster": "/qfPjPZF2AqB2XnXPFcHlYtlQRS3.jpg",
+          "tmdb_id": 653729,
+          "title": "Time",
+          "year": "2020",
+          "poster": "/2yLZmlf6vdpkhTaD0oUmIFu8SsM.jpg",
           "genre_ids": [
             99
           ],
-          "vote": 6.8
+          "vote": 6.723
+        },
+        {
+          "tmdb_id": 778870,
+          "title": "Strip Down, Rise Up",
+          "year": "2021",
+          "poster": "/CXQ5zOrhHGcw1imsRMwa7W8izS.jpg",
+          "genre_ids": [
+            99
+          ],
+          "vote": 6.38
         }
       ],
-      "updated": "2026-11-19T13:02:03.979Z"
+      "updated": "2026-11-20T12:53:01.925Z"
     },
     {
       "imdb_id": "tt21357150",
@@ -15511,16 +15525,16 @@
         "team up",
         "multiverse"
       ],
-      "poster": "/cWXtJhrlruF8CeYuaBGE8vdj3Q9.jpg",
-      "backdrop": "/rObL4of4eFA8yWaN9pRFo9aOVNi.jpg",
+      "poster": "/1zqWkLwC1zLBBBtIWzmkmWeMWnT.jpg",
+      "backdrop": "/9N21RJNwDuYJP5M0Of3mN4xG3IA.jpg",
       "directors": [
         "Joe Russo",
         "Anthony Russo"
       ],
       "writers": [
         "Stephen McFeely",
-        "Jack Kirby",
         "Stan Lee",
+        "Jack Kirby",
         "Michael Waldron"
       ],
       "cast": [
@@ -15562,7 +15576,7 @@
         {
           "name": "Vanessa Kirby",
           "character": "Sue Storm / Invisible Woman",
-          "photo": "/a8a9U00KL2JJkkekzhNnueIGKKF.jpg"
+          "photo": "/5fbvIkZ02RdcXfZHUUk4cQ9kILK.jpg"
         },
         {
           "name": "Ebon Moss-Bachrach",
@@ -16000,19 +16014,7 @@
             28,
             878
           ],
-          "vote": 7.456
-        },
-        {
-          "tmdb_id": 141052,
-          "title": "Justice League",
-          "year": "2017",
-          "poster": "/eifGNCSDuxJeS1loAXil5bIGgvC.jpg",
-          "genre_ids": [
-            28,
-            12,
-            878
-          ],
-          "vote": 6.062
+          "vote": 7.455
         },
         {
           "tmdb_id": 299536,
@@ -16036,7 +16038,7 @@
             878,
             28
           ],
-          "vote": 8.2
+          "vote": 8.247
         },
         {
           "tmdb_id": 447365,
@@ -16048,7 +16050,7 @@
             12,
             28
           ],
-          "vote": 7.93
+          "vote": 7.929
         },
         {
           "tmdb_id": 320288,
@@ -16060,7 +16062,7 @@
             28,
             12
           ],
-          "vote": 5.956
+          "vote": 5.955
         },
         {
           "tmdb_id": 283995,
@@ -16108,7 +16110,7 @@
             12,
             878
           ],
-          "vote": 6.195
+          "vote": 6.194
         },
         {
           "tmdb_id": 1155089,
@@ -16133,9 +16135,21 @@
             12
           ],
           "vote": 8.085
+        },
+        {
+          "tmdb_id": 453395,
+          "title": "Doctor Strange in the Multiverse of Madness",
+          "year": "2022",
+          "poster": "/ddJcSKbcp4rKZTmuyWaMhuwcfMz.jpg",
+          "genre_ids": [
+            14,
+            28,
+            12
+          ],
+          "vote": 7.215
         }
       ],
-      "updated": "2026-11-19T13:02:04.335Z"
+      "updated": "2026-11-20T12:53:02.338Z"
     },
     {
       "imdb_id": "tt31378509",
@@ -16226,7 +16240,7 @@
         {
           "name": "Robert Pattinson",
           "character": "Scytale",
-          "photo": "/3qZ09UE7lN6AtorfXFRYpEtSY93.jpg"
+          "photo": "/aQr7LOIBe15krp0SMbtKAEVUGrT.jpg"
         },
         {
           "name": "Javier Bardem",
@@ -16826,7 +16840,7 @@
             878,
             12
           ],
-          "vote": 8.1
+          "vote": 8.143
         },
         {
           "tmdb_id": 188927,
@@ -16850,7 +16864,7 @@
             28,
             12
           ],
-          "vote": 6.026
+          "vote": 6.024
         },
         {
           "tmdb_id": 348350,
@@ -16862,7 +16876,7 @@
             12,
             28
           ],
-          "vote": 6.55
+          "vote": 6.549
         },
         {
           "tmdb_id": 438631,
@@ -16897,7 +16911,7 @@
             12,
             878
           ],
-          "vote": 7.5
+          "vote": 7.512
         },
         {
           "tmdb_id": 841,
@@ -16909,7 +16923,7 @@
             878,
             12
           ],
-          "vote": 6.197
+          "vote": 6.196
         },
         {
           "tmdb_id": 339964,
@@ -16921,7 +16935,7 @@
             878,
             28
           ],
-          "vote": 6.654
+          "vote": 6.655
         },
         {
           "tmdb_id": 848326,
@@ -16933,7 +16947,7 @@
             28,
             12
           ],
-          "vote": 6.203
+          "vote": 6.202
         },
         {
           "tmdb_id": 54138,
@@ -16948,19 +16962,19 @@
           "vote": 7.321
         },
         {
-          "tmdb_id": 262504,
-          "title": "Allegiant",
+          "tmdb_id": 299687,
+          "title": "The 5th Wave",
           "year": "2016",
-          "poster": "/faq9JlF8znUGQ5p3En1W61Fi5p0.jpg",
+          "poster": "/4Dd79cz5qxKNoKWg1xsfrpOchEr.jpg",
           "genre_ids": [
-            12,
             878,
+            12,
             28
           ],
-          "vote": 6.099
+          "vote": 5.949
         }
       ],
-      "updated": "2026-11-19T13:02:04.674Z"
+      "updated": "2026-11-20T12:53:02.758Z"
     },
     {
       "imdb_id": "tt16360004",
@@ -17014,8 +17028,8 @@
       ],
       "writers": [
         "Christopher Miller",
-        "Phil Lord",
         "David Callaham",
+        "Phil Lord",
         "Samantha Suyi Lee"
       ],
       "cast": [
@@ -17186,7 +17200,7 @@
             12,
             878
           ],
-          "vote": 8.345
+          "vote": 8.3
         },
         {
           "tmdb_id": 225925,
@@ -17281,18 +17295,6 @@
           "vote": 7.493
         },
         {
-          "tmdb_id": 1155089,
-          "title": "Justice League: Crisis on Infinite Earths Part One",
-          "year": "2024",
-          "poster": "/zR6C66EDklgTPLHRSmmMt5878MR.jpg",
-          "genre_ids": [
-            16,
-            878,
-            28
-          ],
-          "vote": 7.2
-        },
-        {
           "tmdb_id": 76589,
           "title": "Justice League: Doom",
           "year": "2012",
@@ -17304,6 +17306,18 @@
             14
           ],
           "vote": 7.408
+        },
+        {
+          "tmdb_id": 1155089,
+          "title": "Justice League: Crisis on Infinite Earths Part One",
+          "year": "2024",
+          "poster": "/zR6C66EDklgTPLHRSmmMt5878MR.jpg",
+          "genre_ids": [
+            16,
+            878,
+            28
+          ],
+          "vote": 7.2
         },
         {
           "tmdb_id": 1506560,
@@ -17329,10 +17343,10 @@
             28,
             80
           ],
-          "vote": 7.315
+          "vote": 7.317
         }
       ],
-      "updated": "2026-11-19T13:02:05.021Z"
+      "updated": "2026-11-20T12:53:03.174Z"
     },
     {
       "imdb_id": "tt18270542",
@@ -18116,7 +18130,7 @@
             16,
             9648
           ],
-          "vote": 7.9
+          "vote": 7.921
         },
         {
           "tmdb_id": 123025,
@@ -18129,7 +18143,7 @@
             16,
             9648
           ],
-          "vote": 7.736
+          "vote": 7.737
         },
         {
           "tmdb_id": 75612,
@@ -18232,7 +18246,7 @@
             28,
             878
           ],
-          "vote": 7.039
+          "vote": 7.041
         },
         {
           "tmdb_id": 84329,
@@ -18256,10 +18270,10 @@
             80,
             9648
           ],
-          "vote": 7.512
+          "vote": 7.513
         }
       ],
-      "updated": "2026-11-19T13:02:05.367Z"
+      "updated": "2026-11-20T12:53:03.587Z"
     },
     {
       "imdb_id": "tt16744566",
@@ -18582,7 +18596,7 @@
             16,
             9648
           ],
-          "vote": 7.736
+          "vote": 7.737
         },
         {
           "tmdb_id": 354857,
@@ -18609,7 +18623,7 @@
             35,
             10751
           ],
-          "vote": 6.631
+          "vote": 6.632
         },
         {
           "tmdb_id": 556901,
@@ -18627,7 +18641,7 @@
           "vote": 7.493
         }
       ],
-      "updated": "2026-11-19T13:02:05.712Z"
+      "updated": "2026-11-20T12:53:03.997Z"
     },
     {
       "imdb_id": "tt31450459",
@@ -18699,7 +18713,7 @@
         {
           "name": "Sandra Hüller",
           "character": "Emma",
-          "photo": "/eytKTAVD9fP8kklbW4dMilbceig.jpg"
+          "photo": "/gDiFGzVbpjFU44QJGKsEVk8WuVw.jpg"
         },
         {
           "name": "Michael Stuhlbarg",
@@ -18709,7 +18723,7 @@
         {
           "name": "Jesse Plemons",
           "character": "Kenny",
-          "photo": "/og4I51GsuwohdPgoELOHVMMqMre.jpg"
+          "photo": "/ckTthGclQE0y6b7gR0RpRo7LskL.jpg"
         },
         {
           "name": "Robert John Burke",
@@ -18744,8 +18758,8 @@
       "trailer": "https://www.youtube.com/watch?v=job8V254NAE",
       "ratings": {
         "tmdb": {
-          "value": 7.5,
-          "votes": 533
+          "value": 7.501,
+          "votes": 534
         },
         "imdb": null,
         "metascore": null,
@@ -19477,7 +19491,7 @@
             53,
             35
           ],
-          "vote": 7.292
+          "vote": 7.291
         },
         {
           "tmdb_id": 497828,
@@ -19488,7 +19502,7 @@
             35,
             18
           ],
-          "vote": 6.999
+          "vote": 7
         },
         {
           "tmdb_id": 646376,
@@ -19502,15 +19516,15 @@
           "vote": 6.1
         },
         {
-          "tmdb_id": 26639,
-          "title": "Britannia Hospital",
-          "year": "1982",
-          "poster": "/jbqfoco8nzpaPEHSxQIBTgGpAed.jpg",
+          "tmdb_id": 28973,
+          "title": "A King in New York",
+          "year": "1957",
+          "poster": "/e6KtBoiXa5D3LLZtiMCkiqIDnZv.jpg",
           "genre_ids": [
             35,
-            878
+            18
           ],
-          "vote": 6.217
+          "vote": 6.731
         },
         {
           "tmdb_id": 1190012,
@@ -19537,6 +19551,28 @@
           "vote": 6.219
         },
         {
+          "tmdb_id": 26639,
+          "title": "Britannia Hospital",
+          "year": "1982",
+          "poster": "/jbqfoco8nzpaPEHSxQIBTgGpAed.jpg",
+          "genre_ids": [
+            35,
+            878
+          ],
+          "vote": 6.217
+        },
+        {
+          "tmdb_id": 717693,
+          "title": "Playing God",
+          "year": "2021",
+          "poster": "/5eXtK7BQMAYVktjVf78s0scMTdX.jpg",
+          "genre_ids": [
+            35,
+            18
+          ],
+          "vote": 6
+        },
+        {
           "tmdb_id": 646380,
           "title": "Don't Look Up",
           "year": "2021",
@@ -19547,6 +19583,17 @@
             18
           ],
           "vote": 7.05
+        },
+        {
+          "tmdb_id": 231,
+          "title": "Syriana",
+          "year": "2005",
+          "poster": "/mO3hWUTOxmLJxihvDU0YFkb0Mb5.jpg",
+          "genre_ids": [
+            18,
+            53
+          ],
+          "vote": 6.429
         },
         {
           "tmdb_id": 507244,
@@ -19561,53 +19608,19 @@
           "vote": 6.2
         },
         {
-          "tmdb_id": 231,
-          "title": "Syriana",
-          "year": "2005",
-          "poster": "/mO3hWUTOxmLJxihvDU0YFkb0Mb5.jpg",
-          "genre_ids": [
-            18,
-            53
-          ],
-          "vote": 6.429
-        },
-        {
           "tmdb_id": 1161617,
           "title": "Code 3",
           "year": "2025",
-          "poster": "/gIAYMDb5mIAeCAj76q1sRsKjkzo.jpg",
+          "poster": "/4PeJrEYkngzkksUCGHr1b6bEAa0.jpg",
           "genre_ids": [
             35,
             28,
             18
           ],
-          "vote": 7.052
-        },
-        {
-          "tmdb_id": 13282,
-          "title": "Death Race 2000",
-          "year": "1975",
-          "poster": "/kwM8kkNGtv62gfPWVhD6qFxjDzg.jpg",
-          "genre_ids": [
-            28,
-            878,
-            35
-          ],
-          "vote": 6.1
-        },
-        {
-          "tmdb_id": 717693,
-          "title": "Playing God",
-          "year": "2021",
-          "poster": "/5eXtK7BQMAYVktjVf78s0scMTdX.jpg",
-          "genre_ids": [
-            35,
-            18
-          ],
-          "vote": 6
+          "vote": 7
         }
       ],
-      "updated": "2026-11-19T13:02:06.061Z"
+      "updated": "2026-11-20T12:53:04.415Z"
     },
     {
       "imdb_id": "tt32820897",
@@ -19717,8 +19730,8 @@
       "trailer": "https://www.youtube.com/watch?v=EpAlHmuA2YM",
       "ratings": {
         "tmdb": {
-          "value": 8.8,
-          "votes": 2401
+          "value": 8.799,
+          "votes": 2403
         },
         "imdb": null,
         "metascore": null,
@@ -22875,19 +22888,7 @@
             28,
             14
           ],
-          "vote": 8.231
-        },
-        {
-          "tmdb_id": 895003,
-          "title": "Demon Slayer: Kimetsu no Yaiba - Asakusa Arc",
-          "year": "2022",
-          "poster": "/t2w332ARBJxy1G65abj8C7VNjeW.jpg",
-          "genre_ids": [
-            16,
-            28,
-            14
-          ],
-          "vote": 7.565
+          "vote": 8.232
         },
         {
           "tmdb_id": 820232,
@@ -22903,6 +22904,18 @@
           "vote": 7.862
         },
         {
+          "tmdb_id": 895003,
+          "title": "Demon Slayer: Kimetsu no Yaiba - Asakusa Arc",
+          "year": "2022",
+          "poster": "/t2w332ARBJxy1G65abj8C7VNjeW.jpg",
+          "genre_ids": [
+            16,
+            28,
+            14
+          ],
+          "vote": 7.565
+        },
+        {
           "tmdb_id": 390634,
           "title": "Fate/stay night: Heaven's Feel II. Lost Butterfly",
           "year": "2019",
@@ -22915,19 +22928,6 @@
             10749
           ],
           "vote": 7.095
-        },
-        {
-          "tmdb_id": 968870,
-          "title": "Pretty Guardian Sailor Moon Cosmos the Movie Part 2",
-          "year": "2023",
-          "poster": "/sHmtdPMhnVtZWHro6f8CuDQuusz.jpg",
-          "genre_ids": [
-            16,
-            12,
-            14,
-            10749
-          ],
-          "vote": 8
         },
         {
           "tmdb_id": 811948,
@@ -22954,6 +22954,18 @@
           "vote": 7.739
         },
         {
+          "tmdb_id": 34295,
+          "title": "Inuyasha the Movie 3: Swords of an Honorable Ruler",
+          "year": "2003",
+          "poster": "/cUqC1pHXFhow0kSJbg4e77EcuxQ.jpg",
+          "genre_ids": [
+            16,
+            14,
+            12
+          ],
+          "vote": 7.699
+        },
+        {
           "tmdb_id": 44179,
           "title": "Demon City Shinjuku",
           "year": "1988",
@@ -22965,18 +22977,6 @@
             27
           ],
           "vote": 6
-        },
-        {
-          "tmdb_id": 34295,
-          "title": "Inuyasha the Movie 3: Swords of an Honorable Ruler",
-          "year": "2003",
-          "poster": "/cUqC1pHXFhow0kSJbg4e77EcuxQ.jpg",
-          "genre_ids": [
-            16,
-            14,
-            12
-          ],
-          "vote": 7.699
         },
         {
           "tmdb_id": 1539104,
@@ -23014,9 +23014,22 @@
             12
           ],
           "vote": 7.6
+        },
+        {
+          "tmdb_id": 22537,
+          "title": "Inuyasha the Movie 2: The Castle Beyond the Looking Glass",
+          "year": "2002",
+          "poster": "/iIHC94gkBt0Uha8TUTgHcAt6IoD.jpg",
+          "genre_ids": [
+            28,
+            16,
+            12,
+            14
+          ],
+          "vote": 7.683
         }
       ],
-      "updated": "2026-11-19T13:02:06.431Z"
+      "updated": "2026-11-20T12:53:04.941Z"
     },
     {
       "imdb_id": "tt34384661",
@@ -23128,8 +23141,8 @@
       "trailer": "https://www.youtube.com/watch?v=Pu0pH5BuCPM",
       "ratings": {
         "tmdb": {
-          "value": 7.7,
-          "votes": 263
+          "value": 7.662,
+          "votes": 272
         },
         "imdb": null,
         "metascore": null,
@@ -23746,7 +23759,7 @@
             27,
             28
           ],
-          "vote": 7.6
+          "vote": 7.63
         },
         {
           "tmdb_id": 18289,
@@ -23781,7 +23794,7 @@
             878,
             27
           ],
-          "vote": 7.3
+          "vote": 7.258
         },
         {
           "tmdb_id": 10643,
@@ -23806,7 +23819,7 @@
             28,
             12
           ],
-          "vote": 6.493
+          "vote": 6.5
         },
         {
           "tmdb_id": 823464,
@@ -23818,19 +23831,19 @@
             12,
             878
           ],
-          "vote": 7.022
+          "vote": 7.02
         },
         {
-          "tmdb_id": 12636,
-          "title": "Godzilla Against MechaGodzilla",
-          "year": "2002",
-          "poster": "/Kg6J3qyf80cwnKkv1YorSjkNaK.jpg",
+          "tmdb_id": 39464,
+          "title": "Godzilla vs. Hedorah",
+          "year": "1971",
+          "poster": "/sy9k4VKud71zhY4a7kaq9flptw.jpg",
           "genre_ids": [
-            28,
             878,
-            53
+            28,
+            27
           ],
-          "vote": 7.449
+          "vote": 6.816
         },
         {
           "tmdb_id": 340382,
@@ -23857,6 +23870,18 @@
           "vote": 6.338
         },
         {
+          "tmdb_id": 449574,
+          "title": "Godzilla: Planet of the Monsters",
+          "year": "2017",
+          "poster": "/hAuZ7g6TqDLv5fOqXIPgYRguOkm.jpg",
+          "genre_ids": [
+            16,
+            28,
+            878
+          ],
+          "vote": 6.376
+        },
+        {
           "tmdb_id": 60159,
           "title": "Gamera 3: Revenge of Iris",
           "year": "1999",
@@ -23867,22 +23892,10 @@
             27,
             28
           ],
-          "vote": 7.4
-        },
-        {
-          "tmdb_id": 3146,
-          "title": "The War of the Gargantuas",
-          "year": "1966",
-          "poster": "/q8EH0y601mhYJmchoTRoo92Q0FS.jpg",
-          "genre_ids": [
-            28,
-            27,
-            878
-          ],
-          "vote": 6.3
+          "vote": 7.42
         }
       ],
-      "updated": "2026-11-19T13:02:06.783Z"
+      "updated": "2026-11-20T12:53:05.350Z"
     },
     {
       "imdb_id": "tt35538033",
@@ -23924,7 +23937,7 @@
         "courier service",
         "virus",
         "body horror",
-        "approving"
+        "zombie horror"
       ],
       "poster": "/gAgWJhUSQWCgtKR8170nMkYlBda.jpg",
       "backdrop": "/3icyRAqgakNcQn6aDVz9libFmBA.jpg",
@@ -23999,7 +24012,7 @@
       "ratings": {
         "tmdb": {
           "value": 7.534,
-          "votes": 2370
+          "votes": 2398
         },
         "imdb": null,
         "metascore": null,
@@ -26152,7 +26165,7 @@
             53,
             878
           ],
-          "vote": 7.242
+          "vote": 7.241
         },
         {
           "tmdb_id": 294254,
@@ -26165,19 +26178,7 @@
             53,
             12
           ],
-          "vote": 6.728
-        },
-        {
-          "tmdb_id": 11683,
-          "title": "Land of the Dead",
-          "year": "2005",
-          "poster": "/xxp0qcZ3n2YA53SIzWilDSfIaA4.jpg",
-          "genre_ids": [
-            27,
-            878,
-            53
-          ],
-          "vote": 6.276
+          "vote": 6.727
         },
         {
           "tmdb_id": 106845,
@@ -26189,42 +26190,6 @@
             878
           ],
           "vote": 5.9
-        },
-        {
-          "tmdb_id": 9599,
-          "title": "The Blob",
-          "year": "1988",
-          "poster": "/n6nT4SMY6fLozm7AuGySpXUmjry.jpg",
-          "genre_ids": [
-            27,
-            878,
-            53
-          ],
-          "vote": 6.878
-        },
-        {
-          "tmdb_id": 23963,
-          "title": "Pontypool",
-          "year": "2009",
-          "poster": "/4wWMvurzg1AoArX57pqsPWwhps2.jpg",
-          "genre_ids": [
-            27,
-            9648,
-            878
-          ],
-          "vote": 6.459
-        },
-        {
-          "tmdb_id": 123105,
-          "title": "The Bay",
-          "year": "2012",
-          "poster": "/fnmYgr4AOOE09zKa7omPW1FWT8K.jpg",
-          "genre_ids": [
-            27,
-            878,
-            53
-          ],
-          "vote": 5.816
         },
         {
           "tmdb_id": 1576,
@@ -26239,6 +26204,54 @@
           "vote": 6.688
         },
         {
+          "tmdb_id": 23963,
+          "title": "Pontypool",
+          "year": "2009",
+          "poster": "/4wWMvurzg1AoArX57pqsPWwhps2.jpg",
+          "genre_ids": [
+            27,
+            9648,
+            878
+          ],
+          "vote": 6.459
+        },
+        {
+          "tmdb_id": 11683,
+          "title": "Land of the Dead",
+          "year": "2005",
+          "poster": "/xxp0qcZ3n2YA53SIzWilDSfIaA4.jpg",
+          "genre_ids": [
+            27,
+            878,
+            53
+          ],
+          "vote": 6.276
+        },
+        {
+          "tmdb_id": 9599,
+          "title": "The Blob",
+          "year": "1988",
+          "poster": "/n6nT4SMY6fLozm7AuGySpXUmjry.jpg",
+          "genre_ids": [
+            27,
+            878,
+            53
+          ],
+          "vote": 6.876
+        },
+        {
+          "tmdb_id": 123105,
+          "title": "The Bay",
+          "year": "2012",
+          "poster": "/fnmYgr4AOOE09zKa7omPW1FWT8K.jpg",
+          "genre_ids": [
+            27,
+            878,
+            53
+          ],
+          "vote": 5.816
+        },
+        {
           "tmdb_id": 338676,
           "title": "Extinction",
           "year": "2015",
@@ -26251,16 +26264,16 @@
           "vote": 6.364
         },
         {
-          "tmdb_id": 1100988,
-          "title": "28 Years Later",
-          "year": "2025",
-          "poster": "/n5FygjEppOvac6yEaowi26nTyw3.jpg",
+          "tmdb_id": 1562,
+          "title": "28 Weeks Later",
+          "year": "2007",
+          "poster": "/oix0aNv1lvW3nUGspUyvSIBlpbs.jpg",
           "genre_ids": [
             27,
             53,
             878
           ],
-          "vote": 6.595
+          "vote": 6.59
         },
         {
           "tmdb_id": 399894,
@@ -26272,10 +26285,10 @@
             27,
             878
           ],
-          "vote": 5.8
+          "vote": 5.865
         }
       ],
-      "updated": "2026-11-19T13:02:07.131Z"
+      "updated": "2026-11-20T12:53:05.757Z"
     }
   ]
 }

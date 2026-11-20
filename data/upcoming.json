@@ -1,6 +1,6 @@
 {
   "home_country": "CH",
-  "generated": "2026-11-19T13:02:19.934Z",
+  "generated": "2026-11-20T12:53:21.014Z",
   "movies": [
     {
       "tmdb_id": 421892,
@@ -25,8 +25,8 @@
         "Conrad Vernon"
       ],
       "writers": [
-        "William Steig",
         "Michael McCullers",
+        "William Steig",
         "Chris Meledandri"
       ],
       "cast": [
@@ -95,7 +95,7 @@
       "tagline": "Something is happening to Billie...",
       "overview": "An impulsive and unconventional teenage girl named Billie discovers secret magical abilities which, once unleashed, hurtle her into a spectacle-filled journey out of suburbia and into a vast witch realm called Hexe. Forced to team up with her cautious mother, Alice, they uncover family mysteries that could change the world of witches forever.",
       "poster": "/yykeYKbDBM9eUMJUucaaDo2mi1p.jpg",
-      "backdrop": "/wZ9Me7OndzgBOEAa8nSBNPu3Sl4.jpg",
+      "backdrop": "/pYIJeLvfbVamFGO6hOERGVP2gTf.jpg",
       "runtime": 103,
       "genres": [
         "Adventure",
@@ -441,8 +441,8 @@
       ],
       "writers": [
         "Elizabeth Morris",
-        "Vicki Sargent",
-        "Matt Mitchell"
+        "Matt Mitchell",
+        "Vicki Sargent"
       ],
       "cast": [
         {
@@ -485,7 +485,7 @@
       "original_title": "Steps",
       "tagline": "At midnight, we ride.",
       "overview": "Think you know Cinderella's 'evil' stepsisters? Think again! When misunderstood Lilith is blamed for hijacking the Royal Ball with a stolen magic wand, she accidentally turns her sister Margot into a frog and leaves the kingdom in the hands of a prince-obsessed mean girl. Now Lilith must team up with Cinderella — and a surprisingly dreamy troll — to save the kingdom, repair the fractured fairytale, and prove that even so-called villains deserve a shot at happily-ever-after.",
-      "poster": "/c7eHnRXLK86sdCuq0rnZgp7GvS5.jpg",
+      "poster": "/rZmdm70Li2znSd9N4ZyrMkoKWkw.jpg",
       "backdrop": "/g1bEboMx1a8JCg1jXeDCh24RtgW.jpg",
       "runtime": 102,
       "genres": [
@@ -547,7 +547,8 @@
         }
       ],
       "countries": [
-        "US"
+        "US",
+        "AU"
       ],
       "release": {
         "date": "2026-11-20",
@@ -668,7 +669,7 @@
         {
           "name": "Ryan Gosling",
           "character": "Kade Auberon",
-          "photo": "/k50021gkK92Lx6m99pBy6FUOvNf.jpg"
+          "photo": "/lyUyVARQKhGxaxy0FbPJCQRpiaW.jpg"
         },
         {
           "name": "Flynn Gray",
@@ -803,6 +804,87 @@
       ]
     },
     {
+      "tmdb_id": 1306322,
+      "imdb_id": "tt32659463",
+      "title": "Spaceballs: The New One",
+      "original_title": "Spaceballs: The New One",
+      "tagline": "The Schwartz awakens.",
+      "overview": "Forty years after the events of the first Spaceballs, the galaxy is once again under threat. A threat so evil, so unstoppable, so completely lacking in any original ideas, that it has vowed to bring back the past... every last bit of it. With Lone Starr in hiding, Queen Vespa on the throne, and the Schwartz stretched thinner than a franchise releasing TV episodes theatrically, the only hope for the galaxy is Vespa's undisciplined son, Prince Starburst, and a mysterious Palace advisor named Destiny. Together, they must find Lone Starr, Yogurt, and any other iconic legacy characters fans are demanding before they discover the hard way that, while some threats you can fight, the reboot is not one of them.",
+      "poster": "/9usPcpMm8GhzkHIXqiklhPrflY3.jpg",
+      "backdrop": "/6dOmk6RoedeTSelTj2b473xThZH.jpg",
+      "runtime": null,
+      "genres": [
+        "Comedy",
+        "Science Fiction",
+        "Adventure"
+      ],
+      "category": "general",
+      "directors": [
+        "Josh Greenbaum"
+      ],
+      "writers": [
+        "Dan Hernandez",
+        "Josh Gad",
+        "Benji Samit"
+      ],
+      "cast": [
+        {
+          "name": "Bill Pullman",
+          "character": "Lone Starr",
+          "photo": "/AlLhgmcX5zh3frPT82OSPY9gqXO.jpg"
+        },
+        {
+          "name": "Rick Moranis",
+          "character": "Dark Helmet",
+          "photo": "/e63UZRzHfQT0Nw4VO7nvDt607O.jpg"
+        },
+        {
+          "name": "Lewis Pullman",
+          "character": "Starburst",
+          "photo": "/i2wJQ2eaVuTPaA84jzxNtxs54mO.jpg"
+        },
+        {
+          "name": "Daphne Zuniga",
+          "character": "Queen Vespa",
+          "photo": "/jzxXGApvXYqYJKFpSH1WUnr8qCa.jpg"
+        },
+        {
+          "name": "Mel Brooks",
+          "character": "President Skroob / Yogurt",
+          "photo": "/c21qNcMJlHnRolfhQhZOVacjtwI.jpg"
+        },
+        {
+          "name": "George Wyner",
+          "character": "Colonel Sandurz",
+          "photo": "/2c5axrzorErAwJ6Qts8o79r9Z6r.jpg"
+        },
+        {
+          "name": "Keke Palmer",
+          "character": "Destiny",
+          "photo": "/x3eFVQVw4vOCJByLlkBnMMwEnG7.jpg"
+        },
+        {
+          "name": "Michael Winslow",
+          "character": "Radar Technician",
+          "photo": "/uSRS2MOI1fNFAdvUgrhatBvfsvv.jpg"
+        }
+      ],
+      "countries": [
+        "US"
+      ],
+      "release": {
+        "date": "2027-04-22",
+        "type": "Release",
+        "where": "World"
+      },
+      "trailer": null,
+      "match": 48,
+      "reasons": [
+        "You like Science Fiction & Adventure",
+        "Themes: satire, sequel"
+      ]
+    },
+    {
       "tmdb_id": 621304,
       "imdb_id": "tt6779038",
       "title": "Children of Blood and Bone",
@@ -880,87 +962,6 @@
         "You like Adventure & Fantasy",
         "Starring Idris Elba (Sonic the Hedgehog 4)",
         "Themes: based on novel or book, magic"
-      ]
-    },
-    {
-      "tmdb_id": 1306322,
-      "imdb_id": "tt32659463",
-      "title": "Spaceballs: The New One",
-      "original_title": "Spaceballs: The New One",
-      "tagline": "The Schwartz awakens.",
-      "overview": "Forty years after the events of the first Spaceballs, the galaxy is once again under threat. A threat so evil, so unstoppable, so completely lacking in any original ideas, that it has vowed to bring back the past... every last bit of it. With Lone Starr in hiding, Queen Vespa on the throne, and the Schwartz stretched thinner than a franchise releasing TV episodes theatrically, the only hope for the galaxy is Vespa's undisciplined son, Prince Starburst, and a mysterious Palace advisor named Destiny. Together, they must find Lone Starr, Yogurt, and any other iconic legacy characters fans are demanding before they discover the hard way that, while some threats you can fight, the reboot is not one of them.",
-      "poster": "/9usPcpMm8GhzkHIXqiklhPrflY3.jpg",
-      "backdrop": "/6dOmk6RoedeTSelTj2b473xThZH.jpg",
-      "runtime": null,
-      "genres": [
-        "Comedy",
-        "Science Fiction",
-        "Adventure"
-      ],
-      "category": "general",
-      "directors": [
-        "Josh Greenbaum"
-      ],
-      "writers": [
-        "Benji Samit",
-        "Josh Gad",
-        "Dan Hernandez"
-      ],
-      "cast": [
-        {
-          "name": "Bill Pullman",
-          "character": "Lone Starr",
-          "photo": "/AlLhgmcX5zh3frPT82OSPY9gqXO.jpg"
-        },
-        {
-          "name": "Rick Moranis",
-          "character": "Dark Helmet",
-          "photo": "/e63UZRzHfQT0Nw4VO7nvDt607O.jpg"
-        },
-        {
-          "name": "Lewis Pullman",
-          "character": "Starburst",
-          "photo": "/i2wJQ2eaVuTPaA84jzxNtxs54mO.jpg"
-        },
-        {
-          "name": "Daphne Zuniga",
-          "character": "Queen Vespa",
-          "photo": "/jzxXGApvXYqYJKFpSH1WUnr8qCa.jpg"
-        },
-        {
-          "name": "Mel Brooks",
-          "character": "President Skroob / Yogurt",
-          "photo": "/c21qNcMJlHnRolfhQhZOVacjtwI.jpg"
-        },
-        {
-          "name": "George Wyner",
-          "character": "Colonel Sandurz",
-          "photo": "/2c5axrzorErAwJ6Qts8o79r9Z6r.jpg"
-        },
-        {
-          "name": "Keke Palmer",
-          "character": "Destiny",
-          "photo": "/x3eFVQVw4vOCJByLlkBnMMwEnG7.jpg"
-        },
-        {
-          "name": "Michael Winslow",
-          "character": "Radar Technician",
-          "photo": "/uSRS2MOI1fNFAdvUgrhatBvfsvv.jpg"
-        }
-      ],
-      "countries": [
-        "US"
-      ],
-      "release": {
-        "date": "2027-04-22",
-        "type": "Release",
-        "where": "World"
-      },
-      "trailer": null,
-      "match": 47,
-      "reasons": [
-        "You like Science Fiction & Adventure",
-        "Themes: satire, sequel"
       ]
     },
     {
@@ -1271,7 +1272,7 @@
         "where": "World"
       },
       "trailer": "https://www.youtube.com/watch?v=gDJ-ini7fF0",
-      "match": 42,
+      "match": 43,
       "reasons": [
         "You like Adventure & Fantasy",
         "Starring Carey Mulligan (Wildwood)",
@@ -1357,7 +1358,7 @@
         "where": "CH"
       },
       "trailer": "https://www.youtube.com/watch?v=MLwTyQOhBkw",
-      "match": 40,
+      "match": 41,
       "reasons": [
         "You like Drama & Crime",
         "Starring Scarlett Johansson (Ray Gunn)",
@@ -1525,6 +1526,88 @@
       ]
     },
     {
+      "tmdb_id": 1384758,
+      "imdb_id": "tt34512981",
+      "title": "Ice Age: Boiling Point",
+      "original_title": "Ice Age: Boiling Point",
+      "tagline": "Coming in hot.",
+      "overview": "A dinosaur-and-lava-filled madcap adventure takes Manny, Sid, Diego, Ellie, Buck, acorn-obsessed Scrat – this time joined by Baby Scrat and the enormous Jurassic Scrat – and the rest of the herd to visit never before-seen corners of the treacherous Lost World.",
+      "poster": "/mPhAreyZLLcZ9pl4KRyEaqSu1Zv.jpg",
+      "backdrop": "/pJfMliqzzVzTU634zpYDMfYNX6c.jpg",
+      "runtime": 103,
+      "genres": [
+        "Adventure",
+        "Animation",
+        "Family",
+        "Comedy"
+      ],
+      "category": "animation",
+      "directors": [
+        "John Donkin"
+      ],
+      "writers": [
+        "Michael J. Wilson",
+        "Michael Berg",
+        "Yoni Brenner"
+      ],
+      "cast": [
+        {
+          "name": "Ray Romano",
+          "character": "Manny (voice)",
+          "photo": "/zWT03QvuVYySlrjmHCojKrNYjoC.jpg"
+        },
+        {
+          "name": "John Leguizamo",
+          "character": "Sid (voice)",
+          "photo": "/kwYCdxTlDh9zauUCg4mp2XTCQTw.jpg"
+        },
+        {
+          "name": "Denis Leary",
+          "character": "Diego (voice)",
+          "photo": "/tAOziVWQBnrW9eR442M6g9SQkmA.jpg"
+        },
+        {
+          "name": "Simon Pegg",
+          "character": "Buck (voice)",
+          "photo": "/jw8bEEoTOithyNf0qxu4Zt1yaKp.jpg"
+        },
+        {
+          "name": "Queen Latifah",
+          "character": "Ellie (voice)",
+          "photo": "/zKJ0fZ7ne57fTWWd3WP1OVvoLS6.jpg"
+        },
+        {
+          "name": "Ashley Park",
+          "character": "Zee (voice)",
+          "photo": "/vfTM1VUdVEuB81WR9LEWYjPxDzo.jpg"
+        },
+        {
+          "name": "Josh Peck",
+          "character": "Eddie (voice)",
+          "photo": "/qoapD8slSdb550o1JEoepv1SvT0.jpg"
+        },
+        {
+          "name": "Vincent Tong",
+          "character": "Crash (voice)",
+          "photo": "/594ku7Ilei1EI1FtxgnrEzG2Nr0.jpg"
+        }
+      ],
+      "countries": [
+        "US"
+      ],
+      "release": {
+        "date": "2027-01-28",
+        "type": "Release",
+        "where": "World"
+      },
+      "trailer": "https://www.youtube.com/watch?v=I6eTz2MILqY",
+      "match": 38,
+      "reasons": [
+        "You like Adventure & Animation",
+        "Themes: sequel"
+      ]
+    },
+    {
       "tmdb_id": 1458319,
       "imdb_id": "tt36416299",
       "title": "How to Train Your Dragon 2",
@@ -1606,83 +1689,6 @@
       ]
     },
     {
-      "tmdb_id": 1384758,
-      "imdb_id": "tt34512981",
-      "title": "Ice Age: Boiling Point",
-      "original_title": "Ice Age: Boiling Point",
-      "tagline": "Coming in hot.",
-      "overview": "A dinosaur-and-lava-filled madcap adventure takes Manny, Sid, Diego, Ellie, Buck, acorn-obsessed Scrat – this time joined by Baby Scrat and the enormous Jurassic Scrat – and the rest of the herd to visit never before-seen corners of the treacherous Lost World.",
-      "poster": "/mPhAreyZLLcZ9pl4KRyEaqSu1Zv.jpg",
-      "backdrop": "/pJfMliqzzVzTU634zpYDMfYNX6c.jpg",
-      "runtime": 103,
-      "genres": [
-        "Adventure",
-        "Animation",
-        "Family",
-        "Comedy"
-      ],
-      "category": "animation",
-      "directors": [
-        "John Donkin"
-      ],
-      "writers": [
-        "Michael J. Wilson",
-        "Michael Berg",
-        "Yoni Brenner"
-      ],
-      "cast": [
-        {
-          "name": "Ray Romano",
-          "character": "Manny (voice)",
-          "photo": "/zWT03QvuVYySlrjmHCojKrNYjoC.jpg"
-        },
-        {
-          "name": "John Leguizamo",
-          "character": "Sid (voice)",
-          "photo": "/kwYCdxTlDh9zauUCg4mp2XTCQTw.jpg"
-        },
-        {
-          "name": "Denis Leary",
-          "character": "Diego (voice)",
-          "photo": "/tAOziVWQBnrW9eR442M6g9SQkmA.jpg"
-        },
-        {
-          "name": "Simon Pegg",
-          "character": "Buck (voice)",
-          "photo": "/jw8bEEoTOithyNf0qxu4Zt1yaKp.jpg"
-        },
-        {
-          "name": "Queen Latifah",
-          "character": "Ellie (voice)",
-          "photo": "/zKJ0fZ7ne57fTWWd3WP1OVvoLS6.jpg"
-        },
-        {
-          "name": "Chris Wedge",
-          "character": "Scrat (voice)",
-          "photo": "/jsROWtAPougLiYZeCelUpmSGFFX.jpg"
-        },
-        {
-          "name": "Kari Wahlgren",
-          "character": "Baby Scrat (voice)",
-          "photo": "/kc0BOnSdzCfq8w9qoNVEm5K12x1.jpg"
-        }
-      ],
-      "countries": [
-        "US"
-      ],
-      "release": {
-        "date": "2027-01-28",
-        "type": "Release",
-        "where": "World"
-      },
-      "trailer": null,
-      "match": 37,
-      "reasons": [
-        "You like Adventure & Animation",
-        "Themes: sequel"
-      ]
-    },
-    {
       "tmdb_id": 1084728,
       "imdb_id": "tt32243339",
       "title": "Asterix: The Kingdom of Nubia",
@@ -1758,7 +1764,7 @@
         "type": "Release",
         "where": "World"
       },
-      "trailer": null,
+      "trailer": "https://www.youtube.com/watch?v=JaRX_L9nlaQ",
       "match": 37,
       "reasons": [
         "You like Adventure & Animation",
@@ -1833,6 +1839,54 @@
       "reasons": [
         "You like Animation & Fantasy",
         "Themes: witch, magic, supernatural"
+      ]
+    },
+    {
+      "tmdb_id": 1720486,
+      "imdb_id": "tt43621069",
+      "title": "Lilo & Scratch",
+      "original_title": "Lilo & Scratch",
+      "tagline": "The ‘ohana is getting bigger.",
+      "overview": "Stitch is tasked with looking after Scratch, a cat Lilo has found, but Scratch has more similarities with Stitch than meets the eye.",
+      "poster": "/fiKAxvuHInioQHGJU0fGDxc6hXR.jpg",
+      "backdrop": "/iYivIgRjEbxsS3Jgt64k4zpCTyv.jpg",
+      "runtime": null,
+      "genres": [
+        "Animation",
+        "Comedy",
+        "Family",
+        "Science Fiction"
+      ],
+      "category": "animation",
+      "directors": [
+        "Fawn Veerasunthorn",
+        "Malcon Pierce"
+      ],
+      "writers": [],
+      "cast": [
+        {
+          "name": "Chris Sanders",
+          "character": "Stitch (voice)",
+          "photo": "/mrUm1agSL9Kj6dhV6ABVJvrwlie.jpg"
+        },
+        {
+          "name": "Maia Kealoha",
+          "character": "Lilo (voice)",
+          "photo": "/jqsKbBF28V2Oq5tKPR5USkNufwC.jpg"
+        }
+      ],
+      "countries": [
+        "US"
+      ],
+      "release": {
+        "date": "2026-11-25",
+        "type": "Release",
+        "where": "World"
+      },
+      "trailer": null,
+      "match": 36,
+      "reasons": [
+        "You like Science Fiction & Animation"
       ]
     },
     {
@@ -2140,7 +2194,7 @@
       "overview": "After years of maneuvering the canal-ridden, superstitious city of Venice, Italy, a scrappy black cat named Nero begins to question whether he’s lived the right lives. Indebted to Rocco, a ruthless local feline mob boss, Nero finds himself in a quandary and is forced to forge a truly unexpected friendship that may finally lead him to his purpose—unless Venice gets the better of him first.",
       "poster": "/jNDWZ8hV7LHATIhaA3pDV5iWWcZ.jpg",
       "backdrop": "/dJyNIzED9PPLraxEdKU5hGkXM0x.jpg",
-      "runtime": 98,
+      "runtime": null,
       "genres": [
         "Animation",
         "Comedy",
@@ -2211,6 +2265,85 @@
       "reasons": [
         "You like Animation & Comedy",
         "Themes: friendship, 3d animation"
+      ]
+    },
+    {
+      "tmdb_id": 1457866,
+      "imdb_id": "tt36408401",
+      "title": "THE FURTHER MIS-ADVENTURES OF CLIFF BOOTH",
+      "original_title": "THE FURTHER MIS-ADVENTURES OF CLIFF BOOTH",
+      "tagline": "",
+      "overview": "Eight years after the events of Once Upon a Time in... Hollywood, Cliff Booth returns to a changing Los Angeles. Now working as a fixer in the shadows of the Hollywood studio system, Cliff finds himself entangled in a dangerous web of secrets, crimes and betrayals that will test everything he knows about loyalty and survival.",
+      "poster": "/thX8Rs7nfgmPHfCgjoFuRovy49l.jpg",
+      "backdrop": "/qqPspJFy0XrEoVTKZdp0Em7kej6.jpg",
+      "runtime": 141,
+      "genres": [
+        "Comedy",
+        "Drama",
+        "Thriller"
+      ],
+      "category": "general",
+      "directors": [
+        "David Fincher"
+      ],
+      "writers": [
+        "Quentin Tarantino"
+      ],
+      "cast": [
+        {
+          "name": "Brad Pitt",
+          "character": "Cliff Booth",
+          "photo": "/ajNaPmXVVMJFg9GWmu6MJzTaXdV.jpg"
+        },
+        {
+          "name": "Elizabeth Debicki",
+          "character": "Karen Crosby",
+          "photo": "/nTTnQVTn13Ve4ifjRY9v8kVc99w.jpg"
+        },
+        {
+          "name": "Scott Caan",
+          "character": "Charlie Peters",
+          "photo": "/hX5X4K7BfzOOGcxiNQ24EpPZrfC.jpg"
+        },
+        {
+          "name": "Yahya Abdul-Mateen II",
+          "character": "Roderick 'Hot Rod' Harrison",
+          "photo": "/38D1WYFVUlcuaVvMbyFvctrDlDR.jpg"
+        },
+        {
+          "name": "Carla Gugino",
+          "character": "Toni Peters",
+          "photo": "/dAqGOsHSzlP6RhaUURX2NrwITaq.jpg"
+        },
+        {
+          "name": "Peter Weller",
+          "character": "Gus Booth",
+          "photo": "/mVRJX38zabRadVPJe0XOTObVzhp.jpg"
+        },
+        {
+          "name": "Matt Groove",
+          "character": "Mr. Verdusco",
+          "photo": "/mi5j53C24Pfc338xwzZnzfQ6MQF.jpg"
+        },
+        {
+          "name": "JB Tadena",
+          "character": "Mr. Verdusco",
+          "photo": "/lAVmnngcImft4VXYevsgpSqwtQm.jpg"
+        }
+      ],
+      "countries": [
+        "US"
+      ],
+      "release": {
+        "date": "2026-11-24",
+        "type": "Release",
+        "where": "World"
+      },
+      "trailer": "https://www.youtube.com/watch?v=fJH-wfSXnWg",
+      "match": 31,
+      "reasons": [
+        "You like Comedy & Drama",
+        "Themes: 1970s, dark comedy, sequel"
       ]
     },
     {
@@ -2294,85 +2427,6 @@
       ]
     },
     {
-      "tmdb_id": 1457866,
-      "imdb_id": "tt36408401",
-      "title": "THE FURTHER MIS-ADVENTURES OF CLIFF BOOTH",
-      "original_title": "THE FURTHER MIS-ADVENTURES OF CLIFF BOOTH",
-      "tagline": "",
-      "overview": "Eight years after the events of Once Upon a Time in... Hollywood, Cliff Booth returns to a changing Los Angeles. Now working as a fixer in the shadows of the Hollywood studio system, Cliff finds himself entangled in a dangerous web of secrets, crimes and betrayals that will test everything he knows about loyalty and survival.",
-      "poster": "/thX8Rs7nfgmPHfCgjoFuRovy49l.jpg",
-      "backdrop": "/qqPspJFy0XrEoVTKZdp0Em7kej6.jpg",
-      "runtime": 141,
-      "genres": [
-        "Comedy",
-        "Drama",
-        "Thriller"
-      ],
-      "category": "general",
-      "directors": [
-        "David Fincher"
-      ],
-      "writers": [
-        "Quentin Tarantino"
-      ],
-      "cast": [
-        {
-          "name": "Brad Pitt",
-          "character": "Cliff Booth",
-          "photo": "/ajNaPmXVVMJFg9GWmu6MJzTaXdV.jpg"
-        },
-        {
-          "name": "Elizabeth Debicki",
-          "character": "Karen Crosby",
-          "photo": "/nTTnQVTn13Ve4ifjRY9v8kVc99w.jpg"
-        },
-        {
-          "name": "Scott Caan",
-          "character": "Charlie Peters",
-          "photo": "/hX5X4K7BfzOOGcxiNQ24EpPZrfC.jpg"
-        },
-        {
-          "name": "Yahya Abdul-Mateen II",
-          "character": "Roderick 'Hot Rod' Harrison",
-          "photo": "/38D1WYFVUlcuaVvMbyFvctrDlDR.jpg"
-        },
-        {
-          "name": "Carla Gugino",
-          "character": "Toni Peters",
-          "photo": "/dAqGOsHSzlP6RhaUURX2NrwITaq.jpg"
-        },
-        {
-          "name": "Peter Weller",
-          "character": "Gus Booth",
-          "photo": "/mVRJX38zabRadVPJe0XOTObVzhp.jpg"
-        },
-        {
-          "name": "Matt Groove",
-          "character": "Mr. Verdusco",
-          "photo": "/mi5j53C24Pfc338xwzZnzfQ6MQF.jpg"
-        },
-        {
-          "name": "JB Tadena",
-          "character": "Mr. Verdusco",
-          "photo": "/lAVmnngcImft4VXYevsgpSqwtQm.jpg"
-        }
-      ],
-      "countries": [
-        "US"
-      ],
-      "release": {
-        "date": "2026-11-24",
-        "type": "Release",
-        "where": "World"
-      },
-      "trailer": "https://www.youtube.com/watch?v=fJH-wfSXnWg",
-      "match": 30,
-      "reasons": [
-        "You like Comedy & Drama",
-        "Themes: 1970s, dark comedy, sequel"
-      ]
-    },
-    {
       "tmdb_id": 1421903,
       "imdb_id": "tt35514120",
       "title": "Werwulf",
@@ -2453,93 +2507,13 @@
       ]
     },
     {
-      "tmdb_id": 1540936,
-      "imdb_id": "tt38120758",
-      "title": "Anything but Ghosts",
-      "original_title": "Anything but Ghosts",
-      "tagline": "",
-      "overview": "When a group of fame-seeking wannabe \"ghosthunters\" find themselves in over their heads, things spiral wildly and terrifyingly out of control.",
-      "poster": "/xOIlWYYR3lOJWuMTjAU5U1MDlpS.jpg",
-      "backdrop": "/6fgiG1e8zu7FHG7Wckp8I8syDtC.jpg",
-      "runtime": null,
-      "genres": [
-        "Horror",
-        "Comedy"
-      ],
-      "category": "horror",
-      "directors": [
-        "Curry Barker"
-      ],
-      "writers": [
-        "Curry Barker",
-        "Cooper Tomlinson"
-      ],
-      "cast": [
-        {
-          "name": "Curry Barker",
-          "character": "Mouse",
-          "photo": "/A16CxGKlkQYryoxGpxzKj4Wxk83.jpg"
-        },
-        {
-          "name": "Cooper Tomlinson",
-          "character": "Eddy",
-          "photo": "/vBMQbYT1DyWPCUp11dIiqZR9zhd.jpg"
-        },
-        {
-          "name": "Aaron Paul",
-          "character": "",
-          "photo": "/8Ac9uuoYwZoYVAIJfRLzzLsGGJn.jpg"
-        },
-        {
-          "name": "Bryce Dallas Howard",
-          "character": "",
-          "photo": "/6yhDkPXythZavS6Wk57XQ2sg5AW.jpg"
-        },
-        {
-          "name": "Violet McGraw",
-          "character": "",
-          "photo": "/dvErrHU0FVNP5GFkxJxZbNayC1x.jpg"
-        },
-        {
-          "name": "Matthew Lillard",
-          "character": "",
-          "photo": "/mIEKAfe0iC41RDXibbTy48LtNOi.jpg"
-        },
-        {
-          "name": "Chris Reinacher",
-          "character": "",
-          "photo": "/u0Rr9rEI8thUp9GE5OYZH7toagf.jpg"
-        },
-        {
-          "name": "Matty Finochio",
-          "character": "Scoot",
-          "photo": "/7I2iawz7YHZDbH15V4Om0Tdep9c.jpg"
-        }
-      ],
-      "countries": [
-        "US",
-        "AE"
-      ],
-      "release": {
-        "date": "2027-05-05",
-        "type": "Release",
-        "where": "World"
-      },
-      "trailer": null,
-      "match": 29,
-      "reasons": [
-        "You like Horror & Comedy",
-        "Themes: supernatural, demon, paranormal investigation"
-      ]
-    },
-    {
       "tmdb_id": 1268053,
       "imdb_id": "tt31945129",
       "title": "Winnie-the-Pooh: Blood and Honey - The Lost Years",
       "original_title": "Winnie-the-Pooh: Blood and Honey - The Lost Years",
       "tagline": "Pooh and Friends are out for blood and honey",
       "overview": "Fifteen years after Pooh, Tigger, and Rabbit are captured and turned into attractions for the sinister Woozles Circus, orphaned teenager Momo Milne begins searching for her missing mother. Following a clue linking her mother’s disappearance to the circus, Momo and her best friend Billie take jobs inside the bizarre traveling show to uncover the truth.  Behind the bright lights and carnival magic, they discover a nightmare: the circus hides monstrous half-human creatures, violent secrets, and a trail of missing victims. As Pooh and the others struggle under cruel captivity, their bloodthirsty instincts begin to resurface, turning the carnival into a slaughterhouse.  Trapped inside a deadly world of twisted fairy tales and brutal horrors, Momo must unravel the connection between her mother and the circus before she and Billie become the next victims of the Woozles’ terrifying show.",
-      "poster": "/ed7c0fV7atZyGZ031Ci0D61HSnm.jpg",
+      "poster": "/lLoL2xtH0STFTIBvmN0PGaQILyg.jpg",
       "backdrop": "/cbjEec6ONqBsWKYUymyJp77TJMy.jpg",
       "runtime": 85,
       "genres": [
@@ -2605,7 +2579,7 @@
         "where": "World"
       },
       "trailer": "https://www.youtube.com/watch?v=swcW56xOU3o",
-      "match": 28,
+      "match": 29,
       "reasons": [
         "You like Horror",
         "Themes: mutation, sequel, transhumanism"
@@ -2618,9 +2592,9 @@
       "original_title": "Artificial",
       "tagline": "Save. Delete.",
       "overview": "In November 2023, amidst the height of a global AI boom, OpenAI co-founder Ilya Sutskever teamed with the company board to make one of the defining decisions that has drastically reshaped the company as we know it, the firing of current CEO Sam Altman. This controversial decision would lead to immense backlash, ultimately resulting in Altman's return five days later.",
-      "poster": "/2bz0HPE8OFOqnyvl8sCdVDIg1KX.jpg",
+      "poster": "/tD4JOGcI5SSBKSFo4coObYwRlxE.jpg",
       "backdrop": "/qt79gpmITExaeb3Y74gxgkVSvaZ.jpg",
-      "runtime": 140,
+      "runtime": 141,
       "genres": [
         "Comedy",
         "Drama",
@@ -2637,7 +2611,7 @@
         {
           "name": "Andrew Garfield",
           "character": "Sam Altman",
-          "photo": "/beO5YvbTjrr5yy8hW26KVDMSr35.jpg"
+          "photo": "/mUzapkiUn2kp17yedwoeAa2rK8C.jpg"
         },
         {
           "name": "Yura Borisov",
@@ -2686,7 +2660,7 @@
         "where": "World"
       },
       "trailer": "https://www.youtube.com/watch?v=ufeJbTNq-BI",
-      "match": 27,
+      "match": 28,
       "reasons": [
         "You like Comedy & Drama",
         "Starring Jason Schwartzman (Spider-Man: Beyond the Spider-Verse)",
@@ -2847,7 +2821,7 @@
         "where": "World"
       },
       "trailer": "https://www.youtube.com/watch?v=5HK3wimDxBI",
-      "match": 25,
+      "match": 26,
       "reasons": [
         "You like Action & Crime",
         "Themes: sequel"
@@ -2907,86 +2881,6 @@
       "reasons": [
         "You like Adventure & Documentary",
         "Themes: survival"
-      ]
-    },
-    {
-      "tmdb_id": 1384528,
-      "imdb_id": "tt34515768",
-      "title": "O.M: Operation Mole",
-      "original_title": "ஓ.ம்: Operation Mole",
-      "tagline": "",
-      "overview": "Set across the temple corridors of Tirupati and Tiruvannamalai, an elite undercover operative infiltrates a sprawling transnational red sanders syndicate. As criminal politics escalate, a covert task force launches Operation Mole to dismantle the cartel from within.",
-      "poster": "/vFnFLqXjf7RQfkNxrrys43BZKxJ.jpg",
-      "backdrop": "/r0CliRoVddOLJ5zVT2Zd8ldbLuu.jpg",
-      "runtime": 178,
-      "genres": [
-        "Crime",
-        "Action",
-        "Thriller"
-      ],
-      "category": "general",
-      "directors": [
-        "Rajkumar Periasamy"
-      ],
-      "writers": [
-        "Rajkumar Periasamy",
-        "Vishu Ramaswamy",
-        "Rokesh"
-      ],
-      "cast": [
-        {
-          "name": "Dhanush",
-          "character": "Palanivel/Thirukumaran",
-          "photo": "/xnGKntkTDURY5mJ0sOVRI3VIDsY.jpg"
-        },
-        {
-          "name": "Mammootty",
-          "character": "Burma 'Siya' Karthikeyan",
-          "photo": "/c5ewp9XtDIOwK5QWhwA7TD0GzqO.jpg"
-        },
-        {
-          "name": "Sai Pallavi",
-          "character": "Nithya Reddy IPS",
-          "photo": "/qAPdGKUIUEzLibdgVCey7oKvvME.jpg"
-        },
-        {
-          "name": "Sreeleela",
-          "character": "Roja",
-          "photo": "/fHrQFHy9GPII2rGsImbpBg83N3p.jpg"
-        },
-        {
-          "name": "Indrans",
-          "character": "",
-          "photo": "/vs5Acy2hJ4dWoM3xRGdnFKdVXzw.jpg"
-        },
-        {
-          "name": "Naseeruddin Shah",
-          "character": "",
-          "photo": "/iaRC8eqliA5clpsQ50sITYoNQGG.jpg"
-        },
-        {
-          "name": "Renu Desai",
-          "character": "",
-          "photo": "/jP99Q1Mc6QbdlAiiIy9781XRkvG.jpg"
-        },
-        {
-          "name": "Sanjay Swaroop",
-          "character": "Krishnaiah",
-          "photo": "/zVErh5DAZyNbyGoaD5ZLHsKcdal.jpg"
-        }
-      ],
-      "countries": [
-        "IN"
-      ],
-      "release": {
-        "date": "2026-11-19",
-        "type": "Release",
-        "where": "World"
-      },
-      "trailer": null,
-      "match": 23,
-      "reasons": [
-        "You like Action & Crime"
       ]
     },
     {
@@ -3073,83 +2967,155 @@
       ]
     },
     {
-      "tmdb_id": 1533928,
-      "imdb_id": "tt41075537",
-      "title": "Bachelor Party D'eux",
-      "original_title": "ബാച്ച്‌ലർ Party D'eux",
+      "tmdb_id": 1234054,
+      "imdb_id": "tt39150157",
+      "title": "Rafadan Tayfa: Gordion",
+      "original_title": "Rafadan Tayfa: Gordion",
       "tagline": "",
-      "overview": "When urban chaos erupts around them, a band of honour-bound thieves must pull off a dangerous escape together, refusing to abandon each other despite deadly obstacles in their path.",
-      "poster": "/2YVd84sp7iPcvQxXk0PfhDDC6GT.jpg",
-      "backdrop": "/erBbnB0x1WeE9zZHo9h2kJww5ZU.jpg",
-      "runtime": 132,
+      "overview": "",
+      "poster": "/rxmeK2viKGiLWachtO6tJ89hP08.jpg",
+      "backdrop": null,
+      "runtime": null,
+      "genres": [
+        "Animation",
+        "Family"
+      ],
+      "category": "animation",
+      "directors": [],
+      "writers": [],
+      "cast": [
+        {
+          "name": "Hakan Coşar",
+          "character": "Mert",
+          "photo": null
+        },
+        {
+          "name": "Yağmur Sergen",
+          "character": "Kamil / Ankaralı Ozan",
+          "photo": "/nWlog9UZNw3KvexHE2OAH7Mq5oM.jpg"
+        },
+        {
+          "name": "Levent Kol",
+          "character": "Hayri",
+          "photo": "/p5Oxf8i512C0ORt3gXjtWB1TfoD.jpg"
+        },
+        {
+          "name": "Şirin Giobbi",
+          "character": "Akın",
+          "photo": "/ay0nK2RbXWIXHJ4TrbdGtFl9zYY.jpg"
+        },
+        {
+          "name": "Aysın Işımer",
+          "character": "Sevim",
+          "photo": null
+        },
+        {
+          "name": "Emine Sergen Kazbek",
+          "character": "Hale",
+          "photo": "/zLIhxD2fU4bwwLKZlOwT9ZN9vSr.jpg"
+        },
+        {
+          "name": "İsmet Numanoğlu",
+          "character": "Kuşçu Baba / Zobi",
+          "photo": "/jZQwEIxYs1Hj2tw7FirOajcRvIh.jpg"
+        },
+        {
+          "name": "Hakan Bozbey",
+          "character": "Ajan / Rıza / Ziya",
+          "photo": null
+        }
+      ],
+      "countries": [
+        "TR"
+      ],
+      "release": {
+        "date": "2026-12-25",
+        "type": "Release",
+        "where": "World"
+      },
+      "trailer": null,
+      "match": 20,
+      "reasons": [
+        "You like Animation & Family"
+      ]
+    },
+    {
+      "tmdb_id": 1145110,
+      "imdb_id": "tt28228084",
+      "title": "King",
+      "original_title": "किंग",
+      "tagline": "",
+      "overview": "Mentor and disciple embark on a perilous journey, pushing their survival skills to the limit against overwhelming odds and unforgiving environments.",
+      "poster": "/Aq5J3pzesN7WJLIzEkWD2b4FqV9.jpg",
+      "backdrop": "/mjiDUz5idO9LrJC40JphKmSqjfF.jpg",
+      "runtime": null,
       "genres": [
         "Action",
-        "Comedy",
-        "Crime"
+        "Thriller"
       ],
       "category": "general",
       "directors": [
-        "Amal Neerad"
+        "Siddharth Anand"
       ],
       "writers": [
-        "Amal Neerad",
-        "Rafeeq Ahammed",
-        "Vinayak Sasikumar"
+        "Sujoy Ghosh",
+        "Sagar Pandya",
+        "Suresh Nair"
       ],
       "cast": [
         {
-          "name": "Naslen",
-          "character": "Sony",
-          "photo": "/8cAVtELGh2ZL5DhyijYBiAQF2Zt.jpg"
-        },
-        {
-          "name": "Kunchacko Boban",
-          "character": "Dheeraj Prabhu",
-          "photo": "/1jdbIaYOBuhPNGS8XCqlzMsb0SV.jpg"
-        },
-        {
-          "name": "Tovino Thomas",
+          "name": "Shah Rukh Khan",
           "character": "",
-          "photo": "/uySCXY4TZxEDcVJD8WOjDQmMHc9.jpg"
+          "photo": "/tKeQhSyXyzlzxNtxFq24iIvzXrC.jpg"
         },
         {
-          "name": "Soubin Shahir",
-          "character": "Dani",
-          "photo": "/eFMA1PFOpDtiJ5MlkSAMexvTPsl.jpg"
+          "name": "Suhana Khan",
+          "character": "",
+          "photo": "/iOwA7DenXjNqF9CpUnPoKeAZrRm.jpg"
         },
         {
-          "name": "Sharafudheen",
-          "character": "Pappan",
-          "photo": "/icEHwPLrRp2sAk3gzylO8ar4Hey.jpg"
+          "name": "Deepika Padukone",
+          "character": "",
+          "photo": "/rzvvBQ0r6oiqDdzcsdTRB7jN4Rx.jpg"
         },
         {
-          "name": "Sreenath Bhasi",
-          "character": "Xavi",
-          "photo": "/oPsXUtaE0ZslhaGRdtww0ZpMRe7.jpg"
+          "name": "Abhishek Bachchan",
+          "character": "",
+          "photo": "/cALtfAvfUtS0Luf8MZaSiLfFRwd.jpg"
         },
         {
-          "name": "Chandu Salimkumar",
-          "character": "Mammu",
-          "photo": "/ggUVlr0DVwJMl7qXY5RcHSzrnWv.jpg"
+          "name": "Anil Kapoor",
+          "character": "",
+          "photo": "/dwvnpiwg9m2zj0VHzlgzEotFl0G.jpg"
         },
         {
-          "name": "Hansika Krishna",
-          "character": "Carol",
-          "photo": "/nrnBEQ65WN2K0fwz32JY4E3h9VB.jpg"
+          "name": "Jackie Shroff",
+          "character": "",
+          "photo": "/sVqe6VioM37LQwgQLd8wnC5vapK.jpg"
+        },
+        {
+          "name": "Rani Mukerji",
+          "character": "",
+          "photo": "/t82PAPb2ZGicWvHco72V2XEh0Lo.jpg"
+        },
+        {
+          "name": "Jaideep Ahlawat",
+          "character": "",
+          "photo": "/uILn4y8EWbMdeu71laMsh8zHY0M.jpg"
         }
       ],
       "countries": [
         "IN"
       ],
       "release": {
-        "date": "2026-11-19",
+        "date": "2026-12-24",
         "type": "Release",
         "where": "World"
       },
       "trailer": null,
-      "match": 21,
+      "match": 20,
       "reasons": [
-        "You like Action & Comedy"
+        "You like Action & Thriller"
       ]
     }
   ]
