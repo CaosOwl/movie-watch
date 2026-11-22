@@ -1,5 +1,5 @@
 {
-  "generated": "2026-11-22T12:34:22.327Z",
+  "generated": "2026-11-22T12:53:49.023Z",
   "horror": [
     {
       "tmdb_id": 940721,
@@ -986,5 +986,6 @@
         "Dune: Part Three"
       ]
     }
-  ]
+  ],
+  "series": []
 }
