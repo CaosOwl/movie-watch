@@ -1,6 +1,6 @@
 {
   "home_country": "CH",
-  "generated": "2026-11-21T12:37:23.815Z",
+  "generated": "2026-11-22T12:34:34.763Z",
   "movies": [
     {
       "tmdb_id": 421892,
@@ -25,8 +25,8 @@
         "Conrad Vernon"
       ],
       "writers": [
-        "Michael McCullers",
         "William Steig",
+        "Michael McCullers",
         "Chris Meledandri"
       ],
       "cast": [
@@ -85,6 +85,91 @@
         "You like Adventure & Animation",
         "Starring Zendaya (Dune: Part Two)",
         "Themes: sequel, 3d animation"
+      ]
+    },
+    {
+      "tmdb_id": 1538497,
+      "imdb_id": "tt38077943",
+      "title": "Hexed",
+      "original_title": "Hexed",
+      "tagline": "Something is happening to Billie...",
+      "overview": "An impulsive and unconventional teenage girl named Billie discovers secret magical abilities which, once unleashed, hurtle her into a spectacle-filled journey out of suburbia and into a vast witch realm called Hexe. Forced to team up with her cautious mother, Alice, they uncover family mysteries that could change the world of witches forever.",
+      "poster": "/yykeYKbDBM9eUMJUucaaDo2mi1p.jpg",
+      "backdrop": "/pYIJeLvfbVamFGO6hOERGVP2gTf.jpg",
+      "runtime": 103,
+      "genres": [
+        "Adventure",
+        "Animation",
+        "Family",
+        "Fantasy",
+        "Comedy"
+      ],
+      "category": "animation",
+      "directors": [
+        "Jason Hand",
+        "Fawn Veerasunthorn"
+      ],
+      "writers": [
+        "Josie Trinidad",
+        "Jared Bush",
+        "Dana Ledoux Miller"
+      ],
+      "cast": [
+        {
+          "name": "Hailee Steinfeld",
+          "character": "Billie Doe (voice)",
+          "photo": "/qDInsG0cxWNxS1X4t59TBZ5S6x5.jpg"
+        },
+        {
+          "name": "Rashida Jones",
+          "character": "Alice Doe (voice)",
+          "photo": "/cgWGm9eYCretBWeljPVtpRV7n6V.jpg"
+        },
+        {
+          "name": "Jodie Foster",
+          "character": "Queen Celeste (voice)",
+          "photo": "/5emVgsLFlU6SmeBIFsF2Y7aqwtG.jpg"
+        },
+        {
+          "name": "Walton Goggins",
+          "character": "Beef Roger Crummchuk (voice)",
+          "photo": "/5lcVMJbWrNDFiWa1WxK4oR8zwev.jpg"
+        },
+        {
+          "name": "Tracey Ullman",
+          "character": "Ms. Quill (voice)",
+          "photo": "/cmug3uUXKBo9fhCcJk3pkgt1nvM.jpg"
+        },
+        {
+          "name": "Stephen Fry",
+          "character": "Elias Quire (voice)",
+          "photo": "/dH7GuUZ8QPM9RN99ak9KKOkSkdS.jpg"
+        },
+        {
+          "name": "Henry Winkler",
+          "character": "Nigel (voice)",
+          "photo": "/c35LVOjB1gbY5iYzhN9PGIXUHWt.jpg"
+        },
+        {
+          "name": "Dan Stevens",
+          "character": "Hieronymous (voice)",
+          "photo": "/fFsgginZKH527o38ZfdDxuzx7Ew.jpg"
+        }
+      ],
+      "countries": [
+        "US"
+      ],
+      "release": {
+        "date": "2026-11-25",
+        "type": "Release",
+        "where": "World"
+      },
+      "trailer": "https://www.youtube.com/watch?v=IuosV-TRxDU",
+      "match": 62,
+      "reasons": [
+        "You like Adventure & Animation",
+        "Starring Hailee Steinfeld (Spider-Man: Beyond the Spider-Verse)",
+        "Themes: witch, magic, 3d animation"
       ]
     },
     {
@@ -253,91 +338,6 @@
       ]
     },
     {
-      "tmdb_id": 1538497,
-      "imdb_id": "tt38077943",
-      "title": "Hexed",
-      "original_title": "Hexed",
-      "tagline": "Something is happening to Billie...",
-      "overview": "An impulsive and unconventional teenage girl named Billie discovers secret magical abilities which, once unleashed, hurtle her into a spectacle-filled journey out of suburbia and into a vast witch realm called Hexe. Forced to team up with her cautious mother, Alice, they uncover family mysteries that could change the world of witches forever.",
-      "poster": "/yykeYKbDBM9eUMJUucaaDo2mi1p.jpg",
-      "backdrop": "/pYIJeLvfbVamFGO6hOERGVP2gTf.jpg",
-      "runtime": 103,
-      "genres": [
-        "Adventure",
-        "Animation",
-        "Family",
-        "Fantasy",
-        "Comedy"
-      ],
-      "category": "animation",
-      "directors": [
-        "Jason Hand",
-        "Fawn Veerasunthorn"
-      ],
-      "writers": [
-        "Josie Trinidad",
-        "Jared Bush",
-        "Dana Ledoux Miller"
-      ],
-      "cast": [
-        {
-          "name": "Hailee Steinfeld",
-          "character": "Billie Doe (voice)",
-          "photo": "/qDInsG0cxWNxS1X4t59TBZ5S6x5.jpg"
-        },
-        {
-          "name": "Rashida Jones",
-          "character": "Alice Doe (voice)",
-          "photo": "/cgWGm9eYCretBWeljPVtpRV7n6V.jpg"
-        },
-        {
-          "name": "Jodie Foster",
-          "character": "Queen Celeste (voice)",
-          "photo": "/5emVgsLFlU6SmeBIFsF2Y7aqwtG.jpg"
-        },
-        {
-          "name": "Walton Goggins",
-          "character": "Beef Roger Crummchuk (voice)",
-          "photo": "/5lcVMJbWrNDFiWa1WxK4oR8zwev.jpg"
-        },
-        {
-          "name": "Tracey Ullman",
-          "character": "Ms. Quill (voice)",
-          "photo": "/cmug3uUXKBo9fhCcJk3pkgt1nvM.jpg"
-        },
-        {
-          "name": "Stephen Fry",
-          "character": "Elias Quire (voice)",
-          "photo": "/dH7GuUZ8QPM9RN99ak9KKOkSkdS.jpg"
-        },
-        {
-          "name": "Henry Winkler",
-          "character": "Nigel (voice)",
-          "photo": "/c35LVOjB1gbY5iYzhN9PGIXUHWt.jpg"
-        },
-        {
-          "name": "Dan Stevens",
-          "character": "Hieronymous (voice)",
-          "photo": "/fFsgginZKH527o38ZfdDxuzx7Ew.jpg"
-        }
-      ],
-      "countries": [
-        "US"
-      ],
-      "release": {
-        "date": "2026-11-25",
-        "type": "Release",
-        "where": "World"
-      },
-      "trailer": "https://www.youtube.com/watch?v=IuosV-TRxDU",
-      "match": 61,
-      "reasons": [
-        "You like Adventure & Animation",
-        "Starring Hailee Steinfeld (Spider-Man: Beyond the Spider-Verse)",
-        "Themes: witch, magic, 3d animation"
-      ]
-    },
-    {
       "tmdb_id": 1718699,
       "imdb_id": "tt43609247",
       "title": "Not Alone",
@@ -441,8 +441,8 @@
       ],
       "writers": [
         "Elizabeth Morris",
-        "Matt Mitchell",
-        "Vicki Sargent"
+        "Vicki Sargent",
+        "Matt Mitchell"
       ],
       "cast": [
         {
@@ -584,7 +584,7 @@
         {
           "name": "Ryan Gosling",
           "character": "Kade Auberon",
-          "photo": "/3bNe1xuN3omeJKGuPbgIvhSl6AJ.jpg"
+          "photo": "/lyUyVARQKhGxaxy0FbPJCQRpiaW.jpg"
         },
         {
           "name": "Flynn Gray",
@@ -635,87 +635,6 @@
       "reasons": [
         "You like Science Fiction & Adventure",
         "Themes: space adventure"
-      ]
-    },
-    {
-      "tmdb_id": 1231322,
-      "imdb_id": "tt32174149",
-      "title": "The Wandering Earth III",
-      "original_title": "流浪地球3（上）",
-      "tagline": "",
-      "overview": "The sun is about to be destroyed, and humans have built huge thrusters on the surface of the earth to find a new home. However, the road to the universe is full of dangers. In order to save the earth, young people from the wandering earth era stepped forward for the third time and started a life-and-death battle against time.",
-      "poster": "/7pNAki9AIaJGhNFOs8ePTFI0lDc.jpg",
-      "backdrop": "/cCzMePim8EXRHExizmBhJC063Ju.jpg",
-      "runtime": null,
-      "genres": [
-        "Science Fiction",
-        "Action",
-        "Adventure"
-      ],
-      "category": "general",
-      "directors": [
-        "Frant Guo Fan"
-      ],
-      "writers": [
-        "Liu Cixin",
-        "Frant Guo Fan",
-        "Gong Geer"
-      ],
-      "cast": [
-        {
-          "name": "Wu Jing",
-          "character": "Liu Peiqiang",
-          "photo": "/s7DOAkkBII5JuS7CcjaifGnJZlG.jpg"
-        },
-        {
-          "name": "Andy Lau Tak-wah",
-          "character": "Tu Hengyu",
-          "photo": "/eYZL8INePysNznxnRSDmPY9uiKc.jpg"
-        },
-        {
-          "name": "Li Xuejian",
-          "character": "Zhou Zhezhi",
-          "photo": "/22QFJKWJPNj3O3A6PdRKJc0qeKK.jpg"
-        },
-        {
-          "name": "Qu Chuxiao",
-          "character": "Liu Qi",
-          "photo": "/gaYaPnO6gRfEW4jeVWWno8fwPB2.jpg"
-        },
-        {
-          "name": "Li Guangjie",
-          "character": "Wang Lei",
-          "photo": "/snTfuCkX8Q1GHJJwB3UHQJt7KZs.jpg"
-        },
-        {
-          "name": "Tong Liya",
-          "character": "Tu Hengyu's Wife",
-          "photo": "/wh5CsexUjI7zc9eJQesCepBO4s3.jpg"
-        },
-        {
-          "name": "Zhao Jinmai",
-          "character": "Han Duoduo",
-          "photo": "/hndhOhSK0GAMi1qQaacacl3aHzO.jpg"
-        },
-        {
-          "name": "Sha Yi",
-          "character": "Zhang Peng",
-          "photo": "/ip9GpE5RhxBzqlbbVX0DwktOlss.jpg"
-        }
-      ],
-      "countries": [
-        "CN"
-      ],
-      "release": {
-        "date": "2027-02-06",
-        "type": "Release",
-        "where": "World"
-      },
-      "trailer": null,
-      "match": 50,
-      "reasons": [
-        "You like Science Fiction & Adventure",
-        "Themes: based on novel or book"
       ]
     },
     {
@@ -880,6 +799,72 @@
       ]
     },
     {
+      "tmdb_id": 1389765,
+      "imdb_id": "tt38807532",
+      "title": "Batman: Knightfall Part 2: Knightquest",
+      "original_title": "Batman: Knightfall Part 2: Knightquest",
+      "tagline": "",
+      "overview": "Batman lies broken at the hands of the villainous mastermind Bane. With Bruce Wayne paralyzed from the waist down and unable to continue as Batman, a new successor must be chosen to defend Gotham City. Jean-Paul Valley, the man also known as Azrael, must take up the mantle of the Batman. But will his more violent methods be enough to stop Bane?",
+      "poster": "/9jGwTCEYaOg3xxnKFaL5ukVexLp.jpg",
+      "backdrop": "/jOvZD4VpU4Wx4XmNG2uTDNjUdDT.jpg",
+      "runtime": 76,
+      "genres": [
+        "Animation",
+        "Action",
+        "Adventure"
+      ],
+      "category": "animation",
+      "directors": [
+        "Jeff Wamester"
+      ],
+      "writers": [
+        "Jeremy Adams",
+        "Bill Finger",
+        "Bob Kane"
+      ],
+      "cast": [
+        {
+          "name": "Anson Mount",
+          "character": "Batman / Bruce Wayne (voice)",
+          "photo": "/A4YBdwnzJKRcZXfodjT4UalHOK9.jpg"
+        },
+        {
+          "name": "Michael Mando",
+          "character": "Bane (voice)",
+          "photo": "/gvM2wG66bjEpiirdeQdyG9EzUfv.jpg"
+        },
+        {
+          "name": "Pablo Schreiber",
+          "character": "Jean-Paul Valley / Azrael (voice)",
+          "photo": "/trKW3kwhwx4UeCNZg43A1x1h4Uv.jpg"
+        },
+        {
+          "name": "Jack Griffo",
+          "character": "Robin / Tim Drake (voice)",
+          "photo": "/tPXgQ7FRoN2SOxkDncLOjwSiPdH.jpg"
+        },
+        {
+          "name": "Simon Templeman",
+          "character": "Alfred Pennyworth (voice)",
+          "photo": "/g0c8inA8Kboiqr6uGRq4gcesrK5.jpg"
+        }
+      ],
+      "countries": [
+        "US"
+      ],
+      "release": {
+        "date": "2026-12-15",
+        "type": "Release",
+        "where": "World"
+      },
+      "trailer": "https://www.youtube.com/watch?v=zG8TU7GTaoo",
+      "match": 47,
+      "reasons": [
+        "You like Adventure & Action",
+        "Themes: based on comic, sequel"
+      ]
+    },
+    {
       "tmdb_id": 1306322,
       "imdb_id": "tt32659463",
       "title": "Spaceballs: The New One",
@@ -899,9 +884,9 @@
         "Josh Greenbaum"
       ],
       "writers": [
-        "Dan Hernandez",
+        "Benji Samit",
         "Josh Gad",
-        "Benji Samit"
+        "Dan Hernandez"
       ],
       "cast": [
         {
@@ -1087,7 +1072,7 @@
         },
         {
           "name": "Jared Harris",
-          "character": "",
+          "character": "Mason",
           "photo": "/r9nIq0jPz1oBm4WwtlZhqlsX8p0.jpg"
         },
         {
@@ -1102,7 +1087,7 @@
         },
         {
           "name": "Andrew Bachelor",
-          "character": "",
+          "character": "Greg",
           "photo": "/dReXjimiVOydELw2ASQwRcStkbo.jpg"
         },
         {
@@ -1135,7 +1120,7 @@
       "tagline": "",
       "overview": "Follows Rudhra's perilous adventures as ancient Varanasi stands on the brink of catastrophe from a looming asteroid in 2027 CE, unfolding across multiple timelines and distant continents.",
       "poster": "/9XHgX5XEQt95nwZIlp2yiMaw65D.jpg",
-      "backdrop": "/pTHqIW0CN5LeB1Uk8hxGpySGGOG.jpg",
+      "backdrop": "/aCzuLjuc0AmmzzFD3wSgZUZK2EN.jpg",
       "runtime": null,
       "genres": [
         "Adventure",
@@ -1268,7 +1253,7 @@
         "where": "World"
       },
       "trailer": "https://www.youtube.com/watch?v=gDJ-ini7fF0",
-      "match": 42,
+      "match": 43,
       "reasons": [
         "You like Adventure & Fantasy",
         "Starring Carey Mulligan (Wildwood)",
@@ -1440,6 +1425,88 @@
       "reasons": [
         "You like Adventure & Fantasy",
         "Themes: based on novel or book, sequel"
+      ]
+    },
+    {
+      "tmdb_id": 1492198,
+      "imdb_id": "tt37171180",
+      "title": "Artificial",
+      "original_title": "Artificial",
+      "tagline": "Save. Delete.",
+      "overview": "In November 2023, amidst the height of a global AI boom, OpenAI co-founder Ilya Sutskever teamed with the company board to make one of the defining decisions that has drastically reshaped the company as we know it, the firing of current CEO Sam Altman. This controversial decision would lead to immense backlash, ultimately resulting in Altman's return five days later.",
+      "poster": "/tD4JOGcI5SSBKSFo4coObYwRlxE.jpg",
+      "backdrop": "/qt79gpmITExaeb3Y74gxgkVSvaZ.jpg",
+      "runtime": 141,
+      "genres": [
+        "History",
+        "Drama",
+        "Comedy"
+      ],
+      "category": "general",
+      "directors": [
+        "Luca Guadagnino"
+      ],
+      "writers": [
+        "Simon Rich"
+      ],
+      "cast": [
+        {
+          "name": "Andrew Garfield",
+          "character": "Sam Altman",
+          "photo": "/beO5YvbTjrr5yy8hW26KVDMSr35.jpg"
+        },
+        {
+          "name": "Yura Borisov",
+          "character": "Ilya Sutskever",
+          "photo": "/zLcD2UmXJG6m3qOQhNZs13SQRIp.jpg"
+        },
+        {
+          "name": "Jason Schwartzman",
+          "character": "Zeke",
+          "photo": "/gCjMdmW1DiPAClHVl4zHEIffIsE.jpg"
+        },
+        {
+          "name": "Cooper Koch",
+          "character": "Patrick",
+          "photo": "/vqSQfHQEUMad8ZkU4GtNXHdFip2.jpg"
+        },
+        {
+          "name": "Cooper Hoffman",
+          "character": "Greg Brockman",
+          "photo": "/yvrh3ayw2BJa1tJb3R6RzPVHPX1.jpg"
+        },
+        {
+          "name": "Monica Barbaro",
+          "character": "Mira Murati",
+          "photo": "/5vwytS9o5t8EINBGOGx677iowQi.jpg"
+        },
+        {
+          "name": "Billie Lourd",
+          "character": "Helen Toner",
+          "photo": "/1u8bZL6ZXu5iDbPO3Z0Spetyt34.jpg"
+        },
+        {
+          "name": "Zosia Mamet",
+          "character": "Tasha McCauley",
+          "photo": "/8G4n5CMVhzKfYworKrc9Pd2QjHm.jpg"
+        }
+      ],
+      "countries": [
+        "IT",
+        "GB",
+        "US"
+      ],
+      "release": {
+        "date": "2026-12-25",
+        "type": "Release",
+        "where": "World"
+      },
+      "trailer": "https://www.youtube.com/watch?v=ufeJbTNq-BI",
+      "match": 39,
+      "reasons": [
+        "You like Drama & Comedy",
+        "Starring Jason Schwartzman (Spider-Man: Beyond the Spider-Verse)",
+        "Themes: silicon valley, based on true story, aftercreditsstinger"
       ]
     },
     {
@@ -1772,8 +1839,8 @@
         "Alexandre Heboyan"
       ],
       "writers": [
-        "René Goscinny",
         "Albert Uderzo",
+        "René Goscinny",
         "Alexandre de La Patellière"
       ],
       "cast": [
@@ -1799,7 +1866,7 @@
         },
         {
           "name": "Eye Haïdara",
-          "character": "(voice)",
+          "character": "Reine Cétépamaguer (voice)",
           "photo": "/lIsjqRGJOIg9mErmsT3S2nbcMMN.jpg"
         },
         {
@@ -1814,7 +1881,7 @@
         },
         {
           "name": "Claudia Tagbo",
-          "character": "(voice)",
+          "character": "Mainenlair (voice)",
           "photo": "/1oODh0wsz51BVbVNc4brBjNUNpU.jpg"
         }
       ],
@@ -1822,7 +1889,7 @@
         "FR"
       ],
       "release": {
-        "date": "2026-11-22",
+        "date": "2026-12-02",
         "type": "Release",
         "where": "World"
       },
@@ -1834,51 +1901,53 @@
       ]
     },
     {
-      "tmdb_id": 1720486,
-      "imdb_id": "tt43621069",
-      "title": "Lilo & Scratch",
-      "original_title": "Lilo & Scratch",
-      "tagline": "The ‘ohana is getting bigger.",
-      "overview": "Stitch is tasked with looking after Scratch, a cat Lilo has found, but Scratch has more similarities with Stitch than meets the eye.",
-      "poster": "/fiKAxvuHInioQHGJU0fGDxc6hXR.jpg",
-      "backdrop": "/iYivIgRjEbxsS3Jgt64k4zpCTyv.jpg",
+      "tmdb_id": 1599184,
+      "imdb_id": "tt51165610",
+      "title": "Battle Through the Heavens Movie：Duel of the Two Dou Emperors",
+      "original_title": "斗破苍穹剧场版：双帝之战",
+      "tagline": "",
+      "overview": "",
+      "poster": "/kQA44KCjcI284f3uxCRAdiS9blt.jpg",
+      "backdrop": "/9uMWGlxHR3bpyhzKQLYL83m5puq.jpg",
       "runtime": null,
       "genres": [
         "Animation",
-        "Comedy",
-        "Family",
-        "Science Fiction"
+        "Adventure"
       ],
       "category": "animation",
-      "directors": [
-        "Fawn Veerasunthorn",
-        "Malcon Pierce"
+      "directors": [],
+      "writers": [
+        "Tian Can Tu Dou"
       ],
-      "writers": [],
       "cast": [
         {
-          "name": "Chris Sanders",
-          "character": "Stitch (voice)",
-          "photo": "/mrUm1agSL9Kj6dhV6ABVJvrwlie.jpg"
+          "name": "Bu Yi",
+          "character": "Voice",
+          "photo": "/rC30srBjftYqkJgMi82XFe2kWs.jpg"
         },
         {
-          "name": "Maia Kealoha",
-          "character": "Lilo (voice)",
-          "photo": "/jqsKbBF28V2Oq5tKPR5USkNufwC.jpg"
+          "name": "Liu Yuxuan",
+          "character": "Voice",
+          "photo": null
+        },
+        {
+          "name": "Chen Yiwen",
+          "character": "Voice",
+          "photo": "/muj3gVK2759u2X9GMYqfw2VTfiu.jpg"
         }
       ],
       "countries": [
-        "US"
+        "CN"
       ],
       "release": {
-        "date": "2026-11-25",
+        "date": "2026-11-22",
         "type": "Release",
         "where": "World"
       },
       "trailer": null,
       "match": 36,
       "reasons": [
-        "You like Science Fiction & Animation"
+        "You like Adventure & Animation"
       ]
     },
     {
@@ -1962,6 +2031,54 @@
       "reasons": [
         "You like Adventure & Animation",
         "Themes: magic"
+      ]
+    },
+    {
+      "tmdb_id": 1720486,
+      "imdb_id": "tt43621069",
+      "title": "Lilo & Scratch",
+      "original_title": "Lilo & Scratch",
+      "tagline": "The ‘ohana is getting bigger.",
+      "overview": "Stitch is tasked with looking after Scratch, a cat Lilo has found, but Scratch has more similarities with Stitch than meets the eye.",
+      "poster": "/fiKAxvuHInioQHGJU0fGDxc6hXR.jpg",
+      "backdrop": "/iYivIgRjEbxsS3Jgt64k4zpCTyv.jpg",
+      "runtime": null,
+      "genres": [
+        "Animation",
+        "Comedy",
+        "Family",
+        "Science Fiction"
+      ],
+      "category": "animation",
+      "directors": [
+        "Fawn Veerasunthorn",
+        "Malcon Pierce"
+      ],
+      "writers": [],
+      "cast": [
+        {
+          "name": "Chris Sanders",
+          "character": "Stitch (voice)",
+          "photo": "/mrUm1agSL9Kj6dhV6ABVJvrwlie.jpg"
+        },
+        {
+          "name": "Maia Kealoha",
+          "character": "Lilo (voice)",
+          "photo": "/jqsKbBF28V2Oq5tKPR5USkNufwC.jpg"
+        }
+      ],
+      "countries": [
+        "US"
+      ],
+      "release": {
+        "date": "2026-11-25",
+        "type": "Release",
+        "where": "World"
+      },
+      "trailer": null,
+      "match": 35,
+      "reasons": [
+        "You like Science Fiction & Animation"
       ]
     },
     {
@@ -2060,12 +2177,12 @@
       ],
       "category": "general",
       "directors": [
-        "Eleanor Wilson",
-        "Alex Huston Fischer"
+        "Alex Huston Fischer",
+        "Eleanor Wilson"
       ],
       "writers": [
-        "Eleanor Wilson",
         "Alex Huston Fischer",
+        "Eleanor Wilson",
         "Ursula Wills-Jones"
       ],
       "cast": [
@@ -2128,53 +2245,82 @@
       ]
     },
     {
-      "tmdb_id": 1599184,
-      "imdb_id": "tt51165610",
-      "title": "Battle Through the Heavens Movie：Duel of the Two Dou Emperors",
-      "original_title": "斗破苍穹剧场版 双帝之战",
-      "tagline": "",
-      "overview": "",
-      "poster": "/dzEKynSeeXWPNaFCpYK7R92TVll.jpg",
-      "backdrop": "/9uMWGlxHR3bpyhzKQLYL83m5puq.jpg",
-      "runtime": null,
+      "tmdb_id": 1442761,
+      "imdb_id": "tt37360759",
+      "title": "Slayground",
+      "original_title": "Slayground",
+      "tagline": "Run like hell.",
+      "overview": "Scare-actor \"Metal Mike\" Graves wakes up in a haunted attraction surrounded by the dead bodies of his co-workers with no memory of how they got there. As a state-wide manhunt closes in, he races to uncover the truth — even if the trail leads straight back to himself.",
+      "poster": "/tddu1x7RGU4GVWCsnGIeo7UHYL.jpg",
+      "backdrop": "/lE9pX6hPaiwsKgomIHn4gFU150o.jpg",
+      "runtime": 90,
       "genres": [
-        "Animation",
-        "Adventure"
+        "Action",
+        "Horror",
+        "Thriller"
       ],
-      "category": "animation",
-      "directors": [],
+      "category": "horror",
+      "directors": [
+        "Jeremy Saulnier"
+      ],
       "writers": [
-        "Tian Can Tu Dou"
+        "Jeremy Saulnier"
       ],
       "cast": [
         {
-          "name": "Bu Yi",
-          "character": "Voice",
-          "photo": "/rC30srBjftYqkJgMi82XFe2kWs.jpg"
+          "name": "Cory Michael Smith",
+          "character": "Michael 'Metal Mike' Graves",
+          "photo": "/g9mXErE0CiFN8TTWaTCnurpcAeS.jpg"
         },
         {
-          "name": "Liu Yuxuan",
-          "character": "Voice",
-          "photo": null
+          "name": "Chase Sui Wonders",
+          "character": "Dawn",
+          "photo": "/xfkTa3vsB6VzQFXj7k7yWysl9C2.jpg"
         },
         {
-          "name": "Chen Yiwen",
-          "character": "Voice",
-          "photo": "/muj3gVK2759u2X9GMYqfw2VTfiu.jpg"
+          "name": "Sophie Wilde",
+          "character": "Gutherie Sturm",
+          "photo": "/fMZvMsvTv9MYSC6LTNdIUaMGjIv.jpg"
+        },
+        {
+          "name": "Stanley Simons",
+          "character": "Glenn",
+          "photo": "/nYsSApKAlIjhBOdHZ8wSL89EAIG.jpg"
+        },
+        {
+          "name": "James Badge Dale",
+          "character": "Detective Beggs",
+          "photo": "/lnm8Jm11btONDU7dzPk9liuMibk.jpg"
+        },
+        {
+          "name": "Stephen Root",
+          "character": "Kenneth Adams",
+          "photo": "/2Zwi6AydqQQ9InVdhjYcfJXNzkp.jpg"
+        },
+        {
+          "name": "Young Mazino",
+          "character": "Deputy Scott Friel",
+          "photo": "/cRuVRx1DMe2hBkz5pssVqdpCtaQ.jpg"
+        },
+        {
+          "name": "Imogen Poots",
+          "character": "Nicky",
+          "photo": "/7uMFX0ecPZT2tc8L5DFFNbUckc9.jpg"
         }
       ],
       "countries": [
-        "CN"
+        "US"
       ],
       "release": {
-        "date": "2026-11-22",
+        "date": "2027-01-28",
         "type": "Release",
         "where": "World"
       },
       "trailer": null,
       "match": 32,
       "reasons": [
-        "You like Adventure & Animation"
+        "You like Action & Horror",
+        "Themes: detective, halloween"
       ]
     },
     {
@@ -2578,168 +2724,6 @@
       ]
     },
     {
-      "tmdb_id": 1540936,
-      "imdb_id": "tt38120758",
-      "title": "Anything but Ghosts",
-      "original_title": "Anything but Ghosts",
-      "tagline": "",
-      "overview": "When a group of fame-seeking wannabe \"ghosthunters\" find themselves in over their heads, things spiral wildly and terrifyingly out of control.",
-      "poster": "/xOIlWYYR3lOJWuMTjAU5U1MDlpS.jpg",
-      "backdrop": "/6fgiG1e8zu7FHG7Wckp8I8syDtC.jpg",
-      "runtime": null,
-      "genres": [
-        "Horror",
-        "Comedy"
-      ],
-      "category": "horror",
-      "directors": [
-        "Curry Barker"
-      ],
-      "writers": [
-        "Curry Barker",
-        "Cooper Tomlinson"
-      ],
-      "cast": [
-        {
-          "name": "Curry Barker",
-          "character": "Mouse",
-          "photo": "/A16CxGKlkQYryoxGpxzKj4Wxk83.jpg"
-        },
-        {
-          "name": "Cooper Tomlinson",
-          "character": "Eddy",
-          "photo": "/vBMQbYT1DyWPCUp11dIiqZR9zhd.jpg"
-        },
-        {
-          "name": "Aaron Paul",
-          "character": "",
-          "photo": "/8Ac9uuoYwZoYVAIJfRLzzLsGGJn.jpg"
-        },
-        {
-          "name": "Bryce Dallas Howard",
-          "character": "",
-          "photo": "/6yhDkPXythZavS6Wk57XQ2sg5AW.jpg"
-        },
-        {
-          "name": "Violet McGraw",
-          "character": "",
-          "photo": "/dvErrHU0FVNP5GFkxJxZbNayC1x.jpg"
-        },
-        {
-          "name": "Matthew Lillard",
-          "character": "",
-          "photo": "/mIEKAfe0iC41RDXibbTy48LtNOi.jpg"
-        },
-        {
-          "name": "Chris Reinacher",
-          "character": "",
-          "photo": "/u0Rr9rEI8thUp9GE5OYZH7toagf.jpg"
-        },
-        {
-          "name": "Matty Finochio",
-          "character": "Scoot",
-          "photo": "/7I2iawz7YHZDbH15V4Om0Tdep9c.jpg"
-        }
-      ],
-      "countries": [
-        "US",
-        "AE"
-      ],
-      "release": {
-        "date": "2027-05-05",
-        "type": "Release",
-        "where": "World"
-      },
-      "trailer": null,
-      "match": 29,
-      "reasons": [
-        "You like Horror & Comedy",
-        "Themes: supernatural, demon, paranormal investigation"
-      ]
-    },
-    {
-      "tmdb_id": 1492198,
-      "imdb_id": "tt37171180",
-      "title": "Artificial",
-      "original_title": "Artificial",
-      "tagline": "Save. Delete.",
-      "overview": "In November 2023, amidst the height of a global AI boom, OpenAI co-founder Ilya Sutskever teamed with the company board to make one of the defining decisions that has drastically reshaped the company as we know it, the firing of current CEO Sam Altman. This controversial decision would lead to immense backlash, ultimately resulting in Altman's return five days later.",
-      "poster": "/tD4JOGcI5SSBKSFo4coObYwRlxE.jpg",
-      "backdrop": "/qt79gpmITExaeb3Y74gxgkVSvaZ.jpg",
-      "runtime": 141,
-      "genres": [
-        "Comedy",
-        "Drama",
-        "History"
-      ],
-      "category": "general",
-      "directors": [
-        "Luca Guadagnino"
-      ],
-      "writers": [
-        "Simon Rich"
-      ],
-      "cast": [
-        {
-          "name": "Andrew Garfield",
-          "character": "Sam Altman",
-          "photo": "/beO5YvbTjrr5yy8hW26KVDMSr35.jpg"
-        },
-        {
-          "name": "Yura Borisov",
-          "character": "Ilya Sutskever",
-          "photo": "/zLcD2UmXJG6m3qOQhNZs13SQRIp.jpg"
-        },
-        {
-          "name": "Jason Schwartzman",
-          "character": "Zeke",
-          "photo": "/gCjMdmW1DiPAClHVl4zHEIffIsE.jpg"
-        },
-        {
-          "name": "Cooper Koch",
-          "character": "Patrick",
-          "photo": "/vqSQfHQEUMad8ZkU4GtNXHdFip2.jpg"
-        },
-        {
-          "name": "Cooper Hoffman",
-          "character": "Greg Brockman",
-          "photo": "/yvrh3ayw2BJa1tJb3R6RzPVHPX1.jpg"
-        },
-        {
-          "name": "Monica Barbaro",
-          "character": "Mira Murati",
-          "photo": "/5vwytS9o5t8EINBGOGx677iowQi.jpg"
-        },
-        {
-          "name": "Billie Lourd",
-          "character": "Helen Toner",
-          "photo": "/1u8bZL6ZXu5iDbPO3Z0Spetyt34.jpg"
-        },
-        {
-          "name": "Zosia Mamet",
-          "character": "Tasha McCauley",
-          "photo": "/8G4n5CMVhzKfYworKrc9Pd2QjHm.jpg"
-        }
-      ],
-      "countries": [
-        "IT",
-        "GB",
-        "US"
-      ],
-      "release": {
-        "date": "2026-12-25",
-        "type": "Release",
-        "where": "World"
-      },
-      "trailer": "https://www.youtube.com/watch?v=ufeJbTNq-BI",
-      "match": 28,
-      "reasons": [
-        "You like Comedy & Drama",
-        "Starring Jason Schwartzman (Spider-Man: Beyond the Spider-Verse)",
-        "Themes: based on true story"
-      ]
-    },
-    {
       "tmdb_id": 1520592,
       "imdb_id": "tt33085567",
       "title": "River",
@@ -2811,7 +2795,7 @@
         "where": "World"
       },
       "trailer": "https://www.youtube.com/watch?v=ox8lEnsxDag",
-      "match": 27,
+      "match": 28,
       "reasons": [
         "You like Horror & Thriller",
         "Themes: survival, family, survival horror"
