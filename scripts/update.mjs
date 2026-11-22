@@ -77,8 +77,11 @@ const providerKeys = (entry) =>
   new Set(OFFER_TYPES.flatMap((t) => (entry?.[t] || []).map((p) => `${t}:${p.name}`)));
 
 async function enrich(item) {
+  // Series: either added from TMDB search (tmdb_id + type 'tv') or an IMDb ID that resolves to a TV show.
+  if (item.type === 'tv' && item.tmdb_id) return enrichTv(item, item.tmdb_id);
   const found = await tmdb(`/find/${item.imdb_id}`, { external_source: 'imdb_id' });
   const hit = found.movie_results?.[0];
+  if (!hit && found.tv_results?.[0]) return enrichTv(item, found.tv_results[0].id);
   if (!hit) return { ...item, error: 'Not found on TMDB' };
   const d = await tmdb(`/movie/${hit.id}`, {
     append_to_response: 'credits,videos,release_dates,watch/providers,recommendations,keywords',
@@ -127,6 +130,64 @@ async function enrich(item) {
   };
 }
 
+async function enrichTv(item, tvId) {
+  const d = await tmdb(`/tv/${tvId}`, {
+    append_to_response: 'aggregate_credits,videos,content_ratings,watch/providers,recommendations,keywords,external_ids',
+  });
+  const imdbId = d.external_ids?.imdb_id || (item.imdb_id?.startsWith('tt') ? item.imdb_id : null);
+  const o = imdbId ? await omdb(imdbId) : null;
+  const trailer = (d.videos?.results || []).find((v) => v.site === 'YouTube' && (v.type === 'Trailer' || v.type === 'Teaser'));
+  const ep = (e) => e ? { season: e.season_number, episode: e.episode_number, name: e.name, date: e.air_date } : null;
+  const rating = (d.content_ratings?.results || []).find((r) => r.iso_3166_1 === HOME) || (d.content_ratings?.results || []).find((r) => r.iso_3166_1 === 'US');
+  return {
+    ...item,
+    media: 'tv',
+    category: 'series',
+    tmdb_id: d.id,
+    title: d.name,
+    original_title: d.original_name,
+    year: d.first_air_date?.slice(0, 4) || null,
+    year_end: d.status === 'Ended' || d.status === 'Canceled' ? d.last_air_date?.slice(0, 4) : null,
+    first_air_date: d.first_air_date || null,
+    status: d.status,
+    in_production: d.in_production,
+    seasons: d.number_of_seasons, episodes: d.number_of_episodes,
+    season_list: (d.seasons || []).filter((s) => s.season_number > 0).map((s) => ({ n: s.season_number, episodes: s.episode_count, date: s.air_date })),
+    next_episode: ep(d.next_episode_to_air),
+    last_episode: ep(d.last_episode_to_air),
+    runtime: d.episode_run_time?.[0] || d.last_episode_to_air?.runtime || null,
+    tagline: d.tagline,
+    overview: d.overview,
+    plot_imdb: o?.Plot && o.Plot !== 'N/A' ? o.Plot : undefined,
+    genres: d.genres?.map((g) => g.name) || [],
+    genre_ids: d.genres?.map((g) => g.id) || [],
+    keywords: d.keywords?.results?.slice(0, 15).map((k) => k.name) || [],
+    poster: d.poster_path, backdrop: d.backdrop_path,
+    creators: d.created_by?.map((c) => c.name) || [],
+    directors: [],
+    networks: d.networks?.map((n) => n.name) || [],
+    cast: d.aggregate_credits?.cast?.slice(0, 10).map((c) => ({ name: c.name, character: c.roles?.[0]?.character, photo: c.profile_path })) || [],
+    countries: d.origin_country || [],
+    languages: d.spoken_languages?.map((l) => l.english_name) || [],
+    trailer: trailer ? `https://www.youtube.com/watch?v=${trailer.key}` : null,
+    ratings: {
+      tmdb: d.vote_average ? { value: d.vote_average, votes: d.vote_count } : null,
+      imdb: o?.imdbRating && o.imdbRating !== 'N/A' ? { value: Number(o.imdbRating), votes: o.imdbVotes } : null,
+      metascore: null,
+      others: o?.Ratings || [],
+    },
+    rated: rating?.rating || o?.Rated, awards: o?.Awards && o.Awards !== 'N/A' ? o.Awards : undefined,
+    imdb_url: imdbId ? `https://www.imdb.com/title/${imdbId}/` : `https://www.themoviedb.org/tv/${d.id}`,
+    releases: null,
+    availability: summarizeProviders(d['watch/providers']),
+    recommendations: (d.recommendations?.results || []).slice(0, 12).map((r) => ({
+      tmdb_id: r.id, title: r.name, year: r.first_air_date?.slice(0, 4), poster: r.poster_path,
+      genre_ids: r.genre_ids, vote: r.vote_average, media: 'tv',
+    })),
+    updated: new Date().toISOString(),
+  };
+}
+
 function diffAvailability(prev, next) {
   const alerts = [];
   if (!next.availability) return alerts;
@@ -144,25 +205,29 @@ function diffAvailability(prev, next) {
     const netflix = added.some((k) => /^(flatrate|free|ads):.*netflix/i.test(k));
     alerts.push({ kind: netflix ? 'netflix' : 'home', text: `${netflix ? '🔴 On Netflix! ' : '🇨🇭 '}"${next.title}" new in ${HOME}: ${nice.join(', ')}`, link: next.availability[HOME]?.link });
   }
+  if (prev && next.media === 'tv' && next.seasons > (prev.seasons || 0) && prev.seasons) {
+    alerts.push({ kind: 'season', text: `📺 "${next.title}" has a new season: season ${next.seasons}${next.next_episode?.date ? ` (starts ${next.next_episode.date})` : ''}` });
+  }
   return alerts.map((a) => ({ ...a, imdb_id: next.imdb_id, date: new Date().toISOString() }));
 }
 
 function buildRecommendations(movies, watchlistIds) {
-  const tmdbIds = new Set(movies.map((m) => m.tmdb_id));
+  const tmdbIds = new Set(movies.map((m) => m.tmdb_id)); // (tiny chance of movie/tv id clash: acceptable)
   const score = new Map();
   for (const m of movies) {
     if (m.watched) continue;
     for (const r of m.recommendations || []) {
       if (tmdbIds.has(r.tmdb_id)) continue;
-      const cur = score.get(r.tmdb_id) || { ...r, score: 0, because: [] };
+      const key = `${r.media || 'movie'}:${r.tmdb_id}`;
+      const cur = score.get(key) || { ...r, score: 0, because: [] };
       cur.score += 1 + (r.vote || 0) / 10;
       if (cur.because.length < 3) cur.because.push(m.title);
-      score.set(r.tmdb_id, cur);
+      score.set(key, cur);
     }
   }
   const all = [...score.values()].sort((a, b) => b.score - a.score);
-  const cat = (r) => (r.genre_ids?.includes(16) ? 'animation' : r.genre_ids?.includes(27) ? 'horror' : 'general');
-  const out = { horror: [], animation: [], general: [] };
+  const cat = (r) => (r.media === 'tv' ? 'series' : r.genre_ids?.includes(16) ? 'animation' : r.genre_ids?.includes(27) ? 'horror' : 'general');
+  const out = { horror: [], animation: [], general: [], series: [] };
   for (const r of all) if (out[cat(r)].length < 20) out[cat(r)].push(r);
   return out;
 }
@@ -186,7 +251,7 @@ function tasteProfile(movies) {
     cur.w += w; if (title) cur.titles.add(title); map.set(key, cur);
   };
   for (const m of movies) {
-    if (!m.tmdb_id) continue;
+    if (!m.tmdb_id || m.media === 'tv') continue;
     p.total++;
     for (const g of m.genre_ids || []) inc(p.genres, g, 1);
     for (const k of m.keywords || []) inc(p.keywords, k, 1, m.title);
@@ -243,7 +308,7 @@ function nextRelease(d, today) {
 
 async function buildUpcoming(movies) {
   const profile = tasteProfile(movies);
-  const owned = new Set(movies.map((m) => m.tmdb_id));
+  const owned = new Set(movies.filter((m) => m.media !== 'tv').map((m) => m.tmdb_id));
   const today = new Date().toISOString().slice(0, 10);
   const until = new Date(Date.now() + 270 * 864e5).toISOString().slice(0, 10);
   const pool = new Map();

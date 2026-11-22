@@ -22,6 +22,7 @@
     <button data-tab="horror" class="active">Horror</button>
     <button data-tab="animation">Animation</button>
     <button data-tab="general">General</button>
+    <button data-tab="series">Series</button>
     <button data-tab="soon">Coming soon</button>
     <button data-tab="recs">For you</button>
     <button data-tab="alerts">Alerts</button>
@@ -43,12 +44,13 @@
   <dialog id="add">
     <form method="dialog" class="sheet" id="add-form">
       <h2>Add a movie</h2>
-      <input id="q" placeholder="Search a title, or paste an IMDb link / tt-ID" autocomplete="off">
+      <input id="q" placeholder="Search a movie or series, or paste an IMDb link / tt-ID" autocomplete="off">
       <div class="cat-pick">
         <label><input type="radio" name="cat" value="auto" checked> Auto</label>
         <label><input type="radio" name="cat" value="horror"> Horror</label>
         <label><input type="radio" name="cat" value="animation"> Animation</label>
         <label><input type="radio" name="cat" value="general"> General</label>
+        <label><input type="radio" name="cat" value="series"> Series</label>
       </div>
       <div id="results"></div>
       <menu><button value="cancel">Close</button></menu>

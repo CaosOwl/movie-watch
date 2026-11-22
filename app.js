@@ -68,7 +68,11 @@ async function loadAll() {
 // Merge: watchlist (source of truth) + enriched data (may lag behind).
 function mergedList() {
   const byId = new Map(state.movies.map((m) => [m.imdb_id, m]));
-  return state.watchlist.movies.map((w) => ({ ...(byId.get(w.imdb_id) || {}), ...w, pending: !byId.has(w.imdb_id) }));
+  return state.watchlist.movies.map((w) => {
+    const e = byId.get(w.imdb_id);
+    const isTv = e?.media === 'tv' || w.type === 'tv';
+    return { ...(e || {}), ...w, ...(isTv ? { category: 'series', media: 'tv' } : {}), pending: !e };
+  });
 }
 
 // ---------- availability helpers ----------
@@ -107,6 +111,11 @@ function upcomingLegal(m) {
 // ---------- rendering ----------
 function setStatus(t) { $('#status').textContent = t; }
 
+const isSeries = (m) => m.media === 'tv' || m.category === 'series';
+function seriesYears(m) { return m.year ? `${m.year}–${m.year_end || (m.in_production ? '' : '')}` : ''; }
+function seasonsText(m) { return m.seasons ? `${m.seasons} season${m.seasons === 1 ? '' : 's'}` : ''; }
+function epCode(e) { return `S${String(e.season).padStart(2, '0')}E${String(e.episode).padStart(2, '0')}`; }
+
 function card(m) {
   const poster = m.poster ? `<img loading="lazy" src="${IMG}w185${m.poster}" alt="">` : `<div class="poster-ph"></div>`;
   const rating = m.ratings?.imdb ? `IMDb ${m.ratings.imdb.value}` : m.ratings?.tmdb ? `TMDB ${m.ratings.tmdb.value.toFixed(1)}` : '';
@@ -114,8 +123,10 @@ function card(m) {
     ${poster}
     <div>
       <h3>${esc(m.title || m.pending_title || m.imdb_id)} ${m.watched ? '✓' : ''}</h3>
-      <div class="meta">${[m.year, m.runtime ? `${m.runtime} min` : '', rating, (m.genres || []).slice(0, 3).join(', ')].filter(Boolean).map(esc).join(' · ')}</div>
-      <div class="badges">${availabilityBadges(m)}</div>
+      <div class="meta">${(isSeries(m)
+        ? [seriesYears(m), seasonsText(m), m.status, rating, (m.genres || []).slice(0, 2).join(', ')]
+        : [m.year, m.runtime ? `${m.runtime} min` : '', rating, (m.genres || []).slice(0, 3).join(', ')]).filter(Boolean).map(esc).join(' · ')}</div>
+      <div class="badges">${availabilityBadges(m)}${m.next_episode?.date ? `<span class="badge date">Next: ${esc(epCode(m.next_episode))} · ${esc(fmtDate(m.next_episode.date))}</span>` : ''}</div>
     </div>
   </article>`;
 }
@@ -156,7 +167,7 @@ function render() {
   }
 
   if (state.tab === 'recs') {
-    const groups = ['horror', 'animation', 'general'].map((c) => {
+    const groups = ['horror', 'animation', 'general', 'series'].map((c) => {
       const items = state.recs[c] || [];
       if (!items.length) return '';
       return `<div class="section"><h4>${c}</h4><div class="row-scroll">${items.map((r) => `
@@ -164,7 +175,7 @@ function render() {
           ${r.poster ? `<img loading="lazy" src="${IMG}w185${r.poster}" alt="">` : '<div class="poster-ph"></div>'}
           <div>${esc(r.title)} ${r.year ? `(${esc(r.year)})` : ''}</div>
           <div class="muted">because of ${esc(r.because?.[0] || '')}</div>
-          <button data-addtmdb="${r.tmdb_id}" data-cat="${c}" data-title="${esc(r.title)}">＋ Add</button>
+          <button ${r.media === 'tv' ? 'data-addtv' : 'data-addtmdb'}="${r.tmdb_id}" data-cat="${c}" data-title="${esc(r.title)}">＋ Add</button>
         </div>`).join('')}</div></div>`;
     }).join('');
     list.innerHTML = groups || '<p class="muted">Recommendations appear after the first data update.</p>';
@@ -206,9 +217,15 @@ function openDetail(id) {
       <button class="close" data-close>✕</button>
     </div>
     <div class="detail-inner">
-      <h2>${esc(m.title || m.imdb_id)} ${m.year ? `<span class="muted">(${esc(m.year)})</span>` : ''}</h2>
+      <h2>${esc(m.title || m.imdb_id)} ${m.year ? `<span class="muted">(${esc(isSeries(m) ? seriesYears(m) : m.year)})</span>` : ''}</h2>
       ${m.tagline ? `<div class="muted"><i>${esc(m.tagline)}</i></div>` : ''}
-      <div class="meta">${[m.rated, m.runtime && `${m.runtime} min`, (m.genres || []).join(', '), m.countries?.join(', ')].filter(Boolean).map(esc).join(' · ')}</div>
+      <div class="meta">${[m.rated, isSeries(m) ? seasonsText(m) : '', isSeries(m) && m.episodes ? `${m.episodes} episodes` : '', m.runtime && `${m.runtime} min${isSeries(m) ? '/ep' : ''}`, (m.genres || []).join(', '), m.countries?.join(', ')].filter(Boolean).map(esc).join(' · ')}</div>
+      ${isSeries(m) ? `<div class="section"><h4>Series</h4>
+        <div class="meta">${[m.status && `Status: ${m.status}`, m.networks?.length && `Network: ${m.networks.join(', ')}`].filter(Boolean).map(esc).join(' · ')}</div>
+        ${m.next_episode ? `<p>▶ Next episode: <b>${esc(epCode(m.next_episode))}</b>${m.next_episode.name ? ` “${esc(m.next_episode.name)}”` : ''} — ${esc(fmtDate(m.next_episode.date))}</p>` : ''}
+        ${m.last_episode ? `<p class="meta">Last aired: ${esc(epCode(m.last_episode))}${m.last_episode.date ? ` · ${esc(fmtDate(m.last_episode.date))}` : ''}</p>` : ''}
+        ${m.season_list?.length ? `<details><summary>${m.season_list.length} seasons</summary><table class="rel">${m.season_list.map((x) => `<tr><td>Season ${x.n}</td><td>${x.episodes} episodes</td><td class="muted">${esc(x.date ? fmtDate(x.date) : 'TBA')}</td></tr>`).join('')}</table></details>` : ''}
+      </div>` : ''}
       ${ratings ? `<div>${ratings}</div>` : ''}
       ${m.awards ? `<div class="meta">🏆 ${esc(m.awards)}</div>` : ''}
 
@@ -225,15 +242,16 @@ function openDetail(id) {
       </details></div>` : ''}
 
       <div class="section"><h4>Story</h4><p>${esc(m.plot_imdb || m.overview || '')}</p></div>
+      ${m.creators?.length ? `<div class="meta">Created by: ${esc(m.creators.join(', '))}</div>` : ''}
       ${m.directors?.length ? `<div class="meta">Director: ${esc(m.directors.join(', '))}${m.writers?.length ? ` · Writers: ${esc(m.writers.join(', '))}` : ''}</div>` : ''}
       ${m.cast?.length ? `<div class="section"><h4>Cast</h4><div class="row-scroll">${m.cast.map((c) => `<div class="mini">${c.photo ? `<img loading="lazy" src="${IMG}w185${c.photo}" alt="">` : '<div class="poster-ph" style="width:92px;height:138px"></div>'}<div>${esc(c.name)}</div><div class="muted">${esc(c.character)}</div></div>`).join('')}</div></div>` : ''}
-      ${m.recommendations?.length ? `<div class="section"><h4>If you like this</h4><div class="row-scroll">${m.recommendations.map((r) => `<div class="mini">${r.poster ? `<img loading="lazy" src="${IMG}w185${r.poster}" alt="">` : ''}<div>${esc(r.title)}</div><button data-addtmdb="${r.tmdb_id}" data-title="${esc(r.title)}">＋</button></div>`).join('')}</div></div>` : ''}
+      ${m.recommendations?.length ? `<div class="section"><h4>If you like this</h4><div class="row-scroll">${m.recommendations.map((r) => `<div class="mini">${r.poster ? `<img loading="lazy" src="${IMG}w185${r.poster}" alt="">` : ''}<div>${esc(r.title)}</div><button ${r.media === 'tv' ? 'data-addtv' : 'data-addtmdb'}="${r.tmdb_id}" data-title="${esc(r.title)}">＋</button></div>`).join('')}</div></div>` : ''}
 
       <div class="actions">
         <a href="${esc(m.imdb_url || `https://www.imdb.com/title/${m.imdb_id}/`)}" target="_blank" rel="noopener"><button>IMDb</button></a>
         ${m.trailer ? `<a href="${esc(m.trailer)}" target="_blank" rel="noopener"><button>▶ Trailer</button></a>` : ''}
         <button data-act="watched">${m.watched ? 'Mark unwatched' : '✓ Watched'}</button>
-        ${['horror', 'animation', 'general'].filter((c) => c !== m.category).map((c) => `<button data-act="move" data-cat="${c}">→ ${c}</button>`).join('')}
+        ${(isSeries(m) ? [] : ['horror', 'animation', 'general']).filter((c) => c !== m.category).map((c) => `<button data-act="move" data-cat="${c}">→ ${c}</button>`).join('')}
         <button class="danger" data-act="remove">Remove</button>
       </div>
     </div>`;
@@ -296,9 +314,9 @@ async function tmdbFetch(path, params = {}) {
   return r.json();
 }
 
-async function addMovie({ imdb_id, category, title }) {
+async function addMovie({ imdb_id, category, title, extra = {} }) {
   if (state.watchlist.movies.some((m) => m.imdb_id === imdb_id)) { setStatus('Already on your list.'); return; }
-  state.watchlist.movies.push({ imdb_id, category, added: new Date().toISOString().slice(0, 10), watched: false, pending_title: title });
+  state.watchlist.movies.push({ imdb_id, category, ...extra, added: new Date().toISOString().slice(0, 10), watched: false, pending_title: title });
   render();
   await saveWatchlist(`Add ${title || imdb_id} (${category})`);
 }
@@ -312,6 +330,12 @@ async function addByTmdbId(tmdbId, catHint, title) {
   await addMovie({ imdb_id: imdb, category, title: d.title || title });
 }
 
+async function addTv(tmdbId, title) {
+  let imdb = null;
+  try { imdb = (await tmdbFetch(`/tv/${tmdbId}/external_ids`)).imdb_id; } catch { /* token missing or no IMDb id: fall back to TMDB id */ }
+  await addMovie({ imdb_id: imdb || `tv-${tmdbId}`, category: 'series', title, extra: { type: 'tv', tmdb_id: Number(tmdbId) } });
+}
+
 let searchTimer;
 async function search(q) {
   const box = $('#results');
@@ -322,13 +346,19 @@ async function search(q) {
   }
   if (q.trim().length < 2) { box.innerHTML = ''; return; }
   try {
-    const r = await tmdbFetch('/search/movie', { query: q, include_adult: 'false' });
-    box.innerHTML = r.results.slice(0, 12).map((m) => `
+    const seriesOnly = document.querySelector('input[name=cat]:checked')?.value === 'series';
+    const r = await tmdbFetch(seriesOnly ? '/search/tv' : '/search/multi', { query: q, include_adult: 'false' });
+    box.innerHTML = r.results.filter((m) => seriesOnly || m.media_type === 'movie' || m.media_type === 'tv').slice(0, 12).map((m) => {
+      const tv = seriesOnly || m.media_type === 'tv';
+      const title = tv ? m.name : m.title;
+      const year = (tv ? m.first_air_date : m.release_date)?.slice(0, 4) || '';
+      return `
       <div class="result">
         ${m.poster_path ? `<img src="${IMG}w92${m.poster_path}" alt="">` : '<img alt="">'}
-        <div><b>${esc(m.title)}</b> <span class="muted">${esc(m.release_date?.slice(0, 4) || '')}</span><div class="meta">${esc((m.overview || '').slice(0, 90))}…</div></div>
-        <button class="primary" data-addtmdb="${m.id}" data-title="${esc(m.title)}">Add</button>
-      </div>`).join('') || '<p class="muted">No results.</p>';
+        <div><b>${esc(title)}</b> <span class="muted">${esc(year)}</span> ${tv ? '<span class="badge date">Series</span>' : ''}<div class="meta">${esc((m.overview || '').slice(0, 90))}…</div></div>
+        <button class="primary" ${tv ? 'data-addtv' : 'data-addtmdb'}="${m.id}" data-title="${esc(title)}">Add</button>
+      </div>`;
+    }).join('') || '<p class="muted">No results.</p>';
   } catch (e) { box.innerHTML = `<p class="muted">${esc(e.message)}</p>`; }
 }
 
@@ -342,18 +372,23 @@ $('#list').addEventListener('click', (e) => {
   if (chip) { state.soonCat = chip.dataset.soonc; render(); return; }
   const soon = e.target.closest('[data-soon]');
   if (soon) { openSoon(soon.dataset.soon); return; }
+  const addT = e.target.closest('[data-addtv]');
+  if (addT) { e.stopPropagation(); addT.disabled = true; addTv(addT.dataset.addtv, addT.dataset.title).then(() => { addT.textContent = '✓ Added'; }).catch((x) => { addT.disabled = false; alert(x.message); }); return; }
   const add = e.target.closest('[data-addtmdb]');
   if (add) { e.stopPropagation(); addByTmdbId(add.dataset.addtmdb, add.dataset.cat, add.dataset.title).catch((x) => alert(x.message)); return; }
   const c = e.target.closest('.card'); if (c) openDetail(c.dataset.id);
 });
 $('#btn-add').addEventListener('click', () => { $('#q').value = ''; $('#results').innerHTML = ''; $('#add').showModal(); $('#q').focus(); });
 $('#q').addEventListener('input', (e) => { clearTimeout(searchTimer); searchTimer = setTimeout(() => search(e.target.value), 350); });
+document.querySelectorAll('input[name=cat]').forEach((r) => r.addEventListener('change', () => search($('#q').value)));
 $('#results').addEventListener('click', async (e) => {
   const b = e.target.closest('button'); if (!b) return;
   e.preventDefault();
   b.disabled = true; b.textContent = '…';
   try {
-    if (b.dataset.addimdb) {
+    if (b.dataset.addtv) {
+      await addTv(b.dataset.addtv, b.dataset.title);
+    } else if (b.dataset.addimdb) {
       const pick = document.querySelector('input[name=cat]:checked').value;
       await addMovie({ imdb_id: b.dataset.addimdb, category: pick === 'auto' ? 'general' : pick });
     } else {
@@ -367,6 +402,8 @@ $('#detail').addEventListener('click', async (e) => {
   if (e.target === dlg || e.target.closest('[data-close]')) { dlg.close(); return; }
   const addS = e.target.closest('[data-addsoon]');
   if (addS) { addS.disabled = true; addSoon(addS.dataset.addsoon).then(() => { addS.textContent = '✓ Added'; render(); }).catch((x) => { addS.disabled = false; alert(x.message); }); return; }
+  const addT = e.target.closest('[data-addtv]');
+  if (addT) { addTv(addT.dataset.addtv, addT.dataset.title).then(() => { addT.textContent = '✓'; }).catch((x) => alert(x.message)); return; }
   const add = e.target.closest('[data-addtmdb]');
   if (add) { addByTmdbId(add.dataset.addtmdb, null, add.dataset.title).then(() => { add.textContent = '✓'; }).catch((x) => alert(x.message)); return; }
   const act = e.target.closest('[data-act]')?.dataset.act; if (!act) return;
