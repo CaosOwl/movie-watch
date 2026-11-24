@@ -1,6 +1,6 @@
 {
   "home_country": "CH",
-  "generated": "2026-11-24T11:51:16.603Z",
+  "generated": "2026-11-24T14:51:12.436Z",
   "movies": [
     {
       "tmdb_id": 1523140,
@@ -97,7 +97,8 @@
         "Adventure",
         "Animation",
         "Family",
-        "Fantasy"
+        "Fantasy",
+        "Comedy"
       ],
       "category": "animation",
       "directors": [
@@ -2757,7 +2758,7 @@
       "overview": "With the stress of the holidays fast approaching, the Heffley family—to Greg's dismay—makes a last-minute decision to escape to an all-inclusive island resort for some much-needed rest and relaxation. As hilarious hijinks ensue, the Heffleys soon discover that paradise may not be everything it's cracked up to be.",
       "poster": "/aHHIMSaXLnHZlWW15cZx9bBc0kq.jpg",
       "backdrop": "/11duoXZ23yJPBSUdfyhK7FtZKlD.jpg",
-      "runtime": 90,
+      "runtime": null,
       "genres": [
         "Animation",
         "Comedy",
