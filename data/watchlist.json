@@ -104,6 +104,13 @@
       "added": "2026-11-19",
       "watched": false,
       "pending_title": "Resident Evil"
+    },
+    {
+      "imdb_id": "tt34890576",
+      "category": "horror",
+      "added": "2026-11-24",
+      "watched": false,
+      "pending_title": "Clayface"
     }
   ]
 }
