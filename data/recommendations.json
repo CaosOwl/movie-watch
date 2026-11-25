@@ -1,23 +1,6 @@
 {
-  "generated": "2026-11-24T14:50:59.986Z",
+  "generated": "2026-11-25T14:19:24.809Z",
   "horror": [
-    {
-      "tmdb_id": 9599,
-      "title": "The Blob",
-      "year": "1988",
-      "poster": "/n6nT4SMY6fLozm7AuGySpXUmjry.jpg",
-      "genre_ids": [
-        27,
-        878,
-        53
-      ],
-      "vote": 6.877,
-      "score": 3.3754,
-      "because": [
-        "Resident Evil",
-        "Clayface"
-      ]
-    },
     {
       "tmdb_id": 1141182,
       "title": "Die Alone",
@@ -69,6 +52,21 @@
       ]
     },
     {
+      "tmdb_id": 9426,
+      "title": "The Fly",
+      "year": "1986",
+      "poster": "/8gZWMhJHRvaXdXsNhERtqNHYpH3.jpg",
+      "genre_ids": [
+        27,
+        878
+      ],
+      "vote": 7.5,
+      "score": 1.75,
+      "because": [
+        "Clayface"
+      ]
+    },
+    {
       "tmdb_id": 756999,
       "title": "The Black Phone",
       "year": "2022",
@@ -81,21 +79,6 @@
       "score": 1.7497,
       "because": [
         "The Conjuring"
-      ]
-    },
-    {
-      "tmdb_id": 9426,
-      "title": "The Fly",
-      "year": "1986",
-      "poster": "/8gZWMhJHRvaXdXsNhERtqNHYpH3.jpg",
-      "genre_ids": [
-        27,
-        878
-      ],
-      "vote": 7.452,
-      "score": 1.7452,
-      "because": [
-        "Clayface"
       ]
     },
     {
@@ -173,8 +156,8 @@
         53,
         878
       ],
-      "vote": 7.241,
-      "score": 1.7241,
+      "vote": 7.2,
+      "score": 1.72,
       "because": [
         "Resident Evil"
       ]
@@ -188,8 +171,8 @@
         27,
         53
       ],
-      "vote": 6.958,
-      "score": 1.6958,
+      "vote": 7,
+      "score": 1.7,
       "because": [
         "The Conjuring"
       ]
@@ -233,26 +216,10 @@
         27,
         53
       ],
-      "vote": 6.708,
-      "score": 1.6708,
-      "because": [
-        "The Conjuring"
-      ]
-    },
-    {
-      "tmdb_id": 3160,
-      "title": "Frankenstein Conquers the World",
-      "year": "1965",
-      "poster": "/wXzG32nsY6i8mMslXGrsHMOZla9.jpg",
-      "genre_ids": [
-        27,
-        878,
-        28
-      ],
       "vote": 6.7,
       "score": 1.67,
       "because": [
-        "Godzilla Minus Zero"
+        "The Conjuring"
       ]
     },
     {
@@ -269,6 +236,23 @@
       "score": 1.6689,
       "because": [
         "Resident Evil"
+      ]
+    },
+    {
+      "tmdb_id": 39468,
+      "title": "Godzilla vs. Megaguirus",
+      "year": "2000",
+      "poster": "/2KTmuhq1KJOsBBC0yK22sWZ6IX5.jpg",
+      "genre_ids": [
+        28,
+        878,
+        53,
+        27
+      ],
+      "vote": 6.657,
+      "score": 1.6657,
+      "because": [
+        "Godzilla Minus Zero"
       ]
     },
     {
@@ -311,8 +295,23 @@
       "genre_ids": [
         27
       ],
-      "vote": 6.415,
-      "score": 1.6415,
+      "vote": 6.414,
+      "score": 1.6414,
+      "because": [
+        "The Conjuring"
+      ]
+    },
+    {
+      "tmdb_id": 345911,
+      "title": "Lights Out",
+      "year": "2016",
+      "poster": "/AjZXonSbqC3LdSr8xCUzMiQksrM.jpg",
+      "genre_ids": [
+        27,
+        9648
+      ],
+      "vote": 6.4,
+      "score": 1.6400000000000001,
       "because": [
         "The Conjuring"
       ]
@@ -329,8 +328,8 @@
         878,
         28
       ],
-      "vote": 7.2,
-      "score": 3.44,
+      "vote": 7.225,
+      "score": 3.445,
       "because": [
         "Avengers: Doomsday",
         "Spider-Man: Beyond the Spider-Verse"
@@ -365,8 +364,8 @@
         10751,
         14
       ],
-      "vote": 8.827,
-      "score": 1.8827,
+      "vote": 8.828,
+      "score": 1.8828,
       "because": [
         "Wildwood"
       ]
@@ -398,8 +397,8 @@
         12,
         878
       ],
-      "vote": 8.4,
-      "score": 1.84,
+      "vote": 8.403,
+      "score": 1.8403,
       "because": [
         "Spider-Man: Beyond the Spider-Verse"
       ]
@@ -415,8 +414,8 @@
         12,
         878
       ],
-      "vote": 8.344,
-      "score": 1.8344,
+      "vote": 8.343,
+      "score": 1.8343,
       "because": [
         "Spider-Man: Beyond the Spider-Verse"
       ]
@@ -438,20 +437,20 @@
       ]
     },
     {
-      "tmdb_id": 142061,
-      "title": "Batman: The Dark Knight Returns, Part 2",
-      "year": "2013",
-      "poster": "/d1TqoVkyL4x0dlu9w3F9Ah4LjNv.jpg",
+      "tmdb_id": 968870,
+      "title": "Pretty Guardian Sailor Moon Cosmos the Movie Part 2",
+      "year": "2023",
+      "poster": "/sHmtdPMhnVtZWHro6f8CuDQuusz.jpg",
       "genre_ids": [
-        878,
-        28,
         16,
-        9648
+        12,
+        14,
+        10749
       ],
-      "vote": 7.923,
-      "score": 1.7923,
+      "vote": 8,
+      "score": 1.8,
       "because": [
-        "Ray Gunn"
+        "Demon Slayer: Kimetsu no Yaiba Infinity Castle"
       ]
     },
     {
@@ -465,8 +464,8 @@
         878,
         12
       ],
-      "vote": 7.917,
-      "score": 1.7917,
+      "vote": 7.9,
+      "score": 1.79,
       "because": [
         "Ray Gunn"
       ]
@@ -506,22 +505,6 @@
       ]
     },
     {
-      "tmdb_id": 802401,
-      "title": "Demon Slayer: Kimetsu no Yaiba Mt. Natagumo Arc",
-      "year": "2021",
-      "poster": "/wq1UG5lPCKpOJgmgpKJszKvoMUe.jpg",
-      "genre_ids": [
-        16,
-        28,
-        14
-      ],
-      "vote": 7.739,
-      "score": 1.7739,
-      "because": [
-        "Demon Slayer: Kimetsu no Yaiba Infinity Castle"
-      ]
-    },
-    {
       "tmdb_id": 123025,
       "title": "Batman: The Dark Knight Returns, Part 1",
       "year": "2012",
@@ -532,8 +515,8 @@
         16,
         9648
       ],
-      "vote": 7.738,
-      "score": 1.7738,
+      "vote": 7.739,
+      "score": 1.7739,
       "because": [
         "Ray Gunn"
       ]
@@ -613,8 +596,8 @@
         80,
         9648
       ],
-      "vote": 7.515,
-      "score": 1.7515,
+      "vote": 7.517,
+      "score": 1.7517,
       "because": [
         "Ray Gunn"
       ]
@@ -649,8 +632,25 @@
         14,
         878
       ],
-      "vote": 7.485,
-      "score": 1.7485,
+      "vote": 7.486,
+      "score": 1.7486,
+      "because": [
+        "Spider-Man: Beyond the Spider-Verse"
+      ]
+    },
+    {
+      "tmdb_id": 76589,
+      "title": "Justice League: Doom",
+      "year": "2012",
+      "poster": "/jmEAGjDAIZdQQNASygPsATBgKBC.jpg",
+      "genre_ids": [
+        28,
+        16,
+        878,
+        14
+      ],
+      "vote": 7.409,
+      "score": 1.7409,
       "because": [
         "Spider-Man: Beyond the Spider-Verse"
       ]
@@ -668,7 +668,7 @@
         28
       ],
       "vote": 7.93,
-      "score": 5.379,
+      "score": 5.373,
       "because": [
         "Dune: Part Two",
         "Spider-Man: Brand New Day",
@@ -718,8 +718,8 @@
         12,
         28
       ],
-      "vote": 7.607,
-      "score": 3.5214,
+      "vote": 7.6,
+      "score": 3.52,
       "because": [
         "Spider-Man: Brand New Day",
         "Avengers: Doomsday"
@@ -735,8 +735,8 @@
         28,
         878
       ],
-      "vote": 7.456,
-      "score": 3.4912,
+      "vote": 7.455,
+      "score": 3.491,
       "because": [
         "Spider-Man: Brand New Day",
         "Avengers: Doomsday"
@@ -752,8 +752,8 @@
         28,
         878
       ],
-      "vote": 6.856,
-      "score": 3.3712,
+      "vote": 6.857,
+      "score": 3.3714,
       "because": [
         "Spider-Man: Brand New Day",
         "Avengers: Doomsday"
@@ -777,37 +777,37 @@
       ]
     },
     {
-      "tmdb_id": 841,
-      "title": "Dune",
-      "year": "1984",
-      "poster": "/4kJmUCE7mkVJjXa7A0g2rY4IGTm.jpg",
+      "tmdb_id": 80274,
+      "title": "Ender's Game",
+      "year": "2013",
+      "poster": "/pVcRI5YKnkkgaAD876jBeKb189d.jpg",
       "genre_ids": [
-        28,
         878,
+        28,
         12
       ],
-      "vote": 6.196,
-      "score": 3.2392,
+      "vote": 6.593,
+      "score": 3.3186,
       "because": [
         "Dune: Part Two",
         "Dune: Part Three"
       ]
     },
     {
-      "tmdb_id": 262504,
-      "title": "Allegiant",
-      "year": "2016",
-      "poster": "/faq9JlF8znUGQ5p3En1W61Fi5p0.jpg",
+      "tmdb_id": 640146,
+      "title": "Ant-Man and the Wasp: Quantumania",
+      "year": "2023",
+      "poster": "/qnqGbB22YJ7dSs4o6M7exTpNxPz.jpg",
       "genre_ids": [
+        28,
         12,
-        878,
-        28
+        878
       ],
-      "vote": 6.097,
-      "score": 3.2194000000000003,
+      "vote": 6.193,
+      "score": 3.2386,
       "because": [
-        "Dune: Part Two",
-        "Dune: Part Three"
+        "Spider-Man: Brand New Day",
+        "Avengers: Doomsday"
       ]
     },
     {
@@ -820,11 +820,28 @@
         12,
         878
       ],
-      "vote": 6.062,
-      "score": 3.2124,
+      "vote": 6.063,
+      "score": 3.2126,
       "because": [
         "Spider-Man: Brand New Day",
         "Avengers: Doomsday"
+      ]
+    },
+    {
+      "tmdb_id": 299687,
+      "title": "The 5th Wave",
+      "year": "2016",
+      "poster": "/4Dd79cz5qxKNoKWg1xsfrpOchEr.jpg",
+      "genre_ids": [
+        878,
+        12,
+        28
+      ],
+      "vote": 5.948,
+      "score": 3.1896,
+      "because": [
+        "Dune: Part Two",
+        "Dune: Part Three"
       ]
     },
     {
@@ -893,7 +910,7 @@
       "tmdb_id": 1300968,
       "title": "The Hunger Games: Sunrise on the Reaping",
       "year": "2026",
-      "poster": "/jNcZH8yplxttRlf0wwqfGGMKHxX.jpg",
+      "poster": "/5ffVOGY3x3Sn3jovzvycJeizpks.jpg",
       "genre_ids": [
         878,
         28,
@@ -915,8 +932,8 @@
         12,
         878
       ],
-      "vote": 7.7,
-      "score": 1.77,
+      "vote": 7.652,
+      "score": 1.7652,
       "because": [
         "Spider-Man: Brand New Day"
       ]
@@ -939,6 +956,22 @@
       ]
     },
     {
+      "tmdb_id": 127585,
+      "title": "X-Men: Days of Future Past",
+      "year": "2014",
+      "poster": "/tYfijzolzgoMOtegh1Y7j2Enorg.jpg",
+      "genre_ids": [
+        28,
+        12,
+        878
+      ],
+      "vote": 7.54,
+      "score": 1.754,
+      "because": [
+        "Dune: Part Two"
+      ]
+    },
+    {
       "tmdb_id": 330459,
       "title": "Rogue One: A Star Wars Story",
       "year": "2016",
@@ -952,36 +985,6 @@
       "score": 1.7511,
       "because": [
         "Dune: Part Three"
-      ]
-    },
-    {
-      "tmdb_id": 565255,
-      "title": "Struggle: The Life and Lost Art of Szukalski",
-      "year": "2018",
-      "poster": "/2kQTN26M1IfK1M3rh3PKgSQmUF3.jpg",
-      "genre_ids": [
-        99
-      ],
-      "vote": 7.506,
-      "score": 1.7506,
-      "because": [
-        "You Can See Everything"
-      ]
-    },
-    {
-      "tmdb_id": 1895,
-      "title": "Star Wars: Episode III - Revenge of the Sith",
-      "year": "2005",
-      "poster": "/xfSAoBEm9MNBjmlNcDYLvLSMlnq.jpg",
-      "genre_ids": [
-        12,
-        28,
-        878
-      ],
-      "vote": 7.5,
-      "score": 1.75,
-      "because": [
-        "Dune: Part Two"
       ]
     }
   ],

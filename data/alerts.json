@@ -1,1 +1,10 @@
-{ "alerts": [] }
+{
+  "alerts": [
+    {
+      "kind": "first-anywhere",
+      "text": "🎬 \"You Can See Everything\" is now legally available in 2 countries (CA, US)",
+      "imdb_id": "tt45368240",
+      "date": "2026-11-25T14:19:21.255Z"
+    }
+  ]
+}
