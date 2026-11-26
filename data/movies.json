@@ -1,6 +1,6 @@
 {
   "home_country": "CH",
-  "generated": "2026-11-25T14:19:24.802Z",
+  "generated": "2026-11-26T05:29:04.428Z",
   "movies": [
     {
       "imdb_id": "tt1457767",
@@ -113,7 +113,7 @@
       "ratings": {
         "tmdb": {
           "value": 7.545,
-          "votes": 13326
+          "votes": 13330
         },
         "imdb": null,
         "metascore": null,
@@ -3652,7 +3652,7 @@
             27,
             53
           ],
-          "vote": 6.7
+          "vote": 6.708
         },
         {
           "tmdb_id": 72571,
@@ -3685,7 +3685,7 @@
             27,
             53
           ],
-          "vote": 7
+          "vote": 6.958
         },
         {
           "tmdb_id": 423108,
@@ -3708,7 +3708,7 @@
             53,
             27
           ],
-          "vote": 6.2
+          "vote": 6.164
         },
         {
           "tmdb_id": 345911,
@@ -3719,7 +3719,7 @@
             27,
             9648
           ],
-          "vote": 6.4
+          "vote": 6.388
         },
         {
           "tmdb_id": 1282980,
@@ -3765,7 +3765,7 @@
           "vote": 6.414
         }
       ],
-      "updated": "2026-11-25T14:19:19.624Z"
+      "updated": "2026-11-26T05:28:57.651Z"
     },
     {
       "imdb_id": "tt0245429",
@@ -3878,7 +3878,7 @@
       "ratings": {
         "tmdb": {
           "value": 8.537,
-          "votes": 19281
+          "votes": 19286
         },
         "imdb": null,
         "metascore": null,
@@ -6776,7 +6776,7 @@
             10751,
             14
           ],
-          "vote": 7.351
+          "vote": 7.352
         },
         {
           "tmdb_id": 21481,
@@ -6819,7 +6819,7 @@
           "vote": 6.407
         }
       ],
-      "updated": "2026-11-25T14:19:19.966Z"
+      "updated": "2026-11-26T05:28:58.052Z"
     },
     {
       "imdb_id": "tt15239678",
@@ -6868,8 +6868,8 @@
       ],
       "writers": [
         "Denis Villeneuve",
-        "Jon Spaihts",
-        "Frank Herbert"
+        "Frank Herbert",
+        "Jon Spaihts"
       ],
       "cast": [
         {
@@ -6933,7 +6933,7 @@
       "ratings": {
         "tmdb": {
           "value": 8.142,
-          "votes": 9048
+          "votes": 9050
         },
         "imdb": null,
         "metascore": null,
@@ -11064,7 +11064,7 @@
             12,
             28
           ],
-          "vote": 5.948
+          "vote": 5.9
         },
         {
           "tmdb_id": 9543,
@@ -11112,7 +11112,7 @@
             12,
             878
           ],
-          "vote": 7.54
+          "vote": 7.5
         },
         {
           "tmdb_id": 80274,
@@ -11148,22 +11148,22 @@
             878,
             28
           ],
-          "vote": 6.1
+          "vote": 6.097
         },
         {
-          "tmdb_id": 1300968,
-          "title": "The Hunger Games: Sunrise on the Reaping",
-          "year": "2026",
-          "poster": "/5ffVOGY3x3Sn3jovzvycJeizpks.jpg",
+          "tmdb_id": 81005,
+          "title": "Jack the Giant Slayer",
+          "year": "2013",
+          "poster": "/9jSI7saUX9Qz0JLh19jX2ulEwL7.jpg",
           "genre_ids": [
-            878,
+            14,
             28,
             12
           ],
-          "vote": 7.8
+          "vote": 5.921
         }
       ],
-      "updated": "2026-11-25T14:19:20.295Z"
+      "updated": "2026-11-26T05:28:58.456Z"
     },
     {
       "imdb_id": "tt2056785",
@@ -11279,8 +11279,8 @@
       "trailer": "https://www.youtube.com/watch?v=bJQGtSeLPII",
       "ratings": {
         "tmdb": {
-          "value": 8.5,
-          "votes": 326
+          "value": 8.46,
+          "votes": 327
         },
         "imdb": null,
         "metascore": null,
@@ -11769,7 +11769,7 @@
             10751,
             14
           ],
-          "vote": 8.828
+          "vote": 8.827
         },
         {
           "tmdb_id": 59981,
@@ -11810,19 +11810,6 @@
           "vote": 6.572
         },
         {
-          "tmdb_id": 10315,
-          "title": "Fantastic Mr. Fox",
-          "year": "2009",
-          "poster": "/bOVr292mwn3jxr1e0NmUPM1rcjo.jpg",
-          "genre_ids": [
-            12,
-            16,
-            35,
-            10751
-          ],
-          "vote": 7.829
-        },
-        {
           "tmdb_id": 400157,
           "title": "Wonder Park",
           "year": "2019",
@@ -11834,7 +11821,20 @@
             10751,
             14
           ],
-          "vote": 6.594
+          "vote": 6.6
+        },
+        {
+          "tmdb_id": 10315,
+          "title": "Fantastic Mr. Fox",
+          "year": "2009",
+          "poster": "/bOVr292mwn3jxr1e0NmUPM1rcjo.jpg",
+          "genre_ids": [
+            12,
+            16,
+            35,
+            10751
+          ],
+          "vote": 7.829
         },
         {
           "tmdb_id": 805051,
@@ -11913,7 +11913,7 @@
           "vote": 7.213
         }
       ],
-      "updated": "2026-11-25T14:19:20.618Z"
+      "updated": "2026-11-26T05:28:58.851Z"
     },
     {
       "imdb_id": "tt22084616",
@@ -12029,8 +12029,8 @@
       "trailer": "https://www.youtube.com/watch?v=P3uI5sLosKU",
       "ratings": {
         "tmdb": {
-          "value": 8.5,
-          "votes": 7109
+          "value": 8.456,
+          "votes": 7117
         },
         "imdb": null,
         "metascore": null,
@@ -14720,7 +14720,7 @@
             12,
             878
           ],
-          "vote": 6.568
+          "vote": 6.6
         },
         {
           "tmdb_id": 640146,
@@ -14732,7 +14732,7 @@
             12,
             878
           ],
-          "vote": 6.193
+          "vote": 6.2
         },
         {
           "tmdb_id": 580489,
@@ -14744,7 +14744,7 @@
             28,
             12
           ],
-          "vote": 6.716
+          "vote": 6.715
         },
         {
           "tmdb_id": 271110,
@@ -14756,7 +14756,7 @@
             28,
             878
           ],
-          "vote": 7.455
+          "vote": 7.5
         },
         {
           "tmdb_id": 298618,
@@ -14780,7 +14780,7 @@
             12,
             28
           ],
-          "vote": 7.9
+          "vote": 7.931
         },
         {
           "tmdb_id": 100402,
@@ -14792,7 +14792,7 @@
             12,
             878
           ],
-          "vote": 7.652
+          "vote": 7.7
         },
         {
           "tmdb_id": 283995,
@@ -14828,7 +14828,7 @@
             28,
             878
           ],
-          "vote": 6.857
+          "vote": 6.9
         },
         {
           "tmdb_id": 24428,
@@ -14843,7 +14843,7 @@
           "vote": 8.086
         }
       ],
-      "updated": "2026-11-25T14:19:20.938Z"
+      "updated": "2026-11-26T05:28:59.259Z"
     },
     {
       "imdb_id": "tt45368240",
@@ -14857,7 +14857,7 @@
       "year": "2026",
       "release_date": "2026-10-16",
       "status": "Released",
-      "runtime": 174,
+      "runtime": 175,
       "tagline": "See it to believe it.",
       "overview": "Thirty-four days before she's sent to prison, notorious Silicon Valley founder Elizabeth Holmes invites a skeptical film crew to document her every move. What begins as an intimate portrait of an enigmatic felon becomes a mind-bending three-year journey into the abyss.",
       "genres": [
@@ -14874,14 +14874,14 @@
         "business woman",
         "reenactment",
         "voyeurism",
-        "nervous",
         "disgraced",
         "meta",
         "independent film",
-        "factual",
         "crime documentary",
+        "suspenseful",
         "fraudster",
-        "ambivalent"
+        "intense",
+        "biographical documentary"
       ],
       "poster": "/mVh3qkw2NUFxWWyF0G1hg2Wh0K5.jpg",
       "backdrop": "/rrbbzCyS45yooXpUGJatfptlHYI.jpg",
@@ -14951,8 +14951,8 @@
       "trailer": "https://www.youtube.com/watch?v=IEx8D1Wb__U",
       "ratings": {
         "tmdb": {
-          "value": 8.7,
-          "votes": 179
+          "value": 8.632,
+          "votes": 205
         },
         "imdb": null,
         "metascore": null,
@@ -15635,16 +15635,6 @@
           "vote": 6.814
         },
         {
-          "tmdb_id": 1214523,
-          "title": "Frida",
-          "year": "2024",
-          "poster": "/qfPjPZF2AqB2XnXPFcHlYtlQRS3.jpg",
-          "genre_ids": [
-            99
-          ],
-          "vote": 6.8
-        },
-        {
           "tmdb_id": 1061671,
           "title": "Pamela, a love story",
           "year": "2023",
@@ -15653,16 +15643,6 @@
             99
           ],
           "vote": 7
-        },
-        {
-          "tmdb_id": 1114590,
-          "title": "Anna Nicole Smith: You Don't Know Me",
-          "year": "2023",
-          "poster": "/mybL2Hd3PvsY7Qyjf7W6BKsoECu.jpg",
-          "genre_ids": [
-            99
-          ],
-          "vote": 6.1
         },
         {
           "tmdb_id": 653729,
@@ -15675,14 +15655,24 @@
           "vote": 6.723
         },
         {
-          "tmdb_id": 1400780,
-          "title": "Come See Me in the Good Light",
-          "year": "2025",
-          "poster": "/5AFbcDGT78cLZTyHTSDBohczjuO.jpg",
+          "tmdb_id": 1214523,
+          "title": "Frida",
+          "year": "2024",
+          "poster": "/qfPjPZF2AqB2XnXPFcHlYtlQRS3.jpg",
           "genre_ids": [
             99
           ],
-          "vote": 6.883
+          "vote": 6.8
+        },
+        {
+          "tmdb_id": 1114590,
+          "title": "Anna Nicole Smith: You Don't Know Me",
+          "year": "2023",
+          "poster": "/mybL2Hd3PvsY7Qyjf7W6BKsoECu.jpg",
+          "genre_ids": [
+            99
+          ],
+          "vote": 6.1
         },
         {
           "tmdb_id": 1461714,
@@ -15695,27 +15685,37 @@
           "vote": 8.024
         },
         {
-          "tmdb_id": 565255,
-          "title": "Struggle: The Life and Lost Art of Szukalski",
-          "year": "2018",
-          "poster": "/2kQTN26M1IfK1M3rh3PKgSQmUF3.jpg",
+          "tmdb_id": 1400780,
+          "title": "Come See Me in the Good Light",
+          "year": "2025",
+          "poster": "/5AFbcDGT78cLZTyHTSDBohczjuO.jpg",
           "genre_ids": [
             99
           ],
-          "vote": 7.506
+          "vote": 6.883
         },
         {
-          "tmdb_id": 72680,
-          "title": "The Curse of the Dragon",
-          "year": "1993",
-          "poster": "/gffJgLXQJUGAhIodvzormubuLHU.jpg",
+          "tmdb_id": 438471,
+          "title": "Kim Dotcom: Caught in the Web",
+          "year": "2017",
+          "poster": "/lXEUqP9TmWvbnq8VcbJY7qMv7oD.jpg",
           "genre_ids": [
             99
           ],
-          "vote": 7.2
+          "vote": 6.577
+        },
+        {
+          "tmdb_id": 1472668,
+          "title": "Wick Is Pain",
+          "year": "2025",
+          "poster": "/ctZ9bjmCYyfFt3cUepc9axr0zHs.jpg",
+          "genre_ids": [
+            99
+          ],
+          "vote": 7.433
         }
       ],
-      "updated": "2026-11-25T14:19:21.255Z"
+      "updated": "2026-11-26T05:28:59.651Z"
     },
     {
       "imdb_id": "tt21357150",
@@ -16084,6 +16084,13 @@
               "date": "2026-12-16"
             }
           ],
+          "NL": [
+            {
+              "type": "Theatrical",
+              "typeId": 3,
+              "date": "2026-12-16"
+            }
+          ],
           "NP": [
             {
               "type": "Theatrical",
@@ -16240,7 +16247,7 @@
             28,
             878
           ],
-          "vote": 7.455
+          "vote": 7.5
         },
         {
           "tmdb_id": 141052,
@@ -16288,7 +16295,7 @@
             12,
             28
           ],
-          "vote": 7.9
+          "vote": 7.931
         },
         {
           "tmdb_id": 320288,
@@ -16324,7 +16331,7 @@
             28,
             878
           ],
-          "vote": 6.857
+          "vote": 6.9
         },
         {
           "tmdb_id": 1452,
@@ -16348,7 +16355,7 @@
             12,
             878
           ],
-          "vote": 6.193
+          "vote": 6.2
         },
         {
           "tmdb_id": 1155089,
@@ -16375,7 +16382,7 @@
           "vote": 8.086
         }
       ],
-      "updated": "2026-11-25T14:19:21.570Z"
+      "updated": "2026-11-26T05:29:00.053Z"
     },
     {
       "imdb_id": "tt31378509",
@@ -16418,8 +16425,8 @@
         "Denis Villeneuve"
       ],
       "writers": [
-        "Frank Herbert",
         "Denis Villeneuve",
+        "Frank Herbert",
         "Brian K. Vaughan"
       ],
       "cast": [
@@ -17185,7 +17192,7 @@
             12,
             28
           ],
-          "vote": 5.948
+          "vote": 5.9
         },
         {
           "tmdb_id": 54138,
@@ -17200,7 +17207,7 @@
           "vote": 7.321
         }
       ],
-      "updated": "2026-11-25T14:19:21.886Z"
+      "updated": "2026-11-26T05:29:00.457Z"
     },
     {
       "imdb_id": "tt16360004",
@@ -17254,8 +17261,8 @@
       ],
       "writers": [
         "Christopher Miller",
-        "David Callaham",
         "Phil Lord",
+        "David Callaham",
         "Samantha Suyi Lee"
       ],
       "cast": [
@@ -17267,7 +17274,7 @@
         {
           "name": "Hailee Steinfeld",
           "character": "Gwen Stacy (voice)",
-          "photo": "/fItdOWdrHNRGGRRD9NFQWtO5L1t.jpg"
+          "photo": "/qDInsG0cxWNxS1X4t59TBZ5S6x5.jpg"
         },
         {
           "name": "Oscar Isaac",
@@ -17426,7 +17433,7 @@
             12,
             878
           ],
-          "vote": 8.343
+          "vote": 8.3
         },
         {
           "tmdb_id": 225925,
@@ -17572,7 +17579,7 @@
           "vote": 6.627
         }
       ],
-      "updated": "2026-11-25T14:19:22.207Z"
+      "updated": "2026-11-26T05:29:00.846Z"
     },
     {
       "imdb_id": "tt18270542",
@@ -17638,7 +17645,7 @@
         {
           "name": "Scarlett Johansson",
           "character": "Venus Nova (voice)",
-          "photo": "/2I2xAQmL87k5YswCnc4vHjpXxE0.jpg"
+          "photo": "/TiJIJGNWk0r1Y4bYuB50clneUd.jpg"
         },
         {
           "name": "Tom Waits",
@@ -18509,7 +18516,7 @@
           "vote": 6.2
         }
       ],
-      "updated": "2026-11-25T14:19:22.605Z"
+      "updated": "2026-11-26T05:29:01.234Z"
     },
     {
       "imdb_id": "tt16744566",
@@ -18847,7 +18854,7 @@
             12,
             16
           ],
-          "vote": 6
+          "vote": 6.032
         },
         {
           "tmdb_id": 18890,
@@ -18859,7 +18866,7 @@
             878,
             10751
           ],
-          "vote": 6.095
+          "vote": 6.097
         },
         {
           "tmdb_id": 20694,
@@ -18876,7 +18883,7 @@
           "vote": 6.407
         }
       ],
-      "updated": "2026-11-25T14:19:22.944Z"
+      "updated": "2026-11-26T05:29:01.627Z"
     },
     {
       "imdb_id": "tt31450459",
@@ -18994,7 +19001,7 @@
       "ratings": {
         "tmdb": {
           "value": 7.5,
-          "votes": 540
+          "votes": 541
         },
         "imdb": null,
         "metascore": null,
@@ -19856,7 +19863,7 @@
           "vote": 6.14
         }
       ],
-      "updated": "2026-11-25T14:19:23.264Z"
+      "updated": "2026-11-26T05:29:02.023Z"
     },
     {
       "imdb_id": "tt32820897",
@@ -23200,7 +23207,7 @@
             14,
             12
           ],
-          "vote": 7.7
+          "vote": 7.695
         },
         {
           "tmdb_id": 44179,
@@ -23266,7 +23273,7 @@
           "vote": 7.696
         }
       ],
-      "updated": "2026-11-25T14:19:23.588Z"
+      "updated": "2026-11-26T05:29:02.467Z"
     },
     {
       "imdb_id": "tt34384661",
@@ -23378,8 +23385,8 @@
       "trailer": "https://www.youtube.com/watch?v=Pu0pH5BuCPM",
       "ratings": {
         "tmdb": {
-          "value": 7.66,
-          "votes": 306
+          "value": 7.656,
+          "votes": 307
         },
         "imdb": null,
         "metascore": null,
@@ -23996,7 +24003,7 @@
             27,
             28
           ],
-          "vote": 7.631
+          "vote": 7.6
         },
         {
           "tmdb_id": 39468,
@@ -24133,7 +24140,7 @@
           "vote": 6.107
         }
       ],
-      "updated": "2026-11-25T14:19:23.910Z"
+      "updated": "2026-11-26T05:29:02.908Z"
     },
     {
       "imdb_id": "tt35538033",
@@ -24219,7 +24226,7 @@
         },
         {
           "name": "Zach Cregger",
-          "character": "Intercom (voice)",
+          "character": "Voice on Intercom (voice)",
           "photo": "/bpFGFfWYIrZVK7WjwkVLwIoMKEb.jpg"
         },
         {
@@ -24249,8 +24256,8 @@
       "trailer": "https://www.youtube.com/watch?v=mNd1gb19A-c",
       "ratings": {
         "tmdb": {
-          "value": 7.5,
-          "votes": 2543
+          "value": 7.521,
+          "votes": 2559
         },
         "imdb": null,
         "metascore": null,
@@ -26415,7 +26422,7 @@
             53,
             878
           ],
-          "vote": 7.2
+          "vote": 7.241
         },
         {
           "tmdb_id": 294254,
@@ -26475,7 +26482,7 @@
             9648,
             878
           ],
-          "vote": 6.458
+          "vote": 6.452
         },
         {
           "tmdb_id": 123105,
@@ -26538,7 +26545,7 @@
           "vote": 6.59
         }
       ],
-      "updated": "2026-11-25T14:19:24.226Z"
+      "updated": "2026-11-26T05:29:03.350Z"
     },
     {
       "imdb_id": "tt34890576",
@@ -26573,13 +26580,14 @@
         "tragedy",
         "mobster",
         "unrequited love",
+        "hollywood",
+        "club",
         "disfigured face",
         "aspiring actor",
         "female scientist",
         "scientific experiment",
         "body horror",
-        "dc universe (dcu)",
-        "hollywood actor"
+        "dc universe (dcu)"
       ],
       "poster": "/9l1NuFjel2j89hiuiJbsxfblqjy.jpg",
       "backdrop": "/f1TVhqJJdxMvUsUDuKHS0ekgYkk.jpg",
@@ -26654,7 +26662,7 @@
       "ratings": {
         "tmdb": {
           "value": 7.4,
-          "votes": 473
+          "votes": 474
         },
         "imdb": null,
         "metascore": null,
@@ -27469,6 +27477,18 @@
       },
       "recommendations": [
         {
+          "tmdb_id": 9556,
+          "title": "Darkman",
+          "year": "1990",
+          "poster": "/9fxGRzlINIvfPFhizMgbQaDDrK.jpg",
+          "genre_ids": [
+            28,
+            878,
+            53
+          ],
+          "vote": 6.427
+        },
+        {
           "tmdb_id": 9383,
           "title": "Hollow Man",
           "year": "2000",
@@ -27479,29 +27499,6 @@
             53
           ],
           "vote": 5.994
-        },
-        {
-          "tmdb_id": 9556,
-          "title": "Darkman",
-          "year": "1990",
-          "poster": "/9fxGRzlINIvfPFhizMgbQaDDrK.jpg",
-          "genre_ids": [
-            28,
-            878,
-            53
-          ],
-          "vote": 6.425
-        },
-        {
-          "tmdb_id": 9426,
-          "title": "The Fly",
-          "year": "1986",
-          "poster": "/8gZWMhJHRvaXdXsNhERtqNHYpH3.jpg",
-          "genre_ids": [
-            27,
-            878
-          ],
-          "vote": 7.5
         },
         {
           "tmdb_id": 338676,
@@ -27516,27 +27513,15 @@
           "vote": 6.365
         },
         {
-          "tmdb_id": 819876,
-          "title": "Crimes of the Future",
-          "year": "2022",
-          "poster": "/RAFYMC0NgK9In9aGY6k6wsIL8w.jpg",
-          "genre_ids": [
-            878,
-            27,
-            53
-          ],
-          "vote": 6
-        },
-        {
-          "tmdb_id": 48660,
-          "title": "The Kindred",
-          "year": "1987",
-          "poster": "/bDMUr5IQWAwUpFZFFxltLuAIb7N.jpg",
+          "tmdb_id": 9426,
+          "title": "The Fly",
+          "year": "1986",
+          "poster": "/8gZWMhJHRvaXdXsNhERtqNHYpH3.jpg",
           "genre_ids": [
             27,
             878
           ],
-          "vote": 5.965
+          "vote": 7.451
         },
         {
           "tmdb_id": 614205,
@@ -27563,29 +27548,6 @@
           "vote": 5.912
         },
         {
-          "tmdb_id": 84719,
-          "title": "Man-Made Monster",
-          "year": "1941",
-          "poster": "/t12DDDsHck8dOVQGI1LiMtNQVf7.jpg",
-          "genre_ids": [
-            27,
-            878
-          ],
-          "vote": 6.1
-        },
-        {
-          "tmdb_id": 12476,
-          "title": "The Hidden",
-          "year": "1987",
-          "poster": "/pCoFtULUIebq13EU9glcZjfdC1a.jpg",
-          "genre_ids": [
-            28,
-            878,
-            27
-          ],
-          "vote": 6.888
-        },
-        {
           "tmdb_id": 46261,
           "title": "Don't Be Afraid of the Dark",
           "year": "2010",
@@ -27598,6 +27560,40 @@
           "vote": 5.8
         },
         {
+          "tmdb_id": 12476,
+          "title": "The Hidden",
+          "year": "1987",
+          "poster": "/pCoFtULUIebq13EU9glcZjfdC1a.jpg",
+          "genre_ids": [
+            28,
+            878,
+            27
+          ],
+          "vote": 6.887
+        },
+        {
+          "tmdb_id": 812320,
+          "title": "Slapface",
+          "year": "2022",
+          "poster": "/xFR5TrTfhjaKN2z17rP09hoQXXs.jpg",
+          "genre_ids": [
+            27,
+            53
+          ],
+          "vote": 5.9
+        },
+        {
+          "tmdb_id": 48660,
+          "title": "The Kindred",
+          "year": "1987",
+          "poster": "/bDMUr5IQWAwUpFZFFxltLuAIb7N.jpg",
+          "genre_ids": [
+            27,
+            878
+          ],
+          "vote": 5.965
+        },
+        {
           "tmdb_id": 1141182,
           "title": "Die Alone",
           "year": "2024",
@@ -27608,9 +27604,787 @@
             878
           ],
           "vote": 6.445
+        },
+        {
+          "tmdb_id": 528985,
+          "title": "Assimilate",
+          "year": "2019",
+          "poster": "/jbMZEbL9FuhvHOS5Yivz5Vwbbhk.jpg",
+          "genre_ids": [
+            27,
+            53,
+            878
+          ],
+          "vote": 6.334
         }
       ],
-      "updated": "2026-11-25T14:19:24.551Z"
+      "updated": "2026-11-26T05:29:03.778Z"
+    },
+    {
+      "imdb_id": "tt32558705",
+      "category": "general",
+      "added": "2026-11-26",
+      "watched": false,
+      "pending_title": "The Hunger Games: Sunrise on the Reaping",
+      "tmdb_id": 1300968,
+      "title": "The Hunger Games: Sunrise on the Reaping",
+      "original_title": "The Hunger Games: Sunrise on the Reaping",
+      "year": "2026",
+      "release_date": "2026-11-18",
+      "status": "Released",
+      "runtime": 159,
+      "tagline": "Welcome to the Second Quarter Quell.",
+      "overview": "Return to the world of Panem 24 years before Katniss Everdeen volunteers in her sister's place, commencing on the morning of the reaping of the 50th Hunger Games, also known as the Second Quarter Quell.",
+      "genres": [
+        "Science Fiction",
+        "Action",
+        "Adventure"
+      ],
+      "genre_ids": [
+        878,
+        28,
+        12
+      ],
+      "keywords": [
+        "based on novel or book",
+        "dystopia",
+        "post-apocalyptic future",
+        "killing fields",
+        "sequel",
+        "prequel",
+        "based on young adult novel",
+        "fiction",
+        "fantasy",
+        "awestruck",
+        "violent revenge"
+      ],
+      "poster": "/5ffVOGY3x3Sn3jovzvycJeizpks.jpg",
+      "backdrop": "/aqFZcr2dxSZ2UwWSo1WC6C0rwDf.jpg",
+      "directors": [
+        "Francis Lawrence"
+      ],
+      "writers": [
+        "Suzanne Collins",
+        "Billy Ray",
+        "Michael Lesslie"
+      ],
+      "cast": [
+        {
+          "name": "Joseph Zada",
+          "character": "Haymitch Abernathy",
+          "photo": "/9im3Kn4J41tK2j90E3YhKbjd8qg.jpg"
+        },
+        {
+          "name": "Jesse Plemons",
+          "character": "Plutarch Heavensbee",
+          "photo": "/v6WBJbm02mfzLhs8zeUzFRDtoly.jpg"
+        },
+        {
+          "name": "Ralph Fiennes",
+          "character": "President Snow",
+          "photo": "/tJr9GcmGNHhLVVEH3i7QYbj6hBi.jpg"
+        },
+        {
+          "name": "Glenn Close",
+          "character": "Drusilla Sickle",
+          "photo": "/4VHZ1GfLwN7MUgApy0LCBzdDF9L.jpg"
+        },
+        {
+          "name": "Mckenna Grace",
+          "character": "Maysilee / Merrilee Donner",
+          "photo": "/sK0CVa56IIpFhCDrcXSTqPWxNbx.jpg"
+        },
+        {
+          "name": "Whitney Peak",
+          "character": "Lenore Dove",
+          "photo": "/2TuyybZPFBJzIV4ctUzxo4w3O0X.jpg"
+        },
+        {
+          "name": "Elle Fanning",
+          "character": "Effie Trinket",
+          "photo": "/ucC5faqfEYVhoC25M6Hi3znZmab.jpg"
+        },
+        {
+          "name": "Kieran Culkin",
+          "character": "Caesar Flickerman",
+          "photo": "/4TiNEWVb5R0E62H9ljkY9RU4PoK.jpg"
+        },
+        {
+          "name": "Kelvin Harrison Jr.",
+          "character": "Beetee",
+          "photo": "/eZzlQfYpvDc649h17tXpKKQusnt.jpg"
+        },
+        {
+          "name": "Maya Hawke",
+          "character": "Wiress",
+          "photo": "/7oihORN6wlSC9qKULcpVq7Kqv1l.jpg"
+        }
+      ],
+      "countries": [
+        "US",
+        "DE"
+      ],
+      "languages": [
+        "English"
+      ],
+      "trailer": "https://www.youtube.com/watch?v=Dr060OLTodE",
+      "ratings": {
+        "tmdb": {
+          "value": 7.8,
+          "votes": 351
+        },
+        "imdb": null,
+        "metascore": null,
+        "others": []
+      },
+      "imdb_url": "https://www.imdb.com/title/tt32558705/",
+      "releases": {
+        "byCountry": {
+          "AE": [
+            {
+              "type": "Theatrical",
+              "typeId": 3,
+              "date": "2026-11-19"
+            }
+          ],
+          "AR": [
+            {
+              "type": "Theatrical",
+              "typeId": 3,
+              "date": "2026-11-18"
+            }
+          ],
+          "AT": [
+            {
+              "type": "Theatrical",
+              "typeId": 3,
+              "date": "2026-11-19"
+            }
+          ],
+          "AU": [
+            {
+              "type": "Theatrical",
+              "typeId": 3,
+              "date": "2026-11-19"
+            }
+          ],
+          "AZ": [
+            {
+              "type": "Theatrical",
+              "typeId": 3,
+              "date": "2026-11-19",
+              "note": "12+"
+            }
+          ],
+          "BE": [
+            {
+              "type": "Theatrical",
+              "typeId": 3,
+              "date": "2026-11-18"
+            }
+          ],
+          "BG": [
+            {
+              "type": "Theatrical",
+              "typeId": 3,
+              "date": "2026-11-20",
+              "note": "12+"
+            }
+          ],
+          "BH": [
+            {
+              "type": "Theatrical",
+              "typeId": 3,
+              "date": "2026-11-19"
+            }
+          ],
+          "BR": [
+            {
+              "type": "Theatrical (limited)",
+              "typeId": 2,
+              "date": "2026-11-18"
+            },
+            {
+              "type": "Theatrical",
+              "typeId": 3,
+              "date": "2026-11-19"
+            }
+          ],
+          "CA": [
+            {
+              "type": "Theatrical",
+              "typeId": 3,
+              "date": "2026-11-20"
+            }
+          ],
+          "CL": [
+            {
+              "type": "Theatrical",
+              "typeId": 3,
+              "date": "2026-11-19"
+            }
+          ],
+          "CN": [
+            {
+              "type": "Theatrical",
+              "typeId": 3,
+              "date": "2026-11-20"
+            }
+          ],
+          "CO": [
+            {
+              "type": "Theatrical",
+              "typeId": 3,
+              "date": "2026-11-18"
+            }
+          ],
+          "CZ": [
+            {
+              "type": "Theatrical",
+              "typeId": 3,
+              "date": "2026-11-19"
+            }
+          ],
+          "DE": [
+            {
+              "type": "Premiere",
+              "typeId": 1,
+              "date": "2026-11-02",
+              "note": "Zoo Palast, Berlin "
+            },
+            {
+              "type": "Theatrical",
+              "typeId": 3,
+              "date": "2026-11-19"
+            }
+          ],
+          "EC": [
+            {
+              "type": "Theatrical",
+              "typeId": 3,
+              "date": "2026-11-19",
+              "note": "+12"
+            }
+          ],
+          "EE": [
+            {
+              "type": "Theatrical",
+              "typeId": 3,
+              "date": "2026-11-20"
+            }
+          ],
+          "ES": [
+            {
+              "type": "Premiere",
+              "typeId": 1,
+              "date": "2026-11-05",
+              "note": "Kinépolis Ciudad de la Imagen, Madrid"
+            },
+            {
+              "type": "Theatrical",
+              "typeId": 3,
+              "date": "2026-11-20"
+            }
+          ],
+          "FI": [
+            {
+              "type": "Theatrical",
+              "typeId": 3,
+              "date": "2026-11-20"
+            }
+          ],
+          "FR": [
+            {
+              "type": "Theatrical",
+              "typeId": 3,
+              "date": "2026-11-18"
+            }
+          ],
+          "GB": [
+            {
+              "type": "Premiere",
+              "typeId": 1,
+              "date": "2026-10-28",
+              "note": "London, England"
+            },
+            {
+              "type": "Theatrical",
+              "typeId": 3,
+              "date": "2026-11-18"
+            }
+          ],
+          "GR": [
+            {
+              "type": "Theatrical",
+              "typeId": 3,
+              "date": "2026-11-19"
+            }
+          ],
+          "GT": [
+            {
+              "type": "Theatrical",
+              "typeId": 3,
+              "date": "2026-11-19"
+            }
+          ],
+          "HK": [
+            {
+              "type": "Theatrical",
+              "typeId": 3,
+              "date": "2026-11-19"
+            }
+          ],
+          "HR": [
+            {
+              "type": "Theatrical",
+              "typeId": 3,
+              "date": "2026-11-19"
+            }
+          ],
+          "HU": [
+            {
+              "type": "Theatrical",
+              "typeId": 3,
+              "date": "2026-11-19"
+            }
+          ],
+          "ID": [
+            {
+              "type": "Theatrical",
+              "typeId": 3,
+              "date": "2026-11-18"
+            }
+          ],
+          "IE": [
+            {
+              "type": "Theatrical",
+              "typeId": 3,
+              "date": "2026-11-18"
+            }
+          ],
+          "IL": [
+            {
+              "type": "Theatrical",
+              "typeId": 3,
+              "date": "2026-11-19"
+            }
+          ],
+          "IQ": [
+            {
+              "type": "Theatrical",
+              "typeId": 3,
+              "date": "2026-11-19"
+            }
+          ],
+          "IT": [
+            {
+              "type": "Premiere",
+              "typeId": 1,
+              "date": "2026-11-01",
+              "note": "Lucca Comics & Games"
+            },
+            {
+              "type": "Theatrical",
+              "typeId": 3,
+              "date": "2026-11-19"
+            }
+          ],
+          "KR": [
+            {
+              "type": "Theatrical",
+              "typeId": 3,
+              "date": "2026-11-18"
+            }
+          ],
+          "KW": [
+            {
+              "type": "Theatrical",
+              "typeId": 3,
+              "date": "2026-11-19"
+            }
+          ],
+          "KZ": [
+            {
+              "type": "Theatrical",
+              "typeId": 3,
+              "date": "2026-11-19"
+            }
+          ],
+          "LT": [
+            {
+              "type": "Theatrical",
+              "typeId": 3,
+              "date": "2026-11-18"
+            }
+          ],
+          "LV": [
+            {
+              "type": "Theatrical",
+              "typeId": 3,
+              "date": "2026-11-18"
+            }
+          ],
+          "MO": [
+            {
+              "type": "Theatrical",
+              "typeId": 3,
+              "date": "2026-11-19"
+            }
+          ],
+          "MX": [
+            {
+              "type": "Theatrical",
+              "typeId": 3,
+              "date": "2026-11-18"
+            }
+          ],
+          "NL": [
+            {
+              "type": "Theatrical",
+              "typeId": 3,
+              "date": "2026-11-19"
+            }
+          ],
+          "NZ": [
+            {
+              "type": "Theatrical",
+              "typeId": 3,
+              "date": "2026-11-18"
+            }
+          ],
+          "OM": [
+            {
+              "type": "Theatrical",
+              "typeId": 3,
+              "date": "2026-11-19"
+            }
+          ],
+          "PE": [
+            {
+              "type": "Theatrical",
+              "typeId": 3,
+              "date": "2026-11-18",
+              "note": "M14"
+            }
+          ],
+          "PH": [
+            {
+              "type": "Theatrical",
+              "typeId": 3,
+              "date": "2026-11-18"
+            }
+          ],
+          "PL": [
+            {
+              "type": "Theatrical",
+              "typeId": 3,
+              "date": "2026-11-20"
+            }
+          ],
+          "PR": [
+            {
+              "type": "Theatrical",
+              "typeId": 3,
+              "date": "2026-11-19"
+            }
+          ],
+          "PT": [
+            {
+              "type": "Theatrical",
+              "typeId": 3,
+              "date": "2026-11-19"
+            }
+          ],
+          "PY": [
+            {
+              "type": "Theatrical",
+              "typeId": 3,
+              "date": "2026-11-19",
+              "note": "S13"
+            }
+          ],
+          "QA": [
+            {
+              "type": "Theatrical",
+              "typeId": 3,
+              "date": "2026-11-19"
+            }
+          ],
+          "RO": [
+            {
+              "type": "Theatrical",
+              "typeId": 3,
+              "date": "2026-11-20"
+            }
+          ],
+          "RS": [
+            {
+              "type": "Theatrical",
+              "typeId": 3,
+              "date": "2026-11-19"
+            }
+          ],
+          "RU": [
+            {
+              "type": "Theatrical",
+              "typeId": 3,
+              "date": "2026-11-26"
+            }
+          ],
+          "SA": [
+            {
+              "type": "Theatrical",
+              "typeId": 3,
+              "date": "2026-11-19"
+            }
+          ],
+          "SE": [
+            {
+              "type": "Theatrical",
+              "typeId": 3,
+              "date": "2026-11-18"
+            }
+          ],
+          "SG": [
+            {
+              "type": "Theatrical",
+              "typeId": 3,
+              "date": "2026-11-19"
+            }
+          ],
+          "TH": [
+            {
+              "type": "Theatrical",
+              "typeId": 3,
+              "date": "2026-11-19"
+            }
+          ],
+          "TR": [
+            {
+              "type": "Theatrical",
+              "typeId": 3,
+              "date": "2026-11-20"
+            }
+          ],
+          "TW": [
+            {
+              "type": "Theatrical",
+              "typeId": 3,
+              "date": "2026-11-20"
+            }
+          ],
+          "UA": [
+            {
+              "type": "Theatrical",
+              "typeId": 3,
+              "date": "2026-11-19"
+            }
+          ],
+          "US": [
+            {
+              "type": "Premiere",
+              "typeId": 1,
+              "date": "2026-11-16",
+              "note": "Lincoln Center, New York "
+            },
+            {
+              "type": "Theatrical",
+              "typeId": 3,
+              "date": "2026-11-20"
+            }
+          ],
+          "VE": [
+            {
+              "type": "Theatrical",
+              "typeId": 3,
+              "date": "2026-11-19",
+              "note": "B"
+            }
+          ],
+          "VN": [
+            {
+              "type": "Theatrical",
+              "typeId": 3,
+              "date": "2026-11-20"
+            }
+          ],
+          "ZA": [
+            {
+              "type": "Theatrical",
+              "typeId": 3,
+              "date": "2026-11-20"
+            }
+          ]
+        },
+        "earliestDigital": null
+      },
+      "availability": {
+        "CA": {
+          "link": "https://www.themoviedb.org/movie/1300968-the-hunger-games-sunrise-on-the-reaping/watch?locale=CA",
+          "buy": [
+            {
+              "name": "CosmoGo",
+              "logo": "/fyUUKmDdzpJjSwsXPN4Rpi7jTu5.png"
+            }
+          ]
+        },
+        "US": {
+          "link": "https://www.themoviedb.org/movie/1300968-the-hunger-games-sunrise-on-the-reaping/watch?locale=US",
+          "buy": [
+            {
+              "name": "Fandango At Home",
+              "logo": "/wpOt6x0dRxTrIzuBosto4LGd7E9.png"
+            }
+          ]
+        }
+      },
+      "recommendations": [
+        {
+          "tmdb_id": 131634,
+          "title": "The Hunger Games: Mockingjay - Part 2",
+          "year": "2015",
+          "poster": "/lImKHDfExAulp16grYm8zD5eONE.jpg",
+          "genre_ids": [
+            28,
+            12,
+            878
+          ],
+          "vote": 6.901
+        },
+        {
+          "tmdb_id": 101299,
+          "title": "The Hunger Games: Catching Fire",
+          "year": "2013",
+          "poster": "/vrQHDXjVmbYzadOXQ0UaObunoy2.jpg",
+          "genre_ids": [
+            12,
+            28,
+            878
+          ],
+          "vote": 7.427
+        },
+        {
+          "tmdb_id": 131631,
+          "title": "The Hunger Games: Mockingjay - Part 1",
+          "year": "2014",
+          "poster": "/4FAA18ZIja70d1Tu5hr5cj2q1sB.jpg",
+          "genre_ids": [
+            878,
+            12,
+            53
+          ],
+          "vote": 6.816
+        },
+        {
+          "tmdb_id": 695721,
+          "title": "The Hunger Games: The Ballad of Songbirds & Snakes",
+          "year": "2023",
+          "poster": "/mBaXZ95R2OxueZhvQbcEWy2DqyO.jpg",
+          "genre_ids": [
+            878,
+            28,
+            12
+          ],
+          "vote": 6.949
+        },
+        {
+          "tmdb_id": 428078,
+          "title": "Mortal Engines",
+          "year": "2018",
+          "poster": "/gLhYg9NIvIPKVRTtvzCWnp1qJWG.jpg",
+          "genre_ids": [
+            12,
+            878
+          ],
+          "vote": 6.278
+        },
+        {
+          "tmdb_id": 262504,
+          "title": "Allegiant",
+          "year": "2016",
+          "poster": "/faq9JlF8znUGQ5p3En1W61Fi5p0.jpg",
+          "genre_ids": [
+            12,
+            878,
+            28
+          ],
+          "vote": 6.097
+        },
+        {
+          "tmdb_id": 336843,
+          "title": "Maze Runner: The Death Cure",
+          "year": "2018",
+          "poster": "/s8K0US4tUEoOrQ1LDh0eppuwGDx.jpg",
+          "genre_ids": [
+            878,
+            28,
+            12,
+            53
+          ],
+          "vote": 7.068
+        },
+        {
+          "tmdb_id": 72710,
+          "title": "The Host",
+          "year": "2013",
+          "poster": "/1mfIZw6WgkCX310eoe0Ys14c3Fi.jpg",
+          "genre_ids": [
+            28,
+            12,
+            878
+          ],
+          "vote": 6.296
+        },
+        {
+          "tmdb_id": 487186,
+          "title": "Halo: Nightfall",
+          "year": "2014",
+          "poster": "/liLQ8EFzHN06eFZ9KQMDK6cmGaK.jpg",
+          "genre_ids": [
+            878,
+            28,
+            12
+          ],
+          "vote": 6.786
+        },
+        {
+          "tmdb_id": 1452,
+          "title": "Superman Returns",
+          "year": "2006",
+          "poster": "/385XwTQZDpRX2d3kxtnpiLrjBXw.jpg",
+          "genre_ids": [
+            878,
+            28,
+            12
+          ],
+          "vote": 5.832
+        },
+        {
+          "tmdb_id": 141052,
+          "title": "Justice League",
+          "year": "2017",
+          "poster": "/eifGNCSDuxJeS1loAXil5bIGgvC.jpg",
+          "genre_ids": [
+            28,
+            12,
+            878
+          ],
+          "vote": 6.063
+        },
+        {
+          "tmdb_id": 181812,
+          "title": "Star Wars: The Rise of Skywalker",
+          "year": "2019",
+          "poster": "/db32LaOibwEliAmSL2jjDF6oDdj.jpg",
+          "genre_ids": [
+            12,
+            28,
+            878
+          ],
+          "vote": 6.235
+        }
+      ],
+      "updated": "2026-11-26T05:29:04.178Z"
     }
   ]
 }

@@ -1,5 +1,5 @@
 {
-  "generated": "2026-11-25T14:19:24.809Z",
+  "generated": "2026-11-26T05:29:04.436Z",
   "horror": [
     {
       "tmdb_id": 1141182,
@@ -45,25 +45,10 @@
         27,
         28
       ],
-      "vote": 7.631,
-      "score": 1.7631000000000001,
+      "vote": 7.6,
+      "score": 1.76,
       "because": [
         "Godzilla Minus Zero"
-      ]
-    },
-    {
-      "tmdb_id": 9426,
-      "title": "The Fly",
-      "year": "1986",
-      "poster": "/8gZWMhJHRvaXdXsNhERtqNHYpH3.jpg",
-      "genre_ids": [
-        27,
-        878
-      ],
-      "vote": 7.5,
-      "score": 1.75,
-      "because": [
-        "Clayface"
       ]
     },
     {
@@ -79,6 +64,21 @@
       "score": 1.7497,
       "because": [
         "The Conjuring"
+      ]
+    },
+    {
+      "tmdb_id": 9426,
+      "title": "The Fly",
+      "year": "1986",
+      "poster": "/8gZWMhJHRvaXdXsNhERtqNHYpH3.jpg",
+      "genre_ids": [
+        27,
+        878
+      ],
+      "vote": 7.451,
+      "score": 1.7450999999999999,
+      "because": [
+        "Clayface"
       ]
     },
     {
@@ -156,8 +156,8 @@
         53,
         878
       ],
-      "vote": 7.2,
-      "score": 1.72,
+      "vote": 7.241,
+      "score": 1.7241,
       "because": [
         "Resident Evil"
       ]
@@ -171,8 +171,8 @@
         27,
         53
       ],
-      "vote": 7,
-      "score": 1.7,
+      "vote": 6.958,
+      "score": 1.6958,
       "because": [
         "The Conjuring"
       ]
@@ -201,8 +201,8 @@
         878,
         27
       ],
-      "vote": 6.888,
-      "score": 1.6888,
+      "vote": 6.887,
+      "score": 1.6886999999999999,
       "because": [
         "Clayface"
       ]
@@ -216,8 +216,8 @@
         27,
         53
       ],
-      "vote": 6.7,
-      "score": 1.67,
+      "vote": 6.708,
+      "score": 1.6708,
       "because": [
         "The Conjuring"
       ]
@@ -281,8 +281,8 @@
         9648,
         878
       ],
-      "vote": 6.458,
-      "score": 1.6458,
+      "vote": 6.452,
+      "score": 1.6452,
       "because": [
         "Resident Evil"
       ]
@@ -310,8 +310,8 @@
         27,
         9648
       ],
-      "vote": 6.4,
-      "score": 1.6400000000000001,
+      "vote": 6.388,
+      "score": 1.6388,
       "because": [
         "The Conjuring"
       ]
@@ -364,8 +364,8 @@
         10751,
         14
       ],
-      "vote": 8.828,
-      "score": 1.8828,
+      "vote": 8.827,
+      "score": 1.8827,
       "because": [
         "Wildwood"
       ]
@@ -414,8 +414,8 @@
         12,
         878
       ],
-      "vote": 8.343,
-      "score": 1.8343,
+      "vote": 8.3,
+      "score": 1.83,
       "because": [
         "Spider-Man: Beyond the Spider-Verse"
       ]
@@ -522,22 +522,6 @@
       ]
     },
     {
-      "tmdb_id": 34295,
-      "title": "Inuyasha the Movie 3: Swords of an Honorable Ruler",
-      "year": "2003",
-      "poster": "/cUqC1pHXFhow0kSJbg4e77EcuxQ.jpg",
-      "genre_ids": [
-        16,
-        14,
-        12
-      ],
-      "vote": 7.7,
-      "score": 1.77,
-      "because": [
-        "Demon Slayer: Kimetsu no Yaiba Infinity Castle"
-      ]
-    },
-    {
       "tmdb_id": 22537,
       "title": "Inuyasha the Movie 2: The Castle Beyond the Looking Glass",
       "year": "2002",
@@ -550,6 +534,22 @@
       ],
       "vote": 7.696,
       "score": 1.7696,
+      "because": [
+        "Demon Slayer: Kimetsu no Yaiba Infinity Castle"
+      ]
+    },
+    {
+      "tmdb_id": 34295,
+      "title": "Inuyasha the Movie 3: Swords of an Honorable Ruler",
+      "year": "2003",
+      "poster": "/cUqC1pHXFhow0kSJbg4e77EcuxQ.jpg",
+      "genre_ids": [
+        16,
+        14,
+        12
+      ],
+      "vote": 7.695,
+      "score": 1.7695,
       "because": [
         "Demon Slayer: Kimetsu no Yaiba Infinity Castle"
       ]
@@ -668,11 +668,29 @@
         28
       ],
       "vote": 7.93,
-      "score": 5.373,
+      "score": 5.3792,
       "because": [
         "Dune: Part Two",
         "Spider-Man: Brand New Day",
         "Avengers: Doomsday"
+      ]
+    },
+    {
+      "tmdb_id": 141052,
+      "title": "Justice League",
+      "year": "2017",
+      "poster": "/eifGNCSDuxJeS1loAXil5bIGgvC.jpg",
+      "genre_ids": [
+        28,
+        12,
+        878
+      ],
+      "vote": 6.063,
+      "score": 4.8189,
+      "because": [
+        "Spider-Man: Brand New Day",
+        "Avengers: Doomsday",
+        "The Hunger Games: Sunrise on the Reaping"
       ]
     },
     {
@@ -735,8 +753,8 @@
         28,
         878
       ],
-      "vote": 7.455,
-      "score": 3.491,
+      "vote": 7.5,
+      "score": 3.5,
       "because": [
         "Spider-Man: Brand New Day",
         "Avengers: Doomsday"
@@ -752,8 +770,8 @@
         28,
         878
       ],
-      "vote": 6.857,
-      "score": 3.3714,
+      "vote": 6.9,
+      "score": 3.38,
       "because": [
         "Spider-Man: Brand New Day",
         "Avengers: Doomsday"
@@ -794,6 +812,23 @@
       ]
     },
     {
+      "tmdb_id": 181812,
+      "title": "Star Wars: The Rise of Skywalker",
+      "year": "2019",
+      "poster": "/db32LaOibwEliAmSL2jjDF6oDdj.jpg",
+      "genre_ids": [
+        12,
+        28,
+        878
+      ],
+      "vote": 6.235,
+      "score": 3.247,
+      "because": [
+        "Dune: Part Three",
+        "The Hunger Games: Sunrise on the Reaping"
+      ]
+    },
+    {
       "tmdb_id": 640146,
       "title": "Ant-Man and the Wasp: Quantumania",
       "year": "2023",
@@ -803,28 +838,28 @@
         12,
         878
       ],
-      "vote": 6.193,
-      "score": 3.2386,
+      "vote": 6.2,
+      "score": 3.24,
       "because": [
         "Spider-Man: Brand New Day",
         "Avengers: Doomsday"
       ]
     },
     {
-      "tmdb_id": 141052,
-      "title": "Justice League",
-      "year": "2017",
-      "poster": "/eifGNCSDuxJeS1loAXil5bIGgvC.jpg",
+      "tmdb_id": 262504,
+      "title": "Allegiant",
+      "year": "2016",
+      "poster": "/faq9JlF8znUGQ5p3En1W61Fi5p0.jpg",
       "genre_ids": [
-        28,
         12,
-        878
+        878,
+        28
       ],
-      "vote": 6.063,
-      "score": 3.2126,
+      "vote": 6.097,
+      "score": 3.2194000000000003,
       "because": [
-        "Spider-Man: Brand New Day",
-        "Avengers: Doomsday"
+        "Dune: Part Two",
+        "The Hunger Games: Sunrise on the Reaping"
       ]
     },
     {
@@ -837,11 +872,28 @@
         12,
         28
       ],
-      "vote": 5.948,
-      "score": 3.1896,
+      "vote": 5.9,
+      "score": 3.18,
       "because": [
         "Dune: Part Two",
         "Dune: Part Three"
+      ]
+    },
+    {
+      "tmdb_id": 1452,
+      "title": "Superman Returns",
+      "year": "2006",
+      "poster": "/385XwTQZDpRX2d3kxtnpiLrjBXw.jpg",
+      "genre_ids": [
+        878,
+        28,
+        12
+      ],
+      "vote": 5.832,
+      "score": 3.1664,
+      "because": [
+        "Avengers: Doomsday",
+        "The Hunger Games: Sunrise on the Reaping"
       ]
     },
     {
@@ -907,22 +959,6 @@
       ]
     },
     {
-      "tmdb_id": 1300968,
-      "title": "The Hunger Games: Sunrise on the Reaping",
-      "year": "2026",
-      "poster": "/5ffVOGY3x3Sn3jovzvycJeizpks.jpg",
-      "genre_ids": [
-        878,
-        28,
-        12
-      ],
-      "vote": 7.8,
-      "score": 1.78,
-      "because": [
-        "Dune: Part Two"
-      ]
-    },
-    {
       "tmdb_id": 100402,
       "title": "Captain America: The Winter Soldier",
       "year": "2014",
@@ -932,8 +968,8 @@
         12,
         878
       ],
-      "vote": 7.652,
-      "score": 1.7652,
+      "vote": 7.7,
+      "score": 1.77,
       "because": [
         "Spider-Man: Brand New Day"
       ]
@@ -953,38 +989,6 @@
       "score": 1.7594,
       "because": [
         "Sonic the Hedgehog 4"
-      ]
-    },
-    {
-      "tmdb_id": 127585,
-      "title": "X-Men: Days of Future Past",
-      "year": "2014",
-      "poster": "/tYfijzolzgoMOtegh1Y7j2Enorg.jpg",
-      "genre_ids": [
-        28,
-        12,
-        878
-      ],
-      "vote": 7.54,
-      "score": 1.754,
-      "because": [
-        "Dune: Part Two"
-      ]
-    },
-    {
-      "tmdb_id": 330459,
-      "title": "Rogue One: A Star Wars Story",
-      "year": "2016",
-      "poster": "/1zoZ0e2q34FUnT7xuEnGazBFrbL.jpg",
-      "genre_ids": [
-        28,
-        12,
-        878
-      ],
-      "vote": 7.511,
-      "score": 1.7511,
-      "because": [
-        "Dune: Part Three"
       ]
     }
   ],
