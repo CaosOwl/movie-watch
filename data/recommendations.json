@@ -1,23 +1,6 @@
 {
-  "generated": "2026-11-26T05:29:04.436Z",
+  "generated": "2026-11-26T13:52:38.005Z",
   "horror": [
-    {
-      "tmdb_id": 1141182,
-      "title": "Die Alone",
-      "year": "2024",
-      "poster": "/dQdIj2OYELhLzECWONY932wGRxA.jpg",
-      "genre_ids": [
-        27,
-        53,
-        878
-      ],
-      "vote": 6.445,
-      "score": 3.289,
-      "because": [
-        "Resident Evil",
-        "Clayface"
-      ]
-    },
     {
       "tmdb_id": 338676,
       "title": "Extinction",
@@ -60,8 +43,8 @@
         27,
         53
       ],
-      "vote": 7.497,
-      "score": 1.7497,
+      "vote": 7.5,
+      "score": 1.75,
       "because": [
         "The Conjuring"
       ]
@@ -156,8 +139,8 @@
         53,
         878
       ],
-      "vote": 7.241,
-      "score": 1.7241,
+      "vote": 7.24,
+      "score": 1.724,
       "because": [
         "Resident Evil"
       ]
@@ -185,8 +168,8 @@
       "genre_ids": [
         27
       ],
-      "vote": 6.9,
-      "score": 1.69,
+      "vote": 6.948,
+      "score": 1.6948,
       "because": [
         "The Conjuring"
       ]
@@ -205,6 +188,22 @@
       "score": 1.6886999999999999,
       "because": [
         "Clayface"
+      ]
+    },
+    {
+      "tmdb_id": 72190,
+      "title": "World War Z",
+      "year": "2013",
+      "poster": "/aCnVdvExw6UWSeQfr0tUH3jr4qG.jpg",
+      "genre_ids": [
+        28,
+        27,
+        878
+      ],
+      "vote": 6.857,
+      "score": 1.6857,
+      "because": [
+        "Resident Evil"
       ]
     },
     {
@@ -239,23 +238,6 @@
       ]
     },
     {
-      "tmdb_id": 39468,
-      "title": "Godzilla vs. Megaguirus",
-      "year": "2000",
-      "poster": "/2KTmuhq1KJOsBBC0yK22sWZ6IX5.jpg",
-      "genre_ids": [
-        28,
-        878,
-        53,
-        27
-      ],
-      "vote": 6.657,
-      "score": 1.6657,
-      "because": [
-        "Godzilla Minus Zero"
-      ]
-    },
-    {
       "tmdb_id": 1562,
       "title": "28 Weeks Later",
       "year": "2007",
@@ -283,6 +265,22 @@
       ],
       "vote": 6.452,
       "score": 1.6452,
+      "because": [
+        "Resident Evil"
+      ]
+    },
+    {
+      "tmdb_id": 1141182,
+      "title": "Die Alone",
+      "year": "2024",
+      "poster": "/dQdIj2OYELhLzECWONY932wGRxA.jpg",
+      "genre_ids": [
+        27,
+        53,
+        878
+      ],
+      "vote": 6.445,
+      "score": 1.6445,
       "because": [
         "Resident Evil"
       ]
@@ -414,8 +412,8 @@
         12,
         878
       ],
-      "vote": 8.3,
-      "score": 1.83,
+      "vote": 8.343,
+      "score": 1.8343,
       "because": [
         "Spider-Man: Beyond the Spider-Verse"
       ]
@@ -430,25 +428,8 @@
         28,
         14
       ],
-      "vote": 8.231,
-      "score": 1.8231,
-      "because": [
-        "Demon Slayer: Kimetsu no Yaiba Infinity Castle"
-      ]
-    },
-    {
-      "tmdb_id": 968870,
-      "title": "Pretty Guardian Sailor Moon Cosmos the Movie Part 2",
-      "year": "2023",
-      "poster": "/sHmtdPMhnVtZWHro6f8CuDQuusz.jpg",
-      "genre_ids": [
-        16,
-        12,
-        14,
-        10749
-      ],
-      "vote": 8,
-      "score": 1.8,
+      "vote": 8.232,
+      "score": 1.8232,
       "because": [
         "Demon Slayer: Kimetsu no Yaiba Infinity Castle"
       ]
@@ -522,6 +503,22 @@
       ]
     },
     {
+      "tmdb_id": 802401,
+      "title": "Demon Slayer: Kimetsu no Yaiba Mt. Natagumo Arc",
+      "year": "2021",
+      "poster": "/wq1UG5lPCKpOJgmgpKJszKvoMUe.jpg",
+      "genre_ids": [
+        16,
+        28,
+        14
+      ],
+      "vote": 7.739,
+      "score": 1.7739,
+      "because": [
+        "Demon Slayer: Kimetsu no Yaiba Infinity Castle"
+      ]
+    },
+    {
       "tmdb_id": 22537,
       "title": "Inuyasha the Movie 2: The Castle Beyond the Looking Glass",
       "year": "2002",
@@ -555,22 +552,6 @@
       ]
     },
     {
-      "tmdb_id": 34297,
-      "title": "Inuyasha the Movie 4: Fire on the Mystic Island",
-      "year": "2004",
-      "poster": "/jOPgzW6oDuuG8OXosY04JUphhDY.jpg",
-      "genre_ids": [
-        14,
-        16,
-        12
-      ],
-      "vote": 7.6,
-      "score": 1.76,
-      "because": [
-        "Demon Slayer: Kimetsu no Yaiba Infinity Castle"
-      ]
-    },
-    {
       "tmdb_id": 895003,
       "title": "Demon Slayer: Kimetsu no Yaiba - Asakusa Arc",
       "year": "2022",
@@ -582,6 +563,23 @@
       ],
       "vote": 7.565,
       "score": 1.7565,
+      "because": [
+        "Demon Slayer: Kimetsu no Yaiba Infinity Castle"
+      ]
+    },
+    {
+      "tmdb_id": 42360,
+      "title": "Inuyasha the Movie: Affections Touching Across Time",
+      "year": "2001",
+      "poster": "/gl8TvgVL6B2PR71cnrG7PbAUPls.jpg",
+      "genre_ids": [
+        28,
+        16,
+        12,
+        14
+      ],
+      "vote": 7.536,
+      "score": 1.7536,
       "because": [
         "Demon Slayer: Kimetsu no Yaiba Infinity Castle"
       ]
@@ -676,6 +674,42 @@
       ]
     },
     {
+      "tmdb_id": 181812,
+      "title": "Star Wars: The Rise of Skywalker",
+      "year": "2019",
+      "poster": "/db32LaOibwEliAmSL2jjDF6oDdj.jpg",
+      "genre_ids": [
+        12,
+        28,
+        878
+      ],
+      "vote": 6.235,
+      "score": 4.8705,
+      "because": [
+        "Dune: Part Two",
+        "Dune: Part Three",
+        "The Hunger Games: Sunrise on the Reaping"
+      ]
+    },
+    {
+      "tmdb_id": 262504,
+      "title": "Allegiant",
+      "year": "2016",
+      "poster": "/faq9JlF8znUGQ5p3En1W61Fi5p0.jpg",
+      "genre_ids": [
+        12,
+        878,
+        28
+      ],
+      "vote": 6.097,
+      "score": 4.8291,
+      "because": [
+        "Dune: Part Two",
+        "Dune: Part Three",
+        "The Hunger Games: Sunrise on the Reaping"
+      ]
+    },
+    {
       "tmdb_id": 141052,
       "title": "Justice League",
       "year": "2017",
@@ -736,8 +770,8 @@
         12,
         28
       ],
-      "vote": 7.6,
-      "score": 3.52,
+      "vote": 7.607,
+      "score": 3.5214,
       "because": [
         "Spider-Man: Brand New Day",
         "Avengers: Doomsday"
@@ -753,8 +787,8 @@
         28,
         878
       ],
-      "vote": 7.5,
-      "score": 3.5,
+      "vote": 7.455,
+      "score": 3.491,
       "because": [
         "Spider-Man: Brand New Day",
         "Avengers: Doomsday"
@@ -770,8 +804,8 @@
         28,
         878
       ],
-      "vote": 6.9,
-      "score": 3.38,
+      "vote": 6.857,
+      "score": 3.3757,
       "because": [
         "Spider-Man: Brand New Day",
         "Avengers: Doomsday"
@@ -787,45 +821,28 @@
         12,
         878
       ],
-      "vote": 6.789,
-      "score": 3.3578,
+      "vote": 6.79,
+      "score": 3.3579,
       "because": [
         "Dune: Part Two",
         "Dune: Part Three"
       ]
     },
     {
-      "tmdb_id": 80274,
-      "title": "Ender's Game",
-      "year": "2013",
-      "poster": "/pVcRI5YKnkkgaAD876jBeKb189d.jpg",
+      "tmdb_id": 580489,
+      "title": "Venom: Let There Be Carnage",
+      "year": "2021",
+      "poster": "/pzKsRuKLFmYrW5Q0q8E8G78Tcgo.jpg",
       "genre_ids": [
         878,
         28,
         12
       ],
-      "vote": 6.593,
-      "score": 3.3186,
+      "vote": 6.715,
+      "score": 3.343,
       "because": [
         "Dune: Part Two",
-        "Dune: Part Three"
-      ]
-    },
-    {
-      "tmdb_id": 181812,
-      "title": "Star Wars: The Rise of Skywalker",
-      "year": "2019",
-      "poster": "/db32LaOibwEliAmSL2jjDF6oDdj.jpg",
-      "genre_ids": [
-        12,
-        28,
-        878
-      ],
-      "vote": 6.235,
-      "score": 3.247,
-      "because": [
-        "Dune: Part Three",
-        "The Hunger Games: Sunrise on the Reaping"
+        "Spider-Man: Brand New Day"
       ]
     },
     {
@@ -838,45 +855,11 @@
         12,
         878
       ],
-      "vote": 6.2,
-      "score": 3.24,
+      "vote": 6.193,
+      "score": 3.2386,
       "because": [
         "Spider-Man: Brand New Day",
         "Avengers: Doomsday"
-      ]
-    },
-    {
-      "tmdb_id": 262504,
-      "title": "Allegiant",
-      "year": "2016",
-      "poster": "/faq9JlF8znUGQ5p3En1W61Fi5p0.jpg",
-      "genre_ids": [
-        12,
-        878,
-        28
-      ],
-      "vote": 6.097,
-      "score": 3.2194000000000003,
-      "because": [
-        "Dune: Part Two",
-        "The Hunger Games: Sunrise on the Reaping"
-      ]
-    },
-    {
-      "tmdb_id": 299687,
-      "title": "The 5th Wave",
-      "year": "2016",
-      "poster": "/4Dd79cz5qxKNoKWg1xsfrpOchEr.jpg",
-      "genre_ids": [
-        878,
-        12,
-        28
-      ],
-      "vote": 5.9,
-      "score": 3.18,
-      "because": [
-        "Dune: Part Two",
-        "Dune: Part Three"
       ]
     },
     {
@@ -968,8 +951,8 @@
         12,
         878
       ],
-      "vote": 7.7,
-      "score": 1.77,
+      "vote": 7.652,
+      "score": 1.7652,
       "because": [
         "Spider-Man: Brand New Day"
       ]
@@ -989,6 +972,22 @@
       "score": 1.7594,
       "because": [
         "Sonic the Hedgehog 4"
+      ]
+    },
+    {
+      "tmdb_id": 127585,
+      "title": "X-Men: Days of Future Past",
+      "year": "2014",
+      "poster": "/tYfijzolzgoMOtegh1Y7j2Enorg.jpg",
+      "genre_ids": [
+        28,
+        12,
+        878
+      ],
+      "vote": 7.54,
+      "score": 1.754,
+      "because": [
+        "Dune: Part Two"
       ]
     }
   ],

@@ -1,6 +1,6 @@
 {
   "home_country": "CH",
-  "generated": "2026-11-26T05:29:18.443Z",
+  "generated": "2026-11-26T13:52:53.004Z",
   "movies": [
     {
       "tmdb_id": 1523140,
@@ -9,7 +9,7 @@
       "original_title": "Man of Tomorrow",
       "tagline": "",
       "overview": "Superman and Lex Luthor find themselves forced to work together—to a certain degree—against a much, much bigger threat when Brainiac sets his sights on Earth.",
-      "poster": "/ddGvmGaA2HSIEL9uqVCKcTMBQBE.jpg",
+      "poster": "/4YdKfBsvEpRSq3BxAJL46xlAVZe.jpg",
       "backdrop": "/lX2TpAZxdIus6cnMCDBOrs96NBY.jpg",
       "runtime": null,
       "genres": [
@@ -114,7 +114,7 @@
         {
           "name": "Hailee Steinfeld",
           "character": "Billie Doe (voice)",
-          "photo": "/qDInsG0cxWNxS1X4t59TBZ5S6x5.jpg"
+          "photo": "/dxSDWkiVaC6JYjrV3XRAZI7HOSS.jpg"
         },
         {
           "name": "Rashida Jones",
@@ -664,7 +664,7 @@
         {
           "name": "Timothée Chalamet",
           "character": "Joe (voice)",
-          "photo": "/c3NJxKbnKkQsttxA2XVh4pwPpIt.jpg"
+          "photo": "/dFxpwRpmzpVfP1zjluH68DeQhyj.jpg"
         },
         {
           "name": "Selena Gomez",
@@ -1929,7 +1929,7 @@
       "original_title": "Werwulf",
       "tagline": "Devoureth all mankynde.",
       "overview": "A harrowing tale of devotion, damnation and the devil within.",
-      "poster": "/imnkSt4PSQpxIuyiRpJCiLk3SZz.jpg",
+      "poster": "/whdGCRa5giUYXPJy7wzUvxllM6i.jpg",
       "backdrop": "/jmW9NkzbpI9vhyxJU2x644Nj7VU.jpg",
       "runtime": 120,
       "genres": [
@@ -1991,7 +1991,7 @@
         "US"
       ],
       "release": {
-        "date": "2026-12-25",
+        "date": "2026-12-24",
         "type": "Release",
         "where": "World"
       },
@@ -2089,8 +2089,8 @@
       ],
       "category": "general",
       "directors": [
-        "Eleanor Wilson",
-        "Alex Huston Fischer"
+        "Alex Huston Fischer",
+        "Eleanor Wilson"
       ],
       "writers": [
         "Ursula Wills-Jones",
@@ -2289,12 +2289,12 @@
         },
         {
           "name": "Matt Groove",
-          "character": "Mr. Verdusco",
+          "character": "Eddie Verdusco",
           "photo": "/mi5j53C24Pfc338xwzZnzfQ6MQF.jpg"
         },
         {
           "name": "JB Tadena",
-          "character": "Mr. Verdusco",
+          "character": "Fernando Verdusco",
           "photo": "/lAVmnngcImft4VXYevsgpSqwtQm.jpg"
         }
       ],
@@ -3011,84 +3011,6 @@
       ]
     },
     {
-      "tmdb_id": 718833,
-      "imdb_id": "tt12574330",
-      "title": "Bokshi",
-      "original_title": "बोक्सी",
-      "tagline": "A witch is born twice.",
-      "overview": "Anahita, traumatised by the brutal disappearance of her mother, finds comfort in Shalini, her history teacher. On an unconventional school excursion to a mysterious prehistoric site, she confronts her terrifying destiny.",
-      "poster": "/iHYu4aCDIjnt6aa5WmKZvmDPJvh.jpg",
-      "backdrop": "/x7WIdVKmWpablnx6TJcrUprosAK.jpg",
-      "runtime": 142,
-      "genres": [
-        "Horror",
-        "Drama"
-      ],
-      "category": "horror",
-      "directors": [
-        "Bhargav Saikia"
-      ],
-      "writers": [
-        "Harsh Vaibhav"
-      ],
-      "cast": [
-        {
-          "name": "Prasanna Bisht",
-          "character": "Anahita",
-          "photo": "/2Y3yCH7EswDLekyoexZ7hxxfJiD.jpg"
-        },
-        {
-          "name": "Mansi Multani",
-          "character": "Shalini",
-          "photo": "/l6QOJLPK6ijdmDjln0u2CufakFC.jpg"
-        },
-        {
-          "name": "Swaroopa Ghosh",
-          "character": "Kadambari",
-          "photo": "/12p3p0GMDagVZvelK4RgZfZ3pJt.jpg"
-        },
-        {
-          "name": "Rohit Tiwari",
-          "character": "Lalit",
-          "photo": null
-        },
-        {
-          "name": "Sandeep Shridhar Dhabale",
-          "character": "Avinash",
-          "photo": null
-        },
-        {
-          "name": "Shernaz Patel",
-          "character": "Bokshi (voice)",
-          "photo": "/rmF9GXYp2gaXOtXhAs3cscv1604.jpg"
-        },
-        {
-          "name": "Siddharth Shaw",
-          "character": "Rishav",
-          "photo": null
-        },
-        {
-          "name": "Trishala Tamang",
-          "character": "Punam",
-          "photo": null
-        }
-      ],
-      "countries": [
-        "IN"
-      ],
-      "release": {
-        "date": "2026-12-04",
-        "type": "Release",
-        "where": "World"
-      },
-      "trailer": "https://www.youtube.com/watch?v=_WKwVQnoutg",
-      "match": 23,
-      "reasons": [
-        "You like Horror & Drama",
-        "Themes: independent film, fantasy"
-      ]
-    },
-    {
       "tmdb_id": 1266643,
       "imdb_id": "tt18795088",
       "title": "Day Drinker",
@@ -3162,6 +3084,83 @@
         "where": "World"
       },
       "trailer": null,
+      "match": 22,
+      "reasons": [
+        "You like Action & Thriller"
+      ]
+    },
+    {
+      "tmdb_id": 1340208,
+      "imdb_id": "tt33295857",
+      "title": "Karōshi",
+      "original_title": "Karōshi",
+      "tagline": "The new world runs on old sins.",
+      "overview": "In a near-future Manhattan corporate loyalty and cultural tradition have reshaped everyday life. When a mysterious outsider infiltrates a powerful company after a worker's death, he exposes the violent system hidden beneath its polished surface.",
+      "poster": "/xOwetUoCyca3yYlqZ5rlElgXiTV.jpg",
+      "backdrop": "/9BV0sX13uzERMgamOFslyFD5Dqk.jpg",
+      "runtime": null,
+      "genres": [
+        "Action",
+        "Thriller"
+      ],
+      "category": "general",
+      "directors": [
+        "Takashi Doscher"
+      ],
+      "writers": [
+        "Takashi Doscher"
+      ],
+      "cast": [
+        {
+          "name": "Teo Yoo",
+          "character": "Hiro",
+          "photo": "/vuzKCKo2kIskjbDEcl2EMLv6uhO.jpg"
+        },
+        {
+          "name": "Isabel May",
+          "character": "",
+          "photo": "/RJ4djIbfvUHXCCgniiAi0ebhED.jpg"
+        },
+        {
+          "name": "Cynthia Erivo",
+          "character": "",
+          "photo": "/gIAXqZwZCBqkh2ppfAV4xcnMxki.jpg"
+        },
+        {
+          "name": "Takehiro Hira",
+          "character": "",
+          "photo": "/f8UK7xqwkfpIZiECcDgc0AErkj6.jpg"
+        },
+        {
+          "name": "Giancarlo Esposito",
+          "character": "",
+          "photo": "/MJOo4QZgMAb3y8QzOUDVFQusQZ.jpg"
+        },
+        {
+          "name": "Bill Camp",
+          "character": "",
+          "photo": "/wxYyJSltCHwU0MTg838SllOlvNT.jpg"
+        },
+        {
+          "name": "Show Kasamatsu",
+          "character": "",
+          "photo": "/tDASDMyIZQFooUQimqrVCd4rN5I.jpg"
+        },
+        {
+          "name": "Agung Bagus",
+          "character": "Guard",
+          "photo": "/iVD3sXOTrpvH8EbajI3gPTtEAJt.jpg"
+        }
+      ],
+      "countries": [
+        "US"
+      ],
+      "release": {
+        "date": "2027-01-28",
+        "type": "Release",
+        "where": "World"
+      },
+      "trailer": "https://www.youtube.com/watch?v=jQHoAsDcjVU",
       "match": 22,
       "reasons": [
         "You like Action & Thriller"
