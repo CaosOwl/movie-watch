@@ -1,6 +1,13 @@
 {
   "alerts": [
     {
+      "kind": "home",
+      "text": "🇨🇭 \"Resident Evil\" new in CH: blue TV (rent), Amazon Video (rent), blue TV (buy), Apple TV Store (buy), Rakuten TV (buy), Amazon Video (buy)",
+      "link": "https://www.themoviedb.org/movie/1423191-resident-evil/watch?locale=CH",
+      "imdb_id": "tt35538033",
+      "date": "2026-11-27T13:50:15.654Z"
+    },
+    {
       "kind": "first-anywhere",
       "text": "🎬 \"You Can See Everything\" is now legally available in 2 countries (CA, US)",
       "imdb_id": "tt45368240",
