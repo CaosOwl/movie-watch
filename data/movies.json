@@ -1,6 +1,6 @@
 {
   "home_country": "CH",
-  "generated": "2026-11-27T13:50:16.572Z",
+  "generated": "2026-11-28T12:58:01.081Z",
   "movies": [
     {
       "imdb_id": "tt1457767",
@@ -112,8 +112,8 @@
       "trailer": "https://www.youtube.com/watch?v=k10ETZ41q5o",
       "ratings": {
         "tmdb": {
-          "value": 7.545,
-          "votes": 13334
+          "value": 7.544,
+          "votes": 13339
         },
         "imdb": null,
         "metascore": null,
@@ -3637,7 +3637,7 @@
           "genre_ids": [
             27
           ],
-          "vote": 6.951
+          "vote": 6.95
         },
         {
           "tmdb_id": 91586,
@@ -3648,7 +3648,7 @@
             27,
             53
           ],
-          "vote": 6.708
+          "vote": 6.709
         },
         {
           "tmdb_id": 72571,
@@ -3681,7 +3681,7 @@
             27,
             53
           ],
-          "vote": 6.958
+          "vote": 6.959
         },
         {
           "tmdb_id": 423108,
@@ -3715,7 +3715,7 @@
             27,
             9648
           ],
-          "vote": 6.388
+          "vote": 6.4
         },
         {
           "tmdb_id": 77883,
@@ -3729,15 +3729,14 @@
           "vote": 6.026
         },
         {
-          "tmdb_id": 44698,
-          "title": "The Evil",
-          "year": "1978",
-          "poster": "/LmdVqM8DrCZmcghCyPZDHLI1Xm.jpg",
+          "tmdb_id": 709631,
+          "title": "Cobweb",
+          "year": "2023",
+          "poster": "/cGXFosYUHYjjdKrOmA0bbjvzhKz.jpg",
           "genre_ids": [
-            53,
             27
           ],
-          "vote": 5.826
+          "vote": 6.414
         },
         {
           "tmdb_id": 1282980,
@@ -3751,17 +3750,18 @@
           "vote": 5.854
         },
         {
-          "tmdb_id": 709631,
-          "title": "Cobweb",
-          "year": "2023",
-          "poster": "/cGXFosYUHYjjdKrOmA0bbjvzhKz.jpg",
+          "tmdb_id": 44698,
+          "title": "The Evil",
+          "year": "1978",
+          "poster": "/LmdVqM8DrCZmcghCyPZDHLI1Xm.jpg",
           "genre_ids": [
+            53,
             27
           ],
-          "vote": 6.414
+          "vote": 5.826
         }
       ],
-      "updated": "2026-11-27T13:50:11.109Z"
+      "updated": "2026-11-28T12:57:53.322Z"
     },
     {
       "imdb_id": "tt0245429",
@@ -3874,7 +3874,7 @@
       "ratings": {
         "tmdb": {
           "value": 8.537,
-          "votes": 19295
+          "votes": 19301
         },
         "imdb": null,
         "metascore": null,
@@ -6703,7 +6703,7 @@
             10749,
             10751
           ],
-          "vote": 6.943
+          "vote": 6.944
         },
         {
           "tmdb_id": 1358305,
@@ -6729,20 +6729,7 @@
             10402,
             35
           ],
-          "vote": 5.9
-        },
-        {
-          "tmdb_id": 202575,
-          "title": "The House of Magic",
-          "year": "2013",
-          "poster": "/3R13g2XgblynIrQGF8geFZJPNvR.jpg",
-          "genre_ids": [
-            10751,
-            14,
-            16,
-            12
-          ],
-          "vote": 6.294
+          "vote": 5.926
         },
         {
           "tmdb_id": 430447,
@@ -6758,6 +6745,19 @@
           "vote": 7.167
         },
         {
+          "tmdb_id": 202575,
+          "title": "The House of Magic",
+          "year": "2013",
+          "poster": "/3R13g2XgblynIrQGF8geFZJPNvR.jpg",
+          "genre_ids": [
+            10751,
+            14,
+            16,
+            12
+          ],
+          "vote": 6.294
+        },
+        {
           "tmdb_id": 116711,
           "title": "Epic",
           "year": "2013",
@@ -6768,7 +6768,7 @@
             10751,
             14
           ],
-          "vote": 6.572
+          "vote": 6.6
         },
         {
           "tmdb_id": 10144,
@@ -6822,7 +6822,7 @@
           "vote": 7.24
         }
       ],
-      "updated": "2026-11-27T13:50:11.431Z"
+      "updated": "2026-11-28T12:57:53.804Z"
     },
     {
       "imdb_id": "tt15239678",
@@ -6871,8 +6871,8 @@
       ],
       "writers": [
         "Denis Villeneuve",
-        "Jon Spaihts",
-        "Frank Herbert"
+        "Frank Herbert",
+        "Jon Spaihts"
       ],
       "cast": [
         {
@@ -6936,7 +6936,7 @@
       "ratings": {
         "tmdb": {
           "value": 8.142,
-          "votes": 9059
+          "votes": 9069
         },
         "imdb": null,
         "metascore": null,
@@ -11023,7 +11023,19 @@
             878,
             12
           ],
-          "vote": 7.8
+          "vote": 7.786
+        },
+        {
+          "tmdb_id": 841,
+          "title": "Dune",
+          "year": "1984",
+          "poster": "/4kJmUCE7mkVJjXa7A0g2rY4IGTm.jpg",
+          "genre_ids": [
+            28,
+            878,
+            12
+          ],
+          "vote": 6.197
         },
         {
           "tmdb_id": 1895,
@@ -11050,18 +11062,6 @@
           "vote": 6.542
         },
         {
-          "tmdb_id": 299687,
-          "title": "The 5th Wave",
-          "year": "2016",
-          "poster": "/4Dd79cz5qxKNoKWg1xsfrpOchEr.jpg",
-          "genre_ids": [
-            878,
-            12,
-            28
-          ],
-          "vote": 5.9
-        },
-        {
           "tmdb_id": 9543,
           "title": "Prince of Persia: The Sands of Time",
           "year": "2010",
@@ -11083,7 +11083,7 @@
             12,
             878
           ],
-          "vote": 6.8
+          "vote": 6.79
         },
         {
           "tmdb_id": 127585,
@@ -11095,19 +11095,7 @@
             12,
             878
           ],
-          "vote": 7.54
-        },
-        {
-          "tmdb_id": 80274,
-          "title": "Ender's Game",
-          "year": "2013",
-          "poster": "/pVcRI5YKnkkgaAD876jBeKb189d.jpg",
-          "genre_ids": [
-            878,
-            28,
-            12
-          ],
-          "vote": 6.592
+          "vote": 7.541
         },
         {
           "tmdb_id": 447365,
@@ -11119,7 +11107,7 @@
             12,
             28
           ],
-          "vote": 7.93
+          "vote": 7.931
         },
         {
           "tmdb_id": 262504,
@@ -11131,7 +11119,7 @@
             878,
             28
           ],
-          "vote": 6.1
+          "vote": 6.097
         },
         {
           "tmdb_id": 81005,
@@ -11155,10 +11143,22 @@
             28,
             878
           ],
-          "vote": 6.234
+          "vote": 6.235
+        },
+        {
+          "tmdb_id": 1300968,
+          "title": "The Hunger Games: Sunrise on the Reaping",
+          "year": "2026",
+          "poster": "/5ffVOGY3x3Sn3jovzvycJeizpks.jpg",
+          "genre_ids": [
+            878,
+            28,
+            12
+          ],
+          "vote": 7.741
         }
       ],
-      "updated": "2026-11-27T13:50:11.756Z"
+      "updated": "2026-11-28T12:57:54.297Z"
     },
     {
       "imdb_id": "tt2056785",
@@ -11274,8 +11274,8 @@
       "trailer": "https://www.youtube.com/watch?v=bJQGtSeLPII",
       "ratings": {
         "tmdb": {
-          "value": 8.5,
-          "votes": 332
+          "value": 8.455,
+          "votes": 334
         },
         "imdb": null,
         "metascore": null,
@@ -11764,7 +11764,7 @@
             10751,
             14
           ],
-          "vote": 8.827
+          "vote": 8.828
         },
         {
           "tmdb_id": 59981,
@@ -11789,7 +11789,7 @@
             12,
             14
           ],
-          "vote": 6.62
+          "vote": 6.624
         },
         {
           "tmdb_id": 116711,
@@ -11797,20 +11797,6 @@
           "year": "2013",
           "poster": "/81cSsWzjTfR3cJSqnTiHwy1eyPK.jpg",
           "genre_ids": [
-            16,
-            12,
-            10751,
-            14
-          ],
-          "vote": 6.572
-        },
-        {
-          "tmdb_id": 400157,
-          "title": "Wonder Park",
-          "year": "2019",
-          "poster": "/8KomINZhIuJeB4oB7k7tkq8tmE.jpg",
-          "genre_ids": [
-            35,
             16,
             12,
             10751,
@@ -11832,6 +11818,20 @@
           "vote": 7.828
         },
         {
+          "tmdb_id": 400157,
+          "title": "Wonder Park",
+          "year": "2019",
+          "poster": "/8KomINZhIuJeB4oB7k7tkq8tmE.jpg",
+          "genre_ids": [
+            35,
+            16,
+            12,
+            10751,
+            14
+          ],
+          "vote": 6.6
+        },
+        {
           "tmdb_id": 805051,
           "title": "Welcome to Smelliville",
           "year": "2021",
@@ -11845,6 +11845,17 @@
           "vote": 6.699
         },
         {
+          "tmdb_id": 346687,
+          "title": "The Water Man",
+          "year": "2020",
+          "poster": "/krupbFlSTnnKIjpRryrg2CTdeIL.jpg",
+          "genre_ids": [
+            12,
+            14
+          ],
+          "vote": 6.058
+        },
+        {
           "tmdb_id": 256439,
           "title": "My Little Pony: The Runaway Rainbow",
           "year": "2006",
@@ -11855,17 +11866,6 @@
             14
           ],
           "vote": 7.4
-        },
-        {
-          "tmdb_id": 346687,
-          "title": "The Water Man",
-          "year": "2020",
-          "poster": "/krupbFlSTnnKIjpRryrg2CTdeIL.jpg",
-          "genre_ids": [
-            12,
-            14
-          ],
-          "vote": 6.058
         },
         {
           "tmdb_id": 10837,
@@ -11893,7 +11893,7 @@
             12,
             14
           ],
-          "vote": 6.526
+          "vote": 6.529
         },
         {
           "tmdb_id": 11837,
@@ -11908,7 +11908,7 @@
           "vote": 7.213
         }
       ],
-      "updated": "2026-11-27T13:50:12.078Z"
+      "updated": "2026-11-28T12:57:54.744Z"
     },
     {
       "imdb_id": "tt22084616",
@@ -12024,8 +12024,8 @@
       "trailer": "https://www.youtube.com/watch?v=P3uI5sLosKU",
       "ratings": {
         "tmdb": {
-          "value": 8.5,
-          "votes": 7141
+          "value": 8.453,
+          "votes": 7167
         },
         "imdb": null,
         "metascore": null,
@@ -12963,20 +12963,21 @@
         }
       },
       "availability": {
+        "AO": {
+          "link": "https://www.themoviedb.org/movie/969681-spider-man-brand-new-day/watch?locale=AO",
+          "flatrate": [
+            {
+              "name": "Netflix",
+              "logo": "/rK1KljqmbvO9HQa1PBFLILWah72.png"
+            }
+          ]
+        },
         "AR": {
           "link": "https://www.themoviedb.org/movie/969681-spider-man-brand-new-day/watch?locale=AR",
           "rent": [
             {
-              "name": "Apple TV Store",
-              "logo": "/qdEGArH3lKfFnAtYXMkSYk5wxuG.png"
-            },
-            {
               "name": "MovistarTV",
               "logo": "/kxUmV9TCZHfukpVOMuN90Jibbnm.png"
-            },
-            {
-              "name": "Amazon Video",
-              "logo": "/jn6TLbtaTZntTRX9UYucHJvpQx1.png"
             }
           ],
           "buy": [
@@ -12992,6 +12993,12 @@
         },
         "AT": {
           "link": "https://www.themoviedb.org/movie/969681-spider-man-brand-new-day/watch?locale=AT",
+          "flatrate": [
+            {
+              "name": "Netflix",
+              "logo": "/rK1KljqmbvO9HQa1PBFLILWah72.png"
+            }
+          ],
           "rent": [
             {
               "name": "Amazon Video",
@@ -13019,6 +13026,10 @@
             }
           ],
           "buy": [
+            {
+              "name": "Amazon Video",
+              "logo": "/jn6TLbtaTZntTRX9UYucHJvpQx1.png"
+            },
             {
               "name": "Apple TV Store",
               "logo": "/qdEGArH3lKfFnAtYXMkSYk5wxuG.png"
@@ -13064,8 +13075,23 @@
             }
           ]
         },
+        "AZ": {
+          "link": "https://www.themoviedb.org/movie/969681-spider-man-brand-new-day/watch?locale=AZ",
+          "flatrate": [
+            {
+              "name": "Netflix",
+              "logo": "/rK1KljqmbvO9HQa1PBFLILWah72.png"
+            }
+          ]
+        },
         "BE": {
           "link": "https://www.themoviedb.org/movie/969681-spider-man-brand-new-day/watch?locale=BE",
+          "flatrate": [
+            {
+              "name": "Netflix",
+              "logo": "/rK1KljqmbvO9HQa1PBFLILWah72.png"
+            }
+          ],
           "rent": [
             {
               "name": "Apple TV Store",
@@ -13088,6 +13114,10 @@
             {
               "name": "Rakuten TV",
               "logo": "/872dfVu1biZISJ8rO143CZZutPR.png"
+            },
+            {
+              "name": "Amazon Video",
+              "logo": "/jn6TLbtaTZntTRX9UYucHJvpQx1.png"
             }
           ]
         },
@@ -13108,12 +13138,6 @@
         },
         "BO": {
           "link": "https://www.themoviedb.org/movie/969681-spider-man-brand-new-day/watch?locale=BO",
-          "rent": [
-            {
-              "name": "Apple TV Store",
-              "logo": "/qdEGArH3lKfFnAtYXMkSYk5wxuG.png"
-            }
-          ],
           "buy": [
             {
               "name": "Apple TV Store",
@@ -13129,16 +13153,6 @@
               "logo": "/olzQMHt2SX7iNy8WDMR299hVFcL.png"
             }
           ],
-          "rent": [
-            {
-              "name": "Apple TV Store",
-              "logo": "/qdEGArH3lKfFnAtYXMkSYk5wxuG.png"
-            },
-            {
-              "name": "Amazon Video",
-              "logo": "/jn6TLbtaTZntTRX9UYucHJvpQx1.png"
-            }
-          ],
           "buy": [
             {
               "name": "Apple TV Store",
@@ -13147,6 +13161,15 @@
             {
               "name": "Amazon Video",
               "logo": "/jn6TLbtaTZntTRX9UYucHJvpQx1.png"
+            }
+          ]
+        },
+        "BY": {
+          "link": "https://www.themoviedb.org/movie/969681-spider-man-brand-new-day/watch?locale=BY",
+          "flatrate": [
+            {
+              "name": "Netflix",
+              "logo": "/rK1KljqmbvO9HQa1PBFLILWah72.png"
             }
           ]
         },
@@ -13191,6 +13214,12 @@
         },
         "CH": {
           "link": "https://www.themoviedb.org/movie/969681-spider-man-brand-new-day/watch?locale=CH",
+          "flatrate": [
+            {
+              "name": "Netflix",
+              "logo": "/rK1KljqmbvO9HQa1PBFLILWah72.png"
+            }
+          ],
           "rent": [
             {
               "name": "blue TV",
@@ -13242,16 +13271,6 @@
         },
         "CL": {
           "link": "https://www.themoviedb.org/movie/969681-spider-man-brand-new-day/watch?locale=CL",
-          "rent": [
-            {
-              "name": "Apple TV Store",
-              "logo": "/qdEGArH3lKfFnAtYXMkSYk5wxuG.png"
-            },
-            {
-              "name": "Amazon Video",
-              "logo": "/jn6TLbtaTZntTRX9UYucHJvpQx1.png"
-            }
-          ],
           "buy": [
             {
               "name": "Apple TV Store",
@@ -13263,18 +13282,17 @@
             }
           ]
         },
+        "CM": {
+          "link": "https://www.themoviedb.org/movie/969681-spider-man-brand-new-day/watch?locale=CM",
+          "flatrate": [
+            {
+              "name": "Netflix",
+              "logo": "/rK1KljqmbvO9HQa1PBFLILWah72.png"
+            }
+          ]
+        },
         "CO": {
           "link": "https://www.themoviedb.org/movie/969681-spider-man-brand-new-day/watch?locale=CO",
-          "rent": [
-            {
-              "name": "Apple TV Store",
-              "logo": "/qdEGArH3lKfFnAtYXMkSYk5wxuG.png"
-            },
-            {
-              "name": "Amazon Video",
-              "logo": "/jn6TLbtaTZntTRX9UYucHJvpQx1.png"
-            }
-          ],
           "buy": [
             {
               "name": "Apple TV Store",
@@ -13288,6 +13306,21 @@
         },
         "CR": {
           "link": "https://www.themoviedb.org/movie/969681-spider-man-brand-new-day/watch?locale=CR",
+          "buy": [
+            {
+              "name": "Apple TV Store",
+              "logo": "/qdEGArH3lKfFnAtYXMkSYk5wxuG.png"
+            }
+          ]
+        },
+        "CV": {
+          "link": "https://www.themoviedb.org/movie/969681-spider-man-brand-new-day/watch?locale=CV",
+          "flatrate": [
+            {
+              "name": "Netflix",
+              "logo": "/rK1KljqmbvO9HQa1PBFLILWah72.png"
+            }
+          ],
           "rent": [
             {
               "name": "Apple TV Store",
@@ -13301,18 +13334,12 @@
             }
           ]
         },
-        "CV": {
-          "link": "https://www.themoviedb.org/movie/969681-spider-man-brand-new-day/watch?locale=CV",
-          "rent": [
+        "CY": {
+          "link": "https://www.themoviedb.org/movie/969681-spider-man-brand-new-day/watch?locale=CY",
+          "flatrate": [
             {
-              "name": "Apple TV Store",
-              "logo": "/qdEGArH3lKfFnAtYXMkSYk5wxuG.png"
-            }
-          ],
-          "buy": [
-            {
-              "name": "Apple TV Store",
-              "logo": "/qdEGArH3lKfFnAtYXMkSYk5wxuG.png"
+              "name": "Netflix",
+              "logo": "/rK1KljqmbvO9HQa1PBFLILWah72.png"
             }
           ]
         },
@@ -13349,6 +13376,16 @@
         },
         "DE": {
           "link": "https://www.themoviedb.org/movie/969681-spider-man-brand-new-day/watch?locale=DE",
+          "flatrate": [
+            {
+              "name": "Netflix",
+              "logo": "/rK1KljqmbvO9HQa1PBFLILWah72.png"
+            },
+            {
+              "name": "Netflix Standard with Ads",
+              "logo": "/eGUwOOIxcazwEBxqJpSN5sWEu6V.png"
+            }
+          ],
           "rent": [
             {
               "name": "Apple TV Store",
@@ -13412,6 +13449,12 @@
         },
         "DK": {
           "link": "https://www.themoviedb.org/movie/969681-spider-man-brand-new-day/watch?locale=DK",
+          "flatrate": [
+            {
+              "name": "Netflix",
+              "logo": "/rK1KljqmbvO9HQa1PBFLILWah72.png"
+            }
+          ],
           "rent": [
             {
               "name": "Viaplay",
@@ -13459,12 +13502,6 @@
         },
         "EC": {
           "link": "https://www.themoviedb.org/movie/969681-spider-man-brand-new-day/watch?locale=EC",
-          "rent": [
-            {
-              "name": "Apple TV Store",
-              "logo": "/qdEGArH3lKfFnAtYXMkSYk5wxuG.png"
-            }
-          ],
           "buy": [
             {
               "name": "Apple TV Store",
@@ -13474,6 +13511,12 @@
         },
         "EE": {
           "link": "https://www.themoviedb.org/movie/969681-spider-man-brand-new-day/watch?locale=EE",
+          "flatrate": [
+            {
+              "name": "Netflix",
+              "logo": "/rK1KljqmbvO9HQa1PBFLILWah72.png"
+            }
+          ],
           "rent": [
             {
               "name": "Apple TV Store",
@@ -13551,6 +13594,12 @@
         },
         "FI": {
           "link": "https://www.themoviedb.org/movie/969681-spider-man-brand-new-day/watch?locale=FI",
+          "flatrate": [
+            {
+              "name": "Netflix",
+              "logo": "/rK1KljqmbvO9HQa1PBFLILWah72.png"
+            }
+          ],
           "rent": [
             {
               "name": "Apple TV Store",
@@ -13589,6 +13638,10 @@
             {
               "name": "Viaplay",
               "logo": "/c1J9PGGowXwW5AxAaZaGipeFu7U.png"
+            },
+            {
+              "name": "Amazon Video",
+              "logo": "/jn6TLbtaTZntTRX9UYucHJvpQx1.png"
             }
           ]
         },
@@ -13598,6 +13651,35 @@
             {
               "name": "Netflix",
               "logo": "/rK1KljqmbvO9HQa1PBFLILWah72.png"
+            }
+          ]
+        },
+        "FR": {
+          "link": "https://www.themoviedb.org/movie/969681-spider-man-brand-new-day/watch?locale=FR",
+          "buy": [
+            {
+              "name": "Apple TV Store",
+              "logo": "/qdEGArH3lKfFnAtYXMkSYk5wxuG.png"
+            },
+            {
+              "name": "Rakuten TV",
+              "logo": "/872dfVu1biZISJ8rO143CZZutPR.png"
+            },
+            {
+              "name": "Canal VOD",
+              "logo": "/51fX3l4yElitnfui0IkbMUmfmgF.png"
+            },
+            {
+              "name": "Sooner",
+              "logo": "/a9ZXOebUSXGUFxTi3N36sA8wSSh.png"
+            },
+            {
+              "name": "Amazon Video",
+              "logo": "/jn6TLbtaTZntTRX9UYucHJvpQx1.png"
+            },
+            {
+              "name": "Pathé Home",
+              "logo": "/zbXVTncv6m6ojLjPQJeW7u0SYKp.png"
             }
           ]
         },
@@ -13657,6 +13739,12 @@
         },
         "GH": {
           "link": "https://www.themoviedb.org/movie/969681-spider-man-brand-new-day/watch?locale=GH",
+          "flatrate": [
+            {
+              "name": "Netflix",
+              "logo": "/rK1KljqmbvO9HQa1PBFLILWah72.png"
+            }
+          ],
           "rent": [
             {
               "name": "Apple TV Store",
@@ -13670,8 +13758,23 @@
             }
           ]
         },
+        "GQ": {
+          "link": "https://www.themoviedb.org/movie/969681-spider-man-brand-new-day/watch?locale=GQ",
+          "flatrate": [
+            {
+              "name": "Netflix",
+              "logo": "/rK1KljqmbvO9HQa1PBFLILWah72.png"
+            }
+          ]
+        },
         "GR": {
           "link": "https://www.themoviedb.org/movie/969681-spider-man-brand-new-day/watch?locale=GR",
+          "flatrate": [
+            {
+              "name": "Netflix",
+              "logo": "/rK1KljqmbvO9HQa1PBFLILWah72.png"
+            }
+          ],
           "rent": [
             {
               "name": "Apple TV Store",
@@ -13695,12 +13798,6 @@
         },
         "GT": {
           "link": "https://www.themoviedb.org/movie/969681-spider-man-brand-new-day/watch?locale=GT",
-          "rent": [
-            {
-              "name": "Apple TV Store",
-              "logo": "/qdEGArH3lKfFnAtYXMkSYk5wxuG.png"
-            }
-          ],
           "buy": [
             {
               "name": "Apple TV Store",
@@ -13725,12 +13822,6 @@
         },
         "HN": {
           "link": "https://www.themoviedb.org/movie/969681-spider-man-brand-new-day/watch?locale=HN",
-          "rent": [
-            {
-              "name": "Apple TV Store",
-              "logo": "/qdEGArH3lKfFnAtYXMkSYk5wxuG.png"
-            }
-          ],
           "buy": [
             {
               "name": "Apple TV Store",
@@ -13853,11 +13944,21 @@
             {
               "name": "Rakuten TV",
               "logo": "/872dfVu1biZISJ8rO143CZZutPR.png"
+            },
+            {
+              "name": "Amazon Video",
+              "logo": "/jn6TLbtaTZntTRX9UYucHJvpQx1.png"
             }
           ]
         },
         "IL": {
           "link": "https://www.themoviedb.org/movie/969681-spider-man-brand-new-day/watch?locale=IL",
+          "flatrate": [
+            {
+              "name": "Netflix",
+              "logo": "/rK1KljqmbvO9HQa1PBFLILWah72.png"
+            }
+          ],
           "rent": [
             {
               "name": "Apple TV Store",
@@ -13902,6 +14003,12 @@
         },
         "IS": {
           "link": "https://www.themoviedb.org/movie/969681-spider-man-brand-new-day/watch?locale=IS",
+          "flatrate": [
+            {
+              "name": "Netflix",
+              "logo": "/rK1KljqmbvO9HQa1PBFLILWah72.png"
+            }
+          ],
           "rent": [
             {
               "name": "Viaplay",
@@ -13985,8 +14092,45 @@
             }
           ]
         },
+        "KE": {
+          "link": "https://www.themoviedb.org/movie/969681-spider-man-brand-new-day/watch?locale=KE",
+          "flatrate": [
+            {
+              "name": "Netflix",
+              "logo": "/rK1KljqmbvO9HQa1PBFLILWah72.png"
+            }
+          ]
+        },
+        "KR": {
+          "link": "https://www.themoviedb.org/movie/969681-spider-man-brand-new-day/watch?locale=KR",
+          "flatrate": [
+            {
+              "name": "Netflix",
+              "logo": "/rK1KljqmbvO9HQa1PBFLILWah72.png"
+            },
+            {
+              "name": "Netflix Standard with Ads",
+              "logo": "/eGUwOOIxcazwEBxqJpSN5sWEu6V.png"
+            }
+          ]
+        },
+        "LI": {
+          "link": "https://www.themoviedb.org/movie/969681-spider-man-brand-new-day/watch?locale=LI",
+          "flatrate": [
+            {
+              "name": "Netflix",
+              "logo": "/rK1KljqmbvO9HQa1PBFLILWah72.png"
+            }
+          ]
+        },
         "LT": {
           "link": "https://www.themoviedb.org/movie/969681-spider-man-brand-new-day/watch?locale=LT",
+          "flatrate": [
+            {
+              "name": "Netflix",
+              "logo": "/rK1KljqmbvO9HQa1PBFLILWah72.png"
+            }
+          ],
           "rent": [
             {
               "name": "Apple TV Store",
@@ -14014,6 +14158,12 @@
         },
         "LU": {
           "link": "https://www.themoviedb.org/movie/969681-spider-man-brand-new-day/watch?locale=LU",
+          "flatrate": [
+            {
+              "name": "Netflix",
+              "logo": "/rK1KljqmbvO9HQa1PBFLILWah72.png"
+            }
+          ],
           "rent": [
             {
               "name": "Rakuten TV",
@@ -14060,6 +14210,24 @@
             }
           ]
         },
+        "ML": {
+          "link": "https://www.themoviedb.org/movie/969681-spider-man-brand-new-day/watch?locale=ML",
+          "flatrate": [
+            {
+              "name": "Netflix",
+              "logo": "/rK1KljqmbvO9HQa1PBFLILWah72.png"
+            }
+          ]
+        },
+        "MT": {
+          "link": "https://www.themoviedb.org/movie/969681-spider-man-brand-new-day/watch?locale=MT",
+          "flatrate": [
+            {
+              "name": "Netflix",
+              "logo": "/rK1KljqmbvO9HQa1PBFLILWah72.png"
+            }
+          ]
+        },
         "MU": {
           "link": "https://www.themoviedb.org/movie/969681-spider-man-brand-new-day/watch?locale=MU",
           "flatrate": [
@@ -14083,16 +14251,6 @@
         },
         "MX": {
           "link": "https://www.themoviedb.org/movie/969681-spider-man-brand-new-day/watch?locale=MX",
-          "rent": [
-            {
-              "name": "Apple TV Store",
-              "logo": "/qdEGArH3lKfFnAtYXMkSYk5wxuG.png"
-            },
-            {
-              "name": "Amazon Video",
-              "logo": "/jn6TLbtaTZntTRX9UYucHJvpQx1.png"
-            }
-          ],
           "buy": [
             {
               "name": "Apple TV Store",
@@ -14106,6 +14264,12 @@
         },
         "MY": {
           "link": "https://www.themoviedb.org/movie/969681-spider-man-brand-new-day/watch?locale=MY",
+          "flatrate": [
+            {
+              "name": "Netflix",
+              "logo": "/rK1KljqmbvO9HQa1PBFLILWah72.png"
+            }
+          ],
           "rent": [
             {
               "name": "Apple TV Store",
@@ -14129,6 +14293,12 @@
         },
         "MZ": {
           "link": "https://www.themoviedb.org/movie/969681-spider-man-brand-new-day/watch?locale=MZ",
+          "flatrate": [
+            {
+              "name": "Netflix",
+              "logo": "/rK1KljqmbvO9HQa1PBFLILWah72.png"
+            }
+          ],
           "rent": [
             {
               "name": "Apple TV Store",
@@ -14142,8 +14312,23 @@
             }
           ]
         },
+        "NG": {
+          "link": "https://www.themoviedb.org/movie/969681-spider-man-brand-new-day/watch?locale=NG",
+          "flatrate": [
+            {
+              "name": "Netflix",
+              "logo": "/rK1KljqmbvO9HQa1PBFLILWah72.png"
+            }
+          ]
+        },
         "NL": {
           "link": "https://www.themoviedb.org/movie/969681-spider-man-brand-new-day/watch?locale=NL",
+          "flatrate": [
+            {
+              "name": "Netflix",
+              "logo": "/rK1KljqmbvO9HQa1PBFLILWah72.png"
+            }
+          ],
           "rent": [
             {
               "name": "Pathé Thuis",
@@ -14180,6 +14365,10 @@
               "logo": "/872dfVu1biZISJ8rO143CZZutPR.png"
             },
             {
+              "name": "Amazon Video",
+              "logo": "/jn6TLbtaTZntTRX9UYucHJvpQx1.png"
+            },
+            {
               "name": "meJane",
               "logo": "/sLa7ctMpAoKdxIS72mHl7xuhONL.png"
             }
@@ -14187,6 +14376,12 @@
         },
         "NO": {
           "link": "https://www.themoviedb.org/movie/969681-spider-man-brand-new-day/watch?locale=NO",
+          "flatrate": [
+            {
+              "name": "Netflix",
+              "logo": "/rK1KljqmbvO9HQa1PBFLILWah72.png"
+            }
+          ],
           "rent": [
             {
               "name": "Viaplay",
@@ -14273,16 +14468,6 @@
         },
         "PE": {
           "link": "https://www.themoviedb.org/movie/969681-spider-man-brand-new-day/watch?locale=PE",
-          "rent": [
-            {
-              "name": "Apple TV Store",
-              "logo": "/qdEGArH3lKfFnAtYXMkSYk5wxuG.png"
-            },
-            {
-              "name": "Amazon Video",
-              "logo": "/jn6TLbtaTZntTRX9UYucHJvpQx1.png"
-            }
-          ],
           "buy": [
             {
               "name": "Apple TV Store",
@@ -14320,6 +14505,15 @@
             {
               "name": "Amazon Video",
               "logo": "/jn6TLbtaTZntTRX9UYucHJvpQx1.png"
+            }
+          ]
+        },
+        "PK": {
+          "link": "https://www.themoviedb.org/movie/969681-spider-man-brand-new-day/watch?locale=PK",
+          "flatrate": [
+            {
+              "name": "Netflix",
+              "logo": "/rK1KljqmbvO9HQa1PBFLILWah72.png"
             }
           ]
         },
@@ -14386,6 +14580,12 @@
         },
         "PT": {
           "link": "https://www.themoviedb.org/movie/969681-spider-man-brand-new-day/watch?locale=PT",
+          "flatrate": [
+            {
+              "name": "Netflix",
+              "logo": "/rK1KljqmbvO9HQa1PBFLILWah72.png"
+            }
+          ],
           "rent": [
             {
               "name": "Apple TV Store",
@@ -14408,17 +14608,15 @@
             {
               "name": "Rakuten TV",
               "logo": "/872dfVu1biZISJ8rO143CZZutPR.png"
+            },
+            {
+              "name": "Amazon Video",
+              "logo": "/jn6TLbtaTZntTRX9UYucHJvpQx1.png"
             }
           ]
         },
         "PY": {
           "link": "https://www.themoviedb.org/movie/969681-spider-man-brand-new-day/watch?locale=PY",
-          "rent": [
-            {
-              "name": "Apple TV Store",
-              "logo": "/qdEGArH3lKfFnAtYXMkSYk5wxuG.png"
-            }
-          ],
           "buy": [
             {
               "name": "Apple TV Store",
@@ -14449,8 +14647,23 @@
             }
           ]
         },
+        "SC": {
+          "link": "https://www.themoviedb.org/movie/969681-spider-man-brand-new-day/watch?locale=SC",
+          "flatrate": [
+            {
+              "name": "Netflix",
+              "logo": "/rK1KljqmbvO9HQa1PBFLILWah72.png"
+            }
+          ]
+        },
         "SE": {
           "link": "https://www.themoviedb.org/movie/969681-spider-man-brand-new-day/watch?locale=SE",
+          "flatrate": [
+            {
+              "name": "Netflix",
+              "logo": "/rK1KljqmbvO9HQa1PBFLILWah72.png"
+            }
+          ],
           "rent": [
             {
               "name": "Apple TV Store",
@@ -14555,6 +14768,15 @@
             }
           ]
         },
+        "TD": {
+          "link": "https://www.themoviedb.org/movie/969681-spider-man-brand-new-day/watch?locale=TD",
+          "flatrate": [
+            {
+              "name": "Netflix",
+              "logo": "/rK1KljqmbvO9HQa1PBFLILWah72.png"
+            }
+          ]
+        },
         "TH": {
           "link": "https://www.themoviedb.org/movie/969681-spider-man-brand-new-day/watch?locale=TH",
           "flatrate": [
@@ -14613,8 +14835,23 @@
             }
           ]
         },
+        "TZ": {
+          "link": "https://www.themoviedb.org/movie/969681-spider-man-brand-new-day/watch?locale=TZ",
+          "flatrate": [
+            {
+              "name": "Netflix",
+              "logo": "/rK1KljqmbvO9HQa1PBFLILWah72.png"
+            }
+          ]
+        },
         "UA": {
           "link": "https://www.themoviedb.org/movie/969681-spider-man-brand-new-day/watch?locale=UA",
+          "flatrate": [
+            {
+              "name": "Netflix",
+              "logo": "/rK1KljqmbvO9HQa1PBFLILWah72.png"
+            }
+          ],
           "rent": [
             {
               "name": "Rakuten TV",
@@ -14707,6 +14944,12 @@
         },
         "ZA": {
           "link": "https://www.themoviedb.org/movie/969681-spider-man-brand-new-day/watch?locale=ZA",
+          "flatrate": [
+            {
+              "name": "Netflix",
+              "logo": "/rK1KljqmbvO9HQa1PBFLILWah72.png"
+            }
+          ],
           "rent": [
             {
               "name": "Apple TV Store",
@@ -14717,6 +14960,24 @@
             {
               "name": "Apple TV Store",
               "logo": "/qdEGArH3lKfFnAtYXMkSYk5wxuG.png"
+            }
+          ]
+        },
+        "ZM": {
+          "link": "https://www.themoviedb.org/movie/969681-spider-man-brand-new-day/watch?locale=ZM",
+          "flatrate": [
+            {
+              "name": "Netflix",
+              "logo": "/rK1KljqmbvO9HQa1PBFLILWah72.png"
+            }
+          ]
+        },
+        "ZW": {
+          "link": "https://www.themoviedb.org/movie/969681-spider-man-brand-new-day/watch?locale=ZW",
+          "flatrate": [
+            {
+              "name": "Netflix",
+              "logo": "/rK1KljqmbvO9HQa1PBFLILWah72.png"
             }
           ]
         }
@@ -14732,7 +14993,7 @@
             12,
             878
           ],
-          "vote": 7.944
+          "vote": 7.945
         },
         {
           "tmdb_id": 102382,
@@ -14756,7 +15017,7 @@
             12,
             878
           ],
-          "vote": 6.193
+          "vote": 6.194
         },
         {
           "tmdb_id": 271110,
@@ -14768,7 +15029,7 @@
             28,
             878
           ],
-          "vote": 7.455
+          "vote": 7.456
         },
         {
           "tmdb_id": 298618,
@@ -14780,7 +15041,7 @@
             878,
             12
           ],
-          "vote": 6.59
+          "vote": 6.591
         },
         {
           "tmdb_id": 447365,
@@ -14816,7 +15077,19 @@
             12,
             28
           ],
-          "vote": 7.6
+          "vote": 7.607
+        },
+        {
+          "tmdb_id": 141052,
+          "title": "Justice League",
+          "year": "2017",
+          "poster": "/eifGNCSDuxJeS1loAXil5bIGgvC.jpg",
+          "genre_ids": [
+            28,
+            12,
+            878
+          ],
+          "vote": 6.063
         },
         {
           "tmdb_id": 10138,
@@ -14853,21 +15126,9 @@
             28
           ],
           "vote": 6.531
-        },
-        {
-          "tmdb_id": 453395,
-          "title": "Doctor Strange in the Multiverse of Madness",
-          "year": "2022",
-          "poster": "/ddJcSKbcp4rKZTmuyWaMhuwcfMz.jpg",
-          "genre_ids": [
-            14,
-            28,
-            12
-          ],
-          "vote": 7.214
         }
       ],
-      "updated": "2026-11-27T13:50:12.416Z"
+      "updated": "2026-11-28T12:57:55.304Z"
     },
     {
       "imdb_id": "tt45368240",
@@ -14975,8 +15236,8 @@
       "trailer": "https://www.youtube.com/watch?v=IEx8D1Wb__U",
       "ratings": {
         "tmdb": {
-          "value": 8.563,
-          "votes": 229
+          "value": 8.547,
+          "votes": 256
         },
         "imdb": null,
         "metascore": null,
@@ -15692,16 +15953,6 @@
           "vote": 6.723
         },
         {
-          "tmdb_id": 1214523,
-          "title": "Frida",
-          "year": "2024",
-          "poster": "/qfPjPZF2AqB2XnXPFcHlYtlQRS3.jpg",
-          "genre_ids": [
-            99
-          ],
-          "vote": 6.8
-        },
-        {
           "tmdb_id": 1114590,
           "title": "Anna Nicole Smith: You Don't Know Me",
           "year": "2023",
@@ -15710,6 +15961,16 @@
             99
           ],
           "vote": 6.074
+        },
+        {
+          "tmdb_id": 1214523,
+          "title": "Frida",
+          "year": "2024",
+          "poster": "/qfPjPZF2AqB2XnXPFcHlYtlQRS3.jpg",
+          "genre_ids": [
+            99
+          ],
+          "vote": 6.8
         },
         {
           "tmdb_id": 1461714,
@@ -15752,7 +16013,7 @@
           "vote": 6
         }
       ],
-      "updated": "2026-11-27T13:50:12.731Z"
+      "updated": "2026-11-28T12:57:55.792Z"
     },
     {
       "imdb_id": "tt21357150",
@@ -15796,15 +16057,15 @@
       ],
       "writers": [
         "Stephen McFeely",
-        "Stan Lee",
         "Jack Kirby",
+        "Stan Lee",
         "Michael Waldron"
       ],
       "cast": [
         {
           "name": "Robert Downey Jr.",
           "character": "Victor von Doom  / Doctor Doom",
-          "photo": "/f9toX5MahujsDZTJoKIa5kzdhAE.jpg"
+          "photo": "/5qHNjhtjMD4YWH3UP0rm4tKwxCL.jpg"
         },
         {
           "name": "Chris Evans",
@@ -16284,7 +16545,19 @@
             28,
             878
           ],
-          "vote": 7.455
+          "vote": 7.456
+        },
+        {
+          "tmdb_id": 141052,
+          "title": "Justice League",
+          "year": "2017",
+          "poster": "/eifGNCSDuxJeS1loAXil5bIGgvC.jpg",
+          "genre_ids": [
+            28,
+            12,
+            878
+          ],
+          "vote": 6.063
         },
         {
           "tmdb_id": 299536,
@@ -16308,7 +16581,7 @@
             878,
             28
           ],
-          "vote": 8.247
+          "vote": 8.246
         },
         {
           "tmdb_id": 447365,
@@ -16332,7 +16605,7 @@
             28,
             12
           ],
-          "vote": 5.956
+          "vote": 6
         },
         {
           "tmdb_id": 283995,
@@ -16344,7 +16617,7 @@
             12,
             28
           ],
-          "vote": 7.6
+          "vote": 7.607
         },
         {
           "tmdb_id": 10138,
@@ -16368,7 +16641,7 @@
             28,
             12
           ],
-          "vote": 5.832
+          "vote": 5.831
         },
         {
           "tmdb_id": 640146,
@@ -16380,7 +16653,7 @@
             12,
             878
           ],
-          "vote": 6.192
+          "vote": 6.194
         },
         {
           "tmdb_id": 1155089,
@@ -16405,21 +16678,9 @@
             12
           ],
           "vote": 8.086
-        },
-        {
-          "tmdb_id": 453395,
-          "title": "Doctor Strange in the Multiverse of Madness",
-          "year": "2022",
-          "poster": "/ddJcSKbcp4rKZTmuyWaMhuwcfMz.jpg",
-          "genre_ids": [
-            14,
-            28,
-            12
-          ],
-          "vote": 7.214
         }
       ],
-      "updated": "2026-11-27T13:50:13.053Z"
+      "updated": "2026-11-28T12:57:56.226Z"
     },
     {
       "imdb_id": "tt31378509",
@@ -17110,7 +17371,7 @@
             878,
             12
           ],
-          "vote": 8.1
+          "vote": 8.142
         },
         {
           "tmdb_id": 188927,
@@ -17122,7 +17383,7 @@
             12,
             878
           ],
-          "vote": 6.8
+          "vote": 6.79
         },
         {
           "tmdb_id": 934632,
@@ -17157,7 +17418,7 @@
             878,
             12
           ],
-          "vote": 7.8
+          "vote": 7.786
         },
         {
           "tmdb_id": 181812,
@@ -17169,7 +17430,7 @@
             28,
             878
           ],
-          "vote": 6.234
+          "vote": 6.235
         },
         {
           "tmdb_id": 330459,
@@ -17184,16 +17445,16 @@
           "vote": 7.512
         },
         {
-          "tmdb_id": 80274,
-          "title": "Ender's Game",
-          "year": "2013",
-          "poster": "/pVcRI5YKnkkgaAD876jBeKb189d.jpg",
+          "tmdb_id": 841,
+          "title": "Dune",
+          "year": "1984",
+          "poster": "/4kJmUCE7mkVJjXa7A0g2rY4IGTm.jpg",
           "genre_ids": [
-            878,
             28,
+            878,
             12
           ],
-          "vote": 6.592
+          "vote": 6.197
         },
         {
           "tmdb_id": 339964,
@@ -17217,7 +17478,7 @@
             28,
             12
           ],
-          "vote": 6.202
+          "vote": 6.2
         },
         {
           "tmdb_id": 54138,
@@ -17229,22 +17490,22 @@
             12,
             878
           ],
-          "vote": 7.321
+          "vote": 7.322
         },
         {
-          "tmdb_id": 299687,
-          "title": "The 5th Wave",
+          "tmdb_id": 262504,
+          "title": "Allegiant",
           "year": "2016",
-          "poster": "/4Dd79cz5qxKNoKWg1xsfrpOchEr.jpg",
+          "poster": "/faq9JlF8znUGQ5p3En1W61Fi5p0.jpg",
           "genre_ids": [
-            878,
             12,
+            878,
             28
           ],
-          "vote": 5.9
+          "vote": 6.097
         }
       ],
-      "updated": "2026-11-27T13:50:13.391Z"
+      "updated": "2026-11-28T12:57:56.665Z"
     },
     {
       "imdb_id": "tt16360004",
@@ -17298,8 +17559,8 @@
       ],
       "writers": [
         "Christopher Miller",
-        "Phil Lord",
         "David Callaham",
+        "Phil Lord",
         "Samantha Suyi Lee"
       ],
       "cast": [
@@ -17470,7 +17731,7 @@
             12,
             878
           ],
-          "vote": 8.343
+          "vote": 8.344
         },
         {
           "tmdb_id": 225925,
@@ -17562,7 +17823,7 @@
             14,
             878
           ],
-          "vote": 7.486
+          "vote": 7.5
         },
         {
           "tmdb_id": 76589,
@@ -17575,7 +17836,7 @@
             878,
             14
           ],
-          "vote": 7.409
+          "vote": 7.418
         },
         {
           "tmdb_id": 1155089,
@@ -17600,7 +17861,7 @@
             28,
             80
           ],
-          "vote": 7.318
+          "vote": 7.324
         },
         {
           "tmdb_id": 1506560,
@@ -17616,7 +17877,7 @@
           "vote": 6.632
         }
       ],
-      "updated": "2026-11-27T13:50:13.707Z"
+      "updated": "2026-11-28T12:57:57.100Z"
     },
     {
       "imdb_id": "tt18270542",
@@ -17690,14 +17951,9 @@
           "photo": "/kmPOnRmxUgL0rjIUF98uToQrQKB.jpg"
         },
         {
-          "name": "Matt Berry",
-          "character": "Francis 'Slugsy' Xavier (voice)",
-          "photo": "/1UCAuXgzQfeANlLnZFVSuq0OFhR.jpg"
-        },
-        {
-          "name": "Kathryn Hunter",
-          "character": "Vanzine Kaluta (voice)",
-          "photo": "/ni98cNE8kOAj6kcpEVmIfi8iAsw.jpg"
+          "name": "Bobby Cannavale",
+          "character": "Arnold Dom (voice)",
+          "photo": "/wlp20ggyNI7x0xGUtTjC2Xl2XmD.jpg"
         },
         {
           "name": "Alan Tudyk",
@@ -17705,14 +17961,19 @@
           "photo": "/jUuUbPuMGonFT5E2pcs4alfqaCN.jpg"
         },
         {
-          "name": "Bobby Cannavale",
-          "character": "Arnold Dom (voice)",
-          "photo": "/wlp20ggyNI7x0xGUtTjC2Xl2XmD.jpg"
+          "name": "Matt Berry",
+          "character": "Francis 'Slugsy' Xavier (voice)",
+          "photo": "/1UCAuXgzQfeANlLnZFVSuq0OFhR.jpg"
         },
         {
           "name": "Michelle Rodriguez",
           "character": "Roz Dexler (voice)",
           "photo": "/wVcbrae4eRqGMFZz8Eh52Dl1biP.jpg"
+        },
+        {
+          "name": "Kathryn Hunter",
+          "character": "Vanzine Kaluta (voice)",
+          "photo": "/ni98cNE8kOAj6kcpEVmIfi8iAsw.jpg"
         },
         {
           "name": "Faruq Tauheed",
@@ -18408,19 +18669,6 @@
       "availability": {},
       "recommendations": [
         {
-          "tmdb_id": 142061,
-          "title": "Batman: The Dark Knight Returns, Part 2",
-          "year": "2013",
-          "poster": "/d1TqoVkyL4x0dlu9w3F9Ah4LjNv.jpg",
-          "genre_ids": [
-            878,
-            28,
-            16,
-            9648
-          ],
-          "vote": 7.923
-        },
-        {
           "tmdb_id": 123025,
           "title": "Batman: The Dark Knight Returns, Part 1",
           "year": "2012",
@@ -18431,7 +18679,7 @@
             16,
             9648
           ],
-          "vote": 7.739
+          "vote": 7.744
         },
         {
           "tmdb_id": 75612,
@@ -18458,7 +18706,7 @@
             10751,
             28
           ],
-          "vote": 6.635
+          "vote": 6.636
         },
         {
           "tmdb_id": 158852,
@@ -18471,7 +18719,7 @@
             9648,
             878
           ],
-          "vote": 6.312
+          "vote": 6.3
         },
         {
           "tmdb_id": 354857,
@@ -18497,7 +18745,7 @@
             10751,
             878
           ],
-          "vote": 6.5
+          "vote": 6.513
         },
         {
           "tmdb_id": 1003580,
@@ -18509,7 +18757,7 @@
             878,
             28
           ],
-          "vote": 6.374
+          "vote": 6.377
         },
         {
           "tmdb_id": 16577,
@@ -18522,7 +18770,7 @@
             10751,
             878
           ],
-          "vote": 6.342
+          "vote": 6.341
         },
         {
           "tmdb_id": 618354,
@@ -18560,9 +18808,21 @@
             878
           ],
           "vote": 6.2
+        },
+        {
+          "tmdb_id": 14919,
+          "title": "Batman: Mask of the Phantasm",
+          "year": "1993",
+          "poster": "/hT4ehUteagUrhUOHAtmYiY7mp5l.jpg",
+          "genre_ids": [
+            16,
+            80,
+            9648
+          ],
+          "vote": 7.517
         }
       ],
-      "updated": "2026-11-27T13:50:14.032Z"
+      "updated": "2026-11-28T12:57:57.534Z"
     },
     {
       "imdb_id": "tt16744566",
@@ -18821,7 +19081,7 @@
             35,
             10751
           ],
-          "vote": 7.261
+          "vote": 7.26
         },
         {
           "tmdb_id": 19164,
@@ -18887,7 +19147,7 @@
             35,
             10751
           ],
-          "vote": 6.634
+          "vote": 6.636
         },
         {
           "tmdb_id": 258509,
@@ -18915,20 +19175,21 @@
           "vote": 6.097
         },
         {
-          "tmdb_id": 1010823,
-          "title": "Magnum Opus",
-          "year": "2022",
-          "poster": "/8p8JsKokKbuNCn9yBirAg1oEwGd.jpg",
+          "tmdb_id": 20694,
+          "title": "Rugrats Go Wild",
+          "year": "2003",
+          "poster": "/hpVpXRNY2IsU0xvfXtYOxu0QDwc.jpg",
           "genre_ids": [
-            16,
             10751,
-            878,
-            35
+            35,
+            12,
+            16,
+            14
           ],
-          "vote": 7.216
+          "vote": 6.409
         }
       ],
-      "updated": "2026-11-27T13:50:14.350Z"
+      "updated": "2026-11-28T12:57:57.967Z"
     },
     {
       "imdb_id": "tt31450459",
@@ -19781,6 +20042,17 @@
           "vote": 7.294
         },
         {
+          "tmdb_id": 497828,
+          "title": "Triangle of Sadness",
+          "year": "2022",
+          "poster": "/k9eLozCgCed5FGTSdHu0bBElAV8.jpg",
+          "genre_ids": [
+            35,
+            18
+          ],
+          "vote": 6.997
+        },
+        {
           "tmdb_id": 646376,
           "title": "The Middle Man",
           "year": "2021",
@@ -19790,17 +20062,6 @@
             18
           ],
           "vote": 6.1
-        },
-        {
-          "tmdb_id": 497828,
-          "title": "Triangle of Sadness",
-          "year": "2022",
-          "poster": "/k9eLozCgCed5FGTSdHu0bBElAV8.jpg",
-          "genre_ids": [
-            35,
-            18
-          ],
-          "vote": 6.998
         },
         {
           "tmdb_id": 26639,
@@ -19849,29 +20110,6 @@
           "vote": 6.219
         },
         {
-          "tmdb_id": 231,
-          "title": "Syriana",
-          "year": "2005",
-          "poster": "/mO3hWUTOxmLJxihvDU0YFkb0Mb5.jpg",
-          "genre_ids": [
-            18,
-            53
-          ],
-          "vote": 6.4
-        },
-        {
-          "tmdb_id": 646380,
-          "title": "Don't Look Up",
-          "year": "2021",
-          "poster": "/th4E1yqsE8DGpAseLiUrI60Hf8V.jpg",
-          "genre_ids": [
-            35,
-            878,
-            18
-          ],
-          "vote": 7.049
-        },
-        {
           "tmdb_id": 717693,
           "title": "Playing God",
           "year": "2021",
@@ -19883,6 +20121,29 @@
           "vote": 6
         },
         {
+          "tmdb_id": 646380,
+          "title": "Don't Look Up",
+          "year": "2021",
+          "poster": "/th4E1yqsE8DGpAseLiUrI60Hf8V.jpg",
+          "genre_ids": [
+            35,
+            878,
+            18
+          ],
+          "vote": 7.048
+        },
+        {
+          "tmdb_id": 231,
+          "title": "Syriana",
+          "year": "2005",
+          "poster": "/mO3hWUTOxmLJxihvDU0YFkb0Mb5.jpg",
+          "genre_ids": [
+            18,
+            53
+          ],
+          "vote": 6.429
+        },
+        {
           "tmdb_id": 507244,
           "title": "Afterburn",
           "year": "2025",
@@ -19892,7 +20153,7 @@
             878,
             35
           ],
-          "vote": 6.2
+          "vote": 6.196
         },
         {
           "tmdb_id": 13282,
@@ -19904,10 +20165,10 @@
             878,
             35
           ],
-          "vote": 6.14
+          "vote": 6.148
         }
       ],
-      "updated": "2026-11-27T13:50:14.680Z"
+      "updated": "2026-11-28T12:57:58.403Z"
     },
     {
       "imdb_id": "tt32820897",
@@ -23208,7 +23469,7 @@
             14,
             12
           ],
-          "vote": 7.862
+          "vote": 7.9
         },
         {
           "tmdb_id": 390634,
@@ -23250,6 +23511,19 @@
           "vote": 7.039
         },
         {
+          "tmdb_id": 44179,
+          "title": "Demon City Shinjuku",
+          "year": "1988",
+          "poster": "/9O6Mewk4JmM7pLvsHt9Eyq92fWq.jpg",
+          "genre_ids": [
+            28,
+            14,
+            16,
+            27
+          ],
+          "vote": 6
+        },
+        {
           "tmdb_id": 802401,
           "title": "Demon Slayer: Kimetsu no Yaiba Mt. Natagumo Arc",
           "year": "2021",
@@ -23272,19 +23546,6 @@
             12
           ],
           "vote": 7.695
-        },
-        {
-          "tmdb_id": 44179,
-          "title": "Demon City Shinjuku",
-          "year": "1988",
-          "poster": "/9O6Mewk4JmM7pLvsHt9Eyq92fWq.jpg",
-          "genre_ids": [
-            28,
-            14,
-            16,
-            27
-          ],
-          "vote": 6
         },
         {
           "tmdb_id": 1539104,
@@ -23324,7 +23585,7 @@
           "vote": 7.6
         }
       ],
-      "updated": "2026-11-27T13:50:15.004Z"
+      "updated": "2026-11-28T12:57:58.881Z"
     },
     {
       "imdb_id": "tt34384661",
@@ -23436,8 +23697,8 @@
       "trailer": "https://www.youtube.com/watch?v=Pu0pH5BuCPM",
       "ratings": {
         "tmdb": {
-          "value": 7.64,
-          "votes": 311
+          "value": 7.642,
+          "votes": 317
         },
         "imdb": null,
         "metascore": null,
@@ -24054,7 +24315,7 @@
             27,
             28
           ],
-          "vote": 7.632
+          "vote": 7.6
         },
         {
           "tmdb_id": 3107,
@@ -24066,18 +24327,6 @@
             28
           ],
           "vote": 6.9
-        },
-        {
-          "tmdb_id": 315011,
-          "title": "Shin Godzilla",
-          "year": "2016",
-          "poster": "/jPNShaWZMpVF0iQ7j1dvTuZLD20.jpg",
-          "genre_ids": [
-            28,
-            878,
-            27
-          ],
-          "vote": 7.258
         },
         {
           "tmdb_id": 10643,
@@ -24126,7 +24375,19 @@
             12,
             878
           ],
-          "vote": 7
+          "vote": 7.022
+        },
+        {
+          "tmdb_id": 39464,
+          "title": "Godzilla vs. Hedorah",
+          "year": "1971",
+          "poster": "/sy9k4VKud71zhY4a7kaq9flptw.jpg",
+          "genre_ids": [
+            878,
+            28,
+            27
+          ],
+          "vote": 6.8
         },
         {
           "tmdb_id": 340382,
@@ -24138,7 +24399,7 @@
             878,
             28
           ],
-          "vote": 6.347
+          "vote": 6.355
         },
         {
           "tmdb_id": 60159,
@@ -24175,22 +24436,21 @@
             14,
             878
           ],
-          "vote": 6.107
+          "vote": 6.106
         },
         {
-          "tmdb_id": 3160,
-          "title": "Frankenstein Conquers the World",
-          "year": "1965",
-          "poster": "/wXzG32nsY6i8mMslXGrsHMOZla9.jpg",
+          "tmdb_id": 19742,
+          "title": "Rodan",
+          "year": "1956",
+          "poster": "/mSrpaNrAIH2u0tiYvjca8yakj28.jpg",
           "genre_ids": [
             27,
-            878,
-            28
+            878
           ],
-          "vote": 6.7
+          "vote": 6.5
         }
       ],
-      "updated": "2026-11-27T13:50:15.325Z"
+      "updated": "2026-11-28T12:57:59.364Z"
     },
     {
       "imdb_id": "tt35538033",
@@ -24307,7 +24567,7 @@
       "ratings": {
         "tmdb": {
           "value": 7.523,
-          "votes": 2591
+          "votes": 2617
         },
         "imdb": null,
         "metascore": null,
@@ -26697,19 +26957,7 @@
             878,
             53
           ],
-          "vote": 6.365
-        },
-        {
-          "tmdb_id": 399894,
-          "title": "Daylight's End",
-          "year": "2016",
-          "poster": "/nHVRzCZe3uHyh3DXhhMT9VcNyoX.jpg",
-          "genre_ids": [
-            28,
-            27,
-            878
-          ],
-          "vote": 5.87
+          "vote": 6.363
         },
         {
           "tmdb_id": 1562,
@@ -26722,9 +26970,21 @@
             878
           ],
           "vote": 6.59
+        },
+        {
+          "tmdb_id": 399894,
+          "title": "Daylight's End",
+          "year": "2016",
+          "poster": "/nHVRzCZe3uHyh3DXhhMT9VcNyoX.jpg",
+          "genre_ids": [
+            28,
+            27,
+            878
+          ],
+          "vote": 5.87
         }
       ],
-      "updated": "2026-11-27T13:50:15.654Z"
+      "updated": "2026-11-28T12:57:59.802Z"
     },
     {
       "imdb_id": "tt34890576",
@@ -26840,8 +27100,8 @@
       "trailer": "https://www.youtube.com/watch?v=f7jlCqdtwdM",
       "ratings": {
         "tmdb": {
-          "value": 7.408,
-          "votes": 477
+          "value": 7.41,
+          "votes": 480
         },
         "imdb": null,
         "metascore": null,
@@ -27677,7 +27937,7 @@
             878,
             53
           ],
-          "vote": 5.994
+          "vote": 5.993
         },
         {
           "tmdb_id": 338676,
@@ -27689,7 +27949,7 @@
             878,
             53
           ],
-          "vote": 6.365
+          "vote": 6.363
         },
         {
           "tmdb_id": 9426,
@@ -27701,6 +27961,18 @@
             878
           ],
           "vote": 7.451
+        },
+        {
+          "tmdb_id": 614205,
+          "title": "Dark Light",
+          "year": "2019",
+          "poster": "/quplqArDwiRV9sn3kl8gH8u29nA.jpg",
+          "genre_ids": [
+            27,
+            878,
+            53
+          ],
+          "vote": 6.212
         },
         {
           "tmdb_id": 13059,
@@ -27727,40 +27999,6 @@
           "vote": 5.8
         },
         {
-          "tmdb_id": 614205,
-          "title": "Dark Light",
-          "year": "2019",
-          "poster": "/quplqArDwiRV9sn3kl8gH8u29nA.jpg",
-          "genre_ids": [
-            27,
-            878,
-            53
-          ],
-          "vote": 6.212
-        },
-        {
-          "tmdb_id": 812320,
-          "title": "Slapface",
-          "year": "2022",
-          "poster": "/xFR5TrTfhjaKN2z17rP09hoQXXs.jpg",
-          "genre_ids": [
-            27,
-            53
-          ],
-          "vote": 5.9
-        },
-        {
-          "tmdb_id": 3145,
-          "title": "The Horror of Frankenstein",
-          "year": "1970",
-          "poster": "/8lFv0ABZqINbHijXjCc41AmrRlm.jpg",
-          "genre_ids": [
-            27,
-            878
-          ],
-          "vote": 5.846
-        },
-        {
           "tmdb_id": 12476,
           "title": "The Hidden",
           "year": "1987",
@@ -27785,6 +28023,17 @@
           "vote": 6.874
         },
         {
+          "tmdb_id": 812320,
+          "title": "Slapface",
+          "year": "2022",
+          "poster": "/xFR5TrTfhjaKN2z17rP09hoQXXs.jpg",
+          "genre_ids": [
+            27,
+            53
+          ],
+          "vote": 5.9
+        },
+        {
           "tmdb_id": 30694,
           "title": "The Resurrected",
           "year": "1991",
@@ -27795,9 +28044,20 @@
             878
           ],
           "vote": 6.2
+        },
+        {
+          "tmdb_id": 48660,
+          "title": "The Kindred",
+          "year": "1987",
+          "poster": "/bDMUr5IQWAwUpFZFFxltLuAIb7N.jpg",
+          "genre_ids": [
+            27,
+            878
+          ],
+          "vote": 5.965
         }
       ],
-      "updated": "2026-11-27T13:50:15.974Z"
+      "updated": "2026-11-28T12:58:00.247Z"
     },
     {
       "imdb_id": "tt32558705",
@@ -27854,9 +28114,9 @@
           "photo": "/9im3Kn4J41tK2j90E3YhKbjd8qg.jpg"
         },
         {
-          "name": "Mckenna Grace",
-          "character": "Maysilee / Merrilee Donner",
-          "photo": "/sK0CVa56IIpFhCDrcXSTqPWxNbx.jpg"
+          "name": "Ralph Fiennes",
+          "character": "President Snow",
+          "photo": "/tJr9GcmGNHhLVVEH3i7QYbj6hBi.jpg"
         },
         {
           "name": "Jesse Plemons",
@@ -27864,14 +28124,14 @@
           "photo": "/v6WBJbm02mfzLhs8zeUzFRDtoly.jpg"
         },
         {
-          "name": "Ralph Fiennes",
-          "character": "President Snow",
-          "photo": "/tJr9GcmGNHhLVVEH3i7QYbj6hBi.jpg"
-        },
-        {
           "name": "Glenn Close",
           "character": "Drusilla Sickle",
           "photo": "/4VHZ1GfLwN7MUgApy0LCBzdDF9L.jpg"
+        },
+        {
+          "name": "Mckenna Grace",
+          "character": "Maysilee Donner / Merrilee Donner",
+          "photo": "/sK0CVa56IIpFhCDrcXSTqPWxNbx.jpg"
         },
         {
           "name": "Whitney Peak",
@@ -27890,13 +28150,13 @@
         },
         {
           "name": "Woody Harrelson",
-          "character": "Haymitch Abernathy",
+          "character": "Older Haymitch Abernathy",
           "photo": "/igxYDQBbTEdAqaJxaW6ffqswmUU.jpg"
         },
         {
-          "name": "Elizabeth Banks",
-          "character": "Effie Abernathy",
-          "photo": "/hQ7IwCQjlpsBPSpnnjjhH3rjwSJ.jpg"
+          "name": "Kelvin Harrison Jr.",
+          "character": "Beetee",
+          "photo": "/eZzlQfYpvDc649h17tXpKKQusnt.jpg"
         }
       ],
       "countries": [
@@ -27909,8 +28169,8 @@
       "trailer": "https://www.youtube.com/watch?v=Dr060OLTodE",
       "ratings": {
         "tmdb": {
-          "value": 7.8,
-          "votes": 381
+          "value": 7.731,
+          "votes": 404
         },
         "imdb": null,
         "metascore": null,
@@ -28462,7 +28722,7 @@
             28,
             12
           ],
-          "vote": 6.949
+          "vote": 6.945
         },
         {
           "tmdb_id": 428078,
@@ -28485,7 +28745,7 @@
             878,
             28
           ],
-          "vote": 6.1
+          "vote": 6.097
         },
         {
           "tmdb_id": 336843,
@@ -28510,7 +28770,7 @@
             12,
             878
           ],
-          "vote": 6.296
+          "vote": 6.294
         },
         {
           "tmdb_id": 487186,
@@ -28534,7 +28794,19 @@
             28,
             12
           ],
-          "vote": 5.832
+          "vote": 5.831
+        },
+        {
+          "tmdb_id": 141052,
+          "title": "Justice League",
+          "year": "2017",
+          "poster": "/eifGNCSDuxJeS1loAXil5bIGgvC.jpg",
+          "genre_ids": [
+            28,
+            12,
+            878
+          ],
+          "vote": 6.063
         },
         {
           "tmdb_id": 181812,
@@ -28546,22 +28818,10 @@
             28,
             878
           ],
-          "vote": 6.234
-        },
-        {
-          "tmdb_id": 91314,
-          "title": "Transformers: Age of Extinction",
-          "year": "2014",
-          "poster": "/jyzrfx2WaeY60kYZpPYepSjGz4S.jpg",
-          "genre_ids": [
-            878,
-            28,
-            12
-          ],
-          "vote": 5.975
+          "vote": 6.235
         }
       ],
-      "updated": "2026-11-27T13:50:16.322Z"
+      "updated": "2026-11-28T12:58:00.831Z"
     }
   ]
 }

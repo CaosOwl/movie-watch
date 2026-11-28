@@ -1,6 +1,13 @@
 {
   "alerts": [
     {
+      "kind": "netflix",
+      "text": "🔴 On Netflix! \"Spider-Man: Brand New Day\" new in CH: Netflix (stream)",
+      "link": "https://www.themoviedb.org/movie/969681-spider-man-brand-new-day/watch?locale=CH",
+      "imdb_id": "tt22084616",
+      "date": "2026-11-28T12:57:55.304Z"
+    },
+    {
       "kind": "home",
       "text": "🇨🇭 \"Resident Evil\" new in CH: blue TV (rent), Amazon Video (rent), blue TV (buy), Apple TV Store (buy), Rakuten TV (buy), Amazon Video (buy)",
       "link": "https://www.themoviedb.org/movie/1423191-resident-evil/watch?locale=CH",

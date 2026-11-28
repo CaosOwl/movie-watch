@@ -1,6 +1,6 @@
 {
   "home_country": "CH",
-  "generated": "2026-11-27T13:50:28.303Z",
+  "generated": "2026-11-28T12:58:16.704Z",
   "movies": [
     {
       "tmdb_id": 1523140,
@@ -9,7 +9,7 @@
       "original_title": "Man of Tomorrow",
       "tagline": "",
       "overview": "Superman and Lex Luthor find themselves forced to work together—to a certain degree—against a much, much bigger threat when Brainiac sets his sights on Earth.",
-      "poster": "/4YdKfBsvEpRSq3BxAJL46xlAVZe.jpg",
+      "poster": "/ddGvmGaA2HSIEL9uqVCKcTMBQBE.jpg",
       "backdrop": "/lX2TpAZxdIus6cnMCDBOrs96NBY.jpg",
       "runtime": null,
       "genres": [
@@ -106,8 +106,8 @@
         "Conrad Vernon"
       ],
       "writers": [
-        "Michael McCullers",
         "William Steig",
+        "Michael McCullers",
         "Chris Meledandri"
       ],
       "cast": [
@@ -743,9 +743,9 @@
         "Josh Greenbaum"
       ],
       "writers": [
-        "Benji Samit",
+        "Dan Hernandez",
         "Josh Gad",
-        "Dan Hernandez"
+        "Benji Samit"
       ],
       "cast": [
         {
@@ -933,7 +933,7 @@
         },
         {
           "name": "James Austin Johnson",
-          "character": "Fuzzy / Leonard / Mighty Eagle (voice)",
+          "character": "Fuzzy (voice)",
           "photo": "/g9y0aABiKtB1FOIKmklDlgRpDof.jpg"
         }
       ],
@@ -1111,7 +1111,7 @@
       "tagline": "A universe begins.",
       "overview": "Two children discover a wood full of pools leading to other worlds. One takes them to a dead city beneath a dying sun, where they wake a queen who exterminated its population and accidentally bring her back to London.",
       "poster": "/yrqR0qquy4JOfqZCsFJV7vJoOSh.jpg",
-      "backdrop": "/ioGlZohe3jmaH2TSmSWJVRjHoMT.jpg",
+      "backdrop": "/gQvnOr5S9isMrrV97RtxXZlresC.jpg",
       "runtime": null,
       "genres": [
         "Fantasy",
@@ -1182,93 +1182,6 @@
       "reasons": [
         "You like Adventure & Fantasy",
         "Starring Carey Mulligan (Wildwood)",
-        "Themes: based on novel or book"
-      ]
-    },
-    {
-      "tmdb_id": 656618,
-      "imdb_id": "tt1458167",
-      "title": "High in the Clouds",
-      "original_title": "High in the Clouds",
-      "tagline": "Listen to the voice within you!",
-      "overview": "After he accidentally sparked a revolution against Gretsch, the bossy diva-owl who has banned all music from his town, a teenage squirrel named Wirral embarks on an extraordinary journey to set music free.",
-      "poster": "/4ciGq6LMflg2AkmUxx5XAMmg8FN.jpg",
-      "backdrop": "/gWV0gdBuEqXTjCamMQ9b48TqY7f.jpg",
-      "runtime": 90,
-      "genres": [
-        "Adventure",
-        "Animation",
-        "Comedy",
-        "Family",
-        "Music"
-      ],
-      "category": "animation",
-      "directors": [
-        "Toby Genkel"
-      ],
-      "writers": [
-        "Philip Ardagh",
-        "Geoff Dunbar",
-        "Paul McCartney"
-      ],
-      "cast": [
-        {
-          "name": "Himesh Patel",
-          "character": "Wirral (voice)",
-          "photo": "/icqsXLmU0FxBGTv63kkA0GcrecO.jpg"
-        },
-        {
-          "name": "Céline Dion",
-          "character": "Sugartail (voice)",
-          "photo": "/eR4PVLOJiRtP40uhJefNkdwAtPo.jpg"
-        },
-        {
-          "name": "Hannah Waddingham",
-          "character": "Gretsch (voice)",
-          "photo": "/eHAICyhvjiRZCgzKyJCk9hWnnjr.jpg"
-        },
-        {
-          "name": "Paul McCartney",
-          "character": "McKenzie (voice)",
-          "photo": "/sCPsv9ueP5UR6BkMSmRDlwbra6S.jpg"
-        },
-        {
-          "name": "Idris Elba",
-          "character": "Barrel (voice)",
-          "photo": "/be1bVF7qGX91a6c5WeRPs5pKXln.jpg"
-        },
-        {
-          "name": "Lionel Richie",
-          "character": "Gladstone (voice)",
-          "photo": "/fths3YsxhPuPw6NCKOdUjqKCtZa.jpg"
-        },
-        {
-          "name": "Ringo Starr",
-          "character": "Roy (voice)",
-          "photo": "/7fSrrdl90BYdR3dtOnNkosOw0kw.jpg"
-        },
-        {
-          "name": "Jimmy Fallon",
-          "character": "Froggo (voice)",
-          "photo": "/h9kYouEP6VrM8GkS2jl7jMDKbwu.jpg"
-        }
-      ],
-      "countries": [
-        "US",
-        "FR",
-        "GB",
-        "IN"
-      ],
-      "release": {
-        "date": "2027-08-19",
-        "type": "Release",
-        "where": "World"
-      },
-      "trailer": null,
-      "match": 41,
-      "reasons": [
-        "You like Adventure & Animation",
-        "Starring Idris Elba (Sonic the Hedgehog 4)",
         "Themes: based on novel or book"
       ]
     },
@@ -1702,7 +1615,7 @@
         {
           "name": "Emily Blunt",
           "character": "Evelyn Abbott",
-          "photo": "/5nCSG5TL1bP1geD8aaBfaLnLLCD.jpg"
+          "photo": "/mjvs6fx2v9237HCLYZbgh3QQASb.jpg"
         },
         {
           "name": "Cillian Murphy",
@@ -1786,7 +1699,7 @@
         {
           "name": "Yura Borisov",
           "character": "Ilya Sutskever",
-          "photo": "/glnTf0SIvVPnpy9COP0AZexX9UN.jpg"
+          "photo": "/zLcD2UmXJG6m3qOQhNZs13SQRIp.jpg"
         },
         {
           "name": "Jason Schwartzman",
@@ -2167,8 +2080,8 @@
       ],
       "category": "general",
       "directors": [
-        "Eleanor Wilson",
-        "Alex Huston Fischer"
+        "Alex Huston Fischer",
+        "Eleanor Wilson"
       ],
       "writers": [
         "Ursula Wills-Jones",
@@ -2470,86 +2383,6 @@
       ]
     },
     {
-      "tmdb_id": 1540936,
-      "imdb_id": "tt38120758",
-      "title": "Anything but Ghosts",
-      "original_title": "Anything but Ghosts",
-      "tagline": "",
-      "overview": "When a group of fame-seeking wannabe \"ghosthunters\" find themselves in over their heads, things spiral wildly and terrifyingly out of control.",
-      "poster": "/xOIlWYYR3lOJWuMTjAU5U1MDlpS.jpg",
-      "backdrop": "/6fgiG1e8zu7FHG7Wckp8I8syDtC.jpg",
-      "runtime": null,
-      "genres": [
-        "Horror",
-        "Comedy"
-      ],
-      "category": "horror",
-      "directors": [
-        "Curry Barker"
-      ],
-      "writers": [
-        "Curry Barker",
-        "Cooper Tomlinson"
-      ],
-      "cast": [
-        {
-          "name": "Curry Barker",
-          "character": "Mouse",
-          "photo": "/A16CxGKlkQYryoxGpxzKj4Wxk83.jpg"
-        },
-        {
-          "name": "Cooper Tomlinson",
-          "character": "Eddy",
-          "photo": "/vBMQbYT1DyWPCUp11dIiqZR9zhd.jpg"
-        },
-        {
-          "name": "Aaron Paul",
-          "character": "",
-          "photo": "/8Ac9uuoYwZoYVAIJfRLzzLsGGJn.jpg"
-        },
-        {
-          "name": "Bryce Dallas Howard",
-          "character": "",
-          "photo": "/6yhDkPXythZavS6Wk57XQ2sg5AW.jpg"
-        },
-        {
-          "name": "Violet McGraw",
-          "character": "",
-          "photo": "/dvErrHU0FVNP5GFkxJxZbNayC1x.jpg"
-        },
-        {
-          "name": "Matthew Lillard",
-          "character": "",
-          "photo": "/mIEKAfe0iC41RDXibbTy48LtNOi.jpg"
-        },
-        {
-          "name": "Chris Reinacher",
-          "character": "",
-          "photo": "/u0Rr9rEI8thUp9GE5OYZH7toagf.jpg"
-        },
-        {
-          "name": "Matty Finochio",
-          "character": "Scoot",
-          "photo": "/7I2iawz7YHZDbH15V4Om0Tdep9c.jpg"
-        }
-      ],
-      "countries": [
-        "US",
-        "AE"
-      ],
-      "release": {
-        "date": "2027-05-05",
-        "type": "Release",
-        "where": "World"
-      },
-      "trailer": null,
-      "match": 30,
-      "reasons": [
-        "You like Horror & Comedy",
-        "Themes: supernatural, demon, paranormal investigation"
-      ]
-    },
-    {
       "tmdb_id": 1497464,
       "imdb_id": "tt26443610",
       "title": "Gatto",
@@ -2682,12 +2515,12 @@
         {
           "name": "Ellis Myers",
           "character": "Fregley (voice)",
-          "photo": "/fseflxji3kPsXHzNMpe8591hotS.jpg"
+          "photo": "/liubq9DuqPy3bUKGSTbjtMKLizR.jpg"
         },
         {
           "name": "Gracen Newton",
           "character": "Manny (voice)",
-          "photo": "/yyMBocOeMuHujjVnYcAPaNBkgMx.jpg"
+          "photo": "/3eF4M0mIlPfgGwJSnEzkSobovpO.jpg"
         },
         {
           "name": "Fred Armisen",
@@ -2718,7 +2551,7 @@
       "original_title": "The Beekeeper 2",
       "tagline": "He's been busy.",
       "overview": "Pulled back into the fight when the Beekeeper organization goes rogue and sets its sights on controlling the government, Clay must take on the very group that made him.",
-      "poster": "/8abow3kX8t5TPythvnL3L5FVxNK.jpg",
+      "poster": "/kY4QnQsyjAKltT18raxf5YOGsH0.jpg",
       "backdrop": "/tKTCTuG63KFQD82M5fvQbfO4fra.jpg",
       "runtime": null,
       "genres": [
@@ -3035,6 +2868,85 @@
       ]
     },
     {
+      "tmdb_id": 1588626,
+      "imdb_id": "tt34691287",
+      "title": "In a Holidaze",
+      "original_title": "In a Holidaze",
+      "tagline": "",
+      "overview": "After making a romantic mistake of epic proportions, an aimless twentysomething finds herself trapped in a holiday time-loop, forced to relive the same Christmas at her family’s cabin until she discovers what truly makes her happy.",
+      "poster": "/7B4pJ0sZNJgIdFn4q5SiRnOIflZ.jpg",
+      "backdrop": "/1fUaEYlsk9ep0ukHrDpiRLePfip.jpg",
+      "runtime": 107,
+      "genres": [
+        "Science Fiction",
+        "Romance",
+        "Comedy"
+      ],
+      "category": "general",
+      "directors": [
+        "Tiffany Paulsen"
+      ],
+      "writers": [
+        "Tiffany Paulsen",
+        "Christina Lauren"
+      ],
+      "cast": [
+        {
+          "name": "Maddie Ziegler",
+          "character": "",
+          "photo": "/uYMtRyQS78el5XRLLnGBfMhVhif.jpg"
+        },
+        {
+          "name": "Rob Lowe",
+          "character": "",
+          "photo": "/uY0u865QqHqT0YBtwdBXFfVI6Hr.jpg"
+        },
+        {
+          "name": "Graham Phillips",
+          "character": "",
+          "photo": "/tDQQamh95HT4XcYJXyHzvT7QFE7.jpg"
+        },
+        {
+          "name": "Elias Kacavas",
+          "character": "",
+          "photo": "/4KzuVpFgp1MOzRBdOAfyIYS4blE.jpg"
+        },
+        {
+          "name": "Patton Oswalt",
+          "character": "",
+          "photo": "/ljQvjbPmcIAl205Lb2Mu4CW8WO7.jpg"
+        },
+        {
+          "name": "Jackie Sandler",
+          "character": "",
+          "photo": "/7oLSJ2Ewlzg75m9dm2N9GqDQXvk.jpg"
+        },
+        {
+          "name": "Gil Bellows",
+          "character": "",
+          "photo": "/eCOIv2nSGnWTHdn88NoMyNOKWyR.jpg"
+        },
+        {
+          "name": "Andrea Anders",
+          "character": "",
+          "photo": "/qFIuWcEunEnFsS82wkEP2aVrj9B.jpg"
+        }
+      ],
+      "countries": [
+        "US"
+      ],
+      "release": {
+        "date": "2026-12-02",
+        "type": "Release",
+        "where": "World"
+      },
+      "trailer": "https://www.youtube.com/watch?v=5f1H5Rk9l4o",
+      "match": 24,
+      "reasons": [
+        "You like Science Fiction & Comedy"
+      ]
+    },
+    {
       "tmdb_id": 1145110,
       "imdb_id": "tt28228084",
       "title": "King",
@@ -3079,11 +2991,6 @@
           "photo": "/cALtfAvfUtS0Luf8MZaSiLfFRwd.jpg"
         },
         {
-          "name": "Anil Kapoor",
-          "character": "",
-          "photo": "/dwvnpiwg9m2zj0VHzlgzEotFl0G.jpg"
-        },
-        {
           "name": "Jackie Shroff",
           "character": "",
           "photo": "/sVqe6VioM37LQwgQLd8wnC5vapK.jpg"
@@ -3097,6 +3004,11 @@
           "name": "Jaideep Ahlawat",
           "character": "",
           "photo": "/uILn4y8EWbMdeu71laMsh8zHY0M.jpg"
+        },
+        {
+          "name": "Anil Kapoor",
+          "character": "",
+          "photo": "/dwvnpiwg9m2zj0VHzlgzEotFl0G.jpg"
         }
       ],
       "countries": [
@@ -3189,6 +3101,85 @@
       "reasons": [
         "You like Horror & Drama",
         "Themes: independent film, fantasy"
+      ]
+    },
+    {
+      "tmdb_id": 1266643,
+      "imdb_id": "tt18795088",
+      "title": "Day Drinker",
+      "original_title": "Day Drinker",
+      "tagline": "Step into the dark.",
+      "overview": "A private-yacht bartender encounters a mysterious, onboard guest. They soon find themselves entangled with a criminal figure and connected in ways no one saw coming.",
+      "poster": "/5n1ObdUbJH8Irlm48IpPmt1tdVb.jpg",
+      "backdrop": "/o57I2Z3OSYDGElMmyAxR3dH75eE.jpg",
+      "runtime": null,
+      "genres": [
+        "Action",
+        "Thriller"
+      ],
+      "category": "general",
+      "directors": [
+        "Marc Webb"
+      ],
+      "writers": [
+        "Zach Dean"
+      ],
+      "cast": [
+        {
+          "name": "Johnny Depp",
+          "character": "Mr. Kelly",
+          "photo": "/k2xt6EUxQDwYRKIyI4IBdZxfs8n.jpg"
+        },
+        {
+          "name": "Penélope Cruz",
+          "character": "Cara Lazaro",
+          "photo": "/n5SFgmvJSENQt8poE4qYacUnKOi.jpg"
+        },
+        {
+          "name": "Madelyn Cline",
+          "character": "",
+          "photo": "/6bFItWARGJFRrkhBaZtvLJf6VRQ.jpg"
+        },
+        {
+          "name": "Manu Ríos",
+          "character": "",
+          "photo": "/jl8Ezri774ZtvJmtoi4dLrgInpQ.jpg"
+        },
+        {
+          "name": "Arón Piper",
+          "character": "",
+          "photo": "/v4zaydubluolMYxKlzyQBfXCoP5.jpg"
+        },
+        {
+          "name": "Juan Diego Botto",
+          "character": "",
+          "photo": "/6iu1uNMl511ZmEn0y828ZeLiuox.jpg"
+        },
+        {
+          "name": "Anika Boyle",
+          "character": "",
+          "photo": "/cLHIxxGKWSTjOQB4CTjgnXMp0da.jpg"
+        },
+        {
+          "name": "Jean-Marc Barr",
+          "character": "Father Lyon",
+          "photo": "/65aLM2ZvBjJu2JWGSrTGHqXyc8w.jpg"
+        }
+      ],
+      "countries": [
+        "US",
+        "ES",
+        "GB"
+      ],
+      "release": {
+        "date": "2027-03-25",
+        "type": "Release",
+        "where": "World"
+      },
+      "trailer": null,
+      "match": 22,
+      "reasons": [
+        "You like Action & Thriller"
       ]
     }
   ]
